@@ -65,7 +65,7 @@ Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to ana
 ---
 
 ### 🍪 Cookie Profitability Review – Dreamy Bites  
-**Tool:** Excel + PDF analysis  
+**Tool:** Power BI  
 Analyzed updated cookie pricing and cost structure from business memo.  
 - Evaluated gross margins across 6 cookie types  
 - Created pricing model with profitability flags  
@@ -77,9 +77,10 @@ Analyzed updated cookie pricing and cost structure from business memo.
 
 ### 👥 Customer Segmentation & Revenue Trends  
 **Tool:** Power BI  
-Segmented customers by gender, age, and buyer type using `Customers Details.csv`  
-- Compared average revenue per segment  
-- Highlighted buyer type impact on profitability  
+- Tracked overall sales metrics with month over month comparisons.
+- Highlighted the top performing and underperforming drugs and customers based on dynamic measures.
+- Provided insights into customer demographics, revenue distribution by buyer type, and purchasing behavior Additionally,
+- Included geographical sales insights, highlighting key revenue sources
 📸 ![Screenshot 2025-05-25 161501](https://github.com/user-attachments/assets/717b0e09-960d-4049-b292-62204937c7f4)
 📸 ![Screenshot 2025-05-25 161537](https://github.com/user-attachments/assets/e8d2e5b2-f3db-4a7b-805a-257c411384f8)
 
@@ -161,8 +162,6 @@ Built a clean dashboard to help HR teams track and reduce turnover.
 📸 ![Screenshot 2025-05-06 175143](https://github.com/user-attachments/assets/5c1ea3dd-70a0-4841-ad14-38521337247a)
 
 ---
-
-## 🆕 Additional Dashboards
 
 ### 📊 10Alytics Sales Performance Dashboard  
 **Tool:** Excel  
