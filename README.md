@@ -54,7 +54,7 @@ Analyzed fuel usage, downtime, and maintenance costs across multiple vehicles.
 
 ---
 
-### 🏪 Retail Chain Revenue Insights  
+### 🏪 Retail Chain Revenue Insights  (10Alytics)
 **Tool:** Power BI  
 Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to analyze sales and profit.  
 - Ranked stores by performance  
@@ -64,7 +64,7 @@ Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to ana
 
 ---
 
-### 🍪 Cookie Profitability Review – Dreamy Bites  
+### 🍪 Cookie Profitability Review – Dreamy Bites  (10Alytics)
 **Tool:** Power BI  
 Analyzed updated cookie pricing and cost structure from business memo.  
 - Evaluated gross margins across 6 cookie types  
@@ -75,7 +75,7 @@ Analyzed updated cookie pricing and cost structure from business memo.
 
 ---
 
-### 👥 Customer Segmentation & Revenue Trends  
+### 👥 Customer Segmentation & Revenue Trends  (10Alytics)
 **Tool:** Power BI  
 - Tracked overall sales metrics with month over month comparisons.
 - Highlighted the top performing and underperforming drugs and customers based on dynamic measures.
@@ -87,7 +87,7 @@ Analyzed updated cookie pricing and cost structure from business memo.
 
 ---
 
-### 📉Deskify Office Supplies Report  
+### 📉Deskify Office Supplies Report  (10Alytics)
 **Tool:** Power BI  
 To build a data model and also build an interactive dashboard that will enable faster, data-driven decisions.  
 - Data: `DeskifyData.xlsx`  
@@ -99,7 +99,7 @@ To build a data model and also build an interactive dashboard that will enable f
 
 ---
 
-### 🏥 Riverside General Hospital Analysis  
+### 🏥 Riverside General Hospital Analysis  (10Alytics)
 **Tool:** Draw.io 
 They had its data as a flat file therefore struggled with Scalability and Integration.  
 - Designed a data model that organized their data for streamlined analysis.
@@ -109,7 +109,7 @@ They had its data as a flat file therefore struggled with Scalability and Integr
 
 ---
 
-### 🧵 Aurora Threads – Fashion Retail Analytics  
+### 🧵 Aurora Threads – Fashion Retail Analytics  (10Alytics)
 **Tool:** Power BI  
 Built an end-to-end sales and profit dashboard for a fashion retailer.  
 - Compared performance across multiple customer segments  
@@ -119,7 +119,7 @@ Built an end-to-end sales and profit dashboard for a fashion retailer.
 
 ---
 
-### ☕ Café Harmony Capstone Project  
+### ☕ Café Harmony Capstone Project  (10Alytics)
 **Tool:** Excel  
 Used simulated sales and operational data to generate business recommendations.  
 - Visualized order trends by day and product type  
@@ -130,7 +130,7 @@ Used simulated sales and operational data to generate business recommendations.
 
 ---
 
-### 🌍 Life Expectancy at Birth – Public Health Insight  
+### 🌍 Life Expectancy at Birth – Public Health Insight  (DiveAfrica)
 **Tool:** Power BI  
 Explored trends in life expectancy using WHO-sourced data.  
 - Compared life expectancy by region and income group  
@@ -140,7 +140,7 @@ Explored trends in life expectancy using WHO-sourced data.
 
 ---
 
-### 🧠 Mental Health Dataset Analysis  
+### 🧠 Mental Health Dataset Analysis  (10Alytics)
 **Tool:** Power BI  
 Analyzed suicide rates across gender, country, and year using WHO-sourced data.  
 - Identified age groups with higher risk trends  
@@ -150,7 +150,7 @@ Analyzed suicide rates across gender, country, and year using WHO-sourced data.
 --- 
 
 
-### 👩‍💼 HR Attrition – Employee Retention Dashboard  
+### 👩‍💼 HR Attrition – Employee Retention Dashboard  (DiveAfrica)
 **Tool:** Power BI  
 Built a clean dashboard to help HR teams track and reduce turnover.  
 - Pinpointed age groups and departments with highest attrition  
@@ -163,7 +163,7 @@ Built a clean dashboard to help HR teams track and reduce turnover.
 
 ---
 
-### 📊 10Alytics Sales Performance Dashboard  
+### 📊 Sales Performance Dashboard  (10Alytics)
 **Tool:** Excel  
 Analyzed over 34,000 transactions to visualize profit trends, product category performance, and customer insights.  
 - 📈 Monthly profit trends (2015–2016)  
@@ -175,7 +175,7 @@ Analyzed over 34,000 transactions to visualize profit trends, product category p
 
 ---
 
-### 📈 Sales & Profitability Dashboard  
+### 📈 Sales & Profitability Dashboard  (10Alytics)
 **Tool:** Excel  
 Tracked profitability by product category, seller, state, and month.  
 - 💰 Total Sales: $981K | Profit: $448K  
@@ -187,7 +187,7 @@ Tracked profitability by product category, seller, state, and month.
 
 ---
 
-### 🎰 Betting Insights Dashboard  
+### 🎰 Betting Insights Dashboard  (10Alytics)
 **Tool:** Excel  
 Visualized customer behavior, bank usage, and transaction trends in January.  
 - 💵 Total Deposit: ₦13.87M | Transactions: 229  
@@ -199,7 +199,7 @@ Visualized customer behavior, bank usage, and transaction trends in January.
 
 ---
 
-### 🌍 Global Insight Analytics – Population Trends  
+### 🌍 Global Insight Analytics – Population Trends  (10Alytics)
 **Tool:** Power BI  
 Explored global population growth by region, religion, and country (1955–2025).  
 - 🌐 Total projected population: 8.2B by 2025  
