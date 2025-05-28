@@ -1,4 +1,4 @@
-# 📊 Data Analytics Portfolio – Mrs. Chinelo Agumagu
+# 📊 Data Analytics Portfolio – Chinelo Agumagu
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=flat-square&logo=powerbi)
 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=flat-square&logo=microsoft-excel)
