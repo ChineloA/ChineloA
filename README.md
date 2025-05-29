@@ -5,7 +5,7 @@
 ![SQL](https://img.shields.io/badge/Learning-SQL-blue?style=flat-square&logo=postgresql)
 ![Tableau](https://img.shields.io/badge/Learning-Tableau-orange?style=flat-square&logo=tableau)
 
-Welcome! I work in **Fleet Management and an aspiring Data Analyst** with hands-on experience using **Power BI**, **Excel**, and currently learning **SQL** and **Tableau**. This portfolio showcases real-world projects I've completed as part of my learning journey, combining my logistics background with a growing passion for data.
+Welcome! I work in **Fleet Management and an aspiring Data Analyst** with hands-on experience using **Power BI**, **Excel**, and currently learning **PostgreSQL** and **Tableau**. This portfolio showcases real-world projects I've completed as part of my learning journey, combining my logistics background with a growing passion for data.
 
 Below is a curated collection of data projects I've built while learning **Power BI**, **Excel**, **SQL**, and **Tableau**, combining real-world business problems with impactful visual storytelling.
 
@@ -16,7 +16,7 @@ Below is a curated collection of data projects I've built while learning **Power
 - **Power BI** (Data Modeling, DAX, Visuals, Tooltips)
 - **Excel** (PivotTables, Charts, Data Cleaning)
 - **DAX & Power Query**
-- **SQL** (learning)
+- **PostgreSQL** (learning)
 - **Tableau** (learning)
 - **Data Storytelling & Insight Communication**
 
