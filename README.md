@@ -38,6 +38,7 @@ Below is a curated collection of data projects I've built while learning **Power
 - [Sales & Profitability Dashboard](#-sales--profitability-dashboard)
 - [Betting Insights Dashboard](#-betting-insights-dashboard)
 - [Global Insight Analytics](#-global-insight-analytics--population-trends)
+- [Retail Edge Solutions Analysis](#-retail-edge-solutions-dashboard)
 
 ---
 
@@ -209,7 +210,20 @@ Explored global population growth by region, religion, and country (1955–2025)
 
 
 ---
+### 🌍 Retail Edge Solutions: Enhancing Sales Analytics  (10Alytics)
+**Tool:** Power BI  
+From data modelling to interactive dashboards.  
+- Creating an interactive dashboard in Power BI that displays key performance indicators (KPIs)to allow users to filter and slice data for personalised insights.
+- Include visual comparisons with previous years to highlight growth or decline.
+- Provide actionable insights by showcasing top-performing cities, channels and customers, enabling data-driven strategic decisions.
+- Implement DAX calculations to track year-over-year growth   
+📸 ![Screenshot 2025-05-31 223847](https://github.com/user-attachments/assets/4303fe87-4b00-4583-a9a6-e7aa411c9617)
+   ![Screenshot 2025-05-31 223812](https://github.com/user-attachments/assets/621acb94-5fa8-451e-ae92-1adfe3a06522)
+   ![Screenshot 2025-05-31 224002](https://github.com/user-attachments/assets/a29e2627-cb39-462f-8df7-652eabcab497)
+   ![Screenshot 2025-05-31 223927](https://github.com/user-attachments/assets/e5581012-9280-43aa-9737-9826138a5c54)
 
+
+---
 ## 📌 Learning Journey
 
 I began with **DiveAfrica** and advanced through **10Alytics**, where I completed practical projects in Excel and Power BI. I’ve since built dashboards using real and simulated business data to improve my analytical thinking and storytelling.
