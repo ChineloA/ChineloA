@@ -26,7 +26,7 @@ Below is a curated collection of data projects I've built while learning **Power
 - [Fleet Operations Dashboard](#-fleet-operations-dashboard)
 - [Retail Store Performance Dashboard](#-retail-store-performance-dashboard)
 - [Dreamy Bites Profit Analysis](#-dreamy-bites-profit-analysis)
-- [Customer Segmentation & Revenue Insights](#-customer-segmentation--revenue-insights)
+- [Novamed Solutions Top/Bottom Analysis & Revenue Trends](#-novamed-solutions--sales-performance-analysis)
 - [Deskify Office Supplies Report](#-deskify-office--supplies-report)
 - [Riverside General Hospital Report](#-riverside-general-hospital-data-model)
 - [Aurora Threads Sales Dashboard](#-aurora-threads-sales-dashboard)
@@ -76,15 +76,17 @@ Analyzed updated cookie pricing and cost structure from business memo.
 
 ---
 
-### 👥 Customer Segmentation & Revenue Trends  (10Alytics)
+### 👥 Novamed Solutions Top/Bottom Analysis & Revenue Trends  (10Alytics)
 **Tool:** Power BI  
-- Tracked overall sales metrics with month over month comparisons.
-- Highlighted the top performing and underperforming drugs and customers based on dynamic measures.
-- Provided insights into customer demographics, revenue distribution by buyer type, and purchasing behavior Additionally,
+- Tracked overall sales metrics with month-over-month comparisons.
+- Highlighted the top-performing and underperforming drugs and customers based on dynamic measures.
+- Created  Dynamic charts with selected metrix, ranking metric, etc
+- Provided insights into customer demographics, revenue distribution by buyer type, and purchasing behaviour. Additionally,
 - Included geographical sales insights, highlighting key revenue sources
 📸 ![Screenshot 2025-05-25 161501](https://github.com/user-attachments/assets/717b0e09-960d-4049-b292-62204937c7f4)
 📸 ![Screenshot 2025-05-25 161537](https://github.com/user-attachments/assets/e8d2e5b2-f3db-4a7b-805a-257c411384f8)
-
+📸 ![Screenshot 2025-06-06 211920](https://github.com/user-attachments/assets/302cf004-eb24-4e6b-b89c-f20b0b13fb61)
+📸 ![Screenshot 2025-06-06 211951](https://github.com/user-attachments/assets/81d5e87d-1d10-43b5-af5a-fade6e44b155)
 
 ---
 
