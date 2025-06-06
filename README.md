@@ -85,7 +85,7 @@ Analyzed updated cookie pricing and cost structure from business memo.
 - Included geographical sales insights, highlighting key revenue sources
 📸 ![Screenshot 2025-05-25 161501](https://github.com/user-attachments/assets/717b0e09-960d-4049-b292-62204937c7f4)
 📸 ![Screenshot 2025-05-25 161537](https://github.com/user-attachments/assets/e8d2e5b2-f3db-4a7b-805a-257c411384f8)
-📸 ![Screenshot 2025-06-06 211920](https://github.com/user-attachments/assets/302cf004-eb24-4e6b-b89c-f20b0b13fb61)
+📸 ![Screenshot 2025-06-06 220650](https://github.com/user-attachments/assets/58b977ae-1139-40b7-bfb4-a646fa192f24)
 📸 ![Screenshot 2025-06-06 211951](https://github.com/user-attachments/assets/81d5e87d-1d10-43b5-af5a-fade6e44b155)
 
 ---
