@@ -226,7 +226,7 @@ From data modelling to interactive dashboards.
 
 
 ---
-### 🌍 NextGen Corp: Employee Success Analytics
+### 🌍 NextGen Corp: Employee Success Analytics (10Alytics)
 **Tool:** PostgreSQL
 The HR department needs a data-driven approach to:
 -Identify trends and patterns in employee retention and turnover.
@@ -238,15 +238,15 @@ The HR department needs a data-driven approach to:
 
 - 1. WHO ARE THE TOP 5 SERVING EMPLOYEES?
 - SELECT employee_id, CONCAT(first_name, ' ', last_name) AS full_name, hire_date,
-- CURRENT_DATE - hire_date AS total_days_served,
-- CONCAT(
--   EXTRACT(YEAR FROM AGE(CURRENT_DATE, hire_date)), ' years, ',
--   EXTRACT(MONTH FROM AGE(CURRENT_DATE, hire_date)), ' months, ',
--   EXTRACT(DAY FROM AGE(CURRENT_DATE, hire_date)), ' days'
--   )AS time_served
-- FROM employee
-- ORDER BY hire_date
-- LIMIT 5;
+  CURRENT_DATE - hire_date AS total_days_served,
+  CONCAT(
+    EXTRACT(YEAR FROM AGE(CURRENT_DATE, hire_date)), ' years, ',
+    EXTRACT(MONTH FROM AGE(CURRENT_DATE, hire_date)), ' months, ',
+    EXTRACT(DAY FROM AGE(CURRENT_DATE, hire_date)), ' days'
+    )AS time_served
+  FROM employee
+  ORDER BY hire_date
+  LIMIT 5;
 📸 <img width="882" height="255" alt="Screenshot 2025-07-24 184802" src="https://github.com/user-attachments/assets/cc15cbb4-4cb7-4e24-8412-4a589832f1a7" />
 
 - 2. WHAT IS THE TURNOVER RATE FOR EACH DEPARTMENT?
