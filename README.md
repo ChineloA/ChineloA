@@ -264,7 +264,8 @@ The HR department needs a data-driven approach to:
 -   Goal: Evaluate employee performance across different departments and identify areas where performance can be improved.
 
 - 1. HOW MANY EMPLOYEES HAVE LEFT THE COMPANY?
- <img width="242" height="107" alt="Screenshot 2025-07-25 015337" src="https://github.com/user-attachments/assets/92f691fe-7ba5-4ad2-84f1-e365e608bbf5" />
+ <img width="699" height="290" alt="Screenshot 2025-07-29 025328" src="https://github.com/user-attachments/assets/64bd5bf1-54ea-4bbb-9940-b3e20be3917c" />
+
 
 📸<img width="242" height="107" alt="Screenshot 2025-07-25 015337" src="https://github.com/user-attachments/assets/83c5de88-6421-4172-9b4f-8eb3f101b0e6" />
 
