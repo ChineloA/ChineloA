@@ -226,140 +226,141 @@ From data modelling to interactive dashboards.
 
 
 ---
-### NextGen Corp: Employee Success Analytics
+### 🌍 NextGen Corp: Employee Success Analytics
 **Tool:** PostgreSQL
 The HR department needs a data-driven approach to:
 -Identify trends and patterns in employee retention and turnover.
 -Track and evaluate performance across different departments.
 -Assess the relationship between salary and performance to ensure fairness and employee satisfaction.
-A: EMPLOYEE RETENTION ANALYSIS
+
+- A: EMPLOYEE RETENTION ANALYSIS
    Goal: Understand the employee turnover trends and identify the root causes of high turnover rates.
 
--- 1. WHO ARE THE TOP 5 SERVING EMPLOYEES?
-SELECT employee_id, CONCAT(first_name, ' ', last_name) AS full_name, hire_date,
-  CURRENT_DATE - hire_date AS total_days_served,
-  CONCAT(
-    EXTRACT(YEAR FROM AGE(CURRENT_DATE, hire_date)), ' years, ',
-    EXTRACT(MONTH FROM AGE(CURRENT_DATE, hire_date)), ' months, ',
-    EXTRACT(DAY FROM AGE(CURRENT_DATE, hire_date)), ' days'
-  ) AS time_served
-FROM employee
-ORDER BY hire_date
-LIMIT 5;
+- 1. WHO ARE THE TOP 5 SERVING EMPLOYEES?
+- SELECT employee_id, CONCAT(first_name, ' ', last_name) AS full_name, hire_date,
+- CURRENT_DATE - hire_date AS total_days_served,
+- CONCAT(
+-   EXTRACT(YEAR FROM AGE(CURRENT_DATE, hire_date)), ' years, ',
+-   EXTRACT(MONTH FROM AGE(CURRENT_DATE, hire_date)), ' months, ',
+-   EXTRACT(DAY FROM AGE(CURRENT_DATE, hire_date)), ' days'
+-   )AS time_served
+- FROM employee
+- ORDER BY hire_date
+- LIMIT 5;
 📸 <img width="882" height="255" alt="Screenshot 2025-07-24 184802" src="https://github.com/user-attachments/assets/cc15cbb4-4cb7-4e24-8412-4a589832f1a7" />
 
--- 2. WHAT IS THE TURNOVER RATE FOR EACH DEPARTMENT?
-SELECT d.department_name, 
-	ROUND(CAST(COUNT(t.turnover_id)AS DECIMAL) / COUNT(e.employee_id) * 100, 2) AS turnover_rate_percent
-FROM department d
-JOIN employee e ON d.department_id = e.department_id
-LEFT JOIN turnover t ON e.employee_id = t.employee_id
-GROUP BY d.department_name
-ORDER BY turnover_rate_percent DESC;
+- 2. WHAT IS THE TURNOVER RATE FOR EACH DEPARTMENT?
+- SELECT d.department_name, 
+-      ROUND(CAST(COUNT(t.turnover_id)AS DECIMAL) / COUNT(e.employee_id) * 100, 2) AS turnover_rate_percent
+- FROM department d
+- JOIN employee e ON d.department_id = e.department_id
+- LEFT JOIN turnover t ON e.employee_id = t.employee_id
+- GROUP BY d.department_name
+- ORDER BY turnover_rate_percent DESC;
 📸 <img width="523" height="217" alt="Screenshot 2025-07-25 014633" src="https://github.com/user-attachments/assets/763e9c00-b4e5-4ad3-8499-a9ec2e73d1f6" />
 
--- 3. WHICH EMPLOYEES ARE AT RISK OF LEAVING BASED ON THEIR PERFORMANCE?
-SELECT 
-	CONCAT(e.first_name, ' ', e.last_name) AS full_name, d.department_name,
-  COUNT(p.performance_score) AS total_reviews,
-  ROUND(AVG(p.performance_score), 2) AS avg_performance_score,
-  CASE 
-    WHEN AVG(p.performance_score) < 3.5 THEN 'High Risk'
-    WHEN AVG(p.performance_score) = 5.0 THEN 'Top Performer'
-    ELSE 'Moderate Risk'
-  END AS risk_level
-FROM employee e
-JOIN performance p ON e.employee_id = p.employee_id
-JOIN department d ON e.department_id = d.department_id
-GROUP BY e.employee_id, full_name, d.department_name
-HAVING AVG(p.performance_score) = 5.0 OR AVG(p.performance_score) < 3.5
-ORDER BY avg_performance_score;
+- 3. WHICH EMPLOYEES ARE AT RISK OF LEAVING BASED ON THEIR PERFORMANCE?
+-  SELECT 
+-	CONCAT(e.first_name, ' ', e.last_name) AS full_name, d.department_name,
+-  COUNT(p.performance_score) AS total_reviews,
+-  ROUND(AVG(p.performance_score), 2) AS avg_performance_score,
+-  CASE 
+-    WHEN AVG(p.performance_score) < 3.5 THEN 'High Risk'
+-    WHEN AVG(p.performance_score) = 5.0 THEN 'Top Performer'
+-    ELSE 'Moderate Risk'
+-  END AS risk_level
+- FROM employee e
+- JOIN performance p ON e.employee_id = p.employee_id
+- JOIN department d ON e.department_id = d.department_id
+- GROUP BY e.employee_id, full_name, d.department_name
+- HAVING AVG(p.performance_score) = 5.0 OR AVG(p.performance_score) < 3.5
+- ORDER BY avg_performance_score;
 📸 <img width="958" height="106" alt="Screenshot 2025-07-26 210608" src="https://github.com/user-attachments/assets/7c3c2718-7872-49f2-b0c8-12ddee212628" />
 
--- 4. WHAT ARE THE MAIN REASONS EMPLOYEES ARE LEAVING THE COMPANY?
-SELECT t.reason_for_leaving, COUNT(*) AS number_of_exits,
-    ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER (), 2) AS percentage_of_total_exits,
-    STRING_AGG(DISTINCT CONCAT(e.first_name, ' ', e.last_name), ', ') AS employees_who_left
-FROM turnover t
-JOIN employee e ON t.employee_id = e.employee_id
-GROUP BY t.reason_for_leaving
-ORDER BY number_of_exits DESC;
+- 4. WHAT ARE THE MAIN REASONS EMPLOYEES ARE LEAVING THE COMPANY?
+- SELECT t.reason_for_leaving, COUNT(*) AS number_of_exits,
+-    ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER (), 2) AS percentage_of_total_exits,
+-    STRING_AGG(DISTINCT CONCAT(e.first_name, ' ', e.last_name), ', ') AS employees_who_left
+- FROM turnover t
+- JOIN employee e ON t.employee_id = e.employee_id
+- GROUP BY t.reason_for_leaving
+- ORDER BY number_of_exits DESC;
 📸 <img width="1841" height="148" alt="Screenshot 2025-07-25 134134" src="https://github.com/user-attachments/assets/9853b411-bbf0-41be-8435-5c572876aca7" />
 
-B. PERFORMANCE ANALYSIS
-   Goal: Evaluate employee performance across different departments and identify areas where performance can be improved.
+- B. PERFORMANCE ANALYSIS
+-   Goal: Evaluate employee performance across different departments and identify areas where performance can be improved.
 
--- 1. HOW MANY EMPLOYEES HAVE LEFT THE COMPANY?
-SELECT COUNT(*) AS employees_left
-FROM turnover;
+- 1. HOW MANY EMPLOYEES HAVE LEFT THE COMPANY?
+- SELECT COUNT(*) AS employees_left
+- FROM turnover;
 
-OR
+- OR
 
-SELECT COUNT(*) AS employees_left
-FROM employee e
-LEFT JOIN turnover t ON t.employee_id = e.employee_id
-WHERE turnover_id IS NOT NULL;
+- SELECT COUNT(*) AS employees_left
+- FROM employee e
+- LEFT JOIN turnover t ON t.employee_id = e.employee_id
+- WHERE turnover_id IS NOT NULL;
 📸 <img width="242" height="107" alt="Screenshot 2025-07-25 015337" src="https://github.com/user-attachments/assets/92f691fe-7ba5-4ad2-84f1-e365e608bbf5" />
 
---2. HOW MANY EMPLOYEES HAVE A PERFORMANCE SCORE OF 5.0 / BELOW 3.5?
-SELECT COUNT(DISTINCT employee_id) AS employee_count
-FROM performance
-WHERE performance_score = 5 OR performance_score < 3.5
+- 2. HOW MANY EMPLOYEES HAVE A PERFORMANCE SCORE OF 5.0 / BELOW 3.5?
+- SELECT COUNT(DISTINCT employee_id) AS employee_count
+- FROM performance
+- WHERE performance_score = 5 OR performance_score < 3.5
 📸 <img width="262" height="114" alt="Screenshot 2025-07-26 193841" src="https://github.com/user-attachments/assets/bd2d8361-09ad-4e25-ac57-3cdd72813205" />
 
--- 3. WHICH DEPARTMENT HAS THE MOST EMPLOYEES WITH A PERFORMANCE OF 5.0 / BELOW 3.5?
-SELECT d.department_name, COUNT(DISTINCT p.employee_id) AS employee_count
-FROM performance p
-JOIN department d ON p.department_id = d.department_id
-WHERE p.performance_score = 5.0 OR p.performance_score < 3.5
-GROUP BY d.department_name
-ORDER BY employee_count DESC;
+- 3. WHICH DEPARTMENT HAS THE MOST EMPLOYEES WITH A PERFORMANCE OF 5.0 / BELOW 3.5?
+- SELECT d.department_name, COUNT(DISTINCT p.employee_id) AS employee_count
+- FROM performance p
+- JOIN department d ON p.department_id = d.department_id
+- WHERE p.performance_score = 5.0 OR p.performance_score < 3.5
+- GROUP BY d.department_name
+- ORDER BY employee_count DESC;
 📸 <img width="480" height="223" alt="Screenshot 2025-07-26 200729" src="https://github.com/user-attachments/assets/503372c9-3984-49f4-bf66-7bd5ac900985" />
 
--- 4. WHAT IS THE AVERAGE PERFORMANCE SCORE BY DEPARTMENT?
-SELECT d.department_name, 
-	ROUND(AVG(p.performance_score), 2) AS avg_performance_score
-FROM employee e
-JOIN performance p ON e.employee_id = p.employee_id
-JOIN department d ON e.department_id = d.department_id
-GROUP BY d.department_name
-ORDER BY avg_performance_score DESC;
+- 4. WHAT IS THE AVERAGE PERFORMANCE SCORE BY DEPARTMENT?
+- SELECT d.department_name, 
+-	ROUND(AVG(p.performance_score), 2) AS avg_performance_score
+- FROM employee e
+- JOIN performance p ON e.employee_id = p.employee_id
+- JOIN department d ON e.department_id = d.department_id
+- GROUP BY d.department_name
+- ORDER BY avg_performance_score DESC;
 📸 <img width="547" height="220" alt="Screenshot 2025-07-29 021307" src="https://github.com/user-attachments/assets/c4db4329-ed41-4627-96bf-d7a0ce437139" />
 
-C. SALARY ANALYSIS
-   Goal: Analyze salary distribution and ensure fair compensation based on performance and departmental benchmarks.
+- C. SALARY ANALYSIS
+-   Goal: Analyze salary distribution and ensure fair compensation based on performance and departmental benchmarks.
 
--- 1. WHAT IS THE TOTAL SALARY EXPENSE FOR THE COMPANY?
-SELECT COUNT(employee_id) AS no_of_employees, 
-	TO_CHAR(SUM(salary_amount):: numeric, 'FM$999,999,999.00') AS total_salary_expense
-FROM salary;
+- 1. WHAT IS THE TOTAL SALARY EXPENSE FOR THE COMPANY?
+- SELECT COUNT(employee_id) AS no_of_employees, 
+-	TO_CHAR(SUM(salary_amount):: numeric, 'FM$999,999,999.00') AS total_salary_expense
+- FROM salary;
 📸 <img width="483" height="110" alt="Screenshot 2025-07-25 015909" src="https://github.com/user-attachments/assets/43fa1765-544c-47f0-a73c-e1cbfafaec7f" />
 
--- 2. WHAT IS THE AVERAGE SALARY BY JOB TITLE?
-SELECT e.job_title, 
-	'$' || TO_CHAR(AVG(s.salary_amount):: numeric, 'FM999,999,999.00') AS avg_salary
-FROM employee e
-LEFT JOIN salary s ON s.employee_id = e.employee_id
-GROUP BY job_title
-ORDER BY avg_salary DESC;
+- 2. WHAT IS THE AVERAGE SALARY BY JOB TITLE?
+- SELECT e.job_title, 
+-	'$' || TO_CHAR(AVG(s.salary_amount):: numeric, 'FM999,999,999.00') AS avg_salary
+- FROM employee e
+- LEFT JOIN salary s ON s.employee_id = e.employee_id
+- GROUP BY job_title
+- ORDER BY avg_salary DESC;
 📸 <img width="441" height="259" alt="Screenshot 2025-07-25 020043" src="https://github.com/user-attachments/assets/1377edd9-a954-4127-9556-f1a853896815" />
 
--- 3. HOW MANY EMPLOYEES EARN ABOVE 80,000?
-SELECT COUNT(DISTINCT s.employee_id) AS high_earners
-FROM salary s
-WHERE s.salary_amount > 80000;
+- 3. HOW MANY EMPLOYEES EARN ABOVE 80,000?
+- SELECT COUNT(DISTINCT s.employee_id) AS high_earners
+- FROM salary s
+- WHERE s.salary_amount > 80000;
 📸 <img width="224" height="108" alt="Screenshot 2025-07-25 020200" src="https://github.com/user-attachments/assets/24041af8-1ce7-4634-8d23-c25607750785" />
 
--- 4. HOW DOES PERFORMANCE CORRELATE WITH SALARY ACROSS DEPARTMENTS?
-SELECT d.department_name,
-  ROUND(AVG(p.performance_score), 2) AS avg_performance_score,
-  '$' || TO_CHAR(ROUND(AVG(s.salary_amount), 2), 'FM999,999,999.00') AS avg_salary
-FROM employee e
-LEFT JOIN performance p ON e.employee_id = p.employee_id
-LEFT JOIN salary s ON e.employee_id = s.employee_id
-LEFT JOIN department d ON e.department_id = d.department_id
-GROUP BY d.department_name
-ORDER BY avg_performance_score DESC;
+- 4. HOW DOES PERFORMANCE CORRELATE WITH SALARY ACROSS DEPARTMENTS?
+- SELECT d.department_name,
+-  ROUND(AVG(p.performance_score), 2) AS avg_performance_score,
+-  '$' || TO_CHAR(ROUND(AVG(s.salary_amount), 2), 'FM999,999,999.00') AS avg_salary
+- FROM employee e
+- LEFT JOIN performance p ON e.employee_id = p.employee_id
+- LEFT JOIN salary s ON e.employee_id = s.employee_id
+- LEFT JOIN department d ON e.department_id = d.department_id
+- GROUP BY d.department_name
+- ORDER BY avg_performance_score DESC;
 📸 <img width="667" height="214" alt="Screenshot 2025-07-29 021806" src="https://github.com/user-attachments/assets/b1ceb71a-c4de-492d-b6d2-686b7ce0c8f3" />
 
 
