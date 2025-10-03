@@ -50,8 +50,8 @@ Below is a curated collection of data projects I've built while learning **Power
 - [Choco De Luxe — Unlocking Sales Insights Through Data Visualisation](#choco-de-luxe--unlocking-sales-insights-through-data-visualisation)  
 - [FusionPoint Industries — Consumer Electronics Sales Trends & Profitability Analysis](#fusionpoint-industries--consumer-electronics-sales-trends--profitability-analysis)  
 - [PrimeMart Retail — Sales & Customer Analytics in Microsoft Fabric](#primemart-retail--sales--customer-analytics-in-microsoft-fabric)  
-- [Optimising Urban Mobility — NYC Yellow Taxi Analytics Dashboard](# optimising-urban-mobility--nyc-yellow-taxi-analytics-dashboard)  
-
+- [Optimising Urban Mobility — NYC Yellow Taxi Analytics Dashboard](#optimising-urban-mobility--nyc-yellow-taxi-analytics-dashboard)
+- 
 ---
 
 ## 📁 Projects
