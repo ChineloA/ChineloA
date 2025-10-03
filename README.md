@@ -53,6 +53,12 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 ---
 # 📑 Main Table of Contents  
 
+### 📑 Excel Projects  
+- [☕ Café Harmony](#-café-harmony)  
+- [📊 10Alytics Sales](#-10alytics-sales)  
+- [📈 Sales & Profitability](#-sales--profitability)  
+- [🎰 Betting Insights](#-betting-insights)  
+
 ### 🔷 Power BI Projects  
 - [🚗 Fleet Operations](#fleet-operations)  
 - [🏪 Retail Store](#-retail-store)  
@@ -65,12 +71,6 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [👩‍💼 HR Employee Attrition](#%E2%80%8D-hr-employee-attrition) 
 - [🌍 Global Insight](#-global-insight)  
 - [🌍 Retail Edge](#-retail-edge)  
-
-### 📑 Excel Projects  
-- [☕ Café Harmony](#-café-harmony)  
-- [📊 10Alytics Sales](#-10alytics-sales)  
-- [📈 Sales & Profitability](#-sales--profitability)  
-- [🎰 Betting Insights](#-betting-insights)  
 
 ### 📝 Draw.io Projects  
 - [🏥 Riverside General Hospital](#-riverside-general-hospital)  
@@ -90,6 +90,69 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🔌 FusionPoint (ChatGPT)](#-fusionpoint-chatgpt)  
 
 
+
+---
+# 📑 Excel Projects  
+**Quick Links:**  
+[⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Power BI Projects](#-power-bi-projects) • [⏭ Jump to Drawio Projects](#-drawio-erd--data-modeling)  
+
+
+---
+
+### ☕ Café Harmony  
+*Café Harmony Capstone Project — Sales & profitability analysis using Excel*
+[Back to TOC](#-main-table-of-contents) • [Next →](#-10alytics-sales)
+**Tool:** Excel  
+Used simulated sales and operational data to generate business recommendations.  
+- Visualised order trends by day and product type  
+- Evaluated peak hours, pricing impact, and café profitability  
+- Source: `Cafe_Harmony_Capstone_Project.xlsx`
+📸 ![Screenshot 2025-05-12 231933](https://github.com/user-attachments/assets/3554342c-a1ac-4745-8091-230dd7c2cca5)
+
+
+---
+
+### 📊 10Alytics Sales  
+*10Alytics Sales Performance Dashboard — Advanced Excel dashboards & KPIs
+[← Previous](#-café-harmony) • [Back to TOC](#-main-table-of-contents) • [Next →](#-sales--profitability) 
+**Tool:** Excel  
+Analysed over 34,000 transactions to visualise profit trends, product category performance, and customer insights.  
+- 📈 Monthly profit trends (2015–2016)  
+- 👥 Profit breakdown by gender and age group  
+- 🛍️ Top products: Phones, Clothing, Accessories  
+- 📍 Leading states: Abuja, Anambra, Bauchi  
+📸 ![Screenshot 2025-05-06 172930](https://github.com/user-attachments/assets/1185c351-07b0-4a8b-b0ac-8f4001fc70fc)
+
+
+---
+
+### 📈 Sales & Profitability  
+*Excel-based analysis of product-level sales and profitability trends*
+[← Previous](#-10alytics-sales) • [Back to TOC](#-main-table-of-contents) • [Next →](#-betting-insights)
+**Tool:** Excel  
+Tracked profitability by product category, seller, state, and month.  
+- 💰 Total Sales: $981K | Profit: $448K  
+- 📊 Top category: Sports & Fitness (48% profit margin)  
+- 🧑‍💼 Seller breakdown shows Bob and Alice as top contributors  
+- 🗺️ California recorded the highest state-wise sales  
+📸 ![Screenshot 2025-05-06 173052](https://github.com/user-attachments/assets/1551cc34-a964-4682-b8ce-e317117956ce)
+
+
+---
+
+### 🎰 Betting Insights  
+*Betting Insights Dashboard — Revenue, margin, and transaction analysis*  
+[← Previous](#-sales--profitability) • [Back to TOC](#-main-table-of-contents)
+**Tool:** Excel  
+Visualised customer behaviour, bank usage, and transaction trends in January.  
+- 💵 Total Deposit: ₦13.87M | Transactions: 229  
+- 🧑‍🤝‍🧑 Top loyal customers identified by count  
+- 🏦 Most used banks: GTBank, First Bank  
+- 👶 36 underage accounts flagged  
+📸 ![Screenshot 2025-05-06 173146](https://github.com/user-attachments/assets/ba9d986f-06e1-4122-a5be-e1afd031e42e)
+
+
+
 ---
 
 # 🔷 Power BI Projects  
@@ -107,6 +170,7 @@ Analysed fuel usage, downtime, and maintenance costs across multiple vehicles.
 📸 ![Screenshot 2025-05-25 161711](https://github.com/user-attachments/assets/ee57c7a6-8e41-450e-bcf8-4c738916fb3f)
 📸 ![Screenshot 2025-05-19 233508](https://github.com/user-attachments/assets/d851f5ae-ee1d-4f90-9d6c-b1b2356283cf)
 
+
 ---
 
 ### 🏪 Retail Store  
@@ -118,6 +182,7 @@ Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to ana
 - Identified best-selling products  
 - Dashboards created from: `Costco_Data.xlsx`, `Target_Data.xlsx`, `Walmart_Data.xlsx`, `Walgreens_Data.xlsx`
 📸 ![Screenshot 2025-05-18 205721](https://github.com/user-attachments/assets/14fc100f-1ed3-4f71-9d5a-76ad6c86d484)
+
 
 ---
 
@@ -131,6 +196,7 @@ Analysed updated cookie pricing and cost structure from the business memo.
 - Source: `Dreamy Bites Report.pdf`
 📸 ![Screenshot 2025-05-20 222339](https://github.com/user-attachments/assets/55d6de90-0ab4-4503-a3ae-e6368fc8bb49)
 📸 ![Screenshot 2025-05-20 222410](https://github.com/user-attachments/assets/e163c20a-75a7-48d4-af10-e60add20b877)
+
 
 ---
 
@@ -148,6 +214,7 @@ Analysed updated cookie pricing and cost structure from the business memo.
 📸 ![Screenshot 2025-06-06 220650](https://github.com/user-attachments/assets/58b977ae-1139-40b7-bfb4-a646fa192f24)
 📸 ![Screenshot 2025-06-06 211951](https://github.com/user-attachments/assets/81d5e87d-1d10-43b5-af5a-fade6e44b155)
 
+
 ---
 
 ### 📉Deskify  
@@ -160,6 +227,7 @@ To build a data model and also build an interactive dashboard that will enable f
 📸 ![Screenshot 2025-05-18 220145](https://github.com/user-attachments/assets/0a4a485a-6455-4f42-be25-ecbc2f14864f)
 📸 ![Screenshot 2025-05-18 220415](https://github.com/user-attachments/assets/1ec5c740-a175-4806-8640-28c1b91b62ad)
 📸 ![Screenshot 2025-05-24 162959](https://github.com/user-attachments/assets/0c99f463-e311-4a08-bd81-f705fb9def26)
+
 
 ---
 
@@ -199,7 +267,6 @@ Analysed suicide rates across gender, country, and year using WHO-sourced data.
 📸 ![Screenshot 2025-05-18 195537](https://github.com/user-attachments/assets/f1edd98c-c542-45d5-930d-b71645b81e89)
 
 
-
 --- 
 
 ### 👩‍💼 HR Employee Attrition  
@@ -229,8 +296,8 @@ Explored global population growth by region, religion, and country (1955–2025)
 📸 ![Screenshot 2025-05-16 232450](https://github.com/user-attachments/assets/02aa7e6b-242c-4c5f-b0f6-70b9905279c7)
 
 
-
 ---
+
 ### 🌍 Retail Edge  
 *Retail Edge Solutions Analysis — Channel performance and revenue insights* 
 [← Previous](#-global-insight) • [Back to TOC](#-main-table-of-contents) 
@@ -246,70 +313,9 @@ From data modelling to interactive dashboards.
    ![Screenshot 2025-05-31 223927](https://github.com/user-attachments/assets/e5581012-9280-43aa-9737-9826138a5c54)
 
 
----
-# 📑 Excel Projects  
-**Quick Links:**  
-[⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Power BI Projects](#-power-bi-projects) • [⏭ Jump to Drawio Projects](#-drawio-erd--data-modeling)  
-
 
 ---
 
-### ☕ Café Harmony  
-*Café Harmony Capstone Project — Sales & profitability analysis using Excel*
-[Back to TOC](#-main-table-of-contents) • [Next →](#-10alytics-sales)
-**Tool:** Excel  
-Used simulated sales and operational data to generate business recommendations.  
-- Visualised order trends by day and product type  
-- Evaluated peak hours, pricing impact, and café profitability  
-- Source: `Cafe_Harmony_Capstone_Project.xlsx`
-📸 ![Screenshot 2025-05-12 231933](https://github.com/user-attachments/assets/3554342c-a1ac-4745-8091-230dd7c2cca5)
-
-
----
-
-### 📊 10Alytics Sales  
-*10Alytics Sales Performance Dashboard — Advanced Excel dashboards & KPIs
-[← Previous](#-café-harmony) • [Back to TOC](#-main-table-of-contents) • [Next →](#-sales--profitability) 
-**Tool:** Excel  
-Analysed over 34,000 transactions to visualise profit trends, product category performance, and customer insights.  
-- 📈 Monthly profit trends (2015–2016)  
-- 👥 Profit breakdown by gender and age group  
-- 🛍️ Top products: Phones, Clothing, Accessories  
-- 📍 Leading states: Abuja, Anambra, Bauchi  
-📸 ![Screenshot 2025-05-06 172930](https://github.com/user-attachments/assets/1185c351-07b0-4a8b-b0ac-8f4001fc70fc)
-
-
-
----
-
-### 📈 Sales & Profitability  
-*Excel-based analysis of product-level sales and profitability trends*
-[← Previous](#-10alytics-sales) • [Back to TOC](#-main-table-of-contents) • [Next →](#-betting-insights)
-**Tool:** Excel  
-Tracked profitability by product category, seller, state, and month.  
-- 💰 Total Sales: $981K | Profit: $448K  
-- 📊 Top category: Sports & Fitness (48% profit margin)  
-- 🧑‍💼 Seller breakdown shows Bob and Alice as top contributors  
-- 🗺️ California recorded the highest state-wise sales  
-📸 ![Screenshot 2025-05-06 173052](https://github.com/user-attachments/assets/1551cc34-a964-4682-b8ce-e317117956ce)
-
-
-
----
-
-### 🎰 Betting Insights  
-*Betting Insights Dashboard — Revenue, margin, and transaction analysis*  
-[← Previous](#-sales--profitability) • [Back to TOC](#-main-table-of-contents)
-**Tool:** Excel  
-Visualised customer behaviour, bank usage, and transaction trends in January.  
-- 💵 Total Deposit: ₦13.87M | Transactions: 229  
-- 🧑‍🤝‍🧑 Top loyal customers identified by count  
-- 🏦 Most used banks: GTBank, First Bank  
-- 👶 36 underage accounts flagged  
-📸 ![Screenshot 2025-05-06 173146](https://github.com/user-attachments/assets/ba9d986f-06e1-4122-a5be-e1afd031e42e)
-
-
----
 # 📝 Draw.io (ERD / Data Modeling)   
 *Entity Relationship Diagram (ERD) — Healthcare data modelling with Draw.io*  
 **Quick Links:**  
@@ -330,6 +336,7 @@ They had their data as a flat file; therefore struggled with Scalability and Int
 
 
 ---
+
 # 📊 Tableau Projects  
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Drawio Projects](#-drawio-erd--data-modeling) • [⏭ Jump to SQL Projects](#-sql--database-projects)  
@@ -411,6 +418,7 @@ To analyse sales performance across products, sub-categories, and regions to ide
    <img width="1584" height="848" alt="Screenshot 2025-10-03 180023" src="https://github.com/user-attachments/assets/993b403e-8538-4365-b347-ec1b736a43cb" />
 
 
+
 ---
 
 # 🗄 SQL / Database Projects  
@@ -419,6 +427,7 @@ To analyse sales performance across products, sub-categories, and regions to ide
 
 
 ---
+
 ### 🌍 NextGen  
 *NextGen Corp Employee Success Analytics — PostgreSQL-based HR analysis* 
 [Back to TOC](#-main-table-of-contents) 
@@ -805,6 +814,7 @@ where fare_amount < 0 or total_amount < 0;
    - Leveraged AI-driven analytics to uncover hidden sales patterns.  
    - Delivered actionable insights faster, strengthening FusionPoint’s market edge.
   
+
 
 
 ---
