@@ -5,6 +5,9 @@
 ![SQL](https://img.shields.io/badge/Learning-SQL-blue?style=flat-square&logo=postgresql)
 ![Tableau](https://img.shields.io/badge/Learning-Tableau-orange?style=flat-square&logo=tableau)
 
+
+---
+
 ## 1. About Me | Data Storyteller & Insight Catalyst
 
 👋 Hi, I'm Nelo
@@ -13,6 +16,7 @@ Welcome to my Data Analytics Portfolio!
 This repository showcases projects I’ve worked on using Power BI, Tableau, Microsoft Fabric, Excel, SQL, and Data Modelling.
 
 Each project highlights different aspects of my analytics journey — from data cleaning & modelling to interactive dashboards, storytelling, and advanced insights.
+
 
 ---
 
@@ -50,7 +54,9 @@ Each project highlights different aspects of my analytics journey — from data 
 This file contains the **navigation structure** for my portfolio projects.  
 Use the **Table of Contents** below to jump directly to projects, or use the **Prev / TOC / Next** links inside each project to browse smoothly.  
 
+
 ---
+
 # 📑 Main Table of Contents  
 
 ### 📑 Excel Projects  
@@ -97,6 +103,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Power BI Projects](#-power-bi-projects) • [⏭ Jump to Drawio Projects](#-drawio-erd--data-modeling)  
 
 
+
 ---
 
 ### ☕ Café Harmony  
@@ -108,6 +115,7 @@ Used simulated sales and operational data to generate business recommendations.
 - Evaluated peak hours, pricing impact, and café profitability  
 - Source: `Cafe_Harmony_Capstone_Project.xlsx`
 📸 ![Screenshot 2025-05-12 231933](https://github.com/user-attachments/assets/3554342c-a1ac-4745-8091-230dd7c2cca5)
+
 
 
 ---
@@ -124,6 +132,7 @@ Analysed over 34,000 transactions to visualise profit trends, product category p
 📸 ![Screenshot 2025-05-06 172930](https://github.com/user-attachments/assets/1185c351-07b0-4a8b-b0ac-8f4001fc70fc)
 
 
+
 ---
 
 ### 📈 Sales & Profitability  
@@ -138,6 +147,7 @@ Tracked profitability by product category, seller, state, and month.
 📸 ![Screenshot 2025-05-06 173052](https://github.com/user-attachments/assets/1551cc34-a964-4682-b8ce-e317117956ce)
 
 
+
 ---
 
 ### 🎰 Betting Insights  
@@ -150,6 +160,7 @@ Visualised customer behaviour, bank usage, and transaction trends in January.
 - 🏦 Most used banks: GTBank, First Bank  
 - 👶 36 underage accounts flagged  
 📸 ![Screenshot 2025-05-06 173146](https://github.com/user-attachments/assets/ba9d986f-06e1-4122-a5be-e1afd031e42e)
+
 
 
 
@@ -171,6 +182,7 @@ Analysed fuel usage, downtime, and maintenance costs across multiple vehicles.
 📸 ![Screenshot 2025-05-19 233508](https://github.com/user-attachments/assets/d851f5ae-ee1d-4f90-9d6c-b1b2356283cf)
 
 
+
 ---
 
 ### 🏪 Retail Store  
@@ -182,6 +194,7 @@ Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to ana
 - Identified best-selling products  
 - Dashboards created from: `Costco_Data.xlsx`, `Target_Data.xlsx`, `Walmart_Data.xlsx`, `Walgreens_Data.xlsx`
 📸 ![Screenshot 2025-05-18 205721](https://github.com/user-attachments/assets/14fc100f-1ed3-4f71-9d5a-76ad6c86d484)
+
 
 
 ---
@@ -196,6 +209,7 @@ Analysed updated cookie pricing and cost structure from the business memo.
 - Source: `Dreamy Bites Report.pdf`
 📸 ![Screenshot 2025-05-20 222339](https://github.com/user-attachments/assets/55d6de90-0ab4-4503-a3ae-e6368fc8bb49)
 📸 ![Screenshot 2025-05-20 222410](https://github.com/user-attachments/assets/e163c20a-75a7-48d4-af10-e60add20b877)
+
 
 
 ---
@@ -215,6 +229,7 @@ Analysed updated cookie pricing and cost structure from the business memo.
 📸 ![Screenshot 2025-06-06 211951](https://github.com/user-attachments/assets/81d5e87d-1d10-43b5-af5a-fade6e44b155)
 
 
+
 ---
 
 ### 📉Deskify  
@@ -227,6 +242,7 @@ To build a data model and also build an interactive dashboard that will enable f
 📸 ![Screenshot 2025-05-18 220145](https://github.com/user-attachments/assets/0a4a485a-6455-4f42-be25-ecbc2f14864f)
 📸 ![Screenshot 2025-05-18 220415](https://github.com/user-attachments/assets/1ec5c740-a175-4806-8640-28c1b91b62ad)
 📸 ![Screenshot 2025-05-24 162959](https://github.com/user-attachments/assets/0c99f463-e311-4a08-bd81-f705fb9def26)
+
 
 
 ---
@@ -242,6 +258,7 @@ Built an end-to-end sales and profit dashboard for a fashion retailer.
 📸 ![Screenshot 2025-05-12 233017](https://github.com/user-attachments/assets/731f5181-f6a3-4215-9b53-b4c9a09be62c)
 
 
+
 ---
 
 ### 🌍 Life Expectancy  
@@ -255,6 +272,7 @@ Explored trends in life expectancy using WHO-sourced data.
 📸 ![Screenshot 2025-05-09 160956](https://github.com/user-attachments/assets/937feaaf-6aef-45ad-9cda-b2a95592db5f)
 
 
+
 ---
 
 ### 🧠 Mental Health  
@@ -265,6 +283,7 @@ Analysed suicide rates across gender, country, and year using WHO-sourced data.
 - Identified age groups with higher risk trends  
 📁 File: `SuicidalDataset.csv`
 📸 ![Screenshot 2025-05-18 195537](https://github.com/user-attachments/assets/f1edd98c-c542-45d5-930d-b71645b81e89)
+
 
 
 --- 
@@ -283,6 +302,7 @@ Built a clean dashboard to help HR teams track and reduce turnover.
 📸 ![Screenshot 2025-05-06 175143](https://github.com/user-attachments/assets/5c1ea3dd-70a0-4841-ad14-38521337247a)
 
 
+
 ---
 
 ### 🌍 Global Insight  
@@ -294,6 +314,7 @@ Explored global population growth by region, religion, and country (1955–2025)
 - 🗺️ Most populous region: Asia  
 - 🛐 Major religious groups: Christians, Muslims, Hindus  
 📸 ![Screenshot 2025-05-16 232450](https://github.com/user-attachments/assets/02aa7e6b-242c-4c5f-b0f6-70b9905279c7)
+
 
 
 ---
@@ -314,12 +335,14 @@ From data modelling to interactive dashboards.
 
 
 
+
 ---
 
 # 📝 Draw.io (ERD / Data Modeling)   
 *Entity Relationship Diagram (ERD) — Healthcare data modelling with Draw.io*  
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Excel Projects](#-excel-projects) • [⏭ Jump to Tableau Projects](#-tableau-projects) 
+
 
 
 ---
@@ -335,11 +358,14 @@ They had their data as a flat file; therefore struggled with Scalability and Int
 📸 ![Screenshot 2025-05-24 162344](https://github.com/user-attachments/assets/670292e6-6076-43a4-9515-275bdc1a2d48)
 
 
+
+
 ---
 
 # 📊 Tableau Projects  
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Drawio Projects](#-drawio-erd--data-modeling) • [⏭ Jump to SQL Projects](#-sql--database-projects)  
+
 
 
 ---
@@ -419,11 +445,13 @@ To analyse sales performance across products, sub-categories, and regions to ide
 
 
 
+
 ---
 
 # 🗄 SQL / Database Projects  
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Tableau Projects](#-tableau-projects) • [⏭ Jump to Fabric Projects](#-microsoft-fabric-projects)
+
 
 
 ---
@@ -520,11 +548,13 @@ The HR department needs a data-driven approach to:
 
 
 
+
 ---
 
 # 🧱 Microsoft Fabric Projects  
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to SQL Projects](#-sql--database-projects) • [⏭ Jump to ChatGPT Projects](#-chatgpt--tableau-projects)
+
 
 
 ---
@@ -822,6 +852,7 @@ where fare_amount < 0 or total_amount < 0;
 # 🤖 ChatGPT + Tableau Projects  
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Fabric Projects](#-microsoft-fabric-projects)  
+
 
 
 ---
