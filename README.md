@@ -27,28 +27,18 @@ Each project highlights different aspects of my analytics journey — from data 
   <img src="https://img.shields.io/badge/ERD%20Modeling-FF6F00?style=for-the-badge&logo=diagrams.net&logoColor=white" />
 </p>  
 
----
-
-## 🔧 Skills & Tools
-
-- **Power BI** (Data Modelling, DAX, Visuals, Tooltips)
-- **Excel** (PivotTables, Charts, Data Cleaning)
-- **DAX & Power Query**
-- **PostgreSQL** (learning)
-- **Tableau** (learning)
-- **Data Storytelling & Insight Communication**
   
 ---
 
 ## 📂 About this Portfolio
 
-📊 Business Intelligence Dashboards — Power BI & Tableau projects showcasing interactive analytics and storytelling.
+-📊 Business Intelligence Dashboards — Power BI & Tableau projects showcasing interactive analytics and storytelling.
 
-🧱 Modern Data Engineering — Microsoft Fabric case studies with medallion architecture and SQL analytics.
+-🧱 Modern Data Engineering — Microsoft Fabric case studies with medallion architecture and SQL analytics.
 
-📑 Excel Reporting — Classic analysis & visualization for sales, profitability, and customer insights.
+-📑 Excel Reporting — Classic analysis & visualization for sales, profitability, and customer insights.
 
-🗄 SQL / Databases — PostgreSQL projects + ERD modeling for database design and insights.
+-🗄 SQL / Databases — PostgreSQL projects + ERD modeling for database design and insights.
 
 👉 Scroll down to explore the full Table of Contents of projects!
 
@@ -61,7 +51,7 @@ This file contains the **navigation structure** for my portfolio projects.
 Use the **Table of Contents** below to jump directly to projects, or use the **Prev / TOC / Next** links inside each project to browse smoothly.  
 
 ---
-## 📚 Table of Contents
+
 # 📑 Main Table of Contents
 
 ### 🔷 Power BI Projects
