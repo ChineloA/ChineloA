@@ -54,11 +54,11 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 # 📑 Main Table of Contents  
 
 ### 🔷 Power BI Projects  
-- [🚗 Fleet Operations](#🚗fleet-operations)  
+- [🚗 Fleet Operations](#-fleet-operations)  
 - [🏪 Retail Store](#-retail-store)  
 - [🍪 Dreamy Bites](#-dreamy-bites)  
 - [👥 Novamed](#-novamed)  
-- [📉 Deskify](#📉deskify)  
+- [📉 Deskify](#-deskify)  
 - [🧵 Aurora Threads](#-aurora-threads)  
 - [🌍 Life Expectancy](#-life-expectancy)  
 - [🧠 Mental Health](#-mental-health)  
@@ -77,7 +77,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 ### 📊 Tableau Projects  
 - [🍫 Choco De Luxe](#-choco-de-luxe)  
-- - [🔌FusionPoint](#🔌fusionpoint)  
+- - [🔌FusionPoint](#-fusionpoint)  
 
 ### 🗄 SQL Projects  
 - [🌍 NextGen](#-nextgen)  
