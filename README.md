@@ -54,7 +54,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 # 📑 Main Table of Contents  
 
 ### 🔷 Power BI Projects  
-- [🚗 Fleet Operations](#🚗fleet-operations)  
+- [🚗 Fleet Operations](#🚗Fleet-Operations)  
 - [🏪 Retail Store](#-retail-store)  
 - [🍪 Dreamy Bites](#-dreamy-bites)  
 - [👥 Novamed](#-novamed)  
@@ -89,44 +89,6 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 ### 🤖 ChatGPT + Tableau Projects  
 - [🔌 FusionPoint (ChatGPT)](#-fusionpoint-chatgpt)  
 
-
-# 📑 Main Table of Contents
-
-### 🔷 Power BI Projects
-- [Fleet Operations Dashboard](#fleet-operations-dashboard)
-- [Retail Store Performance Dashboard](#retail-store-performance-dashboard)
-- [Dreamy Bites Profit Analysis](#dreamy-bites-profit-analysis)
-- [Novamed Solutions Top/Bottom Analysis & Revenue Trends](#novamed-solutions-topbottom-analysis--revenue-trends)
-- [Deskify Office Supplies Report](#deskify-office-supplies-report)
-- [Aurora Threads Sales Dashboard](#aurora-threads-sales-dashboard)
-- [Life Expectancy at Birth](#life-expectancy-at-birth)
-- [Mental Health Dataset Analysis](#mental-health-dataset-analysis)
-- [HR Employee Attrition](#hr-employee-attrition)
-- [Global Insight Analytics — Population Trends](#global-insight-analytics--population-trends)
-- [Retail Edge Solutions Analysis](#retail-edge-solutions-analysis)
-
-### 📑 Excel Projects
-- [Café Harmony Capstone Project](#café-harmony-capstone-project)
-- [10Alytics Sales Performance Dashboard](#10alytics-sales-performance-dashboard)
-- [Sales & Profitability Dashboard](#sales--profitability-dashboard)
-- [Betting Insights Dashboard](#betting-insights-dashboard)
-
-### 📝 Draw.io (ERD / Data Modelling)
-- [Riverside General Hospital Report](#riverside-general-hospital-report)
-
-### 📊 Tableau Projects
-- [Choco De Luxe — Unlocking Sales Insights Through Data Visualisation](#choco-de-luxe--unlocking-sales-insights-through-data-visualisation)
-- [FusionPoint Industries — Consumer Electronics Sales Trends & Profitability Analysis](#fusionpoint-industries--consumer-electronics-sales-trends--profitability-analysis)
-
-### 🗄 SQL / Database Projects
-- [NextGen Corp Employee Success Analytics](#nextgen-corp-employee-success-analytics)
-
-### 🧱 Microsoft Fabric Projects
-- [PrimeMart Retail — Sales & Customer Analytics in Microsoft Fabric](#primemart-retail--sales--customer-analytics-in-microsoft-fabric)
-- [Optimising Urban Mobility — NYC Yellow Taxi Analytics Dashboard](#optimising-urban-mobility--nyc-yellow-taxi-analytics-dashboard)
-
-### 🤖 ChatGPT + Tableau Projects
-- [FusionPoint Industries — Consumer Electronics Sales Trends & Profitability Analysis](#fusionpoint-industries--consumer-electronics-sales-trends--profitability-analysis)
 
 ---
 
