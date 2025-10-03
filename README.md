@@ -62,7 +62,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🧵 Aurora Threads](#-aurora-threads)  
 - [🌍 Life Expectancy](#-life-expectancy)  
 - [🧠 Mental Health](#-mental-health)  
-- [👩‍💼 HR Employee Attrition](#👩‍💼-hr-employee-attrition) 
+- [👩‍💼 HR Employee Attrition](#%E2%80%8D-hr-employee-attrition) 
 - [🌍 Global Insight](#-global-insight)  
 - [🌍 Retail Edge](#-retail-edge)  
 
