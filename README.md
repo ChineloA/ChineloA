@@ -51,6 +51,43 @@ This file contains the **navigation structure** for my portfolio projects.
 Use the **Table of Contents** below to jump directly to projects, or use the **Prev / TOC / Next** links inside each project to browse smoothly.  
 
 ---
+# 📑 Main Table of Contents  
+
+### 🔷 Power BI Projects  
+- [Fleet Operations](#fleet-operations)  
+- [Retail Store](#retail-store)  
+- [Dreamy Bites](#dreamy-bites)  
+- [Novamed](#novamed)  
+- [Deskify](#deskify)  
+- [Aurora Threads](#aurora-threads)  
+- [Life Expectancy](#life-expectancy)  
+- [Mental Health](#mental-health)  
+- [HR Employee Attrition](#hr-employee-attrition)  
+- [Global Insight](#global-insight)  
+- [Retail Edge](#retail-edge)  
+
+### 📑 Excel Projects  
+- [Café Harmony](#café-harmony)  
+- [10Alytics Sales](#10alytics-sales)  
+- [Sales & Profitability](#sales--profitability)  
+- [Betting Insights](#betting-insights)  
+
+### 📝 Draw.io Projects  
+- [Riverside General Hospital](#riverside-general-hospital)  
+
+### 📊 Tableau Projects  
+- [Choco De Luxe](#choco-de-luxe)  
+- [FusionPoint](#fusionpoint)  
+
+### 🗄 SQL Projects  
+- [NextGen](#nextgen)  
+
+### 🧱 Fabric Projects  
+- [PrimeMart](#primemart)  
+- [NYC Yellow Taxi](#nyc-yellow-taxi)  
+
+### 🤖 ChatGPT + Tableau  
+- [FusionPoint (ChatGPT)](#fusionpoint-chatgpt)  
 
 # 📑 Main Table of Contents
 
@@ -96,8 +133,9 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏭ Jump to Excel Projects](#-excel-projects)  
 
-### 🚗 Fleet Operations Dashboard  
-[Back to TOC](#-main-table-of-contents) • [Next (Power BI) →](#retail-store-performance-dashboard)
+### 🚗Fleet Operations  
+*Fleet Operations Dashboard — Optimising performance and delivery tracking with Power BI*
+[Back to TOC](#-main-table-of-contents) • [Next →](#retail-store)
 **Tool:** Power BI  
 Analysed fuel usage, downtime, and maintenance costs across multiple vehicles.  
 - Highlighted top maintenance cost drivers  
@@ -108,8 +146,9 @@ Analysed fuel usage, downtime, and maintenance costs across multiple vehicles.
 
 ---
 
-### 🏪 Retail Store Performance Dashboard  (10Alytics)
-[← Previous (Power BI)](#fleet-operations-dashboard) • [Back to TOC](#-main-table-of-contents) • [Next (Power BI) →](#dreamy-bites-profit-analysis)
+### 🏪 Retail Store  
+*Retail Store Performance Dashboard — Analysing sales, revenue, and customer trends*  
+[← Previous](#fleet-operations) • [Back to TOC](#-main-table-of-contents) • [Next →](#dreamy-bites)
 **Tool:** Power BI  
 Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to analyse sales and profit.  
 - Ranked stores by performance  
@@ -119,8 +158,9 @@ Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to ana
 
 ---
 
-### 🍪 Dreamy Bites Profit Analysis  (10Alytics)
-[← Previous (Power BI)](#retail-store-performance-dashboard) • [Back to TOC](#-main-table-of-contents) • [Next (Power BI) →](#novamed-solutions-topbottom-analysis--revenue-trends)
+### 🍪 Dreamy Bites  
+*Dreamy Bites Profit Analysis — Product-level profitability insights using Power BI*
+[← Previous](#retail-store) • [Back to TOC](#-main-table-of-contents) • [Next →](#novamed)
 **Tool:** Power BI  
 Analysed updated cookie pricing and cost structure from the business memo.  
 - Evaluated gross margins across 6 cookie types  
@@ -131,8 +171,9 @@ Analysed updated cookie pricing and cost structure from the business memo.
 
 ---
 
-### 👥 Novamed Solutions Top/Bottom Analysis & Revenue Trends  (10Alytics)
-[← Previous (Power BI)](#dreamy-bites-profit-analysis) • [Back to TOC](#-main-table-of-contents) • [Next (Power BI) →](#deskify-office-supplies-report)
+### 👥 Novamed  
+*Novamed Solutions — Top/Bottom Analysis & Revenue Trends*  
+[← Previous](#dreamy-bites) • [Back to TOC](#-main-table-of-contents) • [Next →](#deskify)
 **Tool:** Power BI  
 - Tracked overall sales metrics with month-over-month comparisons.
 - Highlighted the top-performing and underperforming drugs and customers based on dynamic measures.
@@ -146,8 +187,9 @@ Analysed updated cookie pricing and cost structure from the business memo.
 
 ---
 
-### 📉Deskify Office Supplies Report  (10Alytics)
-[← Previous (Power BI)](#novamed-solutions-topbottom-analysis--revenue-trends) • [Back to TOC](#-main-table-of-contents) • [Next (Power BI) →](#aurora-threads-sales-dashboard)
+### 📉Deskify  
+*Deskify Office Supplies Report — Sales performance and category analysis*  
+[← Previous](#novamed) • [Back to TOC](#-main-table-of-contents) • [Next →](#aurora-threads)
 **Tool:** Power BI  
 To build a data model and also build an interactive dashboard that will enable faster, data-driven decisions.  
 - Data: `DeskifyData.xlsx`  
@@ -158,8 +200,9 @@ To build a data model and also build an interactive dashboard that will enable f
 
 ---
 
-### 🧵 Aurora Threads Sales Dashboard  (10Alytics)
-[← Previous (Power BI)](#deskify-office-supplies-report) • [Back to TOC](#-main-table-of-contents) • [Next (Power BI) →](#life-expectancy-at-birth)
+### 🧵 Aurora Threads  
+*Aurora Threads Sales Dashboard — E-commerce profitability and customer insights*  
+[← Previous](#deskify) • [Back to TOC](#-main-table-of-contents) • [Next →](#life-expectancy)
 **Tool:** Power BI  
 Built an end-to-end sales and profit dashboard for a fashion retailer.  
 - Compared performance across multiple customer segments  
@@ -170,8 +213,9 @@ Built an end-to-end sales and profit dashboard for a fashion retailer.
 
 ---
 
-### 🌍 Life Expectancy at Birth  (DiveAfrica)
-[← Previous (Power BI)](#aurora-threads-sales-dashboard) • [Back to TOC](#-main-table-of-contents) • [Next (Power BI) →](#mental-health-dataset-analysis)
+### 🌍 Life Expectancy  
+*Life Expectancy at Birth — Demographic data exploration with Power BI*  
+[← Previous](#aurora-threads) • [Back to TOC](#-main-table-of-contents) • [Next →](#mental-health)
 **Tool:** Power BI  
 Explored trends in life expectancy using WHO-sourced data.  
 - Compared life expectancy by region and income group  
@@ -182,8 +226,9 @@ Explored trends in life expectancy using WHO-sourced data.
 
 ---
 
-### 🧠 Mental Health Dataset Analysis  (10Alytics)
-[← Previous (Power BI)](#life-expectancy-at-birth) • [Back to TOC](#-main-table-of-contents) • [Next (Power BI) →](#hr-employee-attrition)
+### 🧠 Mental Health  
+*Mental Health Dataset Analysis — Patterns and correlations in survey data* 
+[← Previous](#life-expectancy) • [Back to TOC](#-main-table-of-contents) • [Next →](#hr-employee-attrition)
 **Tool:** Power BI  
 Analysed suicide rates across gender, country, and year using WHO-sourced data.  
 - Identified age groups with higher risk trends  
@@ -194,8 +239,9 @@ Analysed suicide rates across gender, country, and year using WHO-sourced data.
 
 --- 
 
-### 👩‍💼 HR Employee Attrition  (DiveAfrica)
-[← Previous (Power BI)](#mental-health-dataset-analysis) • [Back to TOC](#-main-table-of-contents) • [Next (Power BI) →](#global-insight-analytics--population-trends)
+### 👩‍💼 HR Employee Attrition  
+*Analyzing employee turnover drivers and retention strategies with HR analytics*
+[← Previous](#mental-health) • [Back to TOC](#-main-table-of-contents) • [Next →](#global-insight)
 **Tool:** Power BI  
 Built a clean dashboard to help HR teams track and reduce turnover.  
 - Pinpointed age groups and departments with the highest attrition  
@@ -209,8 +255,9 @@ Built a clean dashboard to help HR teams track and reduce turnover.
 
 ---
 
-### 🌍 Global Insight Analytics — Population Trends   (10Alytics)
-[← Previous (Power BI)](#hr-employee-attrition) • [Back to TOC](#-main-table-of-contents) • [Next (Power BI) →](#retail-edge-solutions-analysis)
+### 🌍 Global Insight  
+*Global Insight Analytics — Population trends and growth projections* 
+[← Previous](#hr-employee-attrition) • [Back to TOC](#-main-table-of-contents) • [Next →](#retail-edge)
 **Tool:** Power BI  
 Explored global population growth by region, religion, and country (1955–2025).  
 - 🌐 Total projected population: 8.2B by 2025  
@@ -221,8 +268,9 @@ Explored global population growth by region, religion, and country (1955–2025)
 
 
 ---
-### 🌍 Retail Edge Solutions Analysis  (10Alytics)
-[← Previous (Power BI)](#global-insight-analytics--population-trends) • [Back to TOC](#-main-table-of-contents)
+### 🌍 Retail Edge  
+*Retail Edge Solutions Analysis — Channel performance and revenue insights* 
+[← Previous](#global-insight) • [Back to TOC](#-main-table-of-contents) 
 **Tool:** Power BI  
 From data modelling to interactive dashboards.  
 - Creating an interactive dashboard in Power BI that displays key performance indicators (KPIs)to allow users to filter and slice data for personalised insights.
@@ -243,8 +291,9 @@ From data modelling to interactive dashboards.
 
 ---
 
-### ☕ Café Harmony Capstone Project  (10Alytics)
-[Back to TOC](#-main-table-of-contents) • [Next (Excel) →](#10alytics-sales-performance-dashboard)
+### ☕ Café Harmony  
+*Café Harmony Capstone Project — Sales & profitability analysis using Excel*
+[Back to TOC](#-main-table-of-contents) • [Next →](#10alytics-sales)
 **Tool:** Excel  
 Used simulated sales and operational data to generate business recommendations.  
 - Visualised order trends by day and product type  
@@ -255,8 +304,9 @@ Used simulated sales and operational data to generate business recommendations.
 
 ---
 
-### 📊 10Alytics Sales Performance Dashboard  (10Alytics)
-[← Previous (Excel)](#café-harmony-capstone-project) • [Back to TOC](#-main-table-of-contents) • [Next (Excel) →](#sales--profitability-dashboard) 
+### 📊 10Alytics Sales  
+*10Alytics Sales Performance Dashboard — Advanced Excel dashboards & KPIs
+[← Previous](#café-harmony) • [Back to TOC](#-main-table-of-contents) • [Next →](#sales--profitability) 
 **Tool:** Excel  
 Analysed over 34,000 transactions to visualise profit trends, product category performance, and customer insights.  
 - 📈 Monthly profit trends (2015–2016)  
@@ -269,8 +319,9 @@ Analysed over 34,000 transactions to visualise profit trends, product category p
 
 ---
 
-### 📈 Sales & Profitability Dashboard  (10Alytics)
-[← Previous (Excel)](#10alytics-sales-performance-dashboard) • [Back to TOC](#-main-table-of-contents) • [Next (Excel) →](#betting-insights-dashboard)
+### 📈 Sales & Profitability  
+*Excel-based analysis of product-level sales and profitability trends*
+[← Previous](#10alytics-sales) • [Back to TOC](#-main-table-of-contents) • [Next →](#betting-insights))
 **Tool:** Excel  
 Tracked profitability by product category, seller, state, and month.  
 - 💰 Total Sales: $981K | Profit: $448K  
@@ -283,8 +334,9 @@ Tracked profitability by product category, seller, state, and month.
 
 ---
 
-### 🎰 Betting Insights Dashboard  (10Alytics)
-[← Previous (Excel)](#sales--profitability-dashboard) • [Back to TOC](#-main-table-of-contents) 
+### 🎰 Betting Insights  
+*Betting Insights Dashboard — Revenue, margin, and transaction analysis*  
+[← Previous](#sales--profitability) • [Back to TOC](#-main-table-of-contents)
 **Tool:** Excel  
 Visualised customer behaviour, bank usage, and transaction trends in January.  
 - 💵 Total Deposit: ₦13.87M | Transactions: 229  
@@ -295,15 +347,17 @@ Visualised customer behaviour, bank usage, and transaction trends in January.
 
 
 ---
-# 📝 Draw.io (ERD / Data Modeling)  
+# 📝 Draw.io (ERD / Data Modeling)   
+*Entity Relationship Diagram (ERD) — Healthcare data modelling with Draw.io*  
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Excel Projects](#-excel-projects) • [⏭ Jump to Tableau Projects](#-tableau-projects) 
 
 
 ---
 
-### 🏥 Riverside General Hospital Report  (10Alytics)
-[Back to TOC](#-main-table-of-contents)
+### 🏥 Riverside General Hospital  
+*Entity Relationship Diagram (ERD) — Healthcare data modeling with Draw.io* 
+[Back to TOC](#-main-table-of-contents) 
 **Tool:** Draw.io 
 They had their data as a flat file; therefore struggled with Scalability and Integration.  
 - Designed a data model that organised their data for streamlined analysis.
@@ -320,8 +374,9 @@ They had their data as a flat file; therefore struggled with Scalability and Int
 
 ---
 
-### 🍫 Choco De Luxe — Unlocking Sales Insights Through Data Visualization  (10Alytics)
-[Back to TOC](#-main-table-of-contents) • [Next (Tableau) →](#fusionpoint-industries--consumer-electronics-sales-trends--profitability-analysis) 
+### 🍫 Choco De Luxe  
+*Unlocking Sales Insights Through Data Visualization for a European Artisanal Chocolate Brand*
+[Back to TOC](#-main-table-of-contents) • [Next →](#fusionpoint) 
 **Tool:** Tableau
 
 From raw sales data to interactive dashboards.  
@@ -351,8 +406,9 @@ Business leaders can now make informed decisions on:
 
 ---
 
-### 🔌 Project Title: FusionPoint Industries — Consumer Electronics Sales Trends & Profitability Analysis  (10Alytics) 
-[← Previous (Tableau)](#choco-de-luxe--unlocking-sales-insights-through-data-visualization) • [Back to TOC](#-main-table-of-contents)
+### 🔌FusionPoint  
+*Consumer Electronics Sales Trends & Profitability Analysis — Tableau with ChatGPT assistance* 
+[← Previous](#choco-de-luxe) • [Back to TOC](#-main-table-of-contents)
 **Company / Context:** FusionPoint Industries (Consumer Electronics) 
 **Tool(s):** Tableau (with AI-assisted exploration- **ChatGPT**)  
 
@@ -400,7 +456,8 @@ To analyse sales performance across products, sub-categories, and regions to ide
 
 
 ---
-### 🌍 NextGen Corp Employee Success Analytics (10Alytics)
+### 🌍 NextGen  
+*NextGen Corp Employee Success Analytics — PostgreSQL-based HR analysis* 
 [Back to TOC](#-main-table-of-contents) 
 **Tool:** PostgreSQL
 The HR department needs a data-driven approach to:
@@ -500,8 +557,9 @@ The HR department needs a data-driven approach to:
 
 ---
 
-### 🧱 Project Title: PrimeMart Retail — Sales & Customer Analytics in Microsoft Fabric  (10Alytics) 
-[Back to TOC](#-main-table-of-contents) • [Next (Fabric) →](#optimizing-urban-mobility--nyc-yellow-taxi-analytics-dashboard)
+### 🧱 PrimeMart  
+*PrimeMart Retail — Sales & Customer Analytics in Microsoft Fabric (OneLake, SQL, Power BI)* 
+[Back to TOC](#-main-table-of-contents) • [Next →](#nyc-yellow-taxi) 
 **Company / Context:** PrimeMart Retail Ltd. (Omnichannel Retail)  
 **Tool(s):** Microsoft Fabric (OneLake, Lakehouse), SQL Endpoint, Data Factory (pipelines), Power BI, Notebooks (optional)
 
@@ -675,8 +733,9 @@ ORDER BY
 
 ---
 
-### 🚕 Project Title: Optimizing Urban Mobility — NYC Yellow Taxi Analytics Dashboard  (10Alytics)
-[← Previous (Fabric)](#primemart-retail--sales--customer-analytics-in-microsoft-fabric) • [Back to TOC](#-main-table-of-contents)
+### 🚕 NYC Yellow Taxi  
+*Optimizing Urban Mobility — NYC Yellow Taxi Analytics Dashboard using Fabric*
+[← Previous](#primemart) • [Back to TOC](#-main-table-of-contents)
 **Company / Context:** Public Data Case Study (NYC Yellow Taxi Dataset)  
 **Tool(s):** Microsoft Fabric (OneLake, Lakehouse, SQL Endpoint, Power BI)  
 
@@ -794,7 +853,8 @@ where fare_amount < 0 or total_amount < 0;
 
 ---
 
-### 🔌 Project Title: FusionPoint Industries — Consumer Electronics Sales Trends & Profitability Analysis  (10Alytics) 
+### 🔌 FusionPoint (ChatGPT)  
+*FusionPoint Industries — AI-assisted Tableau dashboards for sales trends & profitability*  
 [Back to TOC](#-main-table-of-contents)  
 **Company / Context:** FusionPoint Industries (Consumer Electronics) 
 **Tool(s):** Tableau (with AI-assisted exploration- **ChatGPT**)  
