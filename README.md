@@ -427,6 +427,7 @@ Build a **single source of truth in Microsoft Fabric** to enable real-time, cons
 **Queries to power executive reporting and self-service BI:**
 
 - **Top 10 Products by Revenue**
+ ```sql
  SELECT TOP 10
     p.Product_Name,
     round(sum(s.Total_Amount),2) As Total_Revenue
@@ -434,16 +435,20 @@ FROM sales_table s
 JOIN products_table p on s.Product_ID = p.Product_ID
 GROUP BY p.Product_Name
 ORDER BY Total_Revenue DESC;
+```
 
---**Monthly Revenue Trend**
+- **Monthly Revenue Trend**
+```sql
 SELECT
     MONTH(s.Date) as MONTH,
     round(sum(s.Total_Amount),2) As Total_Revenue
 FROM sales_table s
 GROUP BY MONTH(s.Date)
 order BY Total_Revenue desc;
+```
 
---**Regular Customers vs One-Time Customers**
+- **Regular Customers vs One-Time Customers**
+```sql
 SELECT
     c.Customer_ID,
     COUNT(distinct s.Sale_ID) as NumOrders
@@ -452,9 +457,10 @@ SELECT
     ON c.Customer_ID = s.Customer_ID
     GROUP BY c.Customer_ID
     ORDER BY NumOrders ASC;
-   
-    
- --**Regular Customers**
+```
+       
+-**Regular Customers**
+```sql
 SELECT
     c.Customer_ID,
     COUNT(distinct s.Sale_ID) as NumOrders
@@ -463,8 +469,10 @@ SELECT
     ON c.Customer_ID = s.Customer_ID
     GROUP BY c.Customer_ID
     HAVING COUNT(distinct s.Sale_ID) >5
+```
 
---**Repeat Customers**
+-**Repeat Customers**
+```sql
 SELECT
     c.Customer_ID,
     COUNT(distinct s.Sale_ID) as NumOrders
@@ -473,8 +481,10 @@ SELECT
     ON c.Customer_ID = s.Customer_ID
     GROUP BY c.Customer_ID
     HAVING COUNT(distinct s.Sale_ID) =1
+```
 
--- **Repeat VS One-Time Customers (One line each)**
+-**Repeat VS One-Time Customers (One line each)**
+```sql
 WITH orders_per_customer AS (
   SELECT
       s.Customer_ID,
@@ -491,9 +501,10 @@ SELECT
 FROM orders_per_customer AS o
 GROUP BY CASE WHEN o.num_orders = 1 THEN 'One-time' ELSE 'Repeat' END
 ORDER BY customers DESC;
+```
 
-
---**Top 10 Transactions**
+-**Top 10 Transactions**
+```sql
 SELECT TOP 10
     s.Sale_ID,
     s.Date,
@@ -509,10 +520,11 @@ JOIN customers_table c
 JOIN stores_table st
     ON s.Store_ID = st.Store_ID
 Order By s.Total_Amount Desc
+```
 
-
---**Monitor stock levels against sales volume.
+-**Monitor stock levels against sales volume.
 -- Stock vs sales by PRODUCT and STORE**
+```sql
 SELECT
     i.Store_ID,
     p.Product_ID,
@@ -531,9 +543,10 @@ GROUP BY
     i.Store_ID, p.Product_ID, p.Product_Name
 ORDER BY
     i.Store_ID, Remaining_Stock ASC;
+```
 
-
--- **Stock vs sales aggregated across ALL stores**
+-**Stock vs sales aggregated across ALL stores**
+```sql
 SELECT
     p.Product_ID,
     p.Product_Name,
@@ -550,6 +563,7 @@ GROUP BY
     p.Product_ID, p.Product_Name
 ORDER BY
     Remaining_Stock ASC;
+```
 
 📊 Screenshots of Dashboards  
 📸<img width="1437" height="779" alt="Screenshot 2025-09-28 131014" src="https://github.com/user-attachments/assets/684d5165-2e33-4cdc-8c6b-91181e0d4c64" />
@@ -584,60 +598,68 @@ Leverage Microsoft Fabric to build an **end-to-end analytics solution** that ing
 **🔎 SQL Analytics (Fabric SQL Endpoint)**  
 **Queries to support reporting and insights:**  
 
---**What is the Total No of Trips?**
+-**What is the Total No of Trips?**
+```sql
 SELECT trip_year, trip_month, COUNT(*) AS Total_Trips
 FROM nyc_yellow_taxi_enriched
 GROUP BY trip_year, trip_month
 ORDER BY Total_Trips DESC;
+```
 
-
---**What is the Total Revenue by Month?**
+-**What is the Total Revenue by Month?**
+```sql
 SELECT trip_month,ROUND(SUM(total_amount),2) AS Revenue
 FROM nyc_yellow_taxi_enriched
 GROUP BY trip_month
 ORDER BY Revenue DESC;
+```
 
-
---**What is the Average Fare Amount by Month?**
+-**What is the Average Fare Amount by Month?**
+```sql
 SELECT trip_month,ROUND(AVG(fare_amount),2) AS Avg_fare
 FROM nyc_yellow_taxi_enriched
 GROUP BY trip_month
 ORDER BY Avg_fare DESC;
+```
 
-
---**Where are the Most Frequent Pickup Zones?**
+-**Where are the Most Frequent Pickup Zones?**
+```sql
 SELECT TOP 5 PU_Zone, COUNT(*) AS Pickup_Count
 FROM nyc_yellow_taxi_enriched
 GROUP BY PU_Zone
 ORDER BY Pickup_Count DESC;
+```
 
-
---**What is the trip distribution by hour of the day?**
+-**What is the trip distribution by hour of the day?**
+```sql
 SELECT pickup_hour, COUNT(*) AS trip_count
 FROM nyc_yellow_taxi_enriched
 GROUP BY pickup_hour
 ORDER BY trip_count desc;
+```
 
-
---**What is the distribution of payment methods?**
+-**What is the distribution of payment methods?**
+```sql
 SELECT Payment_method, COUNT(*) AS Payment_count
 FROM nyc_yellow_taxi_enriched
 GROUP BY Payment_method
 ORDER BY Payment_count desc;
+```
 
-
---**What is the average tip amount per hour?**
+-**What is the average tip amount per hour?**
+```sql
 SELECT pickup_hour, round(avg(tip_amount), 2) AS avg_tip
 FROM nyc_yellow_taxi_enriched
 GROUP BY pickup_hour
 ORDER BY avg_tip DESC;
+```
 
-
---**Are there trips with suspicious or negative fares?**
+-**Are there trips with suspicious or negative fares?**
+```sql
 SELECT *
 from nyc_yellow_taxi_enriched
 where fare_amount < 0 or total_amount < 0;
-
+```
 
 📊 Screenshots of Dashboards  
 📸<img width="1383" height="789" alt="Screenshot 2025-09-24 222732" src="https://github.com/user-attachments/assets/fb7e26d4-6a10-4882-835f-097ba1d926ad" />
