@@ -9,7 +9,7 @@
 
 Welcome! I work in **Fleet Management but also a Data Analyst** with hands-on experience using **Power BI**, **Excel**, and currently learning **PostgreSQL** and **Tableau**. 
 
-I turn messy data into board-room decisions. 15 % marketing-ROI lift ✔ 30 % reporting-time cut ✔ £1.1 M fleet-capex saved ✔
+I turn messy data into boardroom decisions. 15 % marketing-ROI lift ✔ 30 % reporting-time cut ✔ £1.1 M fleet-capex saved ✔
 This portfolio showcases real-world projects I've completed as part of my learning journey, combining my logistics background with a growing passion for data.
 
 Below is a curated collection of data projects I've built while learning **Power BI**, **Excel**, **PostgreSQL**, and **Tableau**, combining real-world business problems with impactful visual storytelling.
@@ -18,7 +18,7 @@ Below is a curated collection of data projects I've built while learning **Power
 
 ## 🔧 Skills & Tools
 
-- **Power BI** (Data Modeling, DAX, Visuals, Tooltips)
+- **Power BI** (Data Modelling, DAX, Visuals, Tooltips)
 - **Excel** (PivotTables, Charts, Data Cleaning)
 - **DAX & Power Query**
 - **PostgreSQL** (learning)
@@ -45,13 +45,18 @@ Below is a curated collection of data projects I've built while learning **Power
 - [Global Insight Analytics](#-global-insight-analytics--population-trends)
 - [Retail Edge Solutions Analysis](#-retail-edge-solutions-dashboard)
 - [NextGen Corp Employee Success Analytics](#-NextGen-Corp-Employee-Success-Analytics)
+- [Choco De Luxe — Unlocking Sales Insights Through Data Visualisation](#choco-de-luxe--unlocking-sales-insights)  
+- [FusionPoint Industries — Consumer Electronics Sales Trends & Profitability Analysis](#fusionpoint-industries--consumer-electronics)  
+- [PrimeMart Retail — Sales & Customer Analytics in Microsoft Fabric](#primemart-retail--sales-customer-analytics)  
+- [Optimising Urban Mobility — NYC Yellow Taxi Analytics Dashboard](#nyc-yellow-taxi-analytics-dashboard)  
+
 ---
 
 ## 📁 Projects
 
 ### 🚗 Fleet Operations Dashboard  
 **Tool:** Power BI  
-Analyzed fuel usage, downtime, and maintenance costs across multiple vehicles.  
+Analysed fuel usage, downtime, and maintenance costs across multiple vehicles.  
 - Highlighted top maintenance cost drivers  
 - Tracked operational performance over time  
 - Dataset: `Fleet_Operations_Data.csv`, `TriFleet Data.xlsx`
@@ -62,7 +67,7 @@ Analyzed fuel usage, downtime, and maintenance costs across multiple vehicles.
 
 ### 🏪 Retail Chain Revenue Insights  (10Alytics)
 **Tool:** Power BI  
-Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to analyze sales and profit.  
+Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to analyse sales and profit.  
 - Ranked stores by performance  
 - Identified best-selling products  
 - Dashboards created from: `Costco_Data.xlsx`, `Target_Data.xlsx`, `Walmart_Data.xlsx`, `Walgreens_Data.xlsx`
@@ -72,7 +77,7 @@ Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to ana
 
 ### 🍪 Cookie Profitability Review – Dreamy Bites  (10Alytics)
 **Tool:** Power BI  
-Analyzed updated cookie pricing and cost structure from business memo.  
+Analysed updated cookie pricing and cost structure from the business memo.  
 - Evaluated gross margins across 6 cookie types  
 - Created pricing model with profitability flags  
 - Source: `Dreamy Bites Report.pdf`
@@ -85,7 +90,7 @@ Analyzed updated cookie pricing and cost structure from business memo.
 **Tool:** Power BI  
 - Tracked overall sales metrics with month-over-month comparisons.
 - Highlighted the top-performing and underperforming drugs and customers based on dynamic measures.
-- Created  Dynamic charts with selected metrix, ranking metric, etc
+- Created  Dynamic charts with selected metrics, ranking metric, etc
 - Provided insights into customer demographics, revenue distribution by buyer type, and purchasing behaviour. Additionally,
 - Included geographical sales insights, highlighting key revenue sources
 📸 ![Screenshot 2025-05-25 161501](https://github.com/user-attachments/assets/717b0e09-960d-4049-b292-62204937c7f4)
@@ -109,9 +114,9 @@ To build a data model and also build an interactive dashboard that will enable f
 
 ### 🏥 Riverside General Hospital Analysis  (10Alytics)
 **Tool:** Draw.io 
-They had its data as a flat file therefore struggled with Scalability and Integration.  
-- Designed a data model that organized their data for streamlined analysis.
-- Created well-structured relationships and optimizing the data schema.  
+They had their data as a flat file; therefore struggled with Scalability and Integration.  
+- Designed a data model that organised their data for streamlined analysis.
+- Created well-structured relationships and optimised the data schema.  
 - Source: `Riverside General Hospital.xlsx`
 📸 ![Screenshot 2025-05-24 162344](https://github.com/user-attachments/assets/670292e6-6076-43a4-9515-275bdc1a2d48)
 
@@ -130,7 +135,7 @@ Built an end-to-end sales and profit dashboard for a fashion retailer.
 ### ☕ Café Harmony Capstone Project  (10Alytics)
 **Tool:** Excel  
 Used simulated sales and operational data to generate business recommendations.  
-- Visualized order trends by day and product type  
+- Visualised order trends by day and product type  
 - Evaluated peak hours, pricing impact, and café profitability  
 - Source: `Cafe_Harmony_Capstone_Project.xlsx`
 📸 ![Screenshot 2025-05-12 231933](https://github.com/user-attachments/assets/3554342c-a1ac-4745-8091-230dd7c2cca5)
@@ -150,7 +155,7 @@ Explored trends in life expectancy using WHO-sourced data.
 
 ### 🧠 Mental Health Dataset Analysis  (10Alytics)
 **Tool:** Power BI  
-Analyzed suicide rates across gender, country, and year using WHO-sourced data.  
+Analysed suicide rates across gender, country, and year using WHO-sourced data.  
 - Identified age groups with higher risk trends  
 📁 File: `SuicidalDataset.csv`
 📸 ![Screenshot 2025-05-18 195537](https://github.com/user-attachments/assets/f1edd98c-c542-45d5-930d-b71645b81e89)
@@ -161,7 +166,7 @@ Analyzed suicide rates across gender, country, and year using WHO-sourced data.
 ### 👩‍💼 HR Attrition – Employee Retention Dashboard  (DiveAfrica)
 **Tool:** Power BI  
 Built a clean dashboard to help HR teams track and reduce turnover.  
-- Pinpointed age groups and departments with highest attrition  
+- Pinpointed age groups and departments with the highest attrition  
 - Tracked resignation trends over time  
 - Dataset: `HR-Employee-Attrition.csv`
 📸 ![Screenshot 2025-05-06 175001](https://github.com/user-attachments/assets/f2c9bed6-5259-4e86-ac4a-702983089111)
@@ -173,7 +178,7 @@ Built a clean dashboard to help HR teams track and reduce turnover.
 
 ### 📊 Sales Performance Dashboard  (10Alytics)
 **Tool:** Excel  
-Analyzed over 34,000 transactions to visualize profit trends, product category performance, and customer insights.  
+Analysed over 34,000 transactions to visualise profit trends, product category performance, and customer insights.  
 - 📈 Monthly profit trends (2015–2016)  
 - 👥 Profit breakdown by gender and age group  
 - 🛍️ Top products: Phones, Clothing, Accessories  
@@ -189,7 +194,7 @@ Tracked profitability by product category, seller, state, and month.
 - 💰 Total Sales: $981K | Profit: $448K  
 - 📊 Top category: Sports & Fitness (48% profit margin)  
 - 🧑‍💼 Seller breakdown shows Bob and Alice as top contributors  
-- 🗺️ California recorded highest state-wise sales  
+- 🗺️ California recorded the highest state-wise sales  
 📸 ![Screenshot 2025-05-06 173052](https://github.com/user-attachments/assets/1551cc34-a964-4682-b8ce-e317117956ce)
 
 
@@ -197,7 +202,7 @@ Tracked profitability by product category, seller, state, and month.
 
 ### 🎰 Betting Insights Dashboard  (10Alytics)
 **Tool:** Excel  
-Visualized customer behavior, bank usage, and transaction trends in January.  
+Visualised customer behaviour, bank usage, and transaction trends in January.  
 - 💵 Total Deposit: ₦13.87M | Transactions: 229  
 - 🧑‍🤝‍🧑 Top loyal customers identified by count  
 - 🏦 Most used banks: GTBank, First Bank  
@@ -293,7 +298,7 @@ The HR department needs a data-driven approach to:
 📸 <img width="547" height="220" alt="Screenshot 2025-07-29 021307" src="https://github.com/user-attachments/assets/c4db4329-ed41-4627-96bf-d7a0ce437139" />
 
 - C. SALARY ANALYSIS
--   Goal: Analyze salary distribution and ensure fair compensation based on performance and departmental benchmarks.
+-   Goal: Analyse salary distribution and ensure fair compensation based on performance and departmental benchmarks.
 
 - 1. WHAT IS THE TOTAL SALARY EXPENSE FOR THE COMPANY?
 <img width="1118" height="104" alt="Screenshot 2025-07-29 023812" src="https://github.com/user-attachments/assets/04010974-e87f-4d52-8aec-c609c2ee6ea0" />
@@ -318,6 +323,342 @@ The HR department needs a data-driven approach to:
 
 
 📸 <img width="667" height="214" alt="Screenshot 2025-07-29 021806" src="https://github.com/user-attachments/assets/b1ceb71a-c4de-492d-b6d2-686b7ce0c8f3" />
+
+
+---
+
+### 🍫 Choco De Luxe: Unlocking Sales Insights Through Data Visualisation (Tableau Capstone Project)
+
+**Tool:** Tableau
+
+From raw sales data to interactive dashboards.  
+
+- Analysing **Choco De Luxe’s sales performance** across locations, sales channels, and product lines to uncover patterns, inefficiencies, and growth opportunities.  
+- Producing **interactive Tableau dashboards** to help business leaders make informed decisions on product positioning and channel strategy.  
+- Delivering **data-driven insights** on profitability, salesperson performance, and consumer preferences.  
+
+**Expectations & Insights Explored:**
+- **Location Sales Performance:** Compare sales volume and delivery success to identify high vs. underperforming locations.  
+- **Channel Effectiveness:** Analyse how different sales channels impact profitability and transaction volume.  
+- **Salesperson Productivity:** Examine performance by sales value and volume, assuming a €100,000 profit target for each salesperson.  
+- **Product-Level Profitability:** Evaluate margin contributions at product line and product category levels.  
+- **Organic Product Demand:** Compare organic vs. non-organic sales by channel to guide product development and marketing strategy.  
+
+📊 **Screenshots of Interactive Dashboards**  
+📸<img width="1602" height="859" alt="Screenshot 2025-08-31 121647" src="https://github.com/user-attachments/assets/1cd39d69-dec7-4a7b-b93b-37ce437a765c" />
+  <img width="1593" height="857" alt="Screenshot 2025-08-31 121806" src="https://github.com/user-attachments/assets/016d0d1d-9cfb-44f4-b1ad-4e7b6e13cf54" />
+
+**✅ Outcome**  
+Business leaders can now make informed decisions on:  
+- Optimising sales channels  
+- Improving workforce productivity  
+- Refining product development and marketing strategies
+
+---
+
+### 🔌 Project Title: FusionPoint Industries — Consumer Electronics Sales Trends & Profitability Analysis  
+**Company / Context:** FusionPoint Industries (Consumer Electronics)  
+**Tool(s):** Tableau (with AI-assisted exploration- **ChatGPT**)  
+
+**📌 Project Aim**  
+To analyse sales performance across products, sub-categories, and regions to identify high- and low-performing segments, measure profitability trends, evaluate customer purchasing behaviour, and optimise pricing and inventory strategies.  
+
+**🎯 Key Objectives**  
+- **Product & Regional Sales Performance:** Identify high- and low-performing categories, sub-categories, and regions.  
+- **Profitability Trends:** Measure margins by category, sub-category, and sales channel to support profit-driven decision-making.  
+- **Customer Behaviour:** Analyse purchasing patterns and payment preferences to inform customer-centric strategies.  
+- **Demand Patterns:** Identify demand fluctuations across time and geographies to optimise supply chain planning.  
+- **Pricing & Discounts:** Assess the impact of discounts and pricing strategies on revenue and profit margins.  
+- **Actionable Recommendations:** Support long-term marketing, pricing, and product portfolio strategies for sustainable growth.  
+
+**🛠️ Approach**  
+**Step 1 — Data Collection & Preparation**  
+- Gathered raw sales transaction data  
+- Cleaned and preprocessed for consistency and completeness  
+
+**Step 2 — Data Exploration & Descriptive Analytics**  
+- Applied AI-assisted exploration to uncover patterns, outliers, and trends  
+
+**Step 3 — Insight Visualisation & Reporting**  
+- Built interactive Tableau dashboards with AI features for smart recommendations  
+- Documented findings in structured reports and slide decks  
+
+**Step 4 — Recommendations**  
+- Summarised actionable findings supported by AI-enhanced insights  
+- Delivered guidance on **pricing, product assortment, and customer outreach**  
+
+📊 Screenshots of Dashboards  
+📸<img width="1587" height="850" alt="Screenshot 2025-10-03 175847" src="https://github.com/user-attachments/assets/00eec2e2-cfc3-474c-ac15-7298521108a1" />
+   <img width="1584" height="846" alt="Screenshot 2025-10-03 175907" src="https://github.com/user-attachments/assets/661291e1-1d0e-48a8-91db-2f0a9ea9ca38" />
+   <img width="1586" height="845" alt="Screenshot 2025-10-03 175922" src="https://github.com/user-attachments/assets/3ff00a17-3461-45bf-98c5-402c417a89a9" />
+   <img width="1585" height="844" alt="Screenshot 2025-10-03 175951" src="https://github.com/user-attachments/assets/10465592-3d7c-4d39-b3f3-c5a8bf02d9de" />
+   <img width="1586" height="846" alt="Screenshot 2025-10-03 180005" src="https://github.com/user-attachments/assets/840c434a-736a-4b4b-9533-760e89e51828" />
+   <img width="1584" height="848" alt="Screenshot 2025-10-03 180023" src="https://github.com/user-attachments/assets/993b403e-8538-4365-b347-ec1b736a43cb" />
+
+
+   ---
+
+### 🧱 Project Title: PrimeMart Retail — Sales & Customer Analytics in Microsoft Fabric  
+**Company / Context:** PrimeMart Retail Ltd. (Omnichannel Retail)  
+**Tool(s):** Microsoft Fabric (OneLake, Lakehouse), SQL Endpoint, Data Factory (pipelines), Power BI, Notebooks (optional)
+
+**📌 Problem Statement**  
+PrimeMart’s data is fragmented across daily Excel exports (sales), manual inventory updates, and siloed customer feedback databases. This causes:  
+- **Delayed reporting** — insights arrive weekly/monthly instead of real-time.  
+- **Data inconsistency** — conflicting sales/revenue/stock figures across departments.  
+- **Limited analytics** — difficult to spot top sellers, buying trends, or stock shortages.  
+- **Reactive decisions** — missed opportunities to optimise pricing, promotions, and inventory.  
+
+**🎯 Project Aim**  
+Build a **single source of truth in Microsoft Fabric** to enable real-time, consistent, and actionable analytics across sales, inventory, and customer behaviour.
+
+**🛠️ Approach**  
+**Data Architecture (Medallion):**  
+- **Bronze (Raw):** Land source files in **OneLake** (store sales, inventory, customer feedback).  
+- **Silver (Cleaned):** Standardise schemas, fix types/keys, deduplicate records.  
+- **Gold (Analytics-Ready):** Star/Snowflake models for Sales, Inventory, Customers, Products.
+
+**Pipelines & Models:**  
+- Orchestrate ingestion with **Data Factory** (scheduled/triggered).  
+- Transform with **Notebooks / Dataflows Gen2** to enforce business rules & SCD where needed.  
+- Expose **SQL Endpoint** for governed, fast analytics.
+
+**🔎 SQL Analytics (Fabric SQL Endpoint)**  
+**Queries to power executive reporting and self-service BI:**
+
+- **Top 10 Products by Revenue**
+ SELECT TOP 10
+    p.Product_Name,
+    round(sum(s.Total_Amount),2) As Total_Revenue
+FROM sales_table s
+JOIN products_table p on s.Product_ID = p.Product_ID
+GROUP BY p.Product_Name
+ORDER BY Total_Revenue DESC;
+
+--**Monthly Revenue Trend**
+SELECT
+    MONTH(s.Date) as MONTH,
+    round(sum(s.Total_Amount),2) As Total_Revenue
+FROM sales_table s
+GROUP BY MONTH(s.Date)
+order BY Total_Revenue desc;
+
+--**Regular Customers vs One-Time Customers**
+SELECT
+    c.Customer_ID,
+    COUNT(distinct s.Sale_ID) as NumOrders
+    FROM customers_table c
+    join sales_table s
+    ON c.Customer_ID = s.Customer_ID
+    GROUP BY c.Customer_ID
+    ORDER BY NumOrders ASC;
+   
+    
+ --**Regular Customers**
+SELECT
+    c.Customer_ID,
+    COUNT(distinct s.Sale_ID) as NumOrders
+    FROM customers_table c
+    join sales_table s
+    ON c.Customer_ID = s.Customer_ID
+    GROUP BY c.Customer_ID
+    HAVING COUNT(distinct s.Sale_ID) >5
+
+--**Repeat Customers**
+SELECT
+    c.Customer_ID,
+    COUNT(distinct s.Sale_ID) as NumOrders
+    FROM customers_table c
+    join sales_table s
+    ON c.Customer_ID = s.Customer_ID
+    GROUP BY c.Customer_ID
+    HAVING COUNT(distinct s.Sale_ID) =1
+
+-- **Repeat VS One-Time Customers (One line each)**
+WITH orders_per_customer AS (
+  SELECT
+      s.Customer_ID,
+      COUNT(DISTINCT s.Sale_ID)              AS num_orders,
+      SUM(CAST(s.Total_Amount AS float))     AS revenue  -- or s.line_total
+  FROM sales_table s
+  GROUP BY s.Customer_ID
+)
+SELECT
+  CASE WHEN o.num_orders = 1 THEN 'One-time' ELSE 'Repeat' END AS customer_type,
+  COUNT(*)                                 AS customers,
+  SUM(o.revenue)                           AS total_revenue,
+  AVG(o.revenue)                           AS avg_revenue_per_customer
+FROM orders_per_customer AS o
+GROUP BY CASE WHEN o.num_orders = 1 THEN 'One-time' ELSE 'Repeat' END
+ORDER BY customers DESC;
+
+
+--**Top 10 Transactions**
+SELECT TOP 10
+    s.Sale_ID,
+    s.Date,
+    s.Total_Amount,
+    p.Product_Name,
+    c.Customer_Name,
+    st.Store_Name
+FROM sales_table s
+JOIN products_table p
+    ON s.Product_ID = p.Product_ID
+JOIN customers_table c
+    on s.Customer_ID = c.Customer_ID
+JOIN stores_table st
+    ON s.Store_ID = st.Store_ID
+Order By s.Total_Amount Desc
+
+
+--**Monitor stock levels against sales volume.
+-- Stock vs sales by PRODUCT and STORE**
+SELECT
+    i.Store_ID,
+    p.Product_ID,
+    p.Product_Name,
+    SUM(COALESCE(i.Stock_Level, 0))                   AS Stock_Level,
+    SUM(COALESCE(s.Quantity, 0))                      AS Total_Sales,
+    SUM(COALESCE(i.Stock_Level, 0)) 
+      - SUM(COALESCE(s.Quantity, 0))                  AS Remaining_Stock
+FROM inventory_table AS i
+JOIN products_table  AS p
+  ON p.Product_ID = i.Product_ID
+LEFT JOIN sales_table AS s
+  ON s.Product_ID = i.Product_ID
+ AND s.Store_ID   = i.Store_ID
+GROUP BY
+    i.Store_ID, p.Product_ID, p.Product_Name
+ORDER BY
+    i.Store_ID, Remaining_Stock ASC;
+
+
+-- **Stock vs sales aggregated across ALL stores**
+SELECT
+    p.Product_ID,
+    p.Product_Name,
+    SUM(COALESCE(i.Stock_Level, 0))                   AS Stock_Level,
+    SUM(COALESCE(s.Quantity, 0))                      AS Total_Sales,
+    SUM(COALESCE(i.Stock_Level, 0))
+      - SUM(COALESCE(s.Quantity, 0))                  AS Remaining_Stock
+FROM products_table AS p
+LEFT JOIN inventory_table AS i
+  ON p.Product_ID = i.Product_ID
+LEFT JOIN sales_table AS s
+  ON p.Product_ID = s.Product_ID
+GROUP BY
+    p.Product_ID, p.Product_Name
+ORDER BY
+    Remaining_Stock ASC;
+
+📊 Screenshots of Dashboards  
+📸<img width="1437" height="779" alt="Screenshot 2025-09-28 131014" src="https://github.com/user-attachments/assets/684d5165-2e33-4cdc-8c6b-91181e0d4c64" />
+
+
+
+---
+
+### 🚕 Project Title: Optimising Urban Mobility — NYC Yellow Taxi Analytics Dashboard  
+**Company / Context:** Public Data Case Study (NYC Yellow Taxi Dataset)  
+**Tool(s):** Microsoft Fabric (OneLake, Lakehouse, SQL Endpoint, Power BI)  
+
+**📌 Problem Statement**  
+The New York City taxi industry generates massive amounts of trip data daily. However, without a unified analytics pipeline, extracting meaningful insights is challenging. This results in:  
+- **Missed insights** — difficulty identifying peak travel demand across time and zones.  
+- **Inefficient operations** — lack of clear visibility into revenue, trip lengths, and customer demand patterns.  
+- **Fragmented reporting** — raw trip data is not optimised for decision-making or interactive reporting.  
+
+**🎯 Project Aim**  
+Leverage Microsoft Fabric to build an **end-to-end analytics solution** that ingests, processes, and visualises NYC Yellow Taxi trip data to uncover trends in urban mobility and support transportation planning.  
+
+**🛠️ Approach**  
+**Data Architecture (Medallion):**  
+- **Bronze (Raw):** Ingest raw taxi trip CSV/parquet data into **OneLake**.  
+- **Silver (Cleaned):** Clean schema, fix outliers (e.g., negative fares/distances), standardise timestamps.  
+- **Gold (Analytics-Ready):** Create aggregated fact tables for **Trips, Revenue, Zones, and Time**.  
+
+**Data Processing & Queries:**  
+- Use **SQL Endpoint / Lakehouse SQL Editor** for analysis and transformations.  
+- Build summarised tables/views for Power BI dashboards.  
+
+**🔎 SQL Analytics (Fabric SQL Endpoint)**  
+**Queries to support reporting and insights:**  
+
+--**What is the Total No of Trips?**
+SELECT trip_year, trip_month, COUNT(*) AS Total_Trips
+FROM nyc_yellow_taxi_enriched
+GROUP BY trip_year, trip_month
+ORDER BY Total_Trips DESC;
+
+
+--**What is the Total Revenue by Month?**
+SELECT trip_month,ROUND(SUM(total_amount),2) AS Revenue
+FROM nyc_yellow_taxi_enriched
+GROUP BY trip_month
+ORDER BY Revenue DESC;
+
+
+--**What is the Average Fare Amount by Month?**
+SELECT trip_month,ROUND(AVG(fare_amount),2) AS Avg_fare
+FROM nyc_yellow_taxi_enriched
+GROUP BY trip_month
+ORDER BY Avg_fare DESC;
+
+
+--**Where are the Most Frequent Pickup Zones?**
+SELECT TOP 5 PU_Zone, COUNT(*) AS Pickup_Count
+FROM nyc_yellow_taxi_enriched
+GROUP BY PU_Zone
+ORDER BY Pickup_Count DESC;
+
+
+--**What is the trip distribution by hour of the day?**
+SELECT pickup_hour, COUNT(*) AS trip_count
+FROM nyc_yellow_taxi_enriched
+GROUP BY pickup_hour
+ORDER BY trip_count desc;
+
+
+--**What is the distribution of payment methods?**
+SELECT Payment_method, COUNT(*) AS Payment_count
+FROM nyc_yellow_taxi_enriched
+GROUP BY Payment_method
+ORDER BY Payment_count desc;
+
+
+--**What is the average tip amount per hour?**
+SELECT pickup_hour, round(avg(tip_amount), 2) AS avg_tip
+FROM nyc_yellow_taxi_enriched
+GROUP BY pickup_hour
+ORDER BY avg_tip DESC;
+
+
+--**Are there trips with suspicious or negative fares?**
+SELECT *
+from nyc_yellow_taxi_enriched
+where fare_amount < 0 or total_amount < 0;
+
+
+📊 Screenshots of Dashboards  
+📸<img width="1383" height="789" alt="Screenshot 2025-09-24 222732" src="https://github.com/user-attachments/assets/fb7e26d4-6a10-4882-835f-097ba1d926ad" />
+   <img width="999" height="776" alt="Screenshot 2025-09-27 170038" src="https://github.com/user-attachments/assets/c1593aba-871b-4f96-8c8b-43b79f42bc0a" />
+
+
+**✅ Rationale & Outcomes**
+1. **Data-Driven Decision-Making**  
+   - Enabled leadership to base decisions on evidence rather than assumptions.  
+   - Improved accuracy in pricing, marketing, and inventory strategies.  
+
+2. **Profitability Optimization**  
+   - Identified products, regions, and customer segments with the highest returns.  
+   - Helped allocate resources to maximise revenue and reduce unnecessary costs.  
+
+3. **Competitive Advantage through AI**  
+   - Leveraged AI-driven analytics to uncover hidden sales patterns.  
+   - Delivered actionable insights faster, strengthening FusionPoint’s market edge.  
+
+
+
 
 
 ---
