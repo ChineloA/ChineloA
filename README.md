@@ -58,7 +58,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🏪 Retail Store](#-retail-store)  
 - [🍪 Dreamy Bites](#-dreamy-bites)  
 - [👥 Novamed](#-novamed)  
-- [📉 Deskify](#📉deskify) 
+- [📉 Deskify](#deskify) 
 - [🧵 Aurora Threads](#-aurora-threads)  
 - [🌍 Life Expectancy](#-life-expectancy)  
 - [🧠 Mental Health](#-mental-health)  
