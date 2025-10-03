@@ -54,7 +54,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 # 📑 Main Table of Contents  
 
 ### 🔷 Power BI Projects  
-- [🚗 Fleet Operations](#🚗fleet-operations)  
+- [🚗 Fleet Operations](#fleet-operations)  
 - [🏪 Retail Store](#-retail-store)  
 - [🍪 Dreamy Bites](#-dreamy-bites)  
 - [👥 Novamed](#-novamed)  
