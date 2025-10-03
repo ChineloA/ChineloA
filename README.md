@@ -77,7 +77,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 ### 📊 Tableau Projects  
 - [🍫 Choco De Luxe](#-choco-de-luxe)  
-- [🔌 FusionPoint](#🔌fusionpoint) 
+- [🔌 FusionPoint](#fusionpoint) 
 
 ### 🗄 SQL Projects  
 - [🌍 NextGen](#-nextgen)  
@@ -111,7 +111,7 @@ Analysed fuel usage, downtime, and maintenance costs across multiple vehicles.
 
 ### 🏪 Retail Store  
 *Retail Store Performance Dashboard — Analysing sales, revenue, and customer trends*  
-[← Previous](#🚗fleet-operations) • [Back to TOC](#-main-table-of-contents) • [Next →](#-dreamy-bites)
+[← Previous](#fleet-operations) • [Back to TOC](#-main-table-of-contents) • [Next →](#-dreamy-bites)
 **Tool:** Power BI  
 Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to analyse sales and profit.  
 - Ranked stores by performance  
@@ -136,7 +136,7 @@ Analysed updated cookie pricing and cost structure from the business memo.
 
 ### 👥 Novamed  
 *Novamed Solutions — Top/Bottom Analysis & Revenue Trends*  
-[← Previous](#-dreamy-bites) • [Back to TOC](#-main-table-of-contents) • [Next →](#📉deskify)
+[← Previous](#-dreamy-bites) • [Back to TOC](#-main-table-of-contents) • [Next →](#deskify)
 **Tool:** Power BI  
 - Tracked overall sales metrics with month-over-month comparisons.
 - Highlighted the top-performing and underperforming drugs and customers based on dynamic measures.
@@ -165,7 +165,7 @@ To build a data model and also build an interactive dashboard that will enable f
 
 ### 🧵 Aurora Threads  
 *Aurora Threads Sales Dashboard — E-commerce profitability and customer insights*  
-[← Previous](#📉deskify) • [Back to TOC](#-main-table-of-contents) • [Next →](#-life-expectancy)
+[← Previous](#deskify) • [Back to TOC](#-main-table-of-contents) • [Next →](#-life-expectancy)
 **Tool:** Power BI  
 Built an end-to-end sales and profit dashboard for a fashion retailer.  
 - Compared performance across multiple customer segments  
@@ -191,7 +191,7 @@ Explored trends in life expectancy using WHO-sourced data.
 
 ### 🧠 Mental Health  
 *Mental Health Dataset Analysis — Patterns and correlations in survey data* 
-[← Previous](#-life-expectancy) • [Back to TOC](#-main-table-of-contents) • [Next →](#-hr-employee-attrition)
+[← Previous](#-life-expectancy) • [Back to TOC](#-main-table-of-contents) • [Next →](#%E2%80%8D-hr-employee-attrition)
 **Tool:** Power BI  
 Analysed suicide rates across gender, country, and year using WHO-sourced data.  
 - Identified age groups with higher risk trends  
@@ -220,7 +220,7 @@ Built a clean dashboard to help HR teams track and reduce turnover.
 
 ### 🌍 Global Insight  
 *Global Insight Analytics — Population trends and growth projections* 
-[← Previous](#-hr-employee-attrition) • [Back to TOC](#-main-table-of-contents) • [Next →](#-retail-edge)
+[← Previous](#%E2%80%8D-hr-employee-attrition) • [Back to TOC](#-main-table-of-contents) • [Next →](#-retail-edge)
 **Tool:** Power BI  
 Explored global population growth by region, religion, and country (1955–2025).  
 - 🌐 Total projected population: 8.2B by 2025  
@@ -339,7 +339,7 @@ They had their data as a flat file; therefore struggled with Scalability and Int
 
 ### 🍫 Choco De Luxe  
 *Unlocking Sales Insights Through Data Visualization for a European Artisanal Chocolate Brand*
-[Back to TOC](#-main-table-of-contents) • [Next →](#🔌fusionpoint)
+[Back to TOC](#-main-table-of-contents) • [Next →](#fusionpoint)
 **Tool:** Tableau
 
 From raw sales data to interactive dashboards.  
