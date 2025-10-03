@@ -7,12 +7,25 @@
 
 ## 1. About Me | Data Storyteller & Insight Catalyst
 
-Welcome! I work in **Fleet Management but also a Data Analyst** with hands-on experience using **Power BI**, **Excel**, and currently learning **PostgreSQL** and **Tableau**. 
+👋 Hi, I'm Nelo
 
-I turn messy data into boardroom decisions. 15 % marketing-ROI lift ✔ 30 % reporting-time cut ✔ £1.1 M fleet-capex saved ✔
-This portfolio showcases real-world projects I've completed as part of my learning journey, combining my logistics background with a growing passion for data.
+Welcome to my Data Analytics Portfolio!
+This repository showcases projects I’ve worked on using Power BI, Tableau, Microsoft Fabric, Excel, SQL, and Data Modelling.
 
-Below is a curated collection of data projects I've built while learning **Power BI**, **Excel**, **PostgreSQL**, and **Tableau**, combining real-world business problems with impactful visual storytelling.
+Each project highlights different aspects of my analytics journey — from data cleaning & modelling to interactive dashboards, storytelling, and advanced insights.
+
+---
+
+## 🛠 Tools & Technologies  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ERD%20Modeling-FF6F00?style=for-the-badge&logo=diagrams.net&logoColor=white" />
+</p>  
 
 ---
 
@@ -24,39 +37,77 @@ Below is a curated collection of data projects I've built while learning **Power
 - **PostgreSQL** (learning)
 - **Tableau** (learning)
 - **Data Storytelling & Insight Communication**
+  
+---
+
+## 📂 About this Portfolio
+
+📊 Business Intelligence Dashboards — Power BI & Tableau projects showcasing interactive analytics and storytelling.
+
+🧱 Modern Data Engineering — Microsoft Fabric case studies with medallion architecture and SQL analytics.
+
+📑 Excel Reporting — Classic analysis & visualization for sales, profitability, and customer insights.
+
+🗄 SQL / Databases — PostgreSQL projects + ERD modeling for database design and insights.
+
+👉 Scroll down to explore the full Table of Contents of projects!
+
+
+---
+
+# 📊 Data Analytics Portfolio — Navigation  
+
+This file contains the **navigation structure** for my portfolio projects.  
+Use the **Table of Contents** below to jump directly to projects, or use the **Prev / TOC / Next** links inside each project to browse smoothly.  
 
 ---
 ## 📚 Table of Contents
+# 📑 Main Table of Contents
 
-## 📑 Table of Contents  
+### 🔷 Power BI Projects
+- [Fleet Operations Dashboard](#fleet-operations-dashboard)
+- [Retail Store Performance Dashboard](#retail-store-performance-dashboard)
+- [Dreamy Bites Profit Analysis](#dreamy-bites-profit-analysis)
+- [Novamed Solutions Top/Bottom Analysis & Revenue Trends](#novamed-solutions-topbottom-analysis--revenue-trends)
+- [Deskify Office Supplies Report](#deskify-office-supplies-report)
+- [Aurora Threads Sales Dashboard](#aurora-threads-sales-dashboard)
+- [Life Expectancy at Birth](#life-expectancy-at-birth)
+- [Mental Health Dataset Analysis](#mental-health-dataset-analysis)
+- [HR Employee Attrition](#hr-employee-attrition)
+- [Global Insight Analytics — Population Trends](#global-insight-analytics--population-trends)
+- [Retail Edge Solutions Analysis](#retail-edge-solutions-analysis)
 
-- [Fleet Operations Dashboard](#fleet-operations-dashboard)  
-- [Retail Store Performance Dashboard](#retail-store-performance-dashboard)  
-- [Dreamy Bites Profit Analysis](#dreamy-bites-profit-analysis)  
-- [Novamed Solutions Top/Bottom Analysis & Revenue Trends](#novamed-solutions-topbottom-analysis--revenue-trends)  
-- [Deskify Office Supplies Report](#deskify-office-supplies-report)  
-- [Riverside General Hospital Report](#riverside-general-hospital-report)  
-- [Aurora Threads Sales Dashboard](#aurora-threads-sales-dashboard)  
-- [Café Harmony Capstone Project](#café-harmony-capstone-project)  
-- [Life Expectancy at Birth](#life-expectancy-at-birth)  
-- [Mental Health Dataset Analysis](#mental-health-dataset-analysis)  
-- [HR Employee Attrition](#hr-employee-attrition)  
-- [10Alytics Sales Performance Dashboard](#10alytics-sales-performance-dashboard)  
-- [Sales & Profitability Dashboard](#sales--profitability-dashboard)  
-- [Betting Insights Dashboard](#betting-insights-dashboard)  
-- [Global Insight Analytics — Population Trends](#global-insight-analytics--population-trends)  
-- [Retail Edge Solutions Analysis](#retail-edge-solutions-analysis)  
-- [NextGen Corp Employee Success Analytics](#nextgen-corp-employee-success-analytics)  
-- [Choco De Luxe — Unlocking Sales Insights Through Data Visualisation](#choco-de-luxe--unlocking-sales-insights-through-data-visualisation)  
-- [FusionPoint Industries — Consumer Electronics Sales Trends & Profitability Analysis](#fusionpoint-industries--consumer-electronics-sales-trends--profitability-analysis)  
-- [PrimeMart Retail — Sales & Customer Analytics in Microsoft Fabric](#primemart-retail--sales--customer-analytics-in-microsoft-fabric)  
+### 📑 Excel Projects
+- [Café Harmony Capstone Project](#café-harmony-capstone-project)
+- [10Alytics Sales Performance Dashboard](#10alytics-sales-performance-dashboard)
+- [Sales & Profitability Dashboard](#sales--profitability-dashboard)
+- [Betting Insights Dashboard](#betting-insights-dashboard)
+
+### 📝 Draw.io (ERD / Data Modelling)
+- [Riverside General Hospital Report](#riverside-general-hospital-report)
+
+### 📊 Tableau Projects
+- [Choco De Luxe — Unlocking Sales Insights Through Data Visualisation](#choco-de-luxe--unlocking-sales-insights-through-data-visualisation)
+- [FusionPoint Industries — Consumer Electronics Sales Trends & Profitability Analysis](#fusionpoint-industries--consumer-electronics-sales-trends--profitability-analysis)
+
+### 🗄 SQL / Database Projects
+- [NextGen Corp Employee Success Analytics](#nextgen-corp-employee-success-analytics)
+
+### 🧱 Microsoft Fabric Projects
+- [PrimeMart Retail — Sales & Customer Analytics in Microsoft Fabric](#primemart-retail--sales--customer-analytics-in-microsoft-fabric)
 - [Optimising Urban Mobility — NYC Yellow Taxi Analytics Dashboard](#optimising-urban-mobility--nyc-yellow-taxi-analytics-dashboard)
-- 
+
+### 🤖 ChatGPT + Tableau Projects
+- [FusionPoint Industries — Consumer Electronics Sales Trends & Profitability Analysis](#fusionpoint-industries--consumer-electronics-sales-trends--profitability-analysis)
+
 ---
 
-## 📁 Projects
+# 🔷 Power BI Projects  
+**Quick Links:**  
+[⬆ Back to Main TOC](#-main-table-of-contents) • [⏭ Jump to Excel Projects](#-excel-projects)  
 
 ### 🚗 Fleet Operations Dashboard  
+[Back to TOC](#-main-table-of-contents) • [Next (Power BI) →](#retail-store-performance-dashboard)
 **Tool:** Power BI  
 Analysed fuel usage, downtime, and maintenance costs across multiple vehicles.  
 - Highlighted top maintenance cost drivers  
@@ -68,6 +119,7 @@ Analysed fuel usage, downtime, and maintenance costs across multiple vehicles.
 ---
 
 ### 🏪 Retail Store Performance Dashboard  (10Alytics)
+[← Previous (Power BI)](#fleet-operations-dashboard) • [Back to TOC](#-main-table-of-contents) • [Next (Power BI) →](#dreamy-bites-profit-analysis)
 **Tool:** Power BI  
 Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to analyse sales and profit.  
 - Ranked stores by performance  
@@ -78,6 +130,7 @@ Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to ana
 ---
 
 ### 🍪 Dreamy Bites Profit Analysis  (10Alytics)
+[← Previous (Power BI)](#retail-store-performance-dashboard) • [Back to TOC](#-main-table-of-contents) • [Next (Power BI) →](#novamed-solutions-topbottom-analysis--revenue-trends)
 **Tool:** Power BI  
 Analysed updated cookie pricing and cost structure from the business memo.  
 - Evaluated gross margins across 6 cookie types  
@@ -89,6 +142,7 @@ Analysed updated cookie pricing and cost structure from the business memo.
 ---
 
 ### 👥 Novamed Solutions Top/Bottom Analysis & Revenue Trends  (10Alytics)
+[← Previous (Power BI)](#dreamy-bites-profit-analysis) • [Back to TOC](#-main-table-of-contents) • [Next (Power BI) →](#deskify-office-supplies-report)
 **Tool:** Power BI  
 - Tracked overall sales metrics with month-over-month comparisons.
 - Highlighted the top-performing and underperforming drugs and customers based on dynamic measures.
@@ -103,6 +157,7 @@ Analysed updated cookie pricing and cost structure from the business memo.
 ---
 
 ### 📉Deskify Office Supplies Report  (10Alytics)
+[← Previous (Power BI)](#novamed-solutions-topbottom-analysis--revenue-trends) • [Back to TOC](#-main-table-of-contents) • [Next (Power BI) →](#aurora-threads-sales-dashboard)
 **Tool:** Power BI  
 To build a data model and also build an interactive dashboard that will enable faster, data-driven decisions.  
 - Data: `DeskifyData.xlsx`  
@@ -111,20 +166,10 @@ To build a data model and also build an interactive dashboard that will enable f
 📸 ![Screenshot 2025-05-18 220415](https://github.com/user-attachments/assets/1ec5c740-a175-4806-8640-28c1b91b62ad)
 📸 ![Screenshot 2025-05-24 162959](https://github.com/user-attachments/assets/0c99f463-e311-4a08-bd81-f705fb9def26)
 
-
----
-
-### 🏥 Riverside General Hospital Report  (10Alytics)
-**Tool:** Draw.io 
-They had their data as a flat file; therefore struggled with Scalability and Integration.  
-- Designed a data model that organised their data for streamlined analysis.
-- Created well-structured relationships and optimised the data schema.  
-- Source: `Riverside General Hospital.xlsx`
-📸 ![Screenshot 2025-05-24 162344](https://github.com/user-attachments/assets/670292e6-6076-43a4-9515-275bdc1a2d48)
-
 ---
 
 ### 🧵 Aurora Threads Sales Dashboard  (10Alytics)
+[← Previous (Power BI)](#deskify-office-supplies-report) • [Back to TOC](#-main-table-of-contents) • [Next (Power BI) →](#life-expectancy-at-birth)
 **Tool:** Power BI  
 Built an end-to-end sales and profit dashboard for a fashion retailer.  
 - Compared performance across multiple customer segments  
@@ -132,20 +177,11 @@ Built an end-to-end sales and profit dashboard for a fashion retailer.
 - Dataset: `Aurora Threads Data.xlsx`
 📸 ![Screenshot 2025-05-12 233017](https://github.com/user-attachments/assets/731f5181-f6a3-4215-9b53-b4c9a09be62c)
 
----
-
-### ☕ Café Harmony Capstone Project  (10Alytics)
-**Tool:** Excel  
-Used simulated sales and operational data to generate business recommendations.  
-- Visualised order trends by day and product type  
-- Evaluated peak hours, pricing impact, and café profitability  
-- Source: `Cafe_Harmony_Capstone_Project.xlsx`
-📸 ![Screenshot 2025-05-12 231933](https://github.com/user-attachments/assets/3554342c-a1ac-4745-8091-230dd7c2cca5)
-
 
 ---
 
 ### 🌍 Life Expectancy at Birth  (DiveAfrica)
+[← Previous (Power BI)](#aurora-threads-sales-dashboard) • [Back to TOC](#-main-table-of-contents) • [Next (Power BI) →](#mental-health-dataset-analysis)
 **Tool:** Power BI  
 Explored trends in life expectancy using WHO-sourced data.  
 - Compared life expectancy by region and income group  
@@ -153,19 +189,23 @@ Explored trends in life expectancy using WHO-sourced data.
 - Dataset: `Life Expectancy at Birth.csv`
 📸 ![Screenshot 2025-05-09 160956](https://github.com/user-attachments/assets/937feaaf-6aef-45ad-9cda-b2a95592db5f)
 
+
 ---
 
 ### 🧠 Mental Health Dataset Analysis  (10Alytics)
+[← Previous (Power BI)](#life-expectancy-at-birth) • [Back to TOC](#-main-table-of-contents) • [Next (Power BI) →](#hr-employee-attrition)
 **Tool:** Power BI  
 Analysed suicide rates across gender, country, and year using WHO-sourced data.  
 - Identified age groups with higher risk trends  
 📁 File: `SuicidalDataset.csv`
 📸 ![Screenshot 2025-05-18 195537](https://github.com/user-attachments/assets/f1edd98c-c542-45d5-930d-b71645b81e89)
 
+
+
 --- 
 
-
 ### 👩‍💼 HR Employee Attrition  (DiveAfrica)
+[← Previous (Power BI)](#mental-health-dataset-analysis) • [Back to TOC](#-main-table-of-contents) • [Next (Power BI) →](#global-insight-analytics--population-trends)
 **Tool:** Power BI  
 Built a clean dashboard to help HR teams track and reduce turnover.  
 - Pinpointed age groups and departments with the highest attrition  
@@ -176,45 +216,11 @@ Built a clean dashboard to help HR teams track and reduce turnover.
 📸 ![Screenshot 2025-05-06 175105](https://github.com/user-attachments/assets/1932b5d3-f04d-45fd-9dc7-81b7831e7f9e)
 📸 ![Screenshot 2025-05-06 175143](https://github.com/user-attachments/assets/5c1ea3dd-70a0-4841-ad14-38521337247a)
 
----
-
-### 📊 10Alytics Sales Performance Dashboard  (10Alytics)
-**Tool:** Excel  
-Analysed over 34,000 transactions to visualise profit trends, product category performance, and customer insights.  
-- 📈 Monthly profit trends (2015–2016)  
-- 👥 Profit breakdown by gender and age group  
-- 🛍️ Top products: Phones, Clothing, Accessories  
-- 📍 Leading states: Abuja, Anambra, Bauchi  
-📸 ![Screenshot 2025-05-06 172930](https://github.com/user-attachments/assets/1185c351-07b0-4a8b-b0ac-8f4001fc70fc)
-
-
----
-
-### 📈 Sales & Profitability Dashboard  (10Alytics)
-**Tool:** Excel  
-Tracked profitability by product category, seller, state, and month.  
-- 💰 Total Sales: $981K | Profit: $448K  
-- 📊 Top category: Sports & Fitness (48% profit margin)  
-- 🧑‍💼 Seller breakdown shows Bob and Alice as top contributors  
-- 🗺️ California recorded the highest state-wise sales  
-📸 ![Screenshot 2025-05-06 173052](https://github.com/user-attachments/assets/1551cc34-a964-4682-b8ce-e317117956ce)
-
-
----
-
-### 🎰 Betting Insights Dashboard  (10Alytics)
-**Tool:** Excel  
-Visualised customer behaviour, bank usage, and transaction trends in January.  
-- 💵 Total Deposit: ₦13.87M | Transactions: 229  
-- 🧑‍🤝‍🧑 Top loyal customers identified by count  
-- 🏦 Most used banks: GTBank, First Bank  
-- 👶 36 underage accounts flagged  
-📸 ![Screenshot 2025-05-06 173146](https://github.com/user-attachments/assets/ba9d986f-06e1-4122-a5be-e1afd031e42e)
-
 
 ---
 
 ### 🌍 Global Insight Analytics — Population Trends   (10Alytics)
+[← Previous (Power BI)](#hr-employee-attrition) • [Back to TOC](#-main-table-of-contents) • [Next (Power BI) →](#retail-edge-solutions-analysis)
 **Tool:** Power BI  
 Explored global population growth by region, religion, and country (1955–2025).  
 - 🌐 Total projected population: 8.2B by 2025  
@@ -223,8 +229,10 @@ Explored global population growth by region, religion, and country (1955–2025)
 📸 ![Screenshot 2025-05-16 232450](https://github.com/user-attachments/assets/02aa7e6b-242c-4c5f-b0f6-70b9905279c7)
 
 
+
 ---
 ### 🌍 Retail Edge Solutions Analysis  (10Alytics)
+[← Previous (Power BI)](#global-insight-analytics--population-trends) • [Back to TOC](#-main-table-of-contents)
 **Tool:** Power BI  
 From data modelling to interactive dashboards.  
 - Creating an interactive dashboard in Power BI that displays key performance indicators (KPIs)to allow users to filter and slice data for personalised insights.
@@ -238,7 +246,172 @@ From data modelling to interactive dashboards.
 
 
 ---
+# 📑 Excel Projects  
+**Quick Links:**  
+[⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Power BI Projects](#-power-bi-projects) • [⏭ Jump to Drawio Projects](#-drawio-erd--data-modeling)  
+
+
+---
+
+### ☕ Café Harmony Capstone Project  (10Alytics)
+[Back to TOC](#-main-table-of-contents) • [Next (Excel) →](#10alytics-sales-performance-dashboard)
+**Tool:** Excel  
+Used simulated sales and operational data to generate business recommendations.  
+- Visualised order trends by day and product type  
+- Evaluated peak hours, pricing impact, and café profitability  
+- Source: `Cafe_Harmony_Capstone_Project.xlsx`
+📸 ![Screenshot 2025-05-12 231933](https://github.com/user-attachments/assets/3554342c-a1ac-4745-8091-230dd7c2cca5)
+
+
+---
+
+### 📊 10Alytics Sales Performance Dashboard  (10Alytics)
+[← Previous (Excel)](#café-harmony-capstone-project) • [Back to TOC](#-main-table-of-contents) • [Next (Excel) →](#sales--profitability-dashboard) 
+**Tool:** Excel  
+Analysed over 34,000 transactions to visualise profit trends, product category performance, and customer insights.  
+- 📈 Monthly profit trends (2015–2016)  
+- 👥 Profit breakdown by gender and age group  
+- 🛍️ Top products: Phones, Clothing, Accessories  
+- 📍 Leading states: Abuja, Anambra, Bauchi  
+📸 ![Screenshot 2025-05-06 172930](https://github.com/user-attachments/assets/1185c351-07b0-4a8b-b0ac-8f4001fc70fc)
+
+
+
+---
+
+### 📈 Sales & Profitability Dashboard  (10Alytics)
+[← Previous (Excel)](#10alytics-sales-performance-dashboard) • [Back to TOC](#-main-table-of-contents) • [Next (Excel) →](#betting-insights-dashboard)
+**Tool:** Excel  
+Tracked profitability by product category, seller, state, and month.  
+- 💰 Total Sales: $981K | Profit: $448K  
+- 📊 Top category: Sports & Fitness (48% profit margin)  
+- 🧑‍💼 Seller breakdown shows Bob and Alice as top contributors  
+- 🗺️ California recorded the highest state-wise sales  
+📸 ![Screenshot 2025-05-06 173052](https://github.com/user-attachments/assets/1551cc34-a964-4682-b8ce-e317117956ce)
+
+
+
+---
+
+### 🎰 Betting Insights Dashboard  (10Alytics)
+[← Previous (Excel)](#sales--profitability-dashboard) • [Back to TOC](#-main-table-of-contents) 
+**Tool:** Excel  
+Visualised customer behaviour, bank usage, and transaction trends in January.  
+- 💵 Total Deposit: ₦13.87M | Transactions: 229  
+- 🧑‍🤝‍🧑 Top loyal customers identified by count  
+- 🏦 Most used banks: GTBank, First Bank  
+- 👶 36 underage accounts flagged  
+📸 ![Screenshot 2025-05-06 173146](https://github.com/user-attachments/assets/ba9d986f-06e1-4122-a5be-e1afd031e42e)
+
+
+---
+# 📝 Draw.io (ERD / Data Modeling)  
+**Quick Links:**  
+[⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Excel Projects](#-excel-projects) • [⏭ Jump to Tableau Projects](#-tableau-projects) 
+
+
+---
+
+### 🏥 Riverside General Hospital Report  (10Alytics)
+[Back to TOC](#-main-table-of-contents)
+**Tool:** Draw.io 
+They had their data as a flat file; therefore struggled with Scalability and Integration.  
+- Designed a data model that organised their data for streamlined analysis.
+- Created well-structured relationships and optimised the data schema.  
+- Source: `Riverside General Hospital.xlsx`
+📸 ![Screenshot 2025-05-24 162344](https://github.com/user-attachments/assets/670292e6-6076-43a4-9515-275bdc1a2d48)
+
+
+---
+# 📊 Tableau Projects  
+**Quick Links:**  
+[⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Drawio Projects](#-drawio-erd--data-modeling) • [⏭ Jump to SQL Projects](#-sql--database-projects)  
+
+
+---
+
+### 🍫 Choco De Luxe — Unlocking Sales Insights Through Data Visualization  (10Alytics)
+[Back to TOC](#-main-table-of-contents) • [Next (Tableau) →](#fusionpoint-industries--consumer-electronics-sales-trends--profitability-analysis) 
+**Tool:** Tableau
+
+From raw sales data to interactive dashboards.  
+
+- Analysing **Choco De Luxe’s sales performance** across locations, sales channels, and product lines to uncover patterns, inefficiencies, and growth opportunities.  
+- Producing **interactive Tableau dashboards** to help business leaders make informed decisions on product positioning and channel strategy.  
+- Delivering **data-driven insights** on profitability, salesperson performance, and consumer preferences.  
+
+**Expectations & Insights Explored:**
+- **Location Sales Performance:** Compare sales volume and delivery success to identify high vs. underperforming locations.  
+- **Channel Effectiveness:** Analyse how different sales channels impact profitability and transaction volume.  
+- **Salesperson Productivity:** Examine performance by sales value and volume, assuming a €100,000 profit target for each salesperson.  
+- **Product-Level Profitability:** Evaluate margin contributions at product line and product category levels.  
+- **Organic Product Demand:** Compare organic vs. non-organic sales by channel to guide product development and marketing strategy.  
+
+📊 **Screenshots of Interactive Dashboards**  
+📸<img width="1602" height="859" alt="Screenshot 2025-08-31 121647" src="https://github.com/user-attachments/assets/1cd39d69-dec7-4a7b-b93b-37ce437a765c" />
+  <img width="1593" height="857" alt="Screenshot 2025-08-31 121806" src="https://github.com/user-attachments/assets/016d0d1d-9cfb-44f4-b1ad-4e7b6e13cf54" />
+
+**✅ Outcome**  
+Business leaders can now make informed decisions on:  
+- Optimising sales channels  
+- Improving workforce productivity  
+- Refining product development and marketing strategies
+
+
+
+---
+
+### 🔌 Project Title: FusionPoint Industries — Consumer Electronics Sales Trends & Profitability Analysis  (10Alytics) 
+[← Previous (Tableau)](#choco-de-luxe--unlocking-sales-insights-through-data-visualization) • [Back to TOC](#-main-table-of-contents)
+**Company / Context:** FusionPoint Industries (Consumer Electronics) 
+**Tool(s):** Tableau (with AI-assisted exploration- **ChatGPT**)  
+
+**📌 Project Aim**  
+To analyse sales performance across products, sub-categories, and regions to identify high- and low-performing segments, measure profitability trends, evaluate customer purchasing behaviour, and optimise pricing and inventory strategies.  
+
+**🎯 Key Objectives**  
+- **Product & Regional Sales Performance:** Identify high- and low-performing categories, sub-categories, and regions.  
+- **Profitability Trends:** Measure margins by category, sub-category, and sales channel to support profit-driven decision-making.  
+- **Customer Behaviour:** Analyse purchasing patterns and payment preferences to inform customer-centric strategies.  
+- **Demand Patterns:** Identify demand fluctuations across time and geographies to optimise supply chain planning.  
+- **Pricing & Discounts:** Assess the impact of discounts and pricing strategies on revenue and profit margins.  
+- **Actionable Recommendations:** Support long-term marketing, pricing, and product portfolio strategies for sustainable growth.  
+
+**🛠️ Approach**  
+**Step 1 — Data Collection & Preparation**  
+- Gathered raw sales transaction data  
+- Cleaned and preprocessed for consistency and completeness  
+
+**Step 2 — Data Exploration & Descriptive Analytics**  
+- Applied AI-assisted exploration to uncover patterns, outliers, and trends  
+
+**Step 3 — Insight Visualisation & Reporting**  
+- Built interactive Tableau dashboards with AI features for smart recommendations  
+- Documented findings in structured reports and slide decks  
+
+**Step 4 — Recommendations**  
+- Summarised actionable findings supported by AI-enhanced insights  
+- Delivered guidance on **pricing, product assortment, and customer outreach**  
+
+📊 Screenshots of Dashboards  
+📸<img width="1587" height="850" alt="Screenshot 2025-10-03 175847" src="https://github.com/user-attachments/assets/00eec2e2-cfc3-474c-ac15-7298521108a1" />
+   <img width="1584" height="846" alt="Screenshot 2025-10-03 175907" src="https://github.com/user-attachments/assets/661291e1-1d0e-48a8-91db-2f0a9ea9ca38" />
+   <img width="1586" height="845" alt="Screenshot 2025-10-03 175922" src="https://github.com/user-attachments/assets/3ff00a17-3461-45bf-98c5-402c417a89a9" />
+   <img width="1585" height="844" alt="Screenshot 2025-10-03 175951" src="https://github.com/user-attachments/assets/10465592-3d7c-4d39-b3f3-c5a8bf02d9de" />
+   <img width="1586" height="846" alt="Screenshot 2025-10-03 180005" src="https://github.com/user-attachments/assets/840c434a-736a-4b4b-9533-760e89e51828" />
+   <img width="1584" height="848" alt="Screenshot 2025-10-03 180023" src="https://github.com/user-attachments/assets/993b403e-8538-4365-b347-ec1b736a43cb" />
+
+
+---
+
+# 🗄 SQL / Database Projects  
+**Quick Links:**  
+[⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Tableau Projects](#-tableau-projects) • [⏭ Jump to Fabric Projects](#-microsoft-fabric-projects)
+
+
+---
 ### 🌍 NextGen Corp Employee Success Analytics (10Alytics)
+[Back to TOC](#-main-table-of-contents) 
 **Tool:** PostgreSQL
 The HR department needs a data-driven approach to:
 -Identify trends and patterns in employee retention and turnover.
@@ -327,80 +500,18 @@ The HR department needs a data-driven approach to:
 📸 <img width="667" height="214" alt="Screenshot 2025-07-29 021806" src="https://github.com/user-attachments/assets/b1ceb71a-c4de-492d-b6d2-686b7ce0c8f3" />
 
 
----
-
-### 🍫 Choco De Luxe — Unlocking Sales Insights Through Data Visualization  (10Alytics)
-
-**Tool:** Tableau
-
-From raw sales data to interactive dashboards.  
-
-- Analysing **Choco De Luxe’s sales performance** across locations, sales channels, and product lines to uncover patterns, inefficiencies, and growth opportunities.  
-- Producing **interactive Tableau dashboards** to help business leaders make informed decisions on product positioning and channel strategy.  
-- Delivering **data-driven insights** on profitability, salesperson performance, and consumer preferences.  
-
-**Expectations & Insights Explored:**
-- **Location Sales Performance:** Compare sales volume and delivery success to identify high vs. underperforming locations.  
-- **Channel Effectiveness:** Analyse how different sales channels impact profitability and transaction volume.  
-- **Salesperson Productivity:** Examine performance by sales value and volume, assuming a €100,000 profit target for each salesperson.  
-- **Product-Level Profitability:** Evaluate margin contributions at product line and product category levels.  
-- **Organic Product Demand:** Compare organic vs. non-organic sales by channel to guide product development and marketing strategy.  
-
-📊 **Screenshots of Interactive Dashboards**  
-📸<img width="1602" height="859" alt="Screenshot 2025-08-31 121647" src="https://github.com/user-attachments/assets/1cd39d69-dec7-4a7b-b93b-37ce437a765c" />
-  <img width="1593" height="857" alt="Screenshot 2025-08-31 121806" src="https://github.com/user-attachments/assets/016d0d1d-9cfb-44f4-b1ad-4e7b6e13cf54" />
-
-**✅ Outcome**  
-Business leaders can now make informed decisions on:  
-- Optimising sales channels  
-- Improving workforce productivity  
-- Refining product development and marketing strategies
 
 ---
 
-### 🔌 Project Title: FusionPoint Industries — Consumer Electronics Sales Trends & Profitability Analysis  (10Alytics) 
-**Company / Context:** FusionPoint Industries (Consumer Electronics)  
-**Tool(s):** Tableau (with AI-assisted exploration- **ChatGPT**)  
-
-**📌 Project Aim**  
-To analyse sales performance across products, sub-categories, and regions to identify high- and low-performing segments, measure profitability trends, evaluate customer purchasing behaviour, and optimise pricing and inventory strategies.  
-
-**🎯 Key Objectives**  
-- **Product & Regional Sales Performance:** Identify high- and low-performing categories, sub-categories, and regions.  
-- **Profitability Trends:** Measure margins by category, sub-category, and sales channel to support profit-driven decision-making.  
-- **Customer Behaviour:** Analyse purchasing patterns and payment preferences to inform customer-centric strategies.  
-- **Demand Patterns:** Identify demand fluctuations across time and geographies to optimise supply chain planning.  
-- **Pricing & Discounts:** Assess the impact of discounts and pricing strategies on revenue and profit margins.  
-- **Actionable Recommendations:** Support long-term marketing, pricing, and product portfolio strategies for sustainable growth.  
-
-**🛠️ Approach**  
-**Step 1 — Data Collection & Preparation**  
-- Gathered raw sales transaction data  
-- Cleaned and preprocessed for consistency and completeness  
-
-**Step 2 — Data Exploration & Descriptive Analytics**  
-- Applied AI-assisted exploration to uncover patterns, outliers, and trends  
-
-**Step 3 — Insight Visualisation & Reporting**  
-- Built interactive Tableau dashboards with AI features for smart recommendations  
-- Documented findings in structured reports and slide decks  
-
-**Step 4 — Recommendations**  
-- Summarised actionable findings supported by AI-enhanced insights  
-- Delivered guidance on **pricing, product assortment, and customer outreach**  
-
-📊 Screenshots of Dashboards  
-📸<img width="1587" height="850" alt="Screenshot 2025-10-03 175847" src="https://github.com/user-attachments/assets/00eec2e2-cfc3-474c-ac15-7298521108a1" />
-   <img width="1584" height="846" alt="Screenshot 2025-10-03 175907" src="https://github.com/user-attachments/assets/661291e1-1d0e-48a8-91db-2f0a9ea9ca38" />
-   <img width="1586" height="845" alt="Screenshot 2025-10-03 175922" src="https://github.com/user-attachments/assets/3ff00a17-3461-45bf-98c5-402c417a89a9" />
-   <img width="1585" height="844" alt="Screenshot 2025-10-03 175951" src="https://github.com/user-attachments/assets/10465592-3d7c-4d39-b3f3-c5a8bf02d9de" />
-   <img width="1586" height="846" alt="Screenshot 2025-10-03 180005" src="https://github.com/user-attachments/assets/840c434a-736a-4b4b-9533-760e89e51828" />
-   <img width="1584" height="848" alt="Screenshot 2025-10-03 180023" src="https://github.com/user-attachments/assets/993b403e-8538-4365-b347-ec1b736a43cb" />
+# 🧱 Microsoft Fabric Projects  
+**Quick Links:**  
+[⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to SQL Projects](#-sql--database-projects) • [⏭ Jump to ChatGPT Projects](#-chatgpt--tableau-projects)
 
 
-   ---
+---
 
-### 🧱 Project Title: PrimeMart Retail — Sales & Customer Analytics in Microsoft Fabric  (10Alytics)  
+### 🧱 Project Title: PrimeMart Retail — Sales & Customer Analytics in Microsoft Fabric  (10Alytics) 
+[Back to TOC](#-main-table-of-contents) • [Next (Fabric) →](#optimizing-urban-mobility--nyc-yellow-taxi-analytics-dashboard)
 **Company / Context:** PrimeMart Retail Ltd. (Omnichannel Retail)  
 **Tool(s):** Microsoft Fabric (OneLake, Lakehouse), SQL Endpoint, Data Factory (pipelines), Power BI, Notebooks (optional)
 
@@ -574,7 +685,8 @@ ORDER BY
 
 ---
 
-### 🚕 Project Title: Optimizing Urban Mobility — NYC Yellow Taxi Analytics Dashboard  (10Alytics)  
+### 🚕 Project Title: Optimizing Urban Mobility — NYC Yellow Taxi Analytics Dashboard  (10Alytics)
+[← Previous (Fabric)](#primemart-retail--sales--customer-analytics-in-microsoft-fabric) • [Back to TOC](#-main-table-of-contents)
 **Company / Context:** Public Data Case Study (NYC Yellow Taxi Dataset)  
 **Tool(s):** Microsoft Fabric (OneLake, Lakehouse, SQL Endpoint, Power BI)  
 
@@ -679,7 +791,59 @@ where fare_amount < 0 or total_amount < 0;
 
 3. **Competitive Advantage through AI**  
    - Leveraged AI-driven analytics to uncover hidden sales patterns.  
-   - Delivered actionable insights faster, strengthening FusionPoint’s market edge.  
+   - Delivered actionable insights faster, strengthening FusionPoint’s market edge.
+  
+
+
+---
+
+# 🤖 ChatGPT + Tableau Projects  
+**Quick Links:**  
+[⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Fabric Projects](#-microsoft-fabric-projects)  
+
+
+---
+
+### 🔌 Project Title: FusionPoint Industries — Consumer Electronics Sales Trends & Profitability Analysis  (10Alytics) 
+[Back to TOC](#-main-table-of-contents)  
+**Company / Context:** FusionPoint Industries (Consumer Electronics) 
+**Tool(s):** Tableau (with AI-assisted exploration- **ChatGPT**)  
+
+**📌 Project Aim**  
+To analyse sales performance across products, sub-categories, and regions to identify high- and low-performing segments, measure profitability trends, evaluate customer purchasing behaviour, and optimise pricing and inventory strategies.  
+
+**🎯 Key Objectives**  
+- **Product & Regional Sales Performance:** Identify high- and low-performing categories, sub-categories, and regions.  
+- **Profitability Trends:** Measure margins by category, sub-category, and sales channel to support profit-driven decision-making.  
+- **Customer Behaviour:** Analyse purchasing patterns and payment preferences to inform customer-centric strategies.  
+- **Demand Patterns:** Identify demand fluctuations across time and geographies to optimise supply chain planning.  
+- **Pricing & Discounts:** Assess the impact of discounts and pricing strategies on revenue and profit margins.  
+- **Actionable Recommendations:** Support long-term marketing, pricing, and product portfolio strategies for sustainable growth.  
+
+**🛠️ Approach**  
+**Step 1 — Data Collection & Preparation**  
+- Gathered raw sales transaction data  
+- Cleaned and preprocessed for consistency and completeness  
+
+**Step 2 — Data Exploration & Descriptive Analytics**  
+- Applied AI-assisted exploration to uncover patterns, outliers, and trends  
+
+**Step 3 — Insight Visualisation & Reporting**  
+- Built interactive Tableau dashboards with AI features for smart recommendations  
+- Documented findings in structured reports and slide decks  
+
+**Step 4 — Recommendations**  
+- Summarised actionable findings supported by AI-enhanced insights  
+- Delivered guidance on **pricing, product assortment, and customer outreach**  
+
+📊 Screenshots of Dashboards  
+📸<img width="1587" height="850" alt="Screenshot 2025-10-03 175847" src="https://github.com/user-attachments/assets/00eec2e2-cfc3-474c-ac15-7298521108a1" />
+   <img width="1584" height="846" alt="Screenshot 2025-10-03 175907" src="https://github.com/user-attachments/assets/661291e1-1d0e-48a8-91db-2f0a9ea9ca38" />
+   <img width="1586" height="845" alt="Screenshot 2025-10-03 175922" src="https://github.com/user-attachments/assets/3ff00a17-3461-45bf-98c5-402c417a89a9" />
+   <img width="1585" height="844" alt="Screenshot 2025-10-03 175951" src="https://github.com/user-attachments/assets/10465592-3d7c-4d39-b3f3-c5a8bf02d9de" />
+   <img width="1586" height="846" alt="Screenshot 2025-10-03 180005" src="https://github.com/user-attachments/assets/840c434a-736a-4b4b-9533-760e89e51828" />
+   <img width="1584" height="848" alt="Screenshot 2025-10-03 180023" src="https://github.com/user-attachments/assets/993b403e-8538-4365-b347-ec1b736a43cb" />
+
 
 
 
