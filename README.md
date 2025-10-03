@@ -28,27 +28,29 @@ Below is a curated collection of data projects I've built while learning **Power
 ---
 ## 📚 Table of Contents
 
-- [Fleet Operations Dashboard](#-fleet-operations-dashboard)
-- [Retail Store Performance Dashboard](#-retail-store-performance-dashboard)
-- [Dreamy Bites Profit Analysis](#-dreamy-bites-profit-analysis)
-- [Novamed Solutions Top/Bottom Analysis & Revenue Trends](#-novamed-solutions--sales-performance-analysis)
-- [Deskify Office Supplies Report](#-deskify-office--supplies-report)
-- [Riverside General Hospital Report](#-riverside-general-hospital-data-model)
-- [Aurora Threads Sales Dashboard](#-aurora-threads-sales-dashboard)
-- [Café Harmony Capstone Project](#-café-harmony-capstone-project)
-- [Life Expectancy at Birth](#-life-expectancy-at-birth)
-- [Mental Health Dataset Analysis](#-mental-health-dataset-analysis)
-- [HR Employee Attrition](#-hr-employee-attrition)
-- [10Alytics Sales Performance Dashboard](#-10alytics-sales-performance-dashboard)
-- [Sales & Profitability Dashboard](#-sales--profitability-dashboard)
-- [Betting Insights Dashboard](#-betting-insights-dashboard)
-- [Global Insight Analytics](#-global-insight-analytics--population-trends)
-- [Retail Edge Solutions Analysis](#-retail-edge-solutions-dashboard)
-- [NextGen Corp Employee Success Analytics](#-NextGen-Corp-Employee-Success-Analytics)
-- [Choco De Luxe — Unlocking Sales Insights Through Data Visualisation](#choco-de-luxe--unlocking-sales-insights)  
-- [FusionPoint Industries — Consumer Electronics Sales Trends & Profitability Analysis](#fusionpoint-industries--consumer-electronics)  
-- [PrimeMart Retail — Sales & Customer Analytics in Microsoft Fabric](#primemart-retail--sales-customer-analytics)  
-- [Optimising Urban Mobility — NYC Yellow Taxi Analytics Dashboard](#nyc-yellow-taxi-analytics-dashboard)  
+## 📑 Table of Contents  
+
+- [Fleet Operations Dashboard](#fleet-operations-dashboard)  
+- [Retail Store Performance Dashboard](#retail-store-performance-dashboard)  
+- [Dreamy Bites Profit Analysis](#dreamy-bites-profit-analysis)  
+- [Novamed Solutions Top/Bottom Analysis & Revenue Trends](#novamed-solutions-topbottom-analysis--revenue-trends)  
+- [Deskify Office Supplies Report](#deskify-office-supplies-report)  
+- [Riverside General Hospital Report](#riverside-general-hospital-report)  
+- [Aurora Threads Sales Dashboard](#aurora-threads-sales-dashboard)  
+- [Café Harmony Capstone Project](#café-harmony-capstone-project)  
+- [Life Expectancy at Birth](#life-expectancy-at-birth)  
+- [Mental Health Dataset Analysis](#mental-health-dataset-analysis)  
+- [HR Employee Attrition](#hr-employee-attrition)  
+- [10Alytics Sales Performance Dashboard](#10alytics-sales-performance-dashboard)  
+- [Sales & Profitability Dashboard](#sales--profitability-dashboard)  
+- [Betting Insights Dashboard](#betting-insights-dashboard)  
+- [Global Insight Analytics — Population Trends](#global-insight-analytics--population-trends)  
+- [Retail Edge Solutions Analysis](#retail-edge-solutions-analysis)  
+- [NextGen Corp Employee Success Analytics](#nextgen-corp-employee-success-analytics)  
+- [Choco De Luxe — Unlocking Sales Insights Through Data Visualisation](#choco-de-luxe--unlocking-sales-insights-through-data-visualisation)  
+- [FusionPoint Industries — Consumer Electronics Sales Trends & Profitability Analysis](#fusionpoint-industries--consumer-electronics-sales-trends--profitability-analysis)  
+- [PrimeMart Retail — Sales & Customer Analytics in Microsoft Fabric](#primemart-retail--sales--customer-analytics-in-microsoft-fabric)  
+- [Optimising Urban Mobility — NYC Yellow Taxi Analytics Dashboard](# optimising-urban-mobility--nyc-yellow-taxi-analytics-dashboard)  
 
 ---
 
@@ -65,7 +67,7 @@ Analysed fuel usage, downtime, and maintenance costs across multiple vehicles.
 
 ---
 
-### 🏪 Retail Chain Revenue Insights  (10Alytics)
+### 🏪 Retail Store Performance Dashboard  (10Alytics)
 **Tool:** Power BI  
 Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to analyse sales and profit.  
 - Ranked stores by performance  
@@ -75,7 +77,7 @@ Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to ana
 
 ---
 
-### 🍪 Cookie Profitability Review – Dreamy Bites  (10Alytics)
+### 🍪 Dreamy Bites Profit Analysis  (10Alytics)
 **Tool:** Power BI  
 Analysed updated cookie pricing and cost structure from the business memo.  
 - Evaluated gross margins across 6 cookie types  
@@ -112,7 +114,7 @@ To build a data model and also build an interactive dashboard that will enable f
 
 ---
 
-### 🏥 Riverside General Hospital Analysis  (10Alytics)
+### 🏥 Riverside General Hospital Report  (10Alytics)
 **Tool:** Draw.io 
 They had their data as a flat file; therefore struggled with Scalability and Integration.  
 - Designed a data model that organised their data for streamlined analysis.
@@ -122,7 +124,7 @@ They had their data as a flat file; therefore struggled with Scalability and Int
 
 ---
 
-### 🧵 Aurora Threads – Fashion Retail Analytics  (10Alytics)
+### 🧵 Aurora Threads Sales Dashboard  (10Alytics)
 **Tool:** Power BI  
 Built an end-to-end sales and profit dashboard for a fashion retailer.  
 - Compared performance across multiple customer segments  
@@ -143,7 +145,7 @@ Used simulated sales and operational data to generate business recommendations.
 
 ---
 
-### 🌍 Life Expectancy at Birth – Public Health Insight  (DiveAfrica)
+### 🌍 Life Expectancy at Birth  (DiveAfrica)
 **Tool:** Power BI  
 Explored trends in life expectancy using WHO-sourced data.  
 - Compared life expectancy by region and income group  
@@ -163,7 +165,7 @@ Analysed suicide rates across gender, country, and year using WHO-sourced data.
 --- 
 
 
-### 👩‍💼 HR Attrition – Employee Retention Dashboard  (DiveAfrica)
+### 👩‍💼 HR Employee Attrition  (DiveAfrica)
 **Tool:** Power BI  
 Built a clean dashboard to help HR teams track and reduce turnover.  
 - Pinpointed age groups and departments with the highest attrition  
@@ -176,7 +178,7 @@ Built a clean dashboard to help HR teams track and reduce turnover.
 
 ---
 
-### 📊 Sales Performance Dashboard  (10Alytics)
+### 📊 10Alytics Sales Performance Dashboard  (10Alytics)
 **Tool:** Excel  
 Analysed over 34,000 transactions to visualise profit trends, product category performance, and customer insights.  
 - 📈 Monthly profit trends (2015–2016)  
@@ -212,7 +214,7 @@ Visualised customer behaviour, bank usage, and transaction trends in January.
 
 ---
 
-### 🌍 Global Insight Analytics – Population Trends  (10Alytics)
+### 🌍 Global Insight Analytics — Population Trends   (10Alytics)
 **Tool:** Power BI  
 Explored global population growth by region, religion, and country (1955–2025).  
 - 🌐 Total projected population: 8.2B by 2025  
@@ -222,7 +224,7 @@ Explored global population growth by region, religion, and country (1955–2025)
 
 
 ---
-### 🌍 Retail Edge Solutions: Enhancing Sales Analytics  (10Alytics)
+### 🌍 Retail Edge Solutions Analysis  (10Alytics)
 **Tool:** Power BI  
 From data modelling to interactive dashboards.  
 - Creating an interactive dashboard in Power BI that displays key performance indicators (KPIs)to allow users to filter and slice data for personalised insights.
@@ -236,7 +238,7 @@ From data modelling to interactive dashboards.
 
 
 ---
-### 🌍 NextGen Corp: Employee Success Analytics (10Alytics)
+### 🌍 NextGen Corp Employee Success Analytics (10Alytics)
 **Tool:** PostgreSQL
 The HR department needs a data-driven approach to:
 -Identify trends and patterns in employee retention and turnover.
@@ -327,7 +329,7 @@ The HR department needs a data-driven approach to:
 
 ---
 
-### 🍫 Choco De Luxe: Unlocking Sales Insights Through Data Visualisation (Tableau Capstone Project)
+### 🍫 Choco De Luxe — Unlocking Sales Insights Through Data Visualization  (10Alytics)
 
 **Tool:** Tableau
 
@@ -356,7 +358,7 @@ Business leaders can now make informed decisions on:
 
 ---
 
-### 🔌 Project Title: FusionPoint Industries — Consumer Electronics Sales Trends & Profitability Analysis  
+### 🔌 Project Title: FusionPoint Industries — Consumer Electronics Sales Trends & Profitability Analysis  (10Alytics) 
 **Company / Context:** FusionPoint Industries (Consumer Electronics)  
 **Tool(s):** Tableau (with AI-assisted exploration- **ChatGPT**)  
 
@@ -398,7 +400,7 @@ To analyse sales performance across products, sub-categories, and regions to ide
 
    ---
 
-### 🧱 Project Title: PrimeMart Retail — Sales & Customer Analytics in Microsoft Fabric  
+### 🧱 Project Title: PrimeMart Retail — Sales & Customer Analytics in Microsoft Fabric  (10Alytics)  
 **Company / Context:** PrimeMart Retail Ltd. (Omnichannel Retail)  
 **Tool(s):** Microsoft Fabric (OneLake, Lakehouse), SQL Endpoint, Data Factory (pipelines), Power BI, Notebooks (optional)
 
@@ -572,7 +574,7 @@ ORDER BY
 
 ---
 
-### 🚕 Project Title: Optimising Urban Mobility — NYC Yellow Taxi Analytics Dashboard  
+### 🚕 Project Title: Optimizing Urban Mobility — NYC Yellow Taxi Analytics Dashboard  (10Alytics)  
 **Company / Context:** Public Data Case Study (NYC Yellow Taxi Dataset)  
 **Tool(s):** Microsoft Fabric (OneLake, Lakehouse, SQL Endpoint, Power BI)  
 
