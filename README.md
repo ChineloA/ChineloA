@@ -121,7 +121,9 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 ### ☕ Café Harmony  
 *Café Harmony Capstone Project — Sales & profitability analysis using Excel*
 [Back to TOC](#-main-table-of-contents) • [Next →](#-10alytics-sales)
-**Tool:** Excel  
+
+![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel)
+
 Used simulated sales and operational data to generate business recommendations.  
 - Visualised order trends by day and product type  
 - Evaluated peak hours, pricing impact, and café profitability  
@@ -137,7 +139,9 @@ Used simulated sales and operational data to generate business recommendations.
 ### 📊 10Alytics Sales  
 *10Alytics Sales Performance Dashboard — Advanced Excel dashboards & KPIs
 [← Previous](#-café-harmony) • [Back to TOC](#-main-table-of-contents) • [Next →](#-sales--profitability) 
-**Tool:** Excel  
+
+![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel)
+
 Analysed over 34,000 transactions to visualise profit trends, product category performance, and customer insights.  
 - 📈 Monthly profit trends (2015–2016)  
 - 👥 Profit breakdown by gender and age group  
@@ -154,7 +158,9 @@ Analysed over 34,000 transactions to visualise profit trends, product category p
 ### 📈 Sales & Profitability  
 *Excel-based analysis of product-level sales and profitability trends*
 [← Previous](#-10alytics-sales) • [Back to TOC](#-main-table-of-contents) • [Next →](#-betting-insights)
-**Tool:** Excel  
+
+![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel)
+
 Tracked profitability by product category, seller, state, and month.  
 - 💰 Total Sales: $981K | Profit: $448K  
 - 📊 Top category: Sports & Fitness (48% profit margin)  
@@ -171,7 +177,9 @@ Tracked profitability by product category, seller, state, and month.
 ### 🎰 Betting Insights  
 *Betting Insights Dashboard — Revenue, margin, and transaction analysis*  
 [← Previous](#-sales--profitability) • [Back to TOC](#-main-table-of-contents)
-**Tool:** Excel  
+
+![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel)
+
 Visualised customer behaviour, bank usage, and transaction trends in January.  
 - 💵 Total Deposit: ₦13.87M | Transactions: 229  
 - 🧑‍🤝‍🧑 Top loyal customers identified by count  
@@ -193,7 +201,9 @@ Visualised customer behaviour, bank usage, and transaction trends in January.
 ### 🚗Fleet Operations  
 *Fleet Operations Dashboard — Optimising performance and delivery tracking with Power BI*
 [Back to TOC](#-main-table-of-contents) • [Next →](#-retail-store)
-**Tool:** Power BI  
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
+
 Analysed fuel usage, downtime, and maintenance costs across multiple vehicles.  
 - Highlighted top maintenance cost drivers  
 - Tracked operational performance over time  
@@ -210,7 +220,9 @@ Analysed fuel usage, downtime, and maintenance costs across multiple vehicles.
 ### 🏪 Retail Store  
 *Retail Store Performance Dashboard — Analysing sales, revenue, and customer trends*  
 [← Previous](#fleet-operations) • [Back to TOC](#-main-table-of-contents) • [Next →](#-dreamy-bites)
-**Tool:** Power BI  
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
+
 Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to analyse sales and profit.  
 - Ranked stores by performance  
 - Identified best-selling products  
@@ -226,7 +238,9 @@ Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to ana
 ### 🍪 Dreamy Bites  
 *Dreamy Bites Profit Analysis — Product-level profitability insights using Power BI*
 [← Previous](#-retail-store) • [Back to TOC](#-main-table-of-contents) • [Next →](#-novamed)
-**Tool:** Power BI  
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
+
 Analysed updated cookie pricing and cost structure from the business memo.  
 - Evaluated gross margins across 6 cookie types  
 - Created pricing model with profitability flags  
@@ -243,7 +257,9 @@ Analysed updated cookie pricing and cost structure from the business memo.
 ### 👥 Novamed  
 *Novamed Solutions — Top/Bottom Analysis & Revenue Trends*  
 [← Previous](#-dreamy-bites) • [Back to TOC](#-main-table-of-contents) • [Next →](#deskify)
-**Tool:** Power BI  
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
+
 - Tracked overall sales metrics with month-over-month comparisons.
 - Highlighted the top-performing and underperforming drugs and customers based on dynamic measures.
 - Created  Dynamic charts with selected metrics, ranking metric, etc
@@ -263,7 +279,9 @@ Analysed updated cookie pricing and cost structure from the business memo.
 ### 📉Deskify  
 *Deskify Office Supplies Report — Sales performance and category analysis*  
 [← Previous](#-novamed) • [Back to TOC](#-main-table-of-contents) • [Next →](#-aurora-threads)
-**Tool:** Power BI  
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
+
 To build a data model and also build an interactive dashboard that will enable faster, data-driven decisions.  
 - Data: `DeskifyData.xlsx`  
 - Suggested intervention points to reduce turnover
@@ -280,7 +298,9 @@ To build a data model and also build an interactive dashboard that will enable f
 ### 🧵 Aurora Threads  
 *Aurora Threads Sales Dashboard — E-commerce profitability and customer insights*  
 [← Previous](#deskify) • [Back to TOC](#-main-table-of-contents) • [Next →](#-life-expectancy)
-**Tool:** Power BI  
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
+
 Built an end-to-end sales and profit dashboard for a fashion retailer.  
 - Compared performance across multiple customer segments  
 - Identified top-selling product categories and stores  
@@ -296,7 +316,9 @@ Built an end-to-end sales and profit dashboard for a fashion retailer.
 ### 🌍 Life Expectancy  
 *Life Expectancy at Birth — Demographic data exploration with Power BI*  
 [← Previous](#-aurora-threads) • [Back to TOC](#-main-table-of-contents) • [Next →](#-mental-health)
-**Tool:** Power BI  
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
+
 Explored trends in life expectancy using WHO-sourced data.  
 - Compared life expectancy by region and income group  
 - Evaluated time-series improvements from 1960–2020  
@@ -312,7 +334,9 @@ Explored trends in life expectancy using WHO-sourced data.
 ### 🧠 Mental Health  
 *Mental Health Dataset Analysis — Patterns and correlations in survey data* 
 [← Previous](#-life-expectancy) • [Back to TOC](#-main-table-of-contents) • [Next →](#%E2%80%8D-hr-employee-attrition)
-**Tool:** Power BI  
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
+
 Analysed suicide rates across gender, country, and year using WHO-sourced data.  
 - Identified age groups with higher risk trends  
 📁 File: `SuicidalDataset.csv`
@@ -327,7 +351,9 @@ Analysed suicide rates across gender, country, and year using WHO-sourced data.
 ### 👩‍💼 HR Employee Attrition  
 *Analyzing employee turnover drivers and retention strategies with HR analytics*
 [← Previous](#-mental-health) • [Back to TOC](#-main-table-of-contents) • [Next →](#-global-insight)
-**Tool:** Power BI  
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
+
 Built a clean dashboard to help HR teams track and reduce turnover.  
 - Pinpointed age groups and departments with the highest attrition  
 - Tracked resignation trends over time  
@@ -346,7 +372,9 @@ Built a clean dashboard to help HR teams track and reduce turnover.
 ### 🌍 Global Insight  
 *Global Insight Analytics — Population trends and growth projections* 
 [← Previous](#%E2%80%8D-hr-employee-attrition) • [Back to TOC](#-main-table-of-contents) • [Next →](#-retail-edge)
-**Tool:** Power BI  
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
+
 Explored global population growth by region, religion, and country (1955–2025).  
 - 🌐 Total projected population: 8.2B by 2025  
 - 🗺️ Most populous region: Asia  
@@ -363,7 +391,8 @@ Explored global population growth by region, religion, and country (1955–2025)
 *Retail Edge Solutions Analysis — Channel performance and revenue insights* 
 [← Previous](#-global-insight) • [Back to TOC](#-main-table-of-contents) • [Next →](#-ironcore-fitness)
 
-**Tool:** Power BI  
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
+
 From data modelling to interactive dashboards.  
 - Creating an interactive dashboard in Power BI that displays key performance indicators (KPIs)to allow users to filter and slice data for personalised insights.
 - Include visual comparisons with previous years to highlight growth or decline.
@@ -384,7 +413,8 @@ From data modelling to interactive dashboards.
 *Comprehensive Fitness Performance Dashboard*
 [← Previous](#-retail-edge) • [Back to TOC](#-main-table-of-contents) 
 
-**Tool:** Power BI
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
+
 #### 🧩 Problem Statement  
 As IronCore Fitness expands its client base, training programs, and membership tiers across multiple locations, the management team struggles to gain a unified, real-time view of member distribution, trainer performance, and overall fitness engagement.  
 
@@ -426,7 +456,9 @@ The dashboard provides a comprehensive view of:
 ### 🏥 Riverside General Hospital  
 *Entity Relationship Diagram (ERD) — Healthcare data modeling with Draw.io* 
 [Back to TOC](#-main-table-of-contents) 
-**Tool:** Draw.io 
+
+![ERD Modeling](https://img.shields.io/badge/ERD%20Modeling-FF6F00?style=plastic&logo=draw.io)
+
 They had their data as a flat file; therefore struggled with Scalability and Integration.  
 - Designed a data model that organised their data for streamlined analysis.
 - Created well-structured relationships and optimised the data schema.  
@@ -449,7 +481,8 @@ They had their data as a flat file; therefore struggled with Scalability and Int
 ### 🍫 Choco De Luxe  
 *Unlocking Sales Insights Through Data Visualization for a European Artisanal Chocolate Brand*
 [Back to TOC](#-main-table-of-contents) • [Next →](#fusionpoint)
-**Tool:** Tableau
+
+![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
 
 From raw sales data to interactive dashboards.  
 
@@ -482,7 +515,8 @@ Business leaders can now make informed decisions on:
 *Consumer Electronics Sales Trends & Profitability Analysis — Tableau with ChatGPT assistance* 
 [← Previous](#-choco-de-luxe) • [Back to TOC](#-main-table-of-contents) • [Next →](#-elevate-corp)
 **Company / Context:** FusionPoint Industries (Consumer Electronics) 
-**Tool(s):** Tableau (with AI-assisted exploration- **ChatGPT**)  
+
+![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)(with AI-assisted exploration- **ChatGPT**)  
 
 **📌 Project Aim**  
 To analyse sales performance across products, sub-categories, and regions to identify high- and low-performing segments, measure profitability trends, evaluate customer purchasing behaviour, and optimise pricing and inventory strategies.  
@@ -528,7 +562,9 @@ To analyse sales performance across products, sub-categories, and regions to ide
 ### 🏢 Elevate Corp  
 *Employee Compensation & Performance Analytics*
 [← Previous](#fusionpoint) • [Back to TOC](#-main-table-of-contents) • [Next →](#%E2%80%8D-hr-attrition)
-**Tool:** Tableau
+
+![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
+
 From fragmented HR data to a unified analytics solution — this project focuses on visualizing compensation, performance, and attrition trends at **Elevate Corp**, a company committed to employee growth and innovation.  
 
 - Centralized employee, salary, and performance data using **SQL** and **Excel** for integration.  
@@ -551,7 +587,9 @@ From fragmented HR data to a unified analytics solution — this project focuses
 ### 🧑‍💼 HR Attrition
 *Workforce Insights & Retention Analytics*
 [← Previous](#-elevate-corp) • [Back to TOC](#-main-table-of-contents) • [Next →](#-sales-performance)
-**Tool:** Tableau  
+
+![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
+
 **Focus:** Attrition | Demographics | Job Roles | Tenure | Survey Scores
 
 **What this shows**
@@ -579,7 +617,9 @@ From fragmented HR data to a unified analytics solution — this project focuses
 ### 🛒 Sales Performance
 *Regional & Category Performance*
 [← Previous](#%E2%80%8D-hr-attrition) • [Back to TOC](#-main-table-of-contents) • [Next →](#-just-store)
-**Tool:** Tableau 
+
+![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
+
 **Focus:** Sales | Profitability | Product Analysis | Category Insights  
 
 **Overview**  
@@ -609,7 +649,9 @@ This dashboard provides a consolidated view of sales, profit, and order metrics 
 ### 🛍 Just Store   
 *Retail Store Dashboard — Executive Sales Overview*
 [← Previous](#-sales-performance) • [Back to TOC](#-main-table-of-contents) 
-**Tool:** Tableau
+
+![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
+
 **Focus:** Executive Overview | Regional Sales | Profitability | Customer Insights  
 
 **Overview**  
@@ -647,8 +689,10 @@ This interactive Excel dashboard delivers a high-level overview of sales and pro
 ### 🌍 NextGen  
 *NextGen Corp Employee Success Analytics — PostgreSQL-based HR analysis* 
 [Back to TOC](#-main-table-of-contents) • [Next →](#-lewis-database--sql-questions--answers)
-**Tool:** PostgreSQL
-The HR department needs a data-driven approach to:
+
+![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql)
+
+**Focus** The HR department needs a data-driven approach to:
 -Identify trends and patterns in employee retention and turnover.
 -Track and evaluate performance across different departments.
 -Assess the relationship between salary and performance to ensure fairness and employee satisfaction.
@@ -829,7 +873,8 @@ ORDER BY avg_performance_score DESC;
 ### 🗄 Lewis Database — SQL Questions & Answers
 [← Previous](#-nextgen) • [Back to TOC](#-main-table-of-contents) • [Next →](#-alibert-furnitures)
 
-**Tool:** PostgreSQL  
+![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql)
+
 **Focus:** Category revenue, tiered discounts, default pricing, and top-seller analysis.
 
 
@@ -928,7 +973,9 @@ where "ProductID" not in (
 
 ### 🪑 Alibert Furnitures
 [← Previous](#-lewis-database--sql-questions--answers) • [Back to TOC](#-main-table-of-contents) 
-**Tool:** PostgreSQL  
+
+![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql)
+
 **Focus:** Pricing bands, stock status, customer spend, loyalty tiers, discount updates, best-sellers, and monthly revenue.
 
 
@@ -1103,8 +1150,9 @@ FROM MonthRevenue;
 ### 🧱 PrimeMart  
 *PrimeMart Retail — Sales & Customer Analytics in Microsoft Fabric (OneLake, SQL, Power BI)* 
 [Back to TOC](#-main-table-of-contents) • [Next →](#-nyc-yellow-taxi)  
-**Company / Context:** PrimeMart Retail Ltd. (Omnichannel Retail)  
-**Tool(s):** Microsoft Fabric (OneLake, Lakehouse), SQL Endpoint, Data Factory (pipelines), Power BI, Notebooks (optional)
+**Company / Context:** PrimeMart Retail Ltd. (Omnichannel Retail)
+
+![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft-fabric)(OneLake, Lakehouse), SQL Endpoint, Data Factory (pipelines), Power BI, Notebooks (optional)
 
 **📌 Problem Statement**  
 PrimeMart’s data is fragmented across daily Excel exports (sales), manual inventory updates, and siloed customer feedback databases. This causes:  
@@ -1280,7 +1328,8 @@ ORDER BY
 *Optimizing Urban Mobility — NYC Yellow Taxi Analytics Dashboard using Fabric*
 [← Previous](#-primemart) • [Back to TOC](#-main-table-of-contents)
 **Company / Context:** Public Data Case Study (NYC Yellow Taxi Dataset)  
-**Tool(s):** Microsoft Fabric (OneLake, Lakehouse, SQL Endpoint, Power BI)  
+
+![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft-fabric)(OneLake, Lakehouse, SQL Endpoint, Power BI)  
 
 **📌 Problem Statement**  
 The New York City taxi industry generates massive amounts of trip data daily. However, without a unified analytics pipeline, extracting meaningful insights is challenging. This results in:  
@@ -1402,7 +1451,8 @@ where fare_amount < 0 or total_amount < 0;
 *FusionPoint Industries — AI-assisted Tableau dashboards for sales trends & profitability*  
 [Back to TOC](#-main-table-of-contents)  
 **Company / Context:** FusionPoint Industries (Consumer Electronics) 
-**Tool(s):** Tableau (with AI-assisted exploration- **ChatGPT**)  
+
+![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)(with AI-assisted exploration- **ChatGPT**)  
 
 **📌 Project Aim**  
 To analyse sales performance across products, sub-categories, and regions to identify high- and low-performing segments, measure profitability trends, evaluate customer purchasing behaviour, and optimise pricing and inventory strategies.  
