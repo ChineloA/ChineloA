@@ -23,26 +23,6 @@ Each project highlights different aspects of my analytics journey — from data 
 ## 🛠 Tools & Technologies  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ERD%20Modeling-FF6F00?style=flat&logo=diagrams.net&logoColor=white" />
-</p>  
-
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-C6A700?style=flat&logo=Power%20BI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-D56514?style=flat&logo=Tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-005EA6?style=flat&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-1C7F53?style=flat&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-274B6D?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ERD%20Modeling-D96704?style=flat&logo=diagrams.net&logoColor=white" />
-</p>
-
-
-<p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
