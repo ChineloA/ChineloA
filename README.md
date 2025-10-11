@@ -5,6 +5,7 @@
 ![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql)
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-orange?style=plastic&logo=tableau)
 ![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft-fabric)
+![ERD Modeling](https://img.shields.io/badge/ERD%20Modeling-FF6F00?style=plastic&logo=draw.io)
 
 
 ---
