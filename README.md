@@ -1,22 +1,5 @@
 # 📊 Data Analytics Portfolio – Chinelo Agumagu
 
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
-![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel)
-![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql)
-![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
-![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft-fabric)
-![ERD Modeling](https://img.shields.io/badge/ERD%20Modeling-FF6F00?style=plastic&logo=draw.io)
-![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=white)
-
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi&logoColor=000000)
-![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel&logoColor=ffffff)
-![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql&logoColor=ffffff)
-![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau&logoColor=ffffff)
-![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft&logoColor=ffffff)
-![ERD Modeling](https://img.shields.io/badge/ERD%20Modeling-FF6F00?style=plastic&logo=diagramsdotnet&logoColor=ffffff)
-![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=white)
-
-
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi&logoColor=000000)
 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoftexcel&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql&logoColor=ffffff)
@@ -114,7 +97,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 ---
 
 
-![ERD Modeling](https://img.shields.io/badge/ERD%20Modeling-FF6F00?style=plastic&logo=draw.io)
+![ERD Modeling](https://img.shields.io/badge/ERD%20Modeling-FF6F00?style=plastic&logo=diagramsdotnet&logoColor=ffffff)
 
 ### 📝 Draw.io Projects  
 - [🏥 Riverside General Hospital](#-riverside-general-hospital)  
@@ -138,7 +121,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 ---
 
 
-![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql)
+![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql&logoColor=ffffff)
 
 ### 🗄 SQL Projects  
 - [🌍 NextGen](#-nextgen)
@@ -159,7 +142,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 ---
 
 
-![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff)
 
 ### 🤖 ChatGPT + Tableau Projects  
 - [🔌 FusionPoint (ChatGPT)](#-fusionpoint-chatgpt)  
@@ -514,7 +497,7 @@ The dashboard provides a comprehensive view of:
 *Entity Relationship Diagram (ERD) — Healthcare data modeling with Draw.io* 
 [Back to TOC](#-main-table-of-contents) 
 
-![ERD Modeling](https://img.shields.io/badge/ERD%20Modeling-FF6F00?style=plastic&logo=draw.io)
+![ERD Modeling](https://img.shields.io/badge/ERD%20Modeling-FF6F00?style=plastic&logo=diagramsdotnet&logoColor=ffffff)
 
 They had their data as a flat file; therefore struggled with Scalability and Integration.  
 - Designed a data model that organised their data for streamlined analysis.
@@ -573,7 +556,7 @@ Business leaders can now make informed decisions on:
 [← Previous](#-choco-de-luxe) • [Back to TOC](#-main-table-of-contents) • [Next →](#-elevate-corp)
 **Company / Context:** FusionPoint Industries (Consumer Electronics) 
 
-![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)(with AI-assisted exploration- ![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=white))  
+![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)(with AI-assisted exploration- !![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff))  
 
 **📌 Project Aim**  
 To analyse sales performance across products, sub-categories, and regions to identify high- and low-performing segments, measure profitability trends, evaluate customer purchasing behaviour, and optimise pricing and inventory strategies.  
@@ -747,7 +730,7 @@ This interactive Excel dashboard delivers a high-level overview of sales and pro
 *NextGen Corp Employee Success Analytics — PostgreSQL-based HR analysis* 
 [Back to TOC](#-main-table-of-contents) • [Next →](#-lewis-database--sql-questions--answers)
 
-![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql)
+![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql&logoColor=ffffff)
 
 **Focus** The HR department needs a data-driven approach to:
 -Identify trends and patterns in employee retention and turnover.
@@ -1509,7 +1492,7 @@ where fare_amount < 0 or total_amount < 0;
 [Back to TOC](#-main-table-of-contents)  
 **Company / Context:** FusionPoint Industries (Consumer Electronics) 
 
-![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=white)![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
+![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff)![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
 
 **📌 Project Aim**  
 To analyse sales performance across products, sub-categories, and regions to identify high- and low-performing segments, measure profitability trends, evaluate customer purchasing behaviour, and optimise pricing and inventory strategies.  
