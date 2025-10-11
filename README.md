@@ -22,7 +22,7 @@ Each project highlights different aspects of my analytics journey — from data 
 
 ---
 
-## 🛠 Tools & Technologies  
+## 2. 🛠 Tools & Technologies  
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
@@ -37,7 +37,7 @@ Each project highlights different aspects of my analytics journey — from data 
 
 ---
 
-## 📂 About this Portfolio
+## 3. 📂 About this Portfolio
 
 -📊 Business Intelligence Dashboards — Power BI & Tableau projects showcasing interactive analytics and storytelling.
 
