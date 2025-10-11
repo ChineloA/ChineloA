@@ -4,7 +4,7 @@
 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel)
 ![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql)
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-orange?style=plastic&logo=tableau)
-![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=flat&logo=microsoft-fabric)
+![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft-fabric)
 
 
 ---
