@@ -47,7 +47,7 @@ Each project highlights different aspects of my analytics journey — from data 
   <img alt="Microsoft Fabric" src="https://img.shields.io/badge/MICROSOFT%20FABRIC-0078D4?style=plastic&logo=microsoft&logoColor=FFFFFF" />
   <img alt="Excel" src="https://img.shields.io/badge/EXCEL-217346?style=plastic&logo=microsoft-excel&logoColor=FFFFFF" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=FFFFFF" />
-  <img alt="ERD Modeling" src="https://img.shields.io/badge/ERD%20MODELING-F08705?style=plastic&logo=diagramsdotnet&logoColor=FFFFFF" />
+  <img alt="ERD Modeling" src="https://img.shields.io/badge/ERD%20MODELING-FF6F00?style=plastic&logo=diagramsdotnet&logoColor=FFFFFF" />
 </p>
 
 <p align="left">
@@ -56,7 +56,7 @@ Each project highlights different aspects of my analytics journey — from data 
   <img alt="Microsoft Fabric" src="https://img.shields.io/badge/MICROSOFT%20FABRIC-0078D4?style=flat&logo=microsoft&logoColor=FFFFFF" />
   <img alt="Excel" src="https://img.shields.io/badge/EXCEL-217346?style=flat&logo=microsoft-excel&logoColor=FFFFFF" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=FFFFFF" />
-  <img alt="ERD Modeling" src="https://img.shields.io/badge/ERD%20MODELING-F08705?style=flat&logo=diagramsdotnet&logoColor=FFFFFF" />
+  <img alt="ERD Modeling" src="https://img.shields.io/badge/ERD%20MODELING-FF6F00?style=flat&logo=diagramsdotnet&logoColor=FFFFFF" />
 </p>
 
 
