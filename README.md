@@ -8,6 +8,13 @@
 ![ERD Modeling](https://img.shields.io/badge/ERD%20Modeling-FF6F00?style=plastic&logo=diagramsdotnet&logoColor=ffffff)
 ![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff)
 
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=000000&cacheSeconds=3600&t=pb1)
+![Excel](https://img.shields.io/badge/Tool-Excel-217346?style=plastic&logo=microsoftexcel&logoColor=ffffff&cacheSeconds=3600&t=xl1)
+![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql&logoColor=ffffff&cacheSeconds=3600&t=sql1)
+![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau&logoColor=ffffff&cacheSeconds=3600&t=tb1)
+![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-0078D4?style=plastic&logo=microsoft&logoColor=ffffff&cacheSeconds=3600&t=mf1)
+![ERD Modeling](https://img.shields.io/badge/Tool-ERD%20Modeling-FF6F00?style=plastic&logo=diagramsdotnet&logoColor=ffffff&cacheSeconds=3600&t=erd1)
+![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff&cacheSeconds=3600&t=ai1)
 
 ---
 
