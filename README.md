@@ -87,7 +87,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🍫 Choco De Luxe](#-choco-de-luxe)  
 - [🔌 FusionPoint](#fusionpoint)
 - [🏢 Elevate Corp](#-elevate-corp)  
-- [🧑‍💼 HR Attrition](#-hr-attrition)  
+- [🧑‍💼 HR Attrition](#%E2%80%8D-hr-attrition)  
 - [🛒 Sales Performance](#-sales-performance)  
 - [🏪 Just Store](#-just-store)  
 
@@ -487,7 +487,7 @@ To analyse sales performance across products, sub-categories, and regions to ide
 
 ### 🏢 Elevate Corp  
 *Employee Compensation & Performance Analytics*
-[← Previous](#-fusionpoint) • [Back to TOC](#-main-table-of-contents) • [Next →](#-hr-employee-attrition)
+[← Previous](#-fusionpoint) • [Back to TOC](#-main-table-of-contents) • [Next →](#%E2%80%8D-hr-attrition)
 **Tool:** Tableau
 From fragmented HR data to a unified analytics solution — this project focuses on visualizing compensation, performance, and attrition trends at **Elevate Corp**, a company committed to employee growth and innovation.  
 
@@ -539,7 +539,7 @@ From fragmented HR data to a unified analytics solution — this project focuses
 
 ### 🛒 Sales Performance
 *Regional & Category Performance*
-[← Previous](#-hr-attrition) • [Back to TOC](#-main-table-of-contents) • [Next →](#-just-store)
+[← Previous](#%E2%80%8D-hr-attrition) • [Back to TOC](#-main-table-of-contents) • [Next →](#-just-store)
 
 **Tool:** Excel  
 **Focus:** Sales | Profitability | Product Analysis | Category Insights  
