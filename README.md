@@ -10,7 +10,7 @@
 
 ---
 
-## 1. About Me | Data Storyteller & Insight Catalyst
+## 1. 👩‍💻 About Me | Data Storyteller & Insight Analyst
 
 👋 Hi, I'm Nelo
 
