@@ -85,7 +85,11 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 ### 📊 Tableau Projects  
 - [🍫 Choco De Luxe](#-choco-de-luxe)  
-- [🔌 FusionPoint](#fusionpoint) 
+- [🔌 FusionPoint](#fusionpoint)
+- [🏢 Elevate Corp](#-elevate-corp)  
+- [🧑‍💼 HR Attrition](#-hr-attrition)  
+- [🛒 Sales Performance](#-sales-performance)  
+- [🏪 Just Store](#-just-store)  
 
 ### 🗄 SQL Projects  
 - [🌍 NextGen](#-nextgen)  
@@ -116,6 +120,8 @@ Used simulated sales and operational data to generate business recommendations.
 - Visualised order trends by day and product type  
 - Evaluated peak hours, pricing impact, and café profitability  
 - Source: `Cafe_Harmony_Capstone_Project.xlsx`
+
+**Dashboard Preview**
 📸 ![Screenshot 2025-05-12 231933](https://github.com/user-attachments/assets/3554342c-a1ac-4745-8091-230dd7c2cca5)
 
 
@@ -130,7 +136,9 @@ Analysed over 34,000 transactions to visualise profit trends, product category p
 - 📈 Monthly profit trends (2015–2016)  
 - 👥 Profit breakdown by gender and age group  
 - 🛍️ Top products: Phones, Clothing, Accessories  
-- 📍 Leading states: Abuja, Anambra, Bauchi  
+- 📍 Leading states: Abuja, Anambra, Bauchi
+
+**Dashboard Preview**
 📸 ![Screenshot 2025-05-06 172930](https://github.com/user-attachments/assets/1185c351-07b0-4a8b-b0ac-8f4001fc70fc)
 
 
@@ -145,7 +153,9 @@ Tracked profitability by product category, seller, state, and month.
 - 💰 Total Sales: $981K | Profit: $448K  
 - 📊 Top category: Sports & Fitness (48% profit margin)  
 - 🧑‍💼 Seller breakdown shows Bob and Alice as top contributors  
-- 🗺️ California recorded the highest state-wise sales  
+- 🗺️ California recorded the highest state-wise sales
+
+**Dashboard Preview**
 📸 ![Screenshot 2025-05-06 173052](https://github.com/user-attachments/assets/1551cc34-a964-4682-b8ce-e317117956ce)
 
 
@@ -160,7 +170,9 @@ Visualised customer behaviour, bank usage, and transaction trends in January.
 - 💵 Total Deposit: ₦13.87M | Transactions: 229  
 - 🧑‍🤝‍🧑 Top loyal customers identified by count  
 - 🏦 Most used banks: GTBank, First Bank  
-- 👶 36 underage accounts flagged  
+- 👶 36 underage accounts flagged
+
+**Dashboard Preview**
 📸 ![Screenshot 2025-05-06 173146](https://github.com/user-attachments/assets/ba9d986f-06e1-4122-a5be-e1afd031e42e)
 
 
@@ -180,6 +192,8 @@ Analysed fuel usage, downtime, and maintenance costs across multiple vehicles.
 - Highlighted top maintenance cost drivers  
 - Tracked operational performance over time  
 - Dataset: `Fleet_Operations_Data.csv`, `TriFleet Data.xlsx`
+
+**Dashboard Preview**
 📸 ![Screenshot 2025-05-25 161711](https://github.com/user-attachments/assets/ee57c7a6-8e41-450e-bcf8-4c738916fb3f)
 📸 ![Screenshot 2025-05-19 233508](https://github.com/user-attachments/assets/d851f5ae-ee1d-4f90-9d6c-b1b2356283cf)
 
@@ -195,6 +209,8 @@ Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to ana
 - Ranked stores by performance  
 - Identified best-selling products  
 - Dashboards created from: `Costco_Data.xlsx`, `Target_Data.xlsx`, `Walmart_Data.xlsx`, `Walgreens_Data.xlsx`
+
+**Dashboard Preview**
 📸 ![Screenshot 2025-05-18 205721](https://github.com/user-attachments/assets/14fc100f-1ed3-4f71-9d5a-76ad6c86d484)
 
 
@@ -209,6 +225,8 @@ Analysed updated cookie pricing and cost structure from the business memo.
 - Evaluated gross margins across 6 cookie types  
 - Created pricing model with profitability flags  
 - Source: `Dreamy Bites Report.pdf`
+
+**Dashboard Preview**
 📸 ![Screenshot 2025-05-20 222339](https://github.com/user-attachments/assets/55d6de90-0ab4-4503-a3ae-e6368fc8bb49)
 📸 ![Screenshot 2025-05-20 222410](https://github.com/user-attachments/assets/e163c20a-75a7-48d4-af10-e60add20b877)
 
@@ -225,6 +243,8 @@ Analysed updated cookie pricing and cost structure from the business memo.
 - Created  Dynamic charts with selected metrics, ranking metric, etc
 - Provided insights into customer demographics, revenue distribution by buyer type, and purchasing behaviour. Additionally,
 - Included geographical sales insights, highlighting key revenue sources
+
+**Dashboard Preview**
 📸 ![Screenshot 2025-05-25 161501](https://github.com/user-attachments/assets/717b0e09-960d-4049-b292-62204937c7f4)
 📸 ![Screenshot 2025-05-25 161537](https://github.com/user-attachments/assets/e8d2e5b2-f3db-4a7b-805a-257c411384f8)
 📸 ![Screenshot 2025-06-06 220650](https://github.com/user-attachments/assets/58b977ae-1139-40b7-bfb4-a646fa192f24)
@@ -241,6 +261,8 @@ Analysed updated cookie pricing and cost structure from the business memo.
 To build a data model and also build an interactive dashboard that will enable faster, data-driven decisions.  
 - Data: `DeskifyData.xlsx`  
 - Suggested intervention points to reduce turnover
+
+**Dashboard Preview**
 📸 ![Screenshot 2025-05-18 220145](https://github.com/user-attachments/assets/0a4a485a-6455-4f42-be25-ecbc2f14864f)
 📸 ![Screenshot 2025-05-18 220415](https://github.com/user-attachments/assets/1ec5c740-a175-4806-8640-28c1b91b62ad)
 📸 ![Screenshot 2025-05-24 162959](https://github.com/user-attachments/assets/0c99f463-e311-4a08-bd81-f705fb9def26)
@@ -257,6 +279,8 @@ Built an end-to-end sales and profit dashboard for a fashion retailer.
 - Compared performance across multiple customer segments  
 - Identified top-selling product categories and stores  
 - Dataset: `Aurora Threads Data.xlsx`
+
+**Dashboard Preview**
 📸 ![Screenshot 2025-05-12 233017](https://github.com/user-attachments/assets/731f5181-f6a3-4215-9b53-b4c9a09be62c)
 
 
@@ -271,6 +295,8 @@ Explored trends in life expectancy using WHO-sourced data.
 - Compared life expectancy by region and income group  
 - Evaluated time-series improvements from 1960–2020  
 - Dataset: `Life Expectancy at Birth.csv`
+
+**Dashboard Preview**
 📸 ![Screenshot 2025-05-09 160956](https://github.com/user-attachments/assets/937feaaf-6aef-45ad-9cda-b2a95592db5f)
 
 
@@ -284,6 +310,8 @@ Explored trends in life expectancy using WHO-sourced data.
 Analysed suicide rates across gender, country, and year using WHO-sourced data.  
 - Identified age groups with higher risk trends  
 📁 File: `SuicidalDataset.csv`
+
+**Dashboard Preview**
 📸 ![Screenshot 2025-05-18 195537](https://github.com/user-attachments/assets/f1edd98c-c542-45d5-930d-b71645b81e89)
 
 
@@ -298,6 +326,8 @@ Built a clean dashboard to help HR teams track and reduce turnover.
 - Pinpointed age groups and departments with the highest attrition  
 - Tracked resignation trends over time  
 - Dataset: `HR-Employee-Attrition.csv`
+
+**Dashboard Preview**
 📸 ![Screenshot 2025-05-06 175001](https://github.com/user-attachments/assets/f2c9bed6-5259-4e86-ac4a-702983089111)
 📸 ![Screenshot 2025-05-06 175035](https://github.com/user-attachments/assets/7ac52dc6-2fb6-4b04-b8f9-ed2420eaea87)
 📸 ![Screenshot 2025-05-06 175105](https://github.com/user-attachments/assets/1932b5d3-f04d-45fd-9dc7-81b7831e7f9e)
@@ -314,7 +344,9 @@ Built a clean dashboard to help HR teams track and reduce turnover.
 Explored global population growth by region, religion, and country (1955–2025).  
 - 🌐 Total projected population: 8.2B by 2025  
 - 🗺️ Most populous region: Asia  
-- 🛐 Major religious groups: Christians, Muslims, Hindus  
+- 🛐 Major religious groups: Christians, Muslims, Hindus
+
+**Dashboard Preview**
 📸 ![Screenshot 2025-05-16 232450](https://github.com/user-attachments/assets/02aa7e6b-242c-4c5f-b0f6-70b9905279c7)
 
 
@@ -329,7 +361,9 @@ From data modelling to interactive dashboards.
 - Creating an interactive dashboard in Power BI that displays key performance indicators (KPIs)to allow users to filter and slice data for personalised insights.
 - Include visual comparisons with previous years to highlight growth or decline.
 - Provide actionable insights by showcasing top-performing cities, channels and customers, enabling data-driven strategic decisions.
-- Implement DAX calculations to track year-over-year growth   
+- Implement DAX calculations to track year-over-year growth
+
+**Dashboard Preview**  
 📸 ![Screenshot 2025-05-31 223847](https://github.com/user-attachments/assets/4303fe87-4b00-4583-a9a6-e7aa411c9617)
    ![Screenshot 2025-05-31 223812](https://github.com/user-attachments/assets/621acb94-5fa8-451e-ae92-1adfe3a06522)
    ![Screenshot 2025-05-31 224002](https://github.com/user-attachments/assets/a29e2627-cb39-462f-8df7-652eabcab497)
@@ -437,7 +471,7 @@ To analyse sales performance across products, sub-categories, and regions to ide
 - Summarised actionable findings supported by AI-enhanced insights  
 - Delivered guidance on **pricing, product assortment, and customer outreach**  
 
-📊 Screenshots of Dashboards  
+📊 **Dashboard Preview**  
 📸<img width="1587" height="850" alt="Screenshot 2025-10-03 175847" src="https://github.com/user-attachments/assets/00eec2e2-cfc3-474c-ac15-7298521108a1" />
    <img width="1584" height="846" alt="Screenshot 2025-10-03 175907" src="https://github.com/user-attachments/assets/661291e1-1d0e-48a8-91db-2f0a9ea9ca38" />
    <img width="1586" height="845" alt="Screenshot 2025-10-03 175922" src="https://github.com/user-attachments/assets/3ff00a17-3461-45bf-98c5-402c417a89a9" />
@@ -464,8 +498,103 @@ From fragmented HR data to a unified analytics solution — this project focuses
 **Key Outcomes:**  
 - Identified compensation patterns across job titles and locations.  
 - Improved reporting efficiency for HR leadership.  
-- Enabled strategic, data-driven decisions for workforce planning.  
+- Enabled strategic, data-driven decisions for workforce planning.
+
+**Dashboard Preview**
 📸<img width="1601" height="863" alt="Screenshot 2025-10-11 155536" src="https://github.com/user-attachments/assets/b3403321-08b1-4ee7-9d23-98c38a729dd4" />
+
+
+
+
+---
+
+### 🧑‍💼 HR Attrition
+*Workforce Insights & Retention Analytics*
+[← Previous](#-elevate-corp) • [Back to TOC](#-main-table-of-contents) • [Next →](#-sales-dashboard)
+
+**Tool:** Tableau  
+**Focus:** Attrition | Demographics | Job Roles | Tenure | Survey Scores
+
+**What this shows**
+- **Overview KPIs:** Attrition rate, total attrition, total headcount.  
+- **By Department & Role:** Donut + bar visuals to spot hotspots (e.g., Sales vs. R&D; Sales Exec vs. Lab Tech).  
+- **Demographics:** Gender & age group splits for attrition vs. retention.  
+- **Education Field:** Where leavers cluster by discipline.  
+- **Trend:** Monthly/period **attrition trend** with peaks and dips.  
+- **Survey Score Matrix:** Role-level satisfaction/engagement patterns.  
+- **Recent Attrition Panel:** Quick details (hourly rate, job satisfaction, hikes, years in role, performance).
+
+**Outcomes**
+- Pinpointed high-risk departments/roles and demographic segments.  
+- Highlighted tenure/engagement patterns linked to churn.  
+- Equipped HR with targeted, data-driven retention actions.
+
+**Dashboard Preview**  
+📸<img width="1571" height="876" alt="Screenshot 2025-10-11 155600" src="https://github.com/user-attachments/assets/1dc7a24a-9efd-4ff3-be9a-70b26f21b5c7" />
+
+
+
+
+---
+
+### 🛒 Sales Performance
+*Regional & Category Performance*
+[← Previous](#-hr-attrition) • [Back to TOC](#-main-table-of-contents) • [Next →](#-just-store)
+
+**Tool:** Excel  
+**Focus:** Sales | Profitability | Product Analysis | Category Insights  
+
+**Overview**  
+This dashboard provides a consolidated view of sales, profit, and order metrics across regions, categories, and time periods. It helps uncover performance trends and top-performing products for informed business decisions.
+
+**Key Insights**  
+- **KPIs:** Total Sales, Quantity, Profit, Orders, and Profit Margin %.  
+- **Sales by Region:** Visualized through a pie chart to compare regional distribution.  
+- **Sales Over Time:** Trend analysis to track monthly performance fluctuations.  
+- **Sales vs. Profit by Category:** Reveals profitability efficiency across Technology, Office Supplies, and Furniture.  
+- **Top 10 Products by Sales:** Identifies leading products driving revenue.
+
+**Impact**  
+- Enhanced understanding of sales distribution and performance drivers.  
+- Quick identification of profitable categories and underperforming segments.  
+- Improved strategic planning for regional and product-based initiatives.
+
+**Dashboard Preview**  
+<img width="1593" height="855" alt="Screenshot 2025-10-11 155344" src="https://github.com/user-attachments/assets/2c48f3a5-6807-488e-9066-9442577494fb" />
+<img width="1599" height="861" alt="Screenshot 2025-10-11 155400" src="https://github.com/user-attachments/assets/cd5a65d3-8568-4d48-92bb-55282f552f53" />
+
+
+
+
+---
+
+### 🛍 Just Store   
+*Retail Store Dashboard — Executive Sales Overview*
+[← Previous](#-sales-dashboard) • [Back to TOC](#-main-table-of-contents) 
+
+**Tool:** Excel  
+**Focus:** Executive Overview | Regional Sales | Profitability | Customer Insights  
+
+**Overview**  
+This interactive Excel dashboard delivers a high-level overview of sales and profitability performance across categories, regions, and time periods — tailored for executive decision-making.
+
+**Key Insights**  
+- **KPIs:** Sales, Profit, Orders, Customers, and Quantity.  
+- **Sales by Region:** Regional sales contribution visualized via bar charts.  
+- **Sales by Category:** Comparison of Technology, Furniture, and Office Supplies performance.  
+- **Sales & Profit by Category:** Identifies profitability gaps across segments.  
+- **Sales Over Time:** Monthly trend analysis showing seasonal demand shifts.  
+- **Table View:** Customer-level insights for order tracking and profitability review.
+
+**Impact**  
+- Improved visibility into category-level and regional performance.  
+- Enabled executives to identify trends and optimize resource allocation.  
+- Strengthened business forecasting and sales planning processes.
+
+**Dashboard Preview**  
+<img width="1592" height="855" alt="Screenshot 2025-10-11 154925" src="https://github.com/user-attachments/assets/56466629-4a6e-41cd-8aa5-9edb17f45341" />
+<img width="1597" height="855" alt="Screenshot 2025-10-11 155027" src="https://github.com/user-attachments/assets/14897827-3ca7-4f4d-bd79-ee2fd99c9f99" />
+
 
 
 
@@ -835,7 +964,7 @@ ORDER BY
     Remaining_Stock ASC;
 ```
 
-📊 Screenshots of Dashboards  
+📊 **Dashboard Preview**  
 📸<img width="1437" height="779" alt="Screenshot 2025-09-28 131014" src="https://github.com/user-attachments/assets/684d5165-2e33-4cdc-8c6b-91181e0d4c64" />
 
 
@@ -933,7 +1062,7 @@ from nyc_yellow_taxi_enriched
 where fare_amount < 0 or total_amount < 0;
 ```
 
-📊 Screenshots of Dashboards  
+📊 **Dashboard Preview**  
 📸<img width="1383" height="789" alt="Screenshot 2025-09-24 222732" src="https://github.com/user-attachments/assets/fb7e26d4-6a10-4882-835f-097ba1d926ad" />
    <img width="999" height="776" alt="Screenshot 2025-09-27 170038" src="https://github.com/user-attachments/assets/c1593aba-871b-4f96-8c8b-43b79f42bc0a" />
 
@@ -997,7 +1126,7 @@ To analyse sales performance across products, sub-categories, and regions to ide
 - Summarised actionable findings supported by AI-enhanced insights  
 - Delivered guidance on **pricing, product assortment, and customer outreach**  
 
-📊 Screenshots of Dashboards  
+📊 **Dashboard Preview**  
 📸<img width="1587" height="850" alt="Screenshot 2025-10-03 175847" src="https://github.com/user-attachments/assets/00eec2e2-cfc3-474c-ac15-7298521108a1" />
    <img width="1584" height="846" alt="Screenshot 2025-10-03 175907" src="https://github.com/user-attachments/assets/661291e1-1d0e-48a8-91db-2f0a9ea9ca38" />
    <img width="1586" height="845" alt="Screenshot 2025-10-03 175922" src="https://github.com/user-attachments/assets/3ff00a17-3461-45bf-98c5-402c417a89a9" />
