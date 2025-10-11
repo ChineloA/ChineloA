@@ -61,6 +61,17 @@ Each project highlights different aspects of my analytics journey — from data 
   <img src="https://img.shields.io/badge/ERD%20Modeling-FF6F00?style=flat-square&logo=diagrams.net&logoColor=white" />
 </p>  
 
+<p align="left">
+  <img alt="Power BI" src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
+  <img alt="Tableau" src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=FFFFFF" />
+  <img alt="Microsoft Fabric" src="https://img.shields.io/badge/MICROSOFT%20FABRIC-0078D4?style=for-the-badge&logo=microsoft&logoColor=FFFFFF" />
+  <img alt="Excel" src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=FFFFFF" />
+  <img alt="SQL (PostgreSQL)" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
+  <img alt="ERD Modeling" src="https://img.shields.io/badge/ERD%20MODELING-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=FFFFFF" />
+</p>
+
+
+
 ---
 
 ## 📂 About this Portfolio
