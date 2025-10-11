@@ -469,6 +469,20 @@ The HR department needs a data-driven approach to:
    Goal: Understand the employee turnover trends and identify the root causes of high turnover rates.
 
 - 1. WHO ARE THE TOP 5 SERVING EMPLOYEES?
+  ```sql
+  -- PostgreSQL
+SELECT
+  d.department_name,
+  ROUND(AVG(p.performance_score), 2) AS avg_performance_score,
+  '$' || TO_CHAR(ROUND(AVG(s.salary_amount), 2), 'FM999,999,999.00') AS avg_salary
+FROM employee e
+LEFT JOIN performance p ON e.employee_id = p.employee_id
+LEFT JOIN salary      s ON e.employee_id = s.employee_id
+LEFT JOIN department  d ON e.department_id = d.department_id
+GROUP BY d.department_name
+ORDER BY avg_performance_score DESC;
+ ```
+
 <img width="1012" height="309" alt="Screenshot 2025-07-29 023602" src="https://github.com/user-attachments/assets/5fbe3e19-e8d3-479a-916a-55158df5a493" />
 
 
