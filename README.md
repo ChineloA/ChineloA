@@ -104,7 +104,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 ---
 
 
-![ERD Modeling](https://img.shields.io/badge/ERD%20Modeling-FF6F00?style=plastic&logo=diagramsdotnet&logoColor=ffffff)
+![ERD Modeling](https://img.shields.io/badge/Tool-ERD%20Modeling-FF6F00?style=plastic&logo=diagramsdotnet&logoColor=ffffff)
 
 ### 📝 Draw.io Projects  
 - [🏥 Riverside General Hospital](#-riverside-general-hospital)  
@@ -504,7 +504,7 @@ The dashboard provides a comprehensive view of:
 *Entity Relationship Diagram (ERD) — Healthcare data modeling with Draw.io* 
 [Back to TOC](#-main-table-of-contents) 
 
-![ERD Modeling](https://img.shields.io/badge/ERD%20Modeling-FF6F00?style=plastic&logo=diagramsdotnet&logoColor=ffffff)
+![ERD Modeling](https://img.shields.io/badge/Tool-ERD%20Modeling-FF6F00?style=plastic&logo=diagramsdotnet&logoColor=ffffff)
 
 They had their data as a flat file; therefore struggled with Scalability and Integration.  
 - Designed a data model that organised their data for streamlined analysis.
