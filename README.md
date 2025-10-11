@@ -1,6 +1,6 @@
 # 📊 Data Analytics Portfolio – Chinelo Agumagu
 
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=flat&logo=powerbi)
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel)
 ![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql)
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-orange?style=plastic&logo=tableau)
