@@ -31,18 +31,25 @@ Each project highlights different aspects of my analytics journey — from data 
   <img src="https://img.shields.io/badge/ERD%20Modeling-FF6F00?style=flat&logo=diagrams.net&logoColor=white" />
 </p>  
 
-  
----
 
-## 🛠️ Tools & Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-C6A700?style=flat&logo=Power%20BI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-D56514?style=flat&logo=Tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-005EA6?style=flat&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-1C7F53?style=flat&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-274B6D?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ERD%20Modeling-D96704?style=flat&logo=diagrams.net&logoColor=white" />
+</p>
 
-![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000)
-![Tableau](https://img.shields.io/badge/TABLEAU-E97627?style=flat-square&logo=tableau&logoColor=ffffff)
-![Microsoft Fabric](https://img.shields.io/badge/MICROSOFT%20FABRIC-0078D4?style=flat-square&logo=microsoft&logoColor=ffffff)
-![Excel](https://img.shields.io/badge/EXCEL-217346?style=flat-square&logo=microsoftexcel&logoColor=ffffff)
-![SQL](https://img.shields.io/badge/SQL-1F4E79?style=flat-square&logo=postgresql&logoColor=ffffff)
-![ERD Modeling](https://img.shields.io/badge/ERD%20MODELING-F08705?style=flat-square&logo=diagramsdotnet&logoColor=ffffff)
 
+<p align="left">
+  <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=000000" />
+  <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=Tableau&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/MICROSOFT%20FABRIC-0078D4?style=for-the-badge&logo=microsoft&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/ERD%20MODELING-FF6F00?style=for-the-badge&logo=diagrams.net&logoColor=ffffff" />
+</p>
 
 
 ---
