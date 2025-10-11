@@ -482,9 +482,6 @@ ORDER BY hire_date
 LIMIT 5;
 ```
 
-<img width="1012" height="309" alt="Screenshot 2025-07-29 023602" src="https://github.com/user-attachments/assets/5fbe3e19-e8d3-479a-916a-55158df5a493" />
-
-
 📸 <img width="882" height="255" alt="Screenshot 2025-07-24 184802" src="https://github.com/user-attachments/assets/cc15cbb4-4cb7-4e24-8412-4a589832f1a7" />
 
 - **TURNOVER RATE FOR EACH DEPARTMENT**
@@ -497,8 +494,6 @@ LEFT JOIN turnover t ON e.employee_id = t.employee_id
 GROUP BY d.department_name
 ORDER BY turnover_rate_percent DESC;
 ```
-<img width="1345" height="221" alt="Screenshot 2025-07-29 023619" src="https://github.com/user-attachments/assets/b0b04024-dee5-42a3-81a9-76226c1c36d5" />
-
 
 📸 <img width="523" height="217" alt="Screenshot 2025-07-25 014633" src="https://github.com/user-attachments/assets/763e9c00-b4e5-4ad3-8499-a9ec2e73d1f6" />
 
@@ -520,8 +515,6 @@ GROUP BY e.employee_id, full_name, d.department_name
 HAVING AVG(p.performance_score) = 5.0 OR AVG(p.performance_score) < 3.5
 ORDER BY avg_performance_score;
 ```
-<img width="991" height="454" alt="Screenshot 2025-07-29 023636" src="https://github.com/user-attachments/assets/069fb86d-202b-46e1-865a-e5733c7e130f" />
-
 
 📸 <img width="958" height="106" alt="Screenshot 2025-07-26 210608" src="https://github.com/user-attachments/assets/7c3c2718-7872-49f2-b0c8-12ddee212628" />
 
@@ -535,8 +528,6 @@ JOIN employee e ON t.employee_id = e.employee_id
 GROUP BY t.reason_for_leaving
 ORDER BY number_of_exits DESC;
 ```
-<img width="1202" height="230" alt="Screenshot 2025-07-29 023650" src="https://github.com/user-attachments/assets/53150397-1450-4eb1-bf9f-5331ff90382a" />
-
 
 📸 <img width="1841" height="148" alt="Screenshot 2025-07-25 134134" src="https://github.com/user-attachments/assets/9853b411-bbf0-41be-8435-5c572876aca7" />
 
@@ -555,8 +546,6 @@ FROM employee e
 LEFT JOIN turnover t ON t.employee_id = e.employee_id
 WHERE turnover_id IS NOT NULL;
 ```
- <img width="699" height="290" alt="Screenshot 2025-07-29 025328" src="https://github.com/user-attachments/assets/64bd5bf1-54ea-4bbb-9940-b3e20be3917c" />
-
 
 📸<img width="242" height="107" alt="Screenshot 2025-07-25 015337" src="https://github.com/user-attachments/assets/83c5de88-6421-4172-9b4f-8eb3f101b0e6" />
 
@@ -566,8 +555,6 @@ SELECT COUNT(DISTINCT employee_id) AS employee_count
 FROM performance
 WHERE performance_score = 5 OR performance_score < 3.5
 ```
-<img width="731" height="106" alt="Screenshot 2025-07-29 023720" src="https://github.com/user-attachments/assets/0e2cea34-c06c-43c0-985f-6699b2feedd0" />
-
 
 📸 <img width="262" height="114" alt="Screenshot 2025-07-26 193841" src="https://github.com/user-attachments/assets/bd2d8361-09ad-4e25-ac57-3cdd72813205" />
 
@@ -578,11 +565,8 @@ FROM performance p
 JOIN department d ON p.department_id = d.department_id
 WHERE p.performance_score = 5.0 OR p.performance_score < 3.5
 GROUP BY d.department_name
-ORDER BY employee_count DESC
-LIMIT 2;
+ORDER BY employee_count DESC;
 ```
-<img width="957" height="184" alt="Screenshot 2025-07-29 024540" src="https://github.com/user-attachments/assets/c067fda0-6d27-4900-bace-0ae61fef50a0" />
-
 
 📸 <img width="480" height="223" alt="Screenshot 2025-07-26 200729" src="https://github.com/user-attachments/assets/503372c9-3984-49f4-bf66-7bd5ac900985" />
 
@@ -596,8 +580,6 @@ JOIN department d ON e.department_id = d.department_id
 GROUP BY d.department_name
 ORDER BY avg_performance_score DESC;
 ```
-<img width="851" height="217" alt="Screenshot 2025-07-29 023744" src="https://github.com/user-attachments/assets/9cd3220e-db6c-417a-9a41-d161c8c0ee61" />
-
 
 📸 <img width="547" height="220" alt="Screenshot 2025-07-29 021307" src="https://github.com/user-attachments/assets/c4db4329-ed41-4627-96bf-d7a0ce437139" />
 
@@ -610,8 +592,6 @@ SELECT COUNT(employee_id) AS no_of_employees,
 	TO_CHAR(SUM(salary_amount):: numeric, 'FM$999,999,999.00') AS total_salary_expense
 FROM salary;
 ```
-<img width="1118" height="104" alt="Screenshot 2025-07-29 023812" src="https://github.com/user-attachments/assets/04010974-e87f-4d52-8aec-c609c2ee6ea0" />
-
 
 📸 <img width="483" height="110" alt="Screenshot 2025-07-25 015909" src="https://github.com/user-attachments/assets/43fa1765-544c-47f0-a73c-e1cbfafaec7f" />
 
@@ -624,8 +604,6 @@ LEFT JOIN salary s ON s.employee_id = e.employee_id
 GROUP BY job_title
 ORDER BY avg_salary DESC;
 ```
-<img width="1097" height="188" alt="Screenshot 2025-07-29 023759" src="https://github.com/user-attachments/assets/2f2dba33-0213-40d5-86bc-ad9f965fa42a" />
-
 
 📸 <img width="441" height="259" alt="Screenshot 2025-07-25 020043" src="https://github.com/user-attachments/assets/1377edd9-a954-4127-9556-f1a853896815" />
 
@@ -635,8 +613,6 @@ SELECT COUNT(DISTINCT s.employee_id) AS high_earners
 FROM salary s
 WHERE s.salary_amount > 80000;
 ```
-<img width="720" height="109" alt="Screenshot 2025-07-29 023822" src="https://github.com/user-attachments/assets/616e2341-c7a8-4342-a712-d389f48ed1a7" />
-
 
 📸 <img width="224" height="108" alt="Screenshot 2025-07-25 020200" src="https://github.com/user-attachments/assets/24041af8-1ce7-4634-8d23-c25607750785" />
 
@@ -652,8 +628,6 @@ LEFT JOIN department d ON e.department_id = d.department_id
 GROUP BY d.department_name
 ORDER BY avg_performance_score DESC;
 ```
-<img width="1064" height="287" alt="Screenshot 2025-07-29 023836" src="https://github.com/user-attachments/assets/fc26395d-1791-46e7-82c1-877198ba6c12" />
-
 
 📸 <img width="667" height="214" alt="Screenshot 2025-07-29 021806" src="https://github.com/user-attachments/assets/b1ceb71a-c4de-492d-b6d2-686b7ce0c8f3" />
 
