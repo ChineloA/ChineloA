@@ -34,6 +34,19 @@ Each project highlights different aspects of my analytics journey — from data 
   
 ---
 
+## 🛠️ Tools & Technologies
+
+![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000)
+![Tableau](https://img.shields.io/badge/TABLEAU-E97627?style=flat-square&logo=tableau&logoColor=ffffff)
+![Microsoft Fabric](https://img.shields.io/badge/MICROSOFT%20FABRIC-0078D4?style=flat-square&logo=microsoft&logoColor=ffffff)
+![Excel](https://img.shields.io/badge/EXCEL-217346?style=flat-square&logo=microsoftexcel&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/SQL-1F4E79?style=flat-square&logo=postgresql&logoColor=ffffff)
+![ERD Modeling](https://img.shields.io/badge/ERD%20MODELING-F08705?style=flat&logo=diagramsdotnet&logoColor=ffffff)
+
+
+
+---
+
 ## 📂 About this Portfolio
 
 -📊 Business Intelligence Dashboards — Power BI & Tableau projects showcasing interactive analytics and storytelling.
