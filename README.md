@@ -61,12 +61,14 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 # 📑 Main Table of Contents  
 
+ <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 ### 📑 Excel Projects  
 - [☕ Café Harmony](#-café-harmony)  
 - [📊 10Alytics Sales](#-10alytics-sales)  
 - [📈 Sales & Profitability](#-sales--profitability)  
 - [🎰 Betting Insights](#-betting-insights)  
 
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
 ### 🔷 Power BI Projects  
 - [🚗 Fleet Operations](#fleet-operations)  
 - [🏪 Retail Store](#-retail-store)  
@@ -82,9 +84,12 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [💪 IronCore Fitness](#-ironcore-fitness)
 
 
+<img src="https://img.shields.io/badge/ERD%20Modeling-FF6F00?style=for-the-badge&logo=diagrams.net&logoColor=white" />
 ### 📝 Draw.io Projects  
 - [🏥 Riverside General Hospital](#-riverside-general-hospital)  
 
+
+ <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 ### 📊 Tableau Projects  
 - [🍫 Choco De Luxe](#-choco-de-luxe)  
 - [🔌 FusionPoint](#fusionpoint)
@@ -93,17 +98,21 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🛒 Sales Performance](#-sales-performance)  
 - [🏪 Just Store](#-just-store)  
 
+
+ <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 ### 🗄 SQL Projects  
 - [🌍 NextGen](#-nextgen)
 - [🗄 Lewis Database](#-lewis-database--sql-questions--answers)
 - [🪑 Alibert Furnitures](#-alibert-furnitures)
 
 
-
+![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft-fabric)
 ### 🧱 Fabric Projects  
 - [🧱 PrimeMart](#-primemart)  
 - [🚕 NYC Yellow Taxi](#-nyc-yellow-taxi)  
 
+
+![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=white)
 ### 🤖 ChatGPT + Tableau Projects  
 - [🔌 FusionPoint (ChatGPT)](#-fusionpoint-chatgpt)  
 
