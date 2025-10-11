@@ -78,7 +78,9 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🧠 Mental Health](#-mental-health)  
 - [👩‍💼 HR Employee Attrition](#%E2%80%8D-hr-employee-attrition) 
 - [🌍 Global Insight](#-global-insight)  
-- [🌍 Retail Edge](#-retail-edge)  
+- [🌍 Retail Edge](#-retail-edge)
+- [💪 IronCore Fitness](#-ironcore-fitness)
+
 
 ### 📝 Draw.io Projects  
 - [🏥 Riverside General Hospital](#-riverside-general-hospital)  
@@ -355,7 +357,8 @@ Explored global population growth by region, religion, and country (1955–2025)
 
 ### 🌍 Retail Edge  
 *Retail Edge Solutions Analysis — Channel performance and revenue insights* 
-[← Previous](#-global-insight) • [Back to TOC](#-main-table-of-contents) 
+[← Previous](#-global-insight) • [Back to TOC](#-main-table-of-contents) • [Next →](#-ironcore-fitness)
+
 **Tool:** Power BI  
 From data modelling to interactive dashboards.  
 - Creating an interactive dashboard in Power BI that displays key performance indicators (KPIs)to allow users to filter and slice data for personalised insights.
@@ -373,6 +376,39 @@ From data modelling to interactive dashboards.
 
 
 ---
+### 💪 IronCore Fitness
+*Comprehensive Fitness Performance Dashboard*
+[← Previous](#-retail-edge) • [Back to TOC](#-main-table-of-contents) 
+
+**Tool:** Power BI
+#### 🧩 Problem Statement  
+As IronCore Fitness expands its client base, training programs, and membership tiers across multiple locations, the management team struggles to gain a unified, real-time view of member distribution, trainer performance, and overall fitness engagement.  
+
+The current dependence on static reports makes it challenging to track membership growth, identify underutilized services, or analyze patterns in client retention and churn. This limits data-driven decision-making in membership management, trainer allocation, and program development.  
+
+To address this, IronCore Fitness requires a **dynamic Power BI dashboard** that visualizes critical business and fitness metrics across multiple dimensions.
+
+
+#### 📊 Dashboard Overview  
+The dashboard provides a comprehensive view of:
+- 💼 **Revenue Insights** – Monthly revenue, profit, and expense trends  
+- 🧍‍♂️ **Client Tracking** – Active vs inactive clients, trainer allocation, and goal monitoring  
+- 💳 **Membership Plans** – Distribution of Platinum, Gold, and Silver memberships  
+- 📅 **Engagement Metrics** – Monthly sign-ups and client activity patterns  
+- ⏱ **Performance Monitoring** – Progress tracking via expiry and activity rates  
+
+
+#### 📸 Dashboard Preview  
+<img width="1423" height="798" alt="Screenshot 2025-10-11 171856" src="https://github.com/user-attachments/assets/2aeed7cb-a4d0-45a4-87a4-ff398804965f" />
+
+
+
+
+
+
+
+---
+
 
 # 📝 Draw.io (ERD / Data Modeling)   
 *Entity Relationship Diagram (ERD) — Healthcare data modelling with Draw.io*  
@@ -511,7 +547,6 @@ From fragmented HR data to a unified analytics solution — this project focuses
 ### 🧑‍💼 HR Attrition
 *Workforce Insights & Retention Analytics*
 [← Previous](#-elevate-corp) • [Back to TOC](#-main-table-of-contents) • [Next →](#-sales-performance)
-
 **Tool:** Tableau  
 **Focus:** Attrition | Demographics | Job Roles | Tenure | Survey Scores
 
@@ -540,8 +575,7 @@ From fragmented HR data to a unified analytics solution — this project focuses
 ### 🛒 Sales Performance
 *Regional & Category Performance*
 [← Previous](#%E2%80%8D-hr-attrition) • [Back to TOC](#-main-table-of-contents) • [Next →](#-just-store)
-
-**Tool:** Excel  
+**Tool:** Tableau 
 **Focus:** Sales | Profitability | Product Analysis | Category Insights  
 
 **Overview**  
@@ -571,8 +605,7 @@ This dashboard provides a consolidated view of sales, profit, and order metrics 
 ### 🛍 Just Store   
 *Retail Store Dashboard — Executive Sales Overview*
 [← Previous](#-sales-performance) • [Back to TOC](#-main-table-of-contents) 
-
-**Tool:** Excel  
+**Tool:** Tableau
 **Focus:** Executive Overview | Regional Sales | Profitability | Customer Insights  
 
 **Overview**  
