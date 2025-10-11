@@ -5,7 +5,7 @@
 ![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql)
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
 ![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft-fabric)
-![ERD Modeling](https://img.shields.io/badge/ERD%20Modeling-FF6F00?style=plastic&logo=draw.io)
+![ERD Modeling-Draw.io](https://img.shields.io/badge/ERD%20Modeling-FF6F00?style=plastic&logo=draw.io)
 
 
 ---
@@ -43,7 +43,7 @@ Each project highlights different aspects of my analytics journey — from data 
 
 -🧱 Modern Data Engineering — Microsoft Fabric case studies with medallion architecture and SQL analytics.
 
--📑 Excel Reporting — Classic analysis & visualization for sales, profitability, and customer insights.
+-📑 Excel Reporting — Classic analysis & visualisation for sales, profitability, and customer insights.
 
 -🗄 SQL / Databases — PostgreSQL projects + ERD modeling for database design and insights.
 
