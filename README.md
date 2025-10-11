@@ -406,7 +406,7 @@ Business leaders can now make informed decisions on:
 
 ### 🔌FusionPoint  
 *Consumer Electronics Sales Trends & Profitability Analysis — Tableau with ChatGPT assistance* 
-[← Previous](#-choco-de-luxe) • [Back to TOC](#-main-table-of-contents)
+[← Previous](#-choco-de-luxe) • [Next →](#-elevate-corp)[Back to TOC](#-main-table-of-contents)
 **Company / Context:** FusionPoint Industries (Consumer Electronics) 
 **Tool(s):** Tableau (with AI-assisted exploration- **ChatGPT**)  
 
@@ -449,6 +449,26 @@ To analyse sales performance across products, sub-categories, and regions to ide
 
 
 ---
+
+
+### 🏢 Elevate Corp  
+*Employee Compensation & Performance Analytics*
+[← Previous](#-fusionpoint) • [Back to TOC](#-main-table-of-contents) • [Next →](#-hr-employee-attrition)
+**Tool:** Tableau
+From fragmented HR data to a unified analytics solution — this project focuses on visualizing compensation, performance, and attrition trends at **Elevate Corp**, a company committed to employee growth and innovation.  
+
+- Centralized employee, salary, and performance data using **SQL** and **Excel** for integration.  
+- Built **interactive Tableau dashboards** tracking salary distribution, tenure, and benefit packages.  
+- Delivered insights on **pay equity**, **employee retention**, and **performance efficiency**.  
+
+**Key Outcomes:**  
+- Identified compensation patterns across job titles and locations.  
+- Improved reporting efficiency for HR leadership.  
+- Enabled strategic, data-driven decisions for workforce planning.  
+📸<img width="1601" height="863" alt="Screenshot 2025-10-11 155536" src="https://github.com/user-attachments/assets/b3403321-08b1-4ee7-9d23-98c38a729dd4" />
+
+
+
 
 # 🗄 SQL / Database Projects  
 **Quick Links:**  
