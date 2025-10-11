@@ -3,7 +3,7 @@
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel)
 ![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql)
-![Tableau](https://img.shields.io/badge/Tool-Tableau-orange?style=plastic&logo=tableau)
+![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
 ![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft-fabric)
 ![ERD Modeling](https://img.shields.io/badge/ERD%20Modeling-FF6F00?style=plastic&logo=draw.io)
 
