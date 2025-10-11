@@ -94,7 +94,11 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🏪 Just Store](#-just-store)  
 
 ### 🗄 SQL Projects  
-- [🌍 NextGen](#-nextgen)  
+- [🌍 NextGen](#-nextgen)
+- [🗄 Lewis Database](#-lewis-database)
+- [🪑 Alibert Furnitures](#-alibert-furnitures)
+
+
 
 ### 🧱 Fabric Projects  
 - [🧱 PrimeMart](#-primemart)  
@@ -642,7 +646,7 @@ This interactive Excel dashboard delivers a high-level overview of sales and pro
 
 ### 🌍 NextGen  
 *NextGen Corp Employee Success Analytics — PostgreSQL-based HR analysis* 
-[Back to TOC](#-main-table-of-contents) 
+[Back to TOC](#-main-table-of-contents) • [Next →](#-lewis-databese)
 **Tool:** PostgreSQL
 The HR department needs a data-driven approach to:
 -Identify trends and patterns in employee retention and turnover.
@@ -815,6 +819,274 @@ ORDER BY avg_performance_score DESC;
 
 📸 <img width="667" height="214" alt="Screenshot 2025-07-29 021806" src="https://github.com/user-attachments/assets/b1ceb71a-c4de-492d-b6d2-686b7ce0c8f3" />
 
+
+
+
+
+---
+
+
+### 🗄 Lewis Database — SQL Questions & Answers
+[← Previous](#-nextgen) • [Back to TOC](#-main-table-of-contents) • [Next →](#-alibert-furnitures)
+
+**Tool:** PostgreSQL  
+**Focus:** Category revenue, tiered discounts, default pricing, and top-seller analysis.
+
+
+**Q1) Revenue by product category (with tiered discounts)**
+**Business rule:**  
+- 10% discount if **Price > 100**  
+- 5% discount if **50 ≤ Price ≤ 100**  
+- Otherwise no discount
+
+```sql
+-- A) Baseline (no discount)
+SELECT
+  p."ProductCategory",
+  SUM(p."Price" * o."Quantity") AS "Revenue"
+FROM orders o
+JOIN products p ON o."ProductID" = p."ProductID"
+GROUP BY p."ProductCategory"
+ORDER BY "Revenue" DESC;
+
+-- B) Tiered discounts applied
+SELECT
+  p."ProductCategory",
+  SUM(
+    CASE
+      WHEN p."Price" > 100 THEN p."Price" * 0.90 * o."Quantity"
+      WHEN p."Price" BETWEEN 50 AND 100 THEN p."Price" * 0.95 * o."Quantity"
+      ELSE p."Price" * o."Quantity"
+    END
+  ) AS "DiscountedRevenue"
+FROM orders o
+JOIN products p ON o."ProductID" = p."ProductID"
+GROUP BY p."ProductCategory"
+ORDER BY "DiscountedRevenue" DESC;
+```
+<img width="446" height="252" alt="Screenshot 2025-10-11 173715" src="https://github.com/user-attachments/assets/def603e9-ba89-4edc-a82a-d535e6186782" />
+
+
+**Q2) ||What is the total revenue generated**
+**Business rule: If a product’s Price is NULL, treat it as $10.**
+```sql
+select sum(coalesce("Price", 10) * "Quantity")
+from orders
+join products on orders. "ProductID" = products. "ProductID";
+
+-- OR 
+select sum(coalesce(products."Price", 10) *orders."Quantity") as "TotalRevenue"
+from orders
+join products on orders. "ProductID" = products. "ProductID";
+```
+<img width="222" height="101" alt="Screenshot 2025-10-11 175928" src="https://github.com/user-attachments/assets/bd73b852-a5d2-4a90-95cc-4d4e51827c0d" />
+
+**Q3) How many orders were placed in 2015**
+```sql
+select count(distinct "OrderID")
+from orders
+where cast("OrderDate" as date) between '2015-01-01' and '2015-12-31';
+```
+<img width="161" height="98" alt="Screenshot 2025-10-11 180423" src="https://github.com/user-attachments/assets/363ccf82-988c-48ca-af47-8ba5117b178b" />
+
+**Q4) Top-selling product in 2015 (by quantity)**
+```sql
+select "ProductName","ProductCategory", best."TotalQty"
+from products
+join (select "ProductID",sum("Quantity") as "TotalQty"
+from orders
+where cast(orders."OrderDate" as date) between '2015-01-01' and '2015-12-31'
+group by "ProductID"
+order by "TotalQty" DESC
+limit 1) best on best."ProductID" = products."ProductID";
+```
+<img width="529" height="100" alt="Screenshot 2025-10-11 180833" src="https://github.com/user-attachments/assets/3d041b1c-0a0f-4f0d-9e83-3ebe0886d5bc" />
+
+**Q5) Average price of products never ordered**
+*(returns a friendly message if everything was ordered)*
+```sql
+select avg("Price")
+from products
+where "ProductID" not in (
+	select distinct "ProductID" from orders
+);
+
+select
+	coalesce(
+		cast(avg ("Price") as text),
+		'All Products Were Ordered')
+from products
+where "ProductID" not in (
+	select distinct "ProductID" from orders
+);
+```
+<img width="310" height="97" alt="Screenshot 2025-10-11 181023" src="https://github.com/user-attachments/assets/38a8bd1c-13b8-4282-ac99-0a1c62f02342" />
+
+
+
+---
+
+### 🪑 Alibert Furnitures
+[← Previous](#-lewis-databese) • [Back to TOC](#-main-table-of-contents) 
+**Tool:** PostgreSQL  
+**Focus:** Pricing bands, stock status, customer spend, loyalty tiers, discount updates, best-sellers, and monthly revenue.
+
+
+#### 📦 Tables Used (from script)
+- **dimproduct**(`productid`, `productname`, `price`, `stockquantity`, …)  
+- **dimcustomer**(`customerid`, `firstname`, `lastname`, …)  
+- **factsales**(`productid`, `customerid`, `saledate`, `quantitysold`, `saleamount`, …)
+
+
+#### 🧠 Questions & Queries 
+**-- Q1: Group Products into Price Categories**
+*Objective: Categorize products as Budget-Friendly, Mid-Range, or Premium based on unit price.*
+```sql
+SELECT productid, productname, price,
+  CASE
+    WHEN price < 200 THEN 'Budget Friendly'
+    WHEN price BETWEEN 200 AND 400 THEN 'Mid-Range'
+    ELSE 'Premium'
+  END AS pricecategory
+FROM dimproduct;
+```
+<img width="773" height="452" alt="Screenshot 2025-10-11 181855" src="https://github.com/user-attachments/assets/6158f277-e6e7-4422-ad53-a23c5a969588" />
+
+
+**Q2: Current Stock Status of Each Product**
+*Objective: Show stock, total sold quantity, and remaining quantity*
+```sql
+SELECT dp.productid,
+       dp.productname,
+       dp.stockquantity,
+       COALESCE(SUM(fs.quantitysold), 0) AS total_qty_sold,
+       (dp.stockquantity - COALESCE(SUM(fs.quantitysold), 0)) AS qty_remaining
+FROM dimproduct dp
+LEFT JOIN factsales fs ON dp.productid = fs.productid
+GROUP BY dp.productid, dp.productname, dp.stockquantity
+ORDER BY total_qty_sold;
+```
+<img width="924" height="450" alt="Screenshot 2025-10-11 182127" src="https://github.com/user-attachments/assets/d06d5598-ada6-414b-9e90-6229a7816234" />
+
+
+**Q3: Highest and Lowest Sales by Customers**
+*Objective: Find customers with the highest and lowest total sales amounts.*
+```sql
+WITH customersales AS (
+  SELECT dc.customerid,
+         dc.firstname,
+         dc.lastname,
+         SUM(fs.saleamount) AS total_sales_amount
+  FROM factsales fs
+  JOIN dimcustomer dc ON fs.customerid = dc.customerid
+  GROUP BY dc.customerid, dc.firstname, dc.lastname
+)
+SELECT *
+FROM customersales
+WHERE total_sales_amount = (SELECT MAX(total_sales_amount) FROM customersales)
+   OR total_sales_amount = (SELECT MIN(total_sales_amount) FROM customersales);
+```
+<img width="865" height="135" alt="Screenshot 2025-10-11 182153" src="https://github.com/user-attachments/assets/47c5ff30-13a9-4990-b157-b6faf9fffe2b" />
+
+
+**Q4: Top 3 Purchasing Customers (Eligible for Reward)**
+```sql
+SELECT dc.customerid,
+       dc.firstname,
+       dc.lastname,
+       SUM(fs.saleamount) AS total_purchase
+FROM dimcustomer dc
+JOIN factsales fs ON dc.customerid = fs.customerid
+GROUP BY dc.customerid, dc.firstname, dc.lastname
+ORDER BY total_purchase DESC
+LIMIT 3;
+```
+<img width="823" height="179" alt="Screenshot 2025-10-11 182215" src="https://github.com/user-attachments/assets/d77c9cda-dbf6-4d45-8697-be4e2feecf1a" />
+
+
+**Q5: Identify High Purchasing Customers for Loyalty Campaigns**
+*Tiers: Agba Ballers > 3000, Lowkey Ballers 1000–3000, Urgent 2k < 1000*
+```sql
+SELECT dc.customerid,
+       dc.firstname,
+       dc.lastname,
+       SUM(fs.saleamount) AS total_purchase,
+       CASE
+         WHEN SUM(fs.saleamount) > 3000 THEN 'Agba Ballers'
+         WHEN SUM(fs.saleamount) BETWEEN 1000 AND 3000 THEN 'Lowkey Ballers'
+         ELSE 'Urgent 2k'
+       END AS buyercategory
+FROM factsales fs
+JOIN dimcustomer dc ON fs.customerid = dc.customerid
+GROUP BY dc.customerid, dc.firstname, dc.lastname
+HAVING SUM(fs.saleamount) > 3000;
+```
+<img width="989" height="362" alt="Screenshot 2025-10-11 182235" src="https://github.com/user-attachments/assets/b0e785ca-aca7-441b-8ec5-d58a0224c366" />
+
+
+**Q6: Apply 10% Discount to Low-Selling Products**
+*Objective: Reduce price by 10% where total quantity sold < 10*
+-- **⚠️ This query updates data. Run in a transaction / test environment first.**
+```sql
+UPDATE dimproduct
+SET price = price * 0.9
+WHERE productid IN (
+  SELECT dp.productid
+  FROM dimproduct dp
+  JOIN factsales fs ON dp.productid = fs.productid
+  GROUP BY dp.productid
+  HAVING SUM(fs.quantitysold) < 10
+);
+```
+
+**Customers Who Spent Above 500**
+```sql
+WITH customersales AS (
+  SELECT dc.customerid,
+         SUM(fs.saleamount) AS totalspent
+  FROM dimcustomer dc
+  JOIN factsales fs ON dc.customerid = fs.customerid
+  GROUP BY dc.customerid
+)
+SELECT *
+FROM customersales
+WHERE totalspent > 500;
+```
+<img width="342" height="457" alt="Screenshot 2025-10-11 182355" src="https://github.com/user-attachments/assets/c2c7a70d-9e05-4864-ba07-21e7afad2e4a" />
+
+
+**Top 3 Best-Selling Products (by quantity sold)**
+```sql
+WITH productsales AS (
+  SELECT dp.productname,
+         SUM(fs.quantitysold) AS total_sold
+  FROM dimproduct dp
+  JOIN factsales fs ON dp.productid = fs.productid
+  GROUP BY dp.productname
+)
+SELECT *
+FROM productsales
+ORDER BY total_sold DESC
+LIMIT 3;
+```
+<img width="435" height="176" alt="Screenshot 2025-10-11 182412" src="https://github.com/user-attachments/assets/88a95d25-681b-4639-bf1d-7f79352ecb05" />
+
+
+**Total and Average Monthly Revenue**
+```sql
+WITH MonthRevenue AS (
+  SELECT 
+    TO_CHAR(saledate, 'Month') AS Month_Name,
+    SUM(saleamount) AS Monthly_Revenue
+  FROM factsales
+  GROUP BY TO_CHAR(saledate, 'Month'), DATE_PART('Month', saledate)
+  ORDER BY DATE_PART('Month', saledate)
+)
+SELECT 
+  ROUND(AVG(Monthly_Revenue), 2) AS Avg_Monthly_Revenue
+FROM MonthRevenue;
+```
+<img width="290" height="105" alt="Screenshot 2025-10-11 184156" src="https://github.com/user-attachments/assets/ce3f86eb-793b-42c7-9cd3-2ffaff0a4cdb" />
 
 
 
