@@ -487,7 +487,7 @@ To analyse sales performance across products, sub-categories, and regions to ide
 
 ### 🏢 Elevate Corp  
 *Employee Compensation & Performance Analytics*
-[← Previous](#-fusionpoint) • [Back to TOC](#-main-table-of-contents) • [Next →](#%E2%80%8D-hr-attrition)
+[← Previous](#fusionpoint) • [Back to TOC](#-main-table-of-contents) • [Next →](#%E2%80%8D-hr-attrition)
 **Tool:** Tableau
 From fragmented HR data to a unified analytics solution — this project focuses on visualizing compensation, performance, and attrition trends at **Elevate Corp**, a company committed to employee growth and innovation.  
 
@@ -510,7 +510,7 @@ From fragmented HR data to a unified analytics solution — this project focuses
 
 ### 🧑‍💼 HR Attrition
 *Workforce Insights & Retention Analytics*
-[← Previous](#-elevate-corp) • [Back to TOC](#-main-table-of-contents) • [Next →](#-sales-dashboard)
+[← Previous](#-elevate-corp) • [Back to TOC](#-main-table-of-contents) • [Next →](#-sales-performance)
 
 **Tool:** Tableau  
 **Focus:** Attrition | Demographics | Job Roles | Tenure | Survey Scores
@@ -570,7 +570,7 @@ This dashboard provides a consolidated view of sales, profit, and order metrics 
 
 ### 🛍 Just Store   
 *Retail Store Dashboard — Executive Sales Overview*
-[← Previous](#-sales-dashboard) • [Back to TOC](#-main-table-of-contents) 
+[← Previous](#-sales-performance) • [Back to TOC](#-main-table-of-contents) 
 
 **Tool:** Excel  
 **Focus:** Executive Overview | Regional Sales | Profitability | Customer Insights  
