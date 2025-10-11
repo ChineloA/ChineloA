@@ -440,7 +440,7 @@ Business leaders can now make informed decisions on:
 
 ### 🔌FusionPoint  
 *Consumer Electronics Sales Trends & Profitability Analysis — Tableau with ChatGPT assistance* 
-[← Previous](#-choco-de-luxe) • [Next →](#-elevate-corp)[Back to TOC](#-main-table-of-contents)
+[← Previous](#-choco-de-luxe) • [Back to TOC](#-main-table-of-contents) • [Next →](#-elevate-corp)
 **Company / Context:** FusionPoint Industries (Consumer Electronics) 
 **Tool(s):** Tableau (with AI-assisted exploration- **ChatGPT**)  
 
