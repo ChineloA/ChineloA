@@ -2,7 +2,7 @@
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=flat-square&logo=powerbi)
 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=flat-square&logo=microsoft-excel)
-![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=flat-square&logo=postgresql)
+![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql)
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-orange?style=plastic&logo=tableau)
 ![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=flat&logo=microsoft-fabric)
 
