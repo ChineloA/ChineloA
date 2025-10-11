@@ -556,7 +556,7 @@ Business leaders can now make informed decisions on:
 [← Previous](#-choco-de-luxe) • [Back to TOC](#-main-table-of-contents) • [Next →](#-elevate-corp)
 **Company / Context:** FusionPoint Industries (Consumer Electronics) 
 
-![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)(with AI-assisted exploration- **ChatGPT**)  
+![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)(with AI-assisted exploration- ![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=white))  
 
 **📌 Project Aim**  
 To analyse sales performance across products, sub-categories, and regions to identify high- and low-performing segments, measure profitability trends, evaluate customer purchasing behaviour, and optimise pricing and inventory strategies.  
@@ -1492,7 +1492,7 @@ where fare_amount < 0 or total_amount < 0;
 [Back to TOC](#-main-table-of-contents)  
 **Company / Context:** FusionPoint Industries (Consumer Electronics) 
 
-![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)(with AI-assisted exploration- **ChatGPT**)  
+![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=white)![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
 
 **📌 Project Aim**  
 To analyse sales performance across products, sub-categories, and regions to identify high- and low-performing segments, measure profitability trends, evaluate customer purchasing behaviour, and optimise pricing and inventory strategies.  
