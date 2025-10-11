@@ -489,6 +489,14 @@ LIMIT 5;
 
 - **TURNOVER RATE FOR EACH DEPARTMENT**
 ```sql
+SELECT d.department_name, 
+	ROUND(CAST(COUNT(t.turnover_id)AS DECIMAL) / COUNT(e.employee_id) * 100, 2) AS turnover_rate_percent
+FROM department d
+JOIN employee e ON d.department_id = e.department_id
+LEFT JOIN turnover t ON e.employee_id = t.employee_id
+GROUP BY d.department_name
+ORDER BY turnover_rate_percent DESC;
+```
 <img width="1345" height="221" alt="Screenshot 2025-07-29 023619" src="https://github.com/user-attachments/assets/b0b04024-dee5-42a3-81a9-76226c1c36d5" />
 
 
@@ -496,13 +504,37 @@ LIMIT 5;
 
 - **EMPLOYEES ARE AT RISK OF LEAVING BASED ON THEIR PERFORMANCE**
 ```sql
+SELECT 
+	CONCAT(e.first_name, ' ', e.last_name) AS full_name, d.department_name,
+  COUNT(p.performance_score) AS total_reviews,
+  ROUND(AVG(p.performance_score), 2) AS avg_performance_score,
+  CASE 
+    WHEN AVG(p.performance_score) < 3.5 THEN 'High Risk'
+    WHEN AVG(p.performance_score) = 5.0 THEN 'Top Performer'
+    ELSE 'Moderate Risk'
+  END AS risk_level
+FROM employee e
+JOIN performance p ON e.employee_id = p.employee_id
+JOIN department d ON e.department_id = d.department_id
+GROUP BY e.employee_id, full_name, d.department_name
+HAVING AVG(p.performance_score) = 5.0 OR AVG(p.performance_score) < 3.5
+ORDER BY avg_performance_score;
+```
 <img width="991" height="454" alt="Screenshot 2025-07-29 023636" src="https://github.com/user-attachments/assets/069fb86d-202b-46e1-865a-e5733c7e130f" />
 
 
 📸 <img width="958" height="106" alt="Screenshot 2025-07-26 210608" src="https://github.com/user-attachments/assets/7c3c2718-7872-49f2-b0c8-12ddee212628" />
 
 - **THE MAIN REASONS EMPLOYEES ARE LEAVING THE COMPANY**
- ```sql
+```sql
+SELECT t.reason_for_leaving, COUNT(*) AS number_of_exits,
+    ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER (), 2) AS percentage_of_total_exits,
+    STRING_AGG(DISTINCT CONCAT(e.first_name, ' ', e.last_name), ', ') AS employees_who_left
+FROM turnover t
+JOIN employee e ON t.employee_id = e.employee_id
+GROUP BY t.reason_for_leaving
+ORDER BY number_of_exits DESC;
+```
 <img width="1202" height="230" alt="Screenshot 2025-07-29 023650" src="https://github.com/user-attachments/assets/53150397-1450-4eb1-bf9f-5331ff90382a" />
 
 
@@ -512,28 +544,58 @@ LIMIT 5;
 -   Goal: Evaluate employee performance across different departments and identify areas where performance can be improved.
 
 - **EMPLOYEES THAT HAVE LEFT THE COMPANY**
- ```sql
+```sql
+SELECT COUNT(*) AS employees_left
+FROM turnover;
+
+--OR
+
+SELECT COUNT(*) AS employees_left
+FROM employee e
+LEFT JOIN turnover t ON t.employee_id = e.employee_id
+WHERE turnover_id IS NOT NULL;
+```
  <img width="699" height="290" alt="Screenshot 2025-07-29 025328" src="https://github.com/user-attachments/assets/64bd5bf1-54ea-4bbb-9940-b3e20be3917c" />
 
 
 📸<img width="242" height="107" alt="Screenshot 2025-07-25 015337" src="https://github.com/user-attachments/assets/83c5de88-6421-4172-9b4f-8eb3f101b0e6" />
 
 - **EMPLOYEES THAT HAVE A PERFORMANCE SCORE OF 5.0 / BELOW 3.5**
- ```sql
+```sql
+SELECT COUNT(DISTINCT employee_id) AS employee_count
+FROM performance
+WHERE performance_score = 5 OR performance_score < 3.5
+```
 <img width="731" height="106" alt="Screenshot 2025-07-29 023720" src="https://github.com/user-attachments/assets/0e2cea34-c06c-43c0-985f-6699b2feedd0" />
 
 
 📸 <img width="262" height="114" alt="Screenshot 2025-07-26 193841" src="https://github.com/user-attachments/assets/bd2d8361-09ad-4e25-ac57-3cdd72813205" />
 
 - **DEPARTMENT THAT HAS THE MOST EMPLOYEES WITH A PERFORMANCE OF 5.0 / BELOW 3.5**
- ```sql
+```sql
+SELECT d.department_name, COUNT(DISTINCT p.employee_id) AS employee_count
+FROM performance p
+JOIN department d ON p.department_id = d.department_id
+WHERE p.performance_score = 5.0 OR p.performance_score < 3.5
+GROUP BY d.department_name
+ORDER BY employee_count DESC
+LIMIT 2;
+```
 <img width="957" height="184" alt="Screenshot 2025-07-29 024540" src="https://github.com/user-attachments/assets/c067fda0-6d27-4900-bace-0ae61fef50a0" />
 
 
 📸 <img width="480" height="223" alt="Screenshot 2025-07-26 200729" src="https://github.com/user-attachments/assets/503372c9-3984-49f4-bf66-7bd5ac900985" />
 
 - **AVERAGE PERFORMANCE SCORE BY DEPARTMENT**
- ```sql
+```sql
+SELECT d.department_name, 
+	ROUND(AVG(p.performance_score), 2) AS avg_performance_score
+FROM employee e
+JOIN performance p ON e.employee_id = p.employee_id
+JOIN department d ON e.department_id = d.department_id
+GROUP BY d.department_name
+ORDER BY avg_performance_score DESC;
+```
 <img width="851" height="217" alt="Screenshot 2025-07-29 023744" src="https://github.com/user-attachments/assets/9cd3220e-db6c-417a-9a41-d161c8c0ee61" />
 
 
@@ -543,28 +605,53 @@ LIMIT 5;
 -   Goal: Analyse salary distribution and ensure fair compensation based on performance and departmental benchmarks.
 
 - **TOTAL SALARY EXPENSE FOR THE COMPANY**
- ```sql
+```sql
+SELECT COUNT(employee_id) AS no_of_employees, 
+	TO_CHAR(SUM(salary_amount):: numeric, 'FM$999,999,999.00') AS total_salary_expense
+FROM salary;
+```
 <img width="1118" height="104" alt="Screenshot 2025-07-29 023812" src="https://github.com/user-attachments/assets/04010974-e87f-4d52-8aec-c609c2ee6ea0" />
 
 
 📸 <img width="483" height="110" alt="Screenshot 2025-07-25 015909" src="https://github.com/user-attachments/assets/43fa1765-544c-47f0-a73c-e1cbfafaec7f" />
 
 - **AVERAGE SALARY BY JOB TITLE**
- ```sql
+```sql
+SELECT e.job_title, 
+	'$' || TO_CHAR(AVG(s.salary_amount):: numeric, 'FM999,999,999.00') AS avg_salary
+FROM employee e
+LEFT JOIN salary s ON s.employee_id = e.employee_id
+GROUP BY job_title
+ORDER BY avg_salary DESC;
+```
 <img width="1097" height="188" alt="Screenshot 2025-07-29 023759" src="https://github.com/user-attachments/assets/2f2dba33-0213-40d5-86bc-ad9f965fa42a" />
 
 
 📸 <img width="441" height="259" alt="Screenshot 2025-07-25 020043" src="https://github.com/user-attachments/assets/1377edd9-a954-4127-9556-f1a853896815" />
 
 - **EMPLOYEES THAT EARN ABOVE 80,000**
- ```sql
+```sql
+SELECT COUNT(DISTINCT s.employee_id) AS high_earners
+FROM salary s
+WHERE s.salary_amount > 80000;
+```
 <img width="720" height="109" alt="Screenshot 2025-07-29 023822" src="https://github.com/user-attachments/assets/616e2341-c7a8-4342-a712-d389f48ed1a7" />
 
 
 📸 <img width="224" height="108" alt="Screenshot 2025-07-25 020200" src="https://github.com/user-attachments/assets/24041af8-1ce7-4634-8d23-c25607750785" />
 
 - **HOW DOES PERFORMANCE CORRELATE WITH SALARY ACROSS DEPARTMENTS?**
- ```sql
+```sql
+SELECT d.department_name,
+  ROUND(AVG(p.performance_score), 2) AS avg_performance_score,
+  '$' || TO_CHAR(ROUND(AVG(s.salary_amount), 2), 'FM999,999,999.00') AS avg_salary
+FROM employee e
+LEFT JOIN performance p ON e.employee_id = p.employee_id
+LEFT JOIN salary s ON e.employee_id = s.employee_id
+LEFT JOIN department d ON e.department_id = d.department_id
+GROUP BY d.department_name
+ORDER BY avg_performance_score DESC;
+```
 <img width="1064" height="287" alt="Screenshot 2025-07-29 023836" src="https://github.com/user-attachments/assets/fc26395d-1791-46e7-82c1-877198ba6c12" />
 
 
