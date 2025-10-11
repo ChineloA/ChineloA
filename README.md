@@ -62,13 +62,23 @@ Each project highlights different aspects of my analytics journey — from data 
 </p>  
 
 <p align="left">
-  <img alt="Power BI" src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
-  <img alt="Tableau" src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=FFFFFF" />
-  <img alt="Microsoft Fabric" src="https://img.shields.io/badge/MICROSOFT%20FABRIC-0078D4?style=for-the-badge&logo=microsoft&logoColor=FFFFFF" />
-  <img alt="Excel" src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=FFFFFF" />
-  <img alt="SQL (PostgreSQL)" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
-  <img alt="ERD Modeling" src="https://img.shields.io/badge/ERD%20MODELING-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=FFFFFF" />
+  <img alt="Power BI" src="https://img.shields.io/badge/POWER%20BI-F2C811?style=plastic&logo=powerbi&logoColor=000000" />
+  <img alt="Tableau" src="https://img.shields.io/badge/TABLEAU-E97627?style=plastic&logo=tableau&logoColor=FFFFFF" />
+  <img alt="Microsoft Fabric" src="https://img.shields.io/badge/MICROSOFT%20FABRIC-0078D4?style=plastic&logo=microsoft&logoColor=FFFFFF" />
+  <img alt="Excel" src="https://img.shields.io/badge/EXCEL-217346?style=plastic&logo=microsoft-excel&logoColor=FFFFFF" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=FFFFFF" />
+  <img alt="ERD Modeling" src="https://img.shields.io/badge/ERD%20MODELING-F08705?style=plastic&logo=diagramsdotnet&logoColor=FFFFFF" />
 </p>
+
+<p align="left">
+  <img alt="Power BI" src="https://img.shields.io/badge/POWER%20BI-F2C811?style=flat&logo=powerbi&logoColor=000000" />
+  <img alt="Tableau" src="https://img.shields.io/badge/TABLEAU-E97627?style=flat&logo=tableau&logoColor=FFFFFF" />
+  <img alt="Microsoft Fabric" src="https://img.shields.io/badge/MICROSOFT%20FABRIC-0078D4?style=flat&logo=microsoft&logoColor=FFFFFF" />
+  <img alt="Excel" src="https://img.shields.io/badge/EXCEL-217346?style=flat&logo=microsoft-excel&logoColor=FFFFFF" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=FFFFFF" />
+  <img alt="ERD Modeling" src="https://img.shields.io/badge/ERD%20MODELING-F08705?style=flat&logo=diagramsdotnet&logoColor=FFFFFF" />
+</p>
+
 
 
 
