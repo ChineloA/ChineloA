@@ -51,6 +51,14 @@ Each project highlights different aspects of my analytics journey — from data 
   <img src="https://img.shields.io/badge/ERD%20MODELING-FF6F00?style=for-the-badge&logo=diagrams.net&logoColor=ffffff" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=flat-square&logo=Power%20BI&logoColor=000000" />
+  <img src="https://img.shields.io/badge/TABLEAU-E97627?style=flat-square&logo=Tableau&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/MICROSOFT%20FABRIC-0078D4?style=flat-square&logo=microsoft&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/EXCEL-217346?style=flat-square&logo=microsoft-excel&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/ERD%20MODELING-FF6F00?style=flat-square&logo=diagrams.net&logoColor=ffffff" />
+</p>
 
 ---
 
