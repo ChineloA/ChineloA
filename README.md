@@ -95,7 +95,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 ### 🗄 SQL Projects  
 - [🌍 NextGen](#-nextgen)
-- [🗄 Lewis Database](#-lewis-database)
+- [🗄 Lewis Database](#-lewis-database--sql-questions--answers)
 - [🪑 Alibert Furnitures](#-alibert-furnitures)
 
 
@@ -646,7 +646,7 @@ This interactive Excel dashboard delivers a high-level overview of sales and pro
 
 ### 🌍 NextGen  
 *NextGen Corp Employee Success Analytics — PostgreSQL-based HR analysis* 
-[Back to TOC](#-main-table-of-contents) • [Next →](#-lewis-databese)
+[Back to TOC](#-main-table-of-contents) • [Next →](#-lewis-database--sql-questions--answers)
 **Tool:** PostgreSQL
 The HR department needs a data-driven approach to:
 -Identify trends and patterns in employee retention and turnover.
@@ -927,7 +927,7 @@ where "ProductID" not in (
 ---
 
 ### 🪑 Alibert Furnitures
-[← Previous](#-lewis-databese) • [Back to TOC](#-main-table-of-contents) 
+[← Previous](#-lewis-database--sql-questions--answers) • [Back to TOC](#-main-table-of-contents) 
 **Tool:** PostgreSQL  
 **Focus:** Pricing bands, stock status, customer spend, loyalty tiers, discount updates, best-sellers, and monthly revenue.
 
