@@ -34,34 +34,6 @@ Each project highlights different aspects of my analytics journey — from data 
 </p>  
 
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ERD%20Modeling-FF6F00?style=flat-square&logo=diagrams.net&logoColor=white" />
-</p>  
-
-<p align="left">
-  <img alt="Power BI" src="https://img.shields.io/badge/POWER%20BI-F2C811?style=plastic&logo=powerbi&logoColor=000000" />
-  <img alt="Tableau" src="https://img.shields.io/badge/TABLEAU-E97627?style=plastic&logo=tableau&logoColor=FFFFFF" />
-  <img alt="Microsoft Fabric" src="https://img.shields.io/badge/MICROSOFT%20FABRIC-0078D4?style=plastic&logo=microsoft&logoColor=FFFFFF" />
-  <img alt="Excel" src="https://img.shields.io/badge/EXCEL-217346?style=plastic&logo=microsoft-excel&logoColor=FFFFFF" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=FFFFFF" />
-  <img alt="ERD Modeling" src="https://img.shields.io/badge/ERD%20MODELING-FF6F00?style=plastic&logo=diagramsdotnet&logoColor=FFFFFF" />
-</p>
-
-<p align="left">
-  <img alt="Power BI" src="https://img.shields.io/badge/POWER%20BI-F2C811?style=flat&logo=powerbi&logoColor=000000" />
-  <img alt="Tableau" src="https://img.shields.io/badge/TABLEAU-E97627?style=flat&logo=tableau&logoColor=FFFFFF" />
-  <img alt="Microsoft Fabric" src="https://img.shields.io/badge/MICROSOFT%20FABRIC-0078D4?style=flat&logo=microsoft&logoColor=FFFFFF" />
-  <img alt="Excel" src="https://img.shields.io/badge/EXCEL-217346?style=flat&logo=microsoft-excel&logoColor=FFFFFF" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=FFFFFF" />
-  <img alt="ERD Modeling" src="https://img.shields.io/badge/ERD%20MODELING-FF6F00?style=flat&logo=diagramsdotnet&logoColor=FFFFFF" />
-</p>
-
-
 
 ---
 
