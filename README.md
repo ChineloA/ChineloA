@@ -10,14 +10,13 @@
 
 ---
 
-## 1. 👩‍💻 About Me | Data Storyteller & Insight Analyst
+## 1. 👩‍💻 About Me | Data Analyst & Insight Catalyst  
 
-👋 Hi, I'm Nelo
+👋 Hi, I'm **Nelo** — a data analyst passionate about transforming raw information into clear, actionable insights.  
 
-Welcome to my Data Analytics Portfolio!
-This repository showcases projects I’ve worked on using Power BI, Tableau, Microsoft Fabric, Excel, SQL, and Data Modelling.
+Welcome to my **Data Analytics Portfolio**, where I showcase projects built with **Power BI, Tableau, Microsoft Fabric, Excel, SQL, and Data Modeling**. Each project reflects a key stage in my analytics journey — from **data cleaning and modeling** to **interactive dashboards, storytelling, and strategic insight generation**.  
 
-Each project highlights different aspects of my analytics journey — from data cleaning & modelling to interactive dashboards, storytelling, and advanced insights.
+Beyond technical analysis, I see myself as an **insight catalyst** — someone who bridges analytical precision with strategic storytelling to help organisations uncover what truly matters, to spark informed decisions and meaningful change.  
 
 
 ---
