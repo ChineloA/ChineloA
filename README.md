@@ -1606,15 +1606,37 @@ Delivered a creative, storytelling Tableau dashboard that combines **data visual
 
 ![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql&logoColor=ffffff)
 
-**Focus** The HR department needs a data-driven approach to:
--Identify trends and patterns in employee retention and turnover.
--Track and evaluate performance across different departments.
--Assess the relationship between salary and performance to ensure fairness and employee satisfaction.
+### 🧩 Problem Statement  
+NextGen Corp’s HR department lacked a unified system to monitor employee performance, retention, and compensation. Data was stored in separate tables with no integrated view of workforce trends, making it difficult to:  
+- Identify **turnover drivers** and at-risk employees.  
+- Evaluate **department-level performance** fairly.  
+- Ensure **salary equity** and reward alignment across roles.  
 
-- A: EMPLOYEE RETENTION ANALYSIS
-   Goal: Understand the employee turnover trends and identify the root causes of high turnover rates.
+### 🎯 Project Aim  
+Build a series of **PostgreSQL analytical queries** to track retention, performance, and salary distribution, enabling HR leaders to make data-driven talent and compensation decisions.  
 
-- **TOP 5 SERVING EMPLOYEES**
+### 🛠️ Approach  
+- Created relational joins between `employee`, `performance`, `turnover`, `salary`, and `department` tables.  
+- Used **aggregate functions** and **CASE logic** to segment employees by risk level and performance.  
+- Applied **window and date functions** (e.g., `AGE`, `EXTRACT`, `ROUND`) to calculate tenure and turnover trends.  
+- Implemented **performance-salary correlation analysis** to assess fairness and reward balance.  
+
+### 📊 Focus & What this shows  
+**Focus:** Retention | Performance | Salary Analysis | HR Insights  
+
+**What this shows:**  
+- **Retention Analysis:** Tracks employee tenure, turnover rates per department, and reasons for leaving.  
+- **Performance Evaluation:** Highlights top performers and high-risk employees based on review averages.  
+- **Salary Review:** Compares average pay across job titles and departments, and detects high earners.  
+- **Equity Insights:** Analyzes how performance aligns with compensation for fairness benchmarking.  
+- **Outcome:** Empowers HR to target engagement initiatives and reward systems backed by data.  
+
+**🔎 SQL Analytics**  
+**Queries to support reporting and insights:**  
+- **A: EMPLOYEE RETENTION ANALYSIS**
+   *Goal: Understand the employee turnover trends and identify the root causes of high turnover rates.*
+
+- **Q1) TOP 5 SERVING EMPLOYEES**
 ```sql
 SELECT employee_id, CONCAT(first_name, ' ', last_name) AS full_name, hire_date,
   CURRENT_DATE - hire_date AS total_days_served,
@@ -1630,7 +1652,7 @@ LIMIT 5;
 
 📸 <img width="882" height="255" alt="Screenshot 2025-07-24 184802" src="https://github.com/user-attachments/assets/cc15cbb4-4cb7-4e24-8412-4a589832f1a7" />
 
-- **TURNOVER RATE FOR EACH DEPARTMENT**
+- **Q2) TURNOVER RATE FOR EACH DEPARTMENT**
 ```sql
 SELECT d.department_name, 
 	ROUND(CAST(COUNT(t.turnover_id)AS DECIMAL) / COUNT(e.employee_id) * 100, 2) AS turnover_rate_percent
@@ -1643,7 +1665,7 @@ ORDER BY turnover_rate_percent DESC;
 
 📸 <img width="523" height="217" alt="Screenshot 2025-07-25 014633" src="https://github.com/user-attachments/assets/763e9c00-b4e5-4ad3-8499-a9ec2e73d1f6" />
 
-- **EMPLOYEES ARE AT RISK OF LEAVING BASED ON THEIR PERFORMANCE**
+- **Q3) EMPLOYEES ARE AT RISK OF LEAVING BASED ON THEIR PERFORMANCE**
 ```sql
 SELECT 
 	CONCAT(e.first_name, ' ', e.last_name) AS full_name, d.department_name,
@@ -1664,7 +1686,7 @@ ORDER BY avg_performance_score;
 
 📸 <img width="958" height="106" alt="Screenshot 2025-07-26 210608" src="https://github.com/user-attachments/assets/7c3c2718-7872-49f2-b0c8-12ddee212628" />
 
-- **THE MAIN REASONS EMPLOYEES ARE LEAVING THE COMPANY**
+- **Q4) THE MAIN REASONS EMPLOYEES ARE LEAVING THE COMPANY**
 ```sql
 SELECT t.reason_for_leaving, COUNT(*) AS number_of_exits,
     ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER (), 2) AS percentage_of_total_exits,
@@ -1677,10 +1699,10 @@ ORDER BY number_of_exits DESC;
 
 📸 <img width="1841" height="148" alt="Screenshot 2025-07-25 134134" src="https://github.com/user-attachments/assets/9853b411-bbf0-41be-8435-5c572876aca7" />
 
-- B. PERFORMANCE ANALYSIS
--   Goal: Evaluate employee performance across different departments and identify areas where performance can be improved.
+- **B. PERFORMANCE ANALYSIS**
+-   *Goal: Evaluate employee performance across different departments and identify areas where performance can be improved.*
 
-- **EMPLOYEES THAT HAVE LEFT THE COMPANY**
+- **Q1) EMPLOYEES THAT HAVE LEFT THE COMPANY**
 ```sql
 SELECT COUNT(*) AS employees_left
 FROM turnover;
@@ -1695,7 +1717,7 @@ WHERE turnover_id IS NOT NULL;
 
 📸<img width="242" height="107" alt="Screenshot 2025-07-25 015337" src="https://github.com/user-attachments/assets/83c5de88-6421-4172-9b4f-8eb3f101b0e6" />
 
-- **EMPLOYEES THAT HAVE A PERFORMANCE SCORE OF 5.0 / BELOW 3.5**
+- **Q2) EMPLOYEES THAT HAVE A PERFORMANCE SCORE OF 5.0 / BELOW 3.5**
 ```sql
 SELECT COUNT(DISTINCT employee_id) AS employee_count
 FROM performance
@@ -1704,7 +1726,7 @@ WHERE performance_score = 5 OR performance_score < 3.5
 
 📸 <img width="262" height="114" alt="Screenshot 2025-07-26 193841" src="https://github.com/user-attachments/assets/bd2d8361-09ad-4e25-ac57-3cdd72813205" />
 
-- **DEPARTMENT THAT HAS THE MOST EMPLOYEES WITH A PERFORMANCE OF 5.0 / BELOW 3.5**
+- **Q3) DEPARTMENT THAT HAS THE MOST EMPLOYEES WITH A PERFORMANCE OF 5.0 / BELOW 3.5**
 ```sql
 SELECT d.department_name, COUNT(DISTINCT p.employee_id) AS employee_count
 FROM performance p
@@ -1716,7 +1738,7 @@ ORDER BY employee_count DESC;
 
 📸 <img width="480" height="223" alt="Screenshot 2025-07-26 200729" src="https://github.com/user-attachments/assets/503372c9-3984-49f4-bf66-7bd5ac900985" />
 
-- **AVERAGE PERFORMANCE SCORE BY DEPARTMENT**
+- **Q4) AVERAGE PERFORMANCE SCORE BY DEPARTMENT**
 ```sql
 SELECT d.department_name, 
 	ROUND(AVG(p.performance_score), 2) AS avg_performance_score
@@ -1729,10 +1751,10 @@ ORDER BY avg_performance_score DESC;
 
 📸 <img width="547" height="220" alt="Screenshot 2025-07-29 021307" src="https://github.com/user-attachments/assets/c4db4329-ed41-4627-96bf-d7a0ce437139" />
 
-- C. SALARY ANALYSIS
--   Goal: Analyse salary distribution and ensure fair compensation based on performance and departmental benchmarks.
+- **C. SALARY ANALYSIS**
+-   *Goal: Analyse salary distribution and ensure fair compensation based on performance and departmental benchmarks.*
 
-- **TOTAL SALARY EXPENSE FOR THE COMPANY**
+- **Q1) TOTAL SALARY EXPENSE FOR THE COMPANY**
 ```sql
 SELECT COUNT(employee_id) AS no_of_employees, 
 	TO_CHAR(SUM(salary_amount):: numeric, 'FM$999,999,999.00') AS total_salary_expense
@@ -1741,7 +1763,7 @@ FROM salary;
 
 📸 <img width="483" height="110" alt="Screenshot 2025-07-25 015909" src="https://github.com/user-attachments/assets/43fa1765-544c-47f0-a73c-e1cbfafaec7f" />
 
-- **AVERAGE SALARY BY JOB TITLE**
+- **Q2) AVERAGE SALARY BY JOB TITLE**
 ```sql
 SELECT e.job_title, 
 	'$' || TO_CHAR(AVG(s.salary_amount):: numeric, 'FM999,999,999.00') AS avg_salary
@@ -1753,7 +1775,7 @@ ORDER BY avg_salary DESC;
 
 📸 <img width="441" height="259" alt="Screenshot 2025-07-25 020043" src="https://github.com/user-attachments/assets/1377edd9-a954-4127-9556-f1a853896815" />
 
-- **EMPLOYEES THAT EARN ABOVE 80,000**
+- **Q3) EMPLOYEES THAT EARN ABOVE 80,000**
 ```sql
 SELECT COUNT(DISTINCT s.employee_id) AS high_earners
 FROM salary s
@@ -1762,7 +1784,7 @@ WHERE s.salary_amount > 80000;
 
 📸 <img width="224" height="108" alt="Screenshot 2025-07-25 020200" src="https://github.com/user-attachments/assets/24041af8-1ce7-4634-8d23-c25607750785" />
 
-- **HOW DOES PERFORMANCE CORRELATE WITH SALARY ACROSS DEPARTMENTS?**
+- **Q4) HOW DOES PERFORMANCE CORRELATE WITH SALARY ACROSS DEPARTMENTS?**
 ```sql
 SELECT d.department_name,
   ROUND(AVG(p.performance_score), 2) AS avg_performance_score,
@@ -1789,8 +1811,34 @@ ORDER BY avg_performance_score DESC;
 
 ![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql)
 
-**Focus:** Category revenue, tiered discounts, default pricing, and top-seller analysis.
+### 🧩 Problem Statement  
+Lewis’ retail database captured detailed order and product data but lacked pricing consistency, missing values, and sales insight. Management needed to:  
+- Understand **revenue by product category**,  
+- Apply **tiered discount logic**, and  
+- Identify **top-selling products** and overall order patterns.  
 
+### 🎯 Project Aim  
+Design **SQL queries** to calculate total and discounted revenue, detect missing data, and evaluate sales activity for business performance tracking.  
+
+### 🛠️ Approach  
+- Developed conditional pricing rules with **CASE statements** for 10% / 5% discount tiers.  
+- Applied **COALESCE** to handle NULL prices and prevent missing revenue totals.  
+- Filtered orders by **date ranges** (e.g., 2015) to generate period-specific reports.  
+- Used **aggregate and join logic** to rank top products and identify never-ordered items.  
+
+### 📊 Focus & What this shows  
+**Focus:** Revenue | Discount Tiers | Product Performance | Sales Trends  
+
+**What this shows:**  
+- **Revenue Breakdown:** Measures category revenue with and without discounts.  
+- **Data Quality Control:** Substitutes missing prices with default values for accurate totals.  
+- **Order Volume:** Tracks total number of orders and activity by year.  
+- **Top Sellers:** Lists best-selling products and total quantities ordered.  
+- **Unpurchased Items:** Detects products that never sold, returning friendly fallback text.  
+- **Outcome:** Provides reliable pricing, discount, and sales data for business optimization.  
+
+**🔎 SQL Analytics**  
+**Queries to support reporting and insights:**  
 
 **Q1) Revenue by product category (with tiered discounts)**
 **Business rule:**  
@@ -1890,17 +1938,36 @@ where "ProductID" not in (
 
 ![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql)
 
-**Focus:** Pricing bands, stock status, customer spend, loyalty tiers, discount updates, best-sellers, and monthly revenue.
+## 🪑 Alibert Furnitures — SQL Retail & Loyalty Analytics  
 
+### 🧩 Problem Statement  
+Alibert Furnitures managed growing product and customer data without analytics to track **pricing, stock, or loyalty trends**. The business needed insights to manage inventory, reward high-spending customers, and forecast monthly sales.  
 
-#### 📦 Tables Used (from script)
-- **dimproduct**(`productid`, `productname`, `price`, `stockquantity`, …)  
-- **dimcustomer**(`customerid`, `firstname`, `lastname`, …)  
-- **factsales**(`productid`, `customerid`, `saledate`, `quantitysold`, `saleamount`, …)
+### 🎯 Project Aim  
+Use SQL to create a **retail intelligence layer** that segments products and customers, manages discounts, and provides visibility into sales performance and stock levels.  
 
+### 🛠️ Approach  
+- Categorized products by price band (Budget, Mid-Range, Premium) using **CASE logic**.  
+- Joined fact and dimension tables (`dimproduct`, `dimcustomer`, `factsales`) to unify insights.  
+- Built **CTEs** for customer ranking, loyalty tier classification, and monthly revenue tracking.  
+- Applied **aggregate calculations** to identify high-purchasing customers and best-selling products.  
+- Created conditional **UPDATE statements** for low-selling product discounts.  
 
-#### 🧠 Questions & Queries 
-**-- Q1: Group Products into Price Categories**
+### 📊 Focus & What this shows  
+**Focus:** Pricing Strategy | Customer Loyalty | Product Stock | Monthly Revenue  
+
+**What this shows:**  
+- **Product Segmentation:** Price-band analysis for budget vs. premium items.  
+- **Inventory Health:** Tracks sold vs. remaining quantities per product.  
+- **Customer Value:** Ranks top customers and identifies loyalty tiers (Agba Ballers, Lowkey Ballers, Urgent 2k).  
+- **Discount Logic:** Applies conditional discounts for underperforming items.  
+- **Revenue Insight:** Calculates total and average monthly revenue trends.  
+- **Outcome:** Supports pricing decisions, restocking priorities, and targeted loyalty rewards.  
+
+**🔎 SQL Analytics**  
+**Queries to support reporting and insights:**  
+
+**-- Q1) Group Products into Price Categories**
 *Objective: Categorize products as Budget-Friendly, Mid-Range, or Premium based on unit price.*
 ```sql
 SELECT productid, productname, price,
@@ -1914,7 +1981,7 @@ FROM dimproduct;
 <img width="773" height="452" alt="Screenshot 2025-10-11 181855" src="https://github.com/user-attachments/assets/6158f277-e6e7-4422-ad53-a23c5a969588" />
 
 
-**Q2: Current Stock Status of Each Product**
+**Q2) Current Stock Status of Each Product**
 *Objective: Show stock, total sold quantity, and remaining quantity*
 ```sql
 SELECT dp.productid,
@@ -1930,7 +1997,7 @@ ORDER BY total_qty_sold;
 <img width="924" height="450" alt="Screenshot 2025-10-11 182127" src="https://github.com/user-attachments/assets/d06d5598-ada6-414b-9e90-6229a7816234" />
 
 
-**Q3: Highest and Lowest Sales by Customers**
+**Q3) Highest and Lowest Sales by Customers**
 *Objective: Find customers with the highest and lowest total sales amounts.*
 ```sql
 WITH customersales AS (
@@ -1950,7 +2017,7 @@ WHERE total_sales_amount = (SELECT MAX(total_sales_amount) FROM customersales)
 <img width="865" height="135" alt="Screenshot 2025-10-11 182153" src="https://github.com/user-attachments/assets/47c5ff30-13a9-4990-b157-b6faf9fffe2b" />
 
 
-**Q4: Top 3 Purchasing Customers (Eligible for Reward)**
+**Q4) Top 3 Purchasing Customers (Eligible for Reward)**
 ```sql
 SELECT dc.customerid,
        dc.firstname,
@@ -1965,7 +2032,7 @@ LIMIT 3;
 <img width="823" height="179" alt="Screenshot 2025-10-11 182215" src="https://github.com/user-attachments/assets/d77c9cda-dbf6-4d45-8697-be4e2feecf1a" />
 
 
-**Q5: Identify High Purchasing Customers for Loyalty Campaigns**
+**Q5) Identify High Purchasing Customers for Loyalty Campaigns**
 *Tiers: Agba Ballers > 3000, Lowkey Ballers 1000–3000, Urgent 2k < 1000*
 ```sql
 SELECT dc.customerid,
@@ -1985,7 +2052,7 @@ HAVING SUM(fs.saleamount) > 3000;
 <img width="989" height="362" alt="Screenshot 2025-10-11 182235" src="https://github.com/user-attachments/assets/b0e785ca-aca7-441b-8ec5-d58a0224c366" />
 
 
-**Q6: Apply 10% Discount to Low-Selling Products**
+**Q6) Apply 10% Discount to Low-Selling Products**
 *Objective: Reduce price by 10% where total quantity sold < 10*
 -- **⚠️ This query updates data. Run in a transaction / test environment first.**
 ```sql
@@ -2000,7 +2067,7 @@ WHERE productid IN (
 );
 ```
 
-**Customers Who Spent Above 500**
+**Q7) Customers Who Spent Above 500**
 ```sql
 WITH customersales AS (
   SELECT dc.customerid,
@@ -2016,7 +2083,7 @@ WHERE totalspent > 500;
 <img width="342" height="457" alt="Screenshot 2025-10-11 182355" src="https://github.com/user-attachments/assets/c2c7a70d-9e05-4864-ba07-21e7afad2e4a" />
 
 
-**Top 3 Best-Selling Products (by quantity sold)**
+**Q8) Top 3 Best-Selling Products (by quantity sold)**
 ```sql
 WITH productsales AS (
   SELECT dp.productname,
@@ -2033,7 +2100,7 @@ LIMIT 3;
 <img width="435" height="176" alt="Screenshot 2025-10-11 182412" src="https://github.com/user-attachments/assets/88a95d25-681b-4639-bf1d-7f79352ecb05" />
 
 
-**Total and Average Monthly Revenue**
+**Q9) Total and Average Monthly Revenue**
 ```sql
 WITH MonthRevenue AS (
   SELECT 
