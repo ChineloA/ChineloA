@@ -115,7 +115,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🏢 Elevate Corp](#-elevate-corp)  
 - [🧑‍💼 HR Attrition](#%E2%80%8D-hr-attrition)  
 - [🛒 Sales Performance](#-sales-performance)  
-- [🏪 Just Store](#-just-store)  
+- [🪄 Harry Potter](#-harry-potter) 
 
 
 ---
@@ -690,7 +690,7 @@ This dashboard provides a consolidated view of sales, profit, and order metrics 
 
 ### 🛍 Just Store   
 *Retail Store Dashboard — Executive Sales Overview*
-[← Previous](#-sales-performance) • [Back to TOC](#-main-table-of-contents) 
+[← Previous](#-sales-performance) • [Back to TOC](#-main-table-of-contents) • [Next →](#-harry-potter)
 
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
 
@@ -718,6 +718,56 @@ This interactive Excel dashboard delivers a high-level overview of sales and pro
 
 
 
+---
+
+
+## 🪄 Harry Potter
+*What is the Diversity of Harry Potter Characters?*
+[← Previous](#-just-store) • [Back to TOC](#-main-table-of-contents) 
+
+![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau) – for data visualization and dashboard design
+![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel) – for basic data cleaning and file preparation  
+- **Custom Shapes** – used to display character images on the scatterplot  
+- **Typography & Color Scheme**:
+  - Title font: *Lumos* (Harry Potter-style)  
+  - Gold and pink-teal color palette for gender differentiation  
+
+This Tableau dashboard explores **gender diversity and dialogue patterns** among characters in *Harry Potter and the Philosopher’s Stone*.  
+Using a dataset of 140 characters, it visualizes how **male and female characters** differ in speaking frequency, word count, and sentence averages.
+
+
+## 🧠 Key Insights
+
+- Out of **140 characters**, **64.3% are male** and **35% are female**.  
+- When looking only at students and their Hogwarts houses:
+  - **Ravenclaw** is the only house with a higher ratio of female students.
+  - **Gryffindor** and **Slytherin** remain male-dominated.
+- **Male characters** speak more overall, which makes sense given their larger number.  
+- However, **female characters** tend to speak **longer sentences** and **use more words per sentence** on average.
+
+
+## 📈 Visualizations
+
+| Section | Description |
+|----------|-------------|
+| 🏠 **House Comparison** | Horizontal bar charts showing male vs female representation by house, with house crests. |
+| 🗣️ **Dialogue Analysis** | Pie charts comparing total, average sentences, and average words by gender. |
+| 💬 **Character Spotlight** | A scatterplot comparing number of sentences vs. total words spoken — with image callouts for Harry, Hermione, and Snape. |
+
+
+## 🧮 Dataset Details
+The analysis is based on cleaned dialogue data from *Harry Potter and the Philosopher’s Stone*:
+- `Characters2.csv` – Contains character information (name, gender, house, job, etc.)
+- `dialogue_per_character.csv` – Summarizes dialogue statistics (sentences, words, average length per character)
+
+
+## 📷 Dashboard Preview
+<img width="790" height="869" alt="Screenshot 2025-10-13 031125" src="https://github.com/user-attachments/assets/8a8e23da-d27b-4d9c-a5c9-cbe75aca3f87" />
+
+
+
+
+---
 
 
 # 🗄 SQL / Database Projects  
