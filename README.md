@@ -2135,51 +2135,75 @@ FROM MonthRevenue;
 
 ![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft-fabric)(OneLake, Lakehouse), SQL Endpoint, Data Factory (pipelines), Power BI, Notebooks (optional)
 
-### 🧩 **Problem Statement**
-PrimeMart’s data is fragmented across daily Excel exports (sales), manual inventory updates, and siloed customer feedback databases. This leads to:
-- **Delayed reporting** — insights arrive weekly/monthly instead of real-time.  
-- **Data inconsistency** — conflicting sales/revenue/stock figures across departments.  
-- **Limited analytics** — difficult to spot top sellers, buying trends, or stock shortages.  
-- **Reactive decisions** — missed opportunities to optimise pricing, promotions, and inventory.  
+### 🧩 Problem Statement  
+PrimeMart Retail Ltd. faces major challenges with **data fragmentation and reporting inefficiencies**.  
+Sales data from stores is exported daily into Excel files, inventory updates are tracked manually, and customer feedback is stored in separate databases.  
+This disconnected setup causes:  
 
-### 🎯 **Project Aim**
-Build a **single source of truth in Microsoft Fabric** to enable **real-time, consistent, and actionable analytics** across sales, inventory, and customer behaviour.  
+- **Delayed reporting:** Managers receive weekly or monthly summaries instead of real-time insights.  
+- **Data inconsistency:** Conflicting sales, revenue, and stock figures across departments.  
+- **Limited analytics:** Difficult to identify top-performing products, customer buying trends, or inventory shortages.  
+- **Reactive decision-making:** By the time insights are available, optimization opportunities are missed.  
 
-### 🛠️ **Approach**
-#### **Data Architecture (Medallion)**
-- **Bronze (Raw):** Land source files in OneLake (store sales, inventory, customer feedback).  
-- **Silver (Cleaned):** Standardise schemas, fix types/keys, deduplicate records.  
-- **Gold (Analytics-Ready):** Create Star/Snowflake models for *Sales*, *Inventory*, *Customers*, and *Products*.  
+These issues create operational confusion, reduce efficiency, and limit PrimeMart’s ability to compete effectively in a fast-changing retail market.  
 
-#### **Pipelines & Models**
-- Automate ingestion with **Data Factory** (scheduled or event-triggered).  
-- Apply transformations in **Notebooks / Dataflows Gen2**, enforcing business logic and SCD tracking.  
-- Publish a **SQL Endpoint** for governed, fast analytics.  
+---
 
-### 🔎 **SQL Analytics (Fabric SQL Endpoint)**
-Queries developed to power real-time dashboards and executive reporting:
-- Top 10 Products by Revenue  
-- Monthly Revenue Trend  
-- Regular Customers vs One-Time Customers
-- Regular Customers
-- Repeat Customers
-- Repeat VS One-Time Customers (One line each)  
-- Top 10 Transactions  
-- Stock vs Sales by Product and Store  
-- Aggregated Stock vs Sales across all Stores
+### 🎯 Project Aim  
+To build a **unified analytics solution in Microsoft Fabric** that integrates PrimeMart’s sales, inventory, and customer data into a single, governed environment.  
+The goal is to enable **real-time, accurate, and actionable insights** for business leaders, store managers, and supply chain teams.
 
+---
 
-### 📊 **Dashboard Focus**
-**Focus:** Sales Performance | Product Revenue | Regional Insights | Payment Methods  
+### 🛠️ Project Tasks & Approach  
 
-**What this shows:**
-- **KPIs:** Active customers, total quantity, COGS, revenue, profit, and margin %.  
-- **Revenue Trends:** Line chart of daily revenue fluctuations.  
-- **Store Comparison:** Bar chart ranking revenue by store.  
-- **Customer Distribution:** Regional tree map showing customer concentration.  
-- **Payment Insights:** Donut chart breaking down payment method usage (Cash, Card, Mobile, Transfer).  
-- **Product Insights:** Combined chart of quantity vs revenue by product.  
-- **Insight:** Identifies high-performing stores, best-selling products, and customer preferences for better stock and marketing decisions.  
+#### **1. Data Lakehouse Architecture (Medallion Model)**  
+Organize data into structured layers within **Microsoft Fabric OneLake**:  
+- **Bronze (Raw):** Ingest daily store sales, inventory updates, and customer feedback files.  
+- **Silver (Cleaned):** Standardize schemas, fix data types, and remove duplicates.  
+- **Gold (Analytics-Ready):** Create relational models optimized for BI dashboards and analytics.  
+
+#### **2. SQL Analytics (Fabric SQL Endpoint)**  
+Develop and run analytical queries to uncover key retail insights:  
+- 🏆 Top 10 Products by Revenue  
+- 📅 Monthly Sales Trend Analysis  
+- 👥 Repeat vs. One-Time Customer Segmentation  
+- 📦 Stock Level Monitoring vs. Sales Volume  
+
+#### **3. Power BI Dashboard Integration**  
+Design **interactive dashboards** directly connected to Fabric datasets to visualize:  
+- **Revenue trends** by month and store.  
+- **Top-selling categories and products.**  
+- **Low-inventory alerts** vs. current sales demand.  
+- **Customer segmentation** (new vs. loyal buyers).  
+
+#### **4. Automation & Alerts**  
+Use Fabric’s data pipeline and alerting tools to:  
+- 🔔 Notify when **product inventory drops below threshold**.  
+- ⚠️ Alert if **store sales fall by >20% month-over-month**.  
+- 🔄 Schedule **automated data refreshes** for reports and dashboards.  
+
+---
+
+### 🔎 SQL Analytics (Fabric SQL Endpoint)
+Key queries supporting insight generation:
+- **Top 10 Products by Revenue**  
+- **Monthly Revenue Trend**  
+- **Repeat vs. One-Time Customers**  
+- **Stock vs. Sales by Product and Store**  
+- **Stock vs. Sales (All Stores Aggregated)**  
+
+---
+
+### 📊 Focus & What this shows  
+**Focus:** Sales | Inventory | Customer Segmentation | Automation  
+
+**What this shows:**  
+- A single source of truth for PrimeMart’s retail data.  
+- Real-time revenue and performance insights across stores.  
+- Automated monitoring for stock shortages and sales drops.  
+- Customer segmentation that supports loyalty strategies.  
+- A fully automated analytics workflow built on Microsoft Fabric.  
 
 **🔎 SQL Analytics (Fabric SQL Endpoint)**  
 **Queries to power executive reporting and self-service BI:**
