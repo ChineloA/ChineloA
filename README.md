@@ -299,7 +299,7 @@ Delivered an insightful dashboard that helped management track profitability, id
 
 &nbsp;  
 &nbsp;
-<hr style="border: 0; height: 0.5px; background: #eee; margin: 18px 0;">
+<hr style="border: none; border-top: 0.3px solid #f5f5f5; margin: 8px 0;">
 
 ### 4. 🎰 Betting Insights  
 *Betting Insights Dashboard — Revenue, margin, and transaction analysis*  
