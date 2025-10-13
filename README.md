@@ -727,10 +727,7 @@ This interactive Excel dashboard delivers a high-level overview of sales and pro
 
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau) – for data visualization and dashboard design
 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel) – for basic data cleaning and file preparation  
-- **Custom Shapes** – used to display character images on the scatterplot  
-- **Typography & Color Scheme**:
-  - Title font: *Lumos* (Harry Potter-style)  
-  - Gold and pink-teal color palette for gender differentiation  
+
 
 This Tableau dashboard explores **gender diversity and dialogue patterns** among characters in *Harry Potter and the Philosopher’s Stone*.  
 Using a dataset of 140 characters, it visualizes how **male and female characters** differ in speaking frequency, word count, and sentence averages.
