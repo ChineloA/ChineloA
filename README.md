@@ -90,7 +90,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🧠 Mental Health](#-mental-health)  
 - [👩‍💼 HR Employee Attrition](#%E2%80%8D-hr-employee-attrition) 
 - [🌍 Global Insight](#-global-insight)  
-- [🌍 Retail Edge](#-retail-edge)
+- [🛍️ Retail Edge](#-retail-edge)
 - [💪 IronCore Fitness](#-ironcore-fitness)
 
 
@@ -308,35 +308,121 @@ Enhanced visibility into customer behavior, improved monitoring of betting activ
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏭ Jump to Excel Projects](#-excel-projects)  
 
+
+
 ### 🚗Fleet Operations  
 *Fleet Operations Dashboard — Optimising performance and delivery tracking with Power BI*
-[Back to TOC](#-main-table-of-contents) • [Next →](#-retail-store)
+[Back to TOC](#-main-table-of-contents) • [Next →](#-tri-fleet-industries)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 
+
+## 🧩 Project Overview  
+This Power BI dashboard provides a complete overview of fleet management performance — monitoring fuel usage, maintenance costs, and vehicle efficiency. It enables operations teams to track expenses, vehicle downtime, and performance trends to optimize logistics and resource allocation.
+
+## 🎯 Key Achievements  
 Analysed fuel usage, downtime, and maintenance costs across multiple vehicles.  
 - Highlighted top maintenance cost drivers  
 - Tracked operational performance over time  
-- Dataset: `Fleet_Operations_Data.csv`, `TriFleet Data.xlsx`
+- Designed an **interactive fleet monitoring dashboard** to analyze performance by vehicle type and month.  
+- Tracked **maintenance costs, downtime days, and fuel consumption trends**.  
+- Integrated **KPIs for total vehicles, distance, and average maintenance cost**.  
+- Enabled **yearly trend analysis** for fuel efficiency and operational planning.  
+
+## 💡 Insights  
+- Vans recorded the **highest maintenance cost and downtime**, signaling overuse or aging assets.  
+- Fuel consumption peaked mid-year, aligning with seasonal activity trends.  
+- Maintenance efficiency varied by vehicle type, with **trucks showing lowest fuel use per distance**.  
+
+## 🚀 Outcome  
+The dashboard empowered fleet managers to **reduce downtime, control costs**, and plan for better vehicle utilization through data-backed maintenance decisions.
+
+## 🧰 Tools Used  
+- **Power BI** for data modeling and visualization  
+- **DAX Measures** for KPIs and custom calculations  
+- **Power Query** for data cleaning and transformation  
+- **Excel Integration** for raw data source connection  
+
 
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-25 161711](https://github.com/user-attachments/assets/ee57c7a6-8e41-450e-bcf8-4c738916fb3f)
-📸 ![Screenshot 2025-05-19 233508](https://github.com/user-attachments/assets/d851f5ae-ee1d-4f90-9d6c-b1b2356283cf)
+
+
 
 
 
 ---
 
-### 🏪 Retail Store  
-*Retail Store Performance Dashboard — Analysing sales, revenue, and customer trends*  
-[← Previous](#fleet-operations) • [Back to TOC](#-main-table-of-contents) • [Next →](#-dreamy-bites)
+# 🚘 Tri-Fleet Industries 
+*Tri-Fleet Industries Analytics Dashboard*
+[← Previous](#fleet-operations) • [Back to TOC](#-main-table-of-contents) • [Next →](#-puresip-retail-store)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 
+## 🧩 Project Overview  
+This Power BI dashboard provides a detailed analysis of Tri-Fleet’s global automotive sales, covering customer, product, and geographic performance. It offers a data-driven overview of sales distribution, trends, and top-performing customers and product lines.
+
+## 🎯 Key Achievements  
+- Built an **interactive analytics dashboard** showing sales by product line, customer, and region.  
+- Integrated **time-based trend analysis** to track quarterly and yearly sales patterns.  
+- Visualized **geographic performance** using map-based insights for global markets.  
+- Identified **top 10 customers** and **most profitable vehicle categories**.  
+
+## 💡 Insights  
+- Classic and vintage cars were the **highest revenue contributors**.  
+- The U.S. and European markets accounted for the majority of sales.  
+- Customer concentration analysis revealed key accounts driving profitability.  
+
+## 🚀 Outcome  
+Enabled Tri-Fleet’s management team to **analyze global sales performance**, understand customer segments, and refine marketing and inventory strategies.
+
+## 🧰 Tools Used  
+- **Power BI** for reporting and data visualization  
+- **Power Query** for preprocessing and merging data sources  
+- **DAX** for KPI measures and time intelligence functions  
+- **Map Visuals** for country-level sales tracking  
+
+**Dashboard Preview**
+📸 ![Screenshot 2025-05-19 233508](https://github.com/user-attachments/assets/d851f5ae-ee1d-4f90-9d6c-b1b2356283cf)
+
+
+---
+
+### 🏪 PureSip Retail Store  
+*Retail Store Performance Dashboard — Analysing sales, revenue, and customer trends*  
+[← Previous](#tri-fleet-industries) • [Back to TOC](#-main-table-of-contents) • [Next →](#-dreamy-bites)
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
+
+
+## 🧩 Project Overview  
+The PureSip Power BI dashboard analyzes beverage sales performance across multiple brands and retailers. It tracks sales trends, KPIs, and performance against goals, giving a clear picture of market growth and retail channel performance.
+
+## 🎯 Key Achievements 
 Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to analyse sales and profit.  
 - Ranked stores by performance  
 - Identified best-selling products  
 - Dashboards created from: `Costco_Data.xlsx`, `Target_Data.xlsx`, `Walmart_Data.xlsx`, `Walgreens_Data.xlsx`
+- Developed a **sales analytics dashboard** tracking total sales, quantities, and retailer performance.  
+- Visualized **monthly sales trends**, highlighting performance growth over time.  
+- Mapped **sales distribution across U.S. states** for regional performance analysis.  
+- Compared **retailers and brands** using interactive filters for deeper insights.  
+- Added **KPI trackers** to measure goal achievement in real time.  
+
+## 💡 Insights  
+- Consistent monthly growth indicated strong demand throughout the year.  
+- Walmart and Costco emerged as **top-performing retailers**.  
+- Dasani and Coca-Cola brands led in overall sales contribution.  
+
+## 🚀 Outcome  
+Delivered a dynamic sales intelligence solution that helped stakeholders **track performance goals, identify top-selling brands**, and make strategic retail decisions.
+
+## 🧰 Tools Used  
+- **Power BI** for dashboard creation and visual analytics  
+- **Power Query** for ETL processes  
+- **DAX** for KPIs and custom calculations  
+- **Map Visuals** for geospatial performance tracking  
+
 
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-18 205721](https://github.com/user-attachments/assets/14fc100f-1ed3-4f71-9d5a-76ad6c86d484)
@@ -347,14 +433,39 @@ Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to ana
 
 ### 🍪 Dreamy Bites  
 *Dreamy Bites Profit Analysis — Product-level profitability insights using Power BI*
-[← Previous](#-retail-store) • [Back to TOC](#-main-table-of-contents) • [Next →](#-novamed)
+[← Previous](#-puresip-retail-store) • [Back to TOC](#-main-table-of-contents) • [Next →](#-novamed)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 
+
+## 🧩 Project Overview  
+This Power BI project provides a comprehensive view of **Dreamy Bites’ sales and profitability performance** across both customers and products from 2019 to 2020. The dashboard integrates customer behavior, order trends, and product profitability to uncover key growth opportunities.
+
+## 🎯 Key Achievements  
 Analysed updated cookie pricing and cost structure from the business memo.  
 - Evaluated gross margins across 6 cookie types  
 - Created pricing model with profitability flags  
-- Source: `Dreamy Bites Report.pdf`
+- Designed **two connected Power BI dashboards** — one for **Customer Analysis** and another for **Product Analysis**.  
+- Visualized **profit and expense performance by customer and product**.  
+- Tracked **monthly sales, profit trends, and quantity sold** to identify business seasonality.  
+- Developed **profit and quantity targets** to measure goal attainment.  
+- Mapped **regional performance** to assess sales contributions by U.S. states.  
+
+## 💡 Insights  
+- ACME Bites and Wholesome Foods were the **top-performing customers**, accounting for the largest order volumes and profits.  
+- Chocolate Chip emerged as the **best-selling and most profitable product**, driving overall growth.  
+- Profitability remained consistent across months, highlighting stable customer retention and repeat purchases.  
+- Regional data indicated **strong performance in select U.S. states**, with potential for expansion in underperforming areas.  
+
+## 🚀 Outcome  
+Enabled Dreamy Bites’ management to **track sales and profit performance**, understand customer preferences, and align production with high-demand items — improving decision-making and profitability.
+
+## 🧰 Tools Used  
+- **Power BI** for dashboard creation and business intelligence reporting  
+- **DAX** for calculated KPIs and target comparisons  
+- **Power Query** for data transformation and model preparation  
+- **Map Visuals** for state-level performance visualization  
+
 
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-20 222339](https://github.com/user-attachments/assets/55d6de90-0ab4-4503-a3ae-e6368fc8bb49)
@@ -370,11 +481,35 @@ Analysed updated cookie pricing and cost structure from the business memo.
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 
+
+## 🧩 Project Overview  
+This Power BI dashboard analyzes NovaMed’s pharmaceutical sales and customer performance across multiple segments, including demographics, geography, and revenue contribution. It helps identify the most profitable drugs, customers, and market segments while providing actionable insights for strategic planning.
+
+## 🎯 Key Achievements  
 - Tracked overall sales metrics with month-over-month comparisons.
-- Highlighted the top-performing and underperforming drugs and customers based on dynamic measures.
 - Created  Dynamic charts with selected metrics, ranking metric, etc
-- Provided insights into customer demographics, revenue distribution by buyer type, and purchasing behaviour. Additionally,
 - Included geographical sales insights, highlighting key revenue sources
+- Built a **comprehensive sales performance dashboard** with customer and regional insights.  
+- Visualized **monthly revenue and profit comparisons** for year-round tracking.  
+- Highlighted **top and bottom-performing customers** by both sales and profit.  
+- Analyzed **revenue by gender, age range, and country** using interactive filters.  
+- Created a **geographical insight map** to visualize global performance.  
+
+## 💡 Insights  
+- NovaMed achieved a **total revenue of $71M and profit of $58M**, maintaining an impressive **82% profit margin**.  
+- Doxycycline, Ergocalciferol, and Lisinopril were the **top-selling drugs**.  
+- The **elderly segment** and **male customers** contributed the largest share of revenue.  
+- Canada and Australia were the **strongest performing markets**, followed by Germany and the UK.  
+
+## 🚀 Outcome  
+Empowered NovaMed’s management to make **data-driven marketing and inventory decisions**, optimize distribution across regions, and identify high-value customers for retention strategies.
+
+## 🧰 Tools Used  
+- **Power BI** for report building and KPI tracking  
+- **Power Query** for data modeling and transformation  
+- **DAX Measures** for profitability, segmentation, and time intelligence  
+- **Map Visuals** for global sales and customer analysis  
+
 
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-25 161501](https://github.com/user-attachments/assets/717b0e09-960d-4049-b292-62204937c7f4)
@@ -392,9 +527,32 @@ Analysed updated cookie pricing and cost structure from the business memo.
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 
-To build a data model and also build an interactive dashboard that will enable faster, data-driven decisions.  
-- Data: `DeskifyData.xlsx`  
-- Suggested intervention points to reduce turnover
+
+## 🧩 Project Overview  
+The Deskify Power BI project analyzes office supply sales between 2009 and 2012, covering product, customer, and regional performance. The dashboard provides insights into profit distribution, customer segments, and delivery modes — supporting better inventory and customer management.
+
+## 🎯 Key Achievements  
+- Created **interactive Power BI dashboards** for multi-year sales tracking.  
+- Compared **profit performance across product categories** like Furniture, Office Supplies, and Technology.  
+- Analyzed **profit by product name, sub-category, and customer segment**.  
+- Mapped **top-performing states by profit** and regional performance distribution.  
+- Integrated **DAX KPIs** for total revenue, profit margin, and customer metrics.  
+
+## 💡 Insights  
+- **Office Supplies** contributed the largest share of total revenue, while **Furniture** followed closely in profitability.  
+- **Corporate and Consumer segments** delivered the highest profits.  
+- Top customers such as **Emily Phan and Ruben Dartt** drove significant profit margins.  
+- Regular Air shipping accounted for the **majority of deliveries**, reflecting efficiency in order fulfillment.  
+
+## 🚀 Outcome  
+Provided management with a centralized analytics tool to **evaluate profitability, understand customer behavior**, and optimize logistics and product strategy.
+
+## 🧰 Tools Used  
+- **Power BI** for dashboard visualization  
+- **DAX** for profit and margin calculations  
+- **Power Query** for ETL (data transformation and cleaning)  
+- **Map & Tree Visuals** for regional and hierarchical insights  
+
 
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-18 220145](https://github.com/user-attachments/assets/0a4a485a-6455-4f42-be25-ecbc2f14864f)
@@ -411,10 +569,31 @@ To build a data model and also build an interactive dashboard that will enable f
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 
-Built an end-to-end sales and profit dashboard for a fashion retailer.  
-- Compared performance across multiple customer segments  
-- Identified top-selling product categories and stores  
-- Dataset: `Aurora Threads Data.xlsx`
+
+## 🧩 Project Overview  
+The Aurora Threads Power BI dashboard provides a detailed overview of boutique sales performance across multiple stores. It analyzes product categories, gender-based sales, and payment preferences while tracking revenue trends over time.
+
+## 🎯 Key Achievements  
+- Built an **interactive Power BI dashboard** to monitor boutique sales and customer metrics.  
+- Visualized **revenue by category, gender, and payment type** for improved market segmentation.  
+- Highlighted **top-performing products and customers** through ranking visuals.  
+- Integrated **time-based revenue tracking** to identify demand patterns and seasonality.  
+
+## 💡 Insights  
+- Accessories contributed the **largest share of revenue**, followed by clothing and footwear.  
+- **Unisex products** accounted for the highest revenue among gender categories.  
+- Sales were **evenly distributed across payment types**, showing customer flexibility in purchase behavior.  
+- Handbags and necklaces emerged as **top-selling products**.  
+
+## 🚀 Outcome  
+Enabled boutique owners to **understand customer preferences**, manage product performance, and optimize store inventory and payment offerings.
+
+## 🧰 Tools Used  
+- **Power BI** for interactive dashboard creation  
+- **DAX** for custom KPIs and calculated measures  
+- **Power Query** for data transformation  
+- **Visual filters** for store-wise analysis  
+
 
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-12 233017](https://github.com/user-attachments/assets/731f5181-f6a3-4215-9b53-b4c9a09be62c)
@@ -429,10 +608,33 @@ Built an end-to-end sales and profit dashboard for a fashion retailer.
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 
-Explored trends in life expectancy using WHO-sourced data.  
-- Compared life expectancy by region and income group  
+
+## 🧩 Project Overview  
+This Power BI dashboard explores global life expectancy trends between 1990 and 2021, highlighting health and development disparities across continents. It provides a visual narrative of how socioeconomic factors and human development indices affect life expectancy worldwide.
+
+## 🎯 Key Achievements  
+- Explored trends in life expectancy using WHO-sourced data.  
 - Evaluated time-series improvements from 1960–2020  
-- Dataset: `Life Expectancy at Birth.csv`
+- Designed a **data-driven global analytics dashboard** with historical trend tracking.  
+- Compared **life expectancy across continents and development categories**.
+- Compared life expectancy by region and income group   
+- Mapped **top and bottom countries** based on life expectancy averages.  
+- Incorporated **HDI correlation analysis** to explore links between development and longevity.  
+
+## 💡 Insights  
+- Average life expectancy increased steadily from **1990 to 2021**, reflecting global health progress.  
+- Monaco, Japan, and Hong Kong topped the rankings, while countries in Africa showed lower averages.  
+- A strong positive correlation was observed between **Human Development Index (HDI)** and **life expectancy**.  
+
+## 🚀 Outcome  
+Provided a powerful visualization tool for policymakers and researchers to **evaluate global health trends**, track improvements, and identify countries needing targeted interventions.
+
+## 🧰 Tools Used  
+- **Power BI** for global data visualization  
+- **Map Visuals** for geographical trend representation  
+- **Scatter plots and bar charts** for comparative and correlation analysis  
+- **Time intelligence functions** to track changes across decades  
+
 
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-09 160956](https://github.com/user-attachments/assets/937feaaf-6aef-45ad-9cda-b2a95592db5f)
@@ -442,14 +644,37 @@ Explored trends in life expectancy using WHO-sourced data.
 ---
 
 ### 🧠 Mental Health  
-*Mental Health Dataset Analysis — Patterns and correlations in survey data* 
+*Clarity Care Suicide Analytics Dashboard — Patterns and correlations in survey data* 
 [← Previous](#-life-expectancy) • [Back to TOC](#-main-table-of-contents) • [Next →](#%E2%80%8D-hr-employee-attrition)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 
-Analysed suicide rates across gender, country, and year using WHO-sourced data.  
-- Identified age groups with higher risk trends  
-📁 File: `SuicidalDataset.csv`
+
+## 🧩 Project Overview  
+The Clarity Care dashboard presents an in-depth analysis of global suicide data across 101 countries. It identifies key patterns by age, gender, and generation to better understand mental health trends and support prevention strategies.
+
+## 🎯 Key Achievements  
+- Developed a **multi-page Power BI dashboard** combining demographic, temporal, and geographic views.  
+- Explored **suicide distribution by gender, generation, and age group**.  
+- Utilized **AI visuals (Key Influencers)** to detect the strongest predictors of suicide rates.  
+- Integrated **GDP and population metrics** for contextual socioeconomic insights.
+- Identified age groups with higher risk trends   
+
+## 💡 Insights  
+- Over **6.7 million suicides** were recorded across 101 countries.  
+- Males accounted for the **majority of cases (77%)**, especially in the **35–54 age group**.  
+- Boomers and Silent Generations recorded **higher suicide rates**, influenced by economic and social factors.  
+- Countries with **higher GDP per capita** did not necessarily report lower suicide rates, indicating complex underlying causes.  
+
+## 🚀 Outcome  
+The analysis offered mental health organizations and policymakers data-backed insights to **target prevention efforts** and design awareness programs focusing on high-risk age and gender groups.
+
+## 🧰 Tools Used  
+- **Power BI** for advanced visualization and analytics  
+- **AI visuals (Key Influencers, Decomposition Tree)** for predictive insights  
+- **Power Query** for large dataset transformation  
+- **DAX** for KPI and demographic measures  
+
 
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-18 195537](https://github.com/user-attachments/assets/f1edd98c-c542-45d5-930d-b71645b81e89)
@@ -466,10 +691,33 @@ Analysed suicide rates across gender, country, and year using WHO-sourced data.
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 
-Built a clean dashboard to help HR teams track and reduce turnover.  
-- Pinpointed age groups and departments with the highest attrition  
-- Tracked resignation trends over time  
-- Dataset: `HR-Employee-Attrition.csv`
+
+## 🧩 Project Overview  
+This Power BI project explores employee attrition across departments and job roles within an organization. The dashboard provides a comprehensive analysis of factors influencing employee turnover — including demographics, job satisfaction, income, and work-life balance — helping HR teams reduce attrition and improve retention strategies.
+
+## 🎯 Key Achievements  
+- Developed a **multi-page Power BI dashboard** to analyze overall attrition, departmental trends, and influencing factors.  
+- Created **dynamic visual filters** to slice data by department, gender, age, job role, and education.  
+- Calculated **attrition and loyalty rates**, segmented by performance level and risk category.  
+- Identified **key drivers of turnover**, including income, satisfaction, and work-life balance.  
+- Integrated **predictive modeling visuals** to assess loyalty risk (low, medium, high).  
+
+## 💡 Insights  
+- Overall **attrition rate: 16.12%**, with a **loyalty rate of 83.88%**.  
+- **Sales** had the highest attrition (20.6%), while **Research & Development** showed the lowest (13.8%).  
+- **Low-income and non-existent stock option employees** faced the highest turnover rates.  
+- Employees with **poor work-life balance and low satisfaction** were at the greatest risk of leaving.  
+- **Single employees** and those aged **18–25** recorded higher attrition rates than other groups.  
+
+## 🚀 Outcome  
+This analysis empowered HR teams to **pinpoint high-risk employee segments**, design targeted retention initiatives, and improve job satisfaction metrics — leading to better workforce stability.
+
+## 🧰 Tools Used  
+- **Power BI** for dashboard creation and KPI visualization  
+- **Power Query** for data transformation and cleaning  
+- **DAX** for calculated measures (attrition rate, loyalty rate, performance segmentation)  
+- **Predictive Visuals** for risk-level assessment and turnover modeling  
+
 
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-06 175001](https://github.com/user-attachments/assets/f2c9bed6-5259-4e86-ac4a-702983089111)
@@ -487,10 +735,32 @@ Built a clean dashboard to help HR teams track and reduce turnover.
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 
-Explored global population growth by region, religion, and country (1955–2025).  
-- 🌐 Total projected population: 8.2B by 2025  
-- 🗺️ Most populous region: Asia  
-- 🛐 Major religious groups: Christians, Muslims, Hindus
+ 
+## 🧩 Project Overview  
+This Power BI dashboard provides a global perspective on population trends, exploring changes over time, regional distributions, and religious demographics. It visualizes data from 1955 to 2025 to reveal global population growth patterns and diversity insights.
+
+## 🎯 Key Achievements  
+- Explored global population growth by region, religion, and country (1955–2025). 
+- Designed an **interactive time-series dashboard** for global population growth tracking.  
+- Mapped **population distribution by region and country** using dynamic visuals.  
+- Integrated **demographic segmentation** by major religious groups.  
+- Created a **predictive view for 2025** population insights.  
+
+## 💡 Insights  
+- 🌐The global population grew from **2.7 billion in 1955** to over **8.2 billion in 2025**.  
+- 🗺️**Asia** remains the most populous region, followed by **Africa and Europe**.  
+- 🛐**Christianity** and **Islam** represent the largest religious groups globally.  
+- Rapid growth trends are more prominent in developing regions compared to developed nations.  
+
+## 🚀 Outcome  
+This dashboard provides a clear, data-driven view of **global demographic dynamics**, helping policymakers, researchers, and educators understand long-term population patterns.
+
+## 🧰 Tools Used  
+- **Power BI** for visualization and trend analysis  
+- **Map visuals** for regional and global comparison  
+- **DAX** for growth rate calculations  
+- **Power Query** for dataset transformation and cleanup  
+
 
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-16 232450](https://github.com/user-attachments/assets/02aa7e6b-242c-4c5f-b0f6-70b9905279c7)
@@ -499,17 +769,42 @@ Explored global population growth by region, religion, and country (1955–2025)
 
 ---
 
-### 🌍 Retail Edge  
+### 🛍️ Retail Edge  
 *Retail Edge Solutions Analysis — Channel performance and revenue insights* 
 [← Previous](#-global-insight) • [Back to TOC](#-main-table-of-contents) • [Next →](#-ironcore-fitness)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 
-From data modelling to interactive dashboards.  
-- Creating an interactive dashboard in Power BI that displays key performance indicators (KPIs)to allow users to filter and slice data for personalised insights.
-- Include visual comparisons with previous years to highlight growth or decline.
-- Provide actionable insights by showcasing top-performing cities, channels and customers, enabling data-driven strategic decisions.
-- Implement DAX calculations to track year-over-year growth
+
+#  Retail Edge Sales Performance Dashboard
+
+## 🧩 Project Overview  
+The Retail Edge Power BI dashboard delivers comprehensive insights into sales, profit, and revenue performance across products, cities, and distribution channels. It highlights key profitability drivers and trends for strategic business optimization.
+
+## 🎯 Key Achievements  
+- Built a **multi-page Power BI report** covering sales and profit analysis.
+- Created an interactive dashboard in Power BI that displays key performance indicators (KPIs)to allow users to filter and slice data for personalised insights. 
+- Visualized **monthly and daily revenue trends** for performance tracking.  
+- Ranked **top revenue-generating products, customers, and cities**.  
+- Segmented **revenue distribution by sales channel** (wholesale, distributor, export).  
+- Included **year-over-year (YOY) performance comparisons** for 2017–2018.  
+
+## 💡 Insights  
+- Generated a total revenue of **$154.57M** with a **profit margin of 37.39%**.  
+- **Wholesale** channels contributed over half of total revenue.  
+- Cities like **Christchurch, Hamilton, and Waitakere** were top performers.  
+- Products 7 and 1 consistently drove the **highest sales across periods**.  
+- **Thursday and Friday** recorded peak revenue and profit levels.  
+
+## 🚀 Outcome  
+Equipped business leaders with a powerful tool to **evaluate regional performance, manage distribution channels**, and optimize product profitability.
+
+## 🧰 Tools Used  
+- **Power BI** for performance dashboards  
+- **DAX** for KPI creation (revenue, profit margin, YOY variance)  
+- **Power Query** for ETL processing  
+- **Drill-through pages** for detailed sales and profit breakdowns  
+
 
 **Dashboard Preview**  
 📸 ![Screenshot 2025-05-31 223847](https://github.com/user-attachments/assets/4303fe87-4b00-4583-a9a6-e7aa411c9617)
@@ -527,12 +822,36 @@ From data modelling to interactive dashboards.
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 
-#### 🧩 Problem Statement  
+
+## 🧩 Project Overview  
 As IronCore Fitness expands its client base, training programs, and membership tiers across multiple locations, the management team struggles to gain a unified, real-time view of member distribution, trainer performance, and overall fitness engagement.  
 
 The current dependence on static reports makes it challenging to track membership growth, identify underutilized services, or analyze patterns in client retention and churn. This limits data-driven decision-making in membership management, trainer allocation, and program development.  
 
-To address this, IronCore Fitness requires a **dynamic Power BI dashboard** that visualizes critical business and fitness metrics across multiple dimensions.
+The IronCore Fitness Power BI dashboard tracks gym performance through membership activity, revenue growth, and client engagement metrics. It provides a clear view of operational performance, helping managers enhance retention and profitability.
+
+## 🎯 Key Achievements  
+- Developed a **fitness analytics dashboard** integrating membership and financial data.  
+- Visualized **monthly revenue, profit, and expense trends**.  
+- Monitored **membership plan activity** across Platinum, Gold, and Silver tiers.  
+- Built a **Client Expiry Tracker** to monitor progress and renewal rates.  
+- Included **monthly signup trends** to measure acquisition performance.  
+
+## 💡 Insights  
+- Total annual revenue reached **£4.1M** with **£2.9M in profit**.  
+- **Gold memberships** led in active participation, followed by Platinum and Silver.  
+- Membership activity peaked in **November**, reflecting strong year-end engagement.  
+- **71% of clients** remained active, showing solid retention performance.  
+
+## 🚀 Outcome  
+Enabled gym managers to **track member progress, evaluate profitability**, and design strategies to boost client retention and sales conversions.
+
+## 🧰 Tools Used  
+- **Power BI** for data visualization and trend analysis  
+- **DAX** for KPIs and progress metrics  
+- **Power Query** for data integration  
+- **Donut and Line charts** for membership and revenue tracking  
+
 
 
 #### 📊 Dashboard Overview  
