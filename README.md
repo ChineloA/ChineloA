@@ -80,7 +80,8 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 
 ### 🔷 Power BI Projects  
-- [🚗 Fleet Operations](#fleet-operations)  
+- [🚗 Fleet Operations](#fleet-operations)
+- [🚘 Tri-Fleet Industries](#tri-fleet-industries) 
 - [🏪 Retail Store](#-retail-store)  
 - [🍪 Dreamy Bites](#-dreamy-bites)  
 - [👥 Novamed](#-novamed)  
