@@ -145,8 +145,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Power BI Projects](#-power-bi-projects) • [⏭ Jump to Drawio Projects](#-drawio-erd--data-modeling)  
 
-&nbsp;  
-&nbsp;
+<hr style="border: 0; height: 0.5px; background: #dcdcdc; margin: 20px 0;">
 
 ### 1. ☕ Café Harmony  
 *Employee & Sales Performance Dashboard*
