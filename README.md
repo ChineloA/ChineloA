@@ -196,8 +196,7 @@ Empowered café management with a clear view of sales drivers, customer preferen
 
 &nbsp;  
 &nbsp;
-<hr style="border: none; border-top: 1px dotted #ccc; margin: 25px 0;">
-
+<hr style="border: 0; height: 0.5px; background: #eee; margin: 18px 0;">
 
 ### 2. 📊 10Alytics Sales  
 *Sales Performance Dashboard — Advanced Excel dashboards & KPIs*
@@ -249,7 +248,7 @@ Improved business transparency and profitability awareness through structured sa
 
 &nbsp;  
 &nbsp;
-<hr style="border: none; border-top: 1px dotted #ccc; margin: 25px 0;">
+<hr style="border: 0; height: 0.5px; background: #eee; margin: 18px 0;">
 
 ### 3. 📈 Sales & Profitability  
 *Excel-based analysis of product-level sales and profitability trends*
@@ -300,7 +299,7 @@ Delivered an insightful dashboard that helped management track profitability, id
 
 &nbsp;  
 &nbsp;
-<hr style="border: none; border-top: 1px dotted #ccc; margin: 25px 0;">
+<hr style="border: 0; height: 0.5px; background: #eee; margin: 18px 0;">
 
 ### 4. 🎰 Betting Insights  
 *Betting Insights Dashboard — Revenue, margin, and transaction analysis*  
