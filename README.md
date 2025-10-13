@@ -159,15 +159,30 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 ---
 
 ### ☕ Café Harmony  
-*Café Harmony Capstone Project — Sales & profitability analysis using Excel*
+*Employee & Sales Performance Dashboard*
 [Back to TOC](#-main-table-of-contents) • [Next →](#-10alytics-sales)
 
 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel)
 
-Used simulated sales and operational data to generate business recommendations.  
-- Visualised order trends by day and product type  
-- Evaluated peak hours, pricing impact, and café profitability  
-- Source: `Cafe_Harmony_Capstone_Project.xlsx`
+
+## 🧩 Project Overview  
+This dashboard analyzes café operations, focusing on employee performance, sales, and customer satisfaction. It provides insights into top-performing menu items, customer demographics, and inventory efficiency to support data-driven decision-making.
+
+## 🎯 Key Achievements  
+- Built an **interactive Excel dashboard** to visualize employee and product performance.  
+- Identified **top and bottom performers** to guide productivity improvements.  
+- Evaluated **sales performance by gender, age group, and location**.  
+- Assessed **customer satisfaction and feedback trends** for service enhancement.  
+- Monitored **stock performance and sales targets** to optimize resource management.  
+
+## 💡 Insights  
+- Female employees and adults generated the highest sales contributions.  
+- Customer feedback leaned toward positive engagement despite service gaps.  
+- Muffins, cappuccinos, and iced tea ranked among the most profitable items.  
+
+## 🚀 Outcome  
+Empowered café management with a clear view of sales drivers, customer preferences, and staff efficiency — improving service quality and operational decisions.
+
 
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-12 231933](https://github.com/user-attachments/assets/3554342c-a1ac-4745-8091-230dd7c2cca5)
@@ -177,16 +192,34 @@ Used simulated sales and operational data to generate business recommendations.
 ---
 
 ### 📊 10Alytics Sales  
-*10Alytics Sales Performance Dashboard — Advanced Excel dashboards & KPIs
+*Sales Performance Dashboard — Advanced Excel dashboards & KPIs*
 [← Previous](#-café-harmony) • [Back to TOC](#-main-table-of-contents) • [Next →](#-sales--profitability) 
 
 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel)
 
+
+## 🧩 Project Overview  
+Developed a comprehensive Excel dashboard to track organizational sales, profitability, and customer behavior. The goal was to uncover patterns across product categories, regions, and demographics.
+
+## 🎯 Key Achievements  
 Analysed over 34,000 transactions to visualise profit trends, product category performance, and customer insights.  
 - 📈 Monthly profit trends (2015–2016)  
 - 👥 Profit breakdown by gender and age group  
 - 🛍️ Top products: Phones, Clothing, Accessories  
 - 📍 Leading states: Abuja, Anambra, Bauchi
+- Created **dynamic performance metrics** for total transactions, costs, and profits.  
+- Visualized **profit by customer age group, gender, and location**.  
+- Compared **total cost, revenue, and profit/loss** across multiple categories.  
+- Highlighted **top 10 states** contributing to business profitability.  
+
+## 💡 Insights  
+- Phone products were the **top profit driver**, outperforming accessories and clothing.  
+- Adults and youth groups contributed most significantly to total profit.  
+- Revenue showed consistent growth trends across consecutive months.  
+
+## 🚀 Outcome  
+Improved business transparency and profitability awareness through structured sales tracking and demographic analysis.
+
 
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-06 172930](https://github.com/user-attachments/assets/1185c351-07b0-4a8b-b0ac-8f4001fc70fc)
@@ -201,11 +234,31 @@ Analysed over 34,000 transactions to visualise profit trends, product category p
 
 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel)
 
-Tracked profitability by product category, seller, state, and month.  
+
+## 🧩 Project Overview  
+An Excel-based dashboard designed to analyze company-wide **sales and profit performance** across categories, agents, and regions. It provides a unified view of how different product categories and states contribute to revenue and margins.
+
+## 🎯 Key Achievements  
+- Developed **visual KPIs** tracking total sales, profit, and quantity sold.  
+- Compared **sales vs profit by category, seller, and month**.  
+- Identified **top-performing states and product categories**.  
+- Added interactivity through slicers for **sales agents, states, and months**.
+- Tracked profitability by product category, seller, state, and month.  
+
+
+
+## 💡 Insights  
+- Sports & Fitness emerged as the **top-performing category**.  
+- 🗺️ California led in total sales, while profit margins stayed consistently strong.  
+- Month-by-month performance revealed key growth periods for strategic planning.
 - 💰 Total Sales: $981K | Profit: $448K  
 - 📊 Top category: Sports & Fitness (48% profit margin)  
 - 🧑‍💼 Seller breakdown shows Bob and Alice as top contributors  
-- 🗺️ California recorded the highest state-wise sales
+
+
+## 🚀 Outcome  
+Delivered an insightful dashboard that helped management track profitability, identify trends, and guide sales strategy across multiple regions and product lines.
+
 
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-06 173052](https://github.com/user-attachments/assets/1551cc34-a964-4682-b8ce-e317117956ce)
@@ -220,11 +273,28 @@ Tracked profitability by product category, seller, state, and month.
 
 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel)
 
+
+## 🧩 Project Overview  
+Created an Excel dashboard to analyze betting transactions, deposit behaviors, and customer segmentation for a betting firm. It provided actionable insights into customer categories, preferred banks, and deposit trends.
+
+## 🎯 Key Achievements  
 Visualised customer behaviour, bank usage, and transaction trends in January.  
 - 💵 Total Deposit: ₦13.87M | Transactions: 229  
 - 🧑‍🤝‍🧑 Top loyal customers identified by count  
 - 🏦 Most used banks: GTBank, First Bank  
 - 👶 36 underage accounts flagged
+- Designed a **visual summary of transactions and deposits** by day and customer type.  
+- Highlighted **top loyal customers** and **most used banks**.  
+- Segmented users by **age, category, and account status** for behavioral insights.  
+- Analyzed **deposit trends and category distribution** throughout the month.  
+
+## 💡 Insights  
+- First Bank of Nigeria had the **highest number of betting deposits**.  
+- Premium customers displayed the strongest loyalty and deposit frequency.  
+- Underage participation was identified and monitored for compliance.  
+
+## 🚀 Outcome  
+Enhanced visibility into customer behavior, improved monitoring of betting activity, and supported responsible gaming initiatives.
 
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-06 173146](https://github.com/user-attachments/assets/ba9d986f-06e1-4122-a5be-e1afd031e42e)
