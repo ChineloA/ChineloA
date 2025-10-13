@@ -63,8 +63,6 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 # 📑 Main Table of Contents  
 
 
----
-
 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel)
 
 ### 📑 Excel Projects  
@@ -73,8 +71,6 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [📈 Sales & Profitability](#-sales--profitability)  
 - [🎰 Betting Insights](#-betting-insights)  
 
-
----
 
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
@@ -95,17 +91,12 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [💪 IronCore Fitness](#-ironcore-fitness)
 
 
----
-
 
 ![ERD Modeling](https://img.shields.io/badge/Tool-ERD%20Modeling-FF6F00?style=plastic&logo=diagramsdotnet&logoColor=ffffff)
 
 ### 📝 Draw.io Projects  
 - [🏥 Riverside General Hospital](#-riverside-general-hospital)  
 
-
-
----
 
 
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
@@ -116,10 +107,8 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🏢 Elevate Corp](#-elevate-corp)  
 - [🧑‍💼 HR Attrition](#%E2%80%8D-hr-attrition)  
 - [🛒 Sales Performance](#-sales-performance)  
-- [🪄 Harry Potter](#-harry-potter) 
-
-
----
+- [🪄 Harry Potter](#-harry-potter)
+  
 
 
 ![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql&logoColor=ffffff)
@@ -130,8 +119,6 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🪑 Alibert Furnitures](#-alibert-furnitures)
 
 
----
-
 
 ![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft-fabric)
 
@@ -139,8 +126,6 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🧱 PrimeMart](#-primemart)  
 - [🚕 NYC Yellow Taxi](#-nyc-yellow-taxi)  
 
-
----
 
 
 ![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff)
@@ -151,12 +136,13 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 
 ---
+
 # 📑 Excel Projects  
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Power BI Projects](#-power-bi-projects) • [⏭ Jump to Drawio Projects](#-drawio-erd--data-modeling)  
 
-
 ---
+
 
 ### ☕ Café Harmony  
 *Employee & Sales Performance Dashboard*
@@ -375,7 +361,6 @@ Enhanced visibility into customer behavior, improved monitoring of betting activ
 # 🔷 Power BI Projects  
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏭ Jump to Excel Projects](#-excel-projects)  
-
 
 ---
 
@@ -1104,6 +1089,7 @@ Equipped business leaders with a powerful tool to **evaluate regional performanc
 
 
 ---
+
 ### 💪 IronCore Fitness
 *Comprehensive Fitness Performance Dashboard*
 [← Previous](#%EF%B8%8F-retail-edge) • [Back to TOC](#-main-table-of-contents) 
@@ -1181,7 +1167,6 @@ The dashboard provides a comprehensive view of:
 *Entity Relationship Diagram (ERD) — Healthcare data modelling with Draw.io*  
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Excel Projects](#-excel-projects) • [⏭ Jump to Tableau Projects](#-tableau-projects) 
-
 
 ---
 
