@@ -145,8 +145,8 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Power BI Projects](#-power-bi-projects) • [⏭ Jump to Drawio Projects](#-drawio-erd--data-modeling)  
 
----
-
+&nbsp;  
+&nbsp;
 
 ### ☕ Café Harmony  
 *Employee & Sales Performance Dashboard*
@@ -194,11 +194,8 @@ Empowered café management with a clear view of sales drivers, customer preferen
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-12 231933](https://github.com/user-attachments/assets/3554342c-a1ac-4745-8091-230dd7c2cca5)
 
-
-
-
-
----
+&nbsp;  
+&nbsp;
 
 ### 📊 10Alytics Sales  
 *Sales Performance Dashboard — Advanced Excel dashboards & KPIs*
@@ -248,11 +245,8 @@ Improved business transparency and profitability awareness through structured sa
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-06 172930](https://github.com/user-attachments/assets/1185c351-07b0-4a8b-b0ac-8f4001fc70fc)
 
-
-
-
-
----
+&nbsp;  
+&nbsp;
 
 ### 📈 Sales & Profitability  
 *Excel-based analysis of product-level sales and profitability trends*
@@ -301,11 +295,8 @@ Delivered an insightful dashboard that helped management track profitability, id
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-06 173052](https://github.com/user-attachments/assets/1551cc34-a964-4682-b8ce-e317117956ce)
 
-
-
-
-
----
+&nbsp;  
+&nbsp;
 
 ### 🎰 Betting Insights  
 *Betting Insights Dashboard — Revenue, margin, and transaction analysis*  
