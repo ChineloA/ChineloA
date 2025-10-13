@@ -194,8 +194,7 @@ Empowered café management with a clear view of sales drivers, customer preferen
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-12 231933](https://github.com/user-attachments/assets/3554342c-a1ac-4745-8091-230dd7c2cca5)
 
-&nbsp;  
-&nbsp;
+<br><br>
 <hr style="border: none; border-top: 0.4px solid #f0f0f0; margin: 10px 0;">
 
 ### 2. 📊 10Alytics Sales  
