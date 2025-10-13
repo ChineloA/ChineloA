@@ -63,6 +63,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 # 📑 Main Table of Contents  
 
 
+
 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel)
 
 ### 📑 Excel Projects  
@@ -70,6 +71,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [📊 10Alytics Sales](#-10alytics-sales)  
 - [📈 Sales & Profitability](#-sales--profitability)  
 - [🎰 Betting Insights](#-betting-insights)  
+
 
 
 
@@ -92,10 +94,12 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 
 
+
 ![ERD Modeling](https://img.shields.io/badge/Tool-ERD%20Modeling-FF6F00?style=plastic&logo=diagramsdotnet&logoColor=ffffff)
 
 ### 📝 Draw.io Projects  
 - [🏥 Riverside General Hospital](#-riverside-general-hospital)  
+
 
 
 
@@ -111,6 +115,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
   
 
 
+
 ![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql&logoColor=ffffff)
 
 ### 🗄 SQL Projects  
@@ -120,11 +125,13 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 
 
+
 ![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft-fabric)
 
 ### 🧱 Fabric Projects  
 - [🧱 PrimeMart](#-primemart)  
 - [🚕 NYC Yellow Taxi](#-nyc-yellow-taxi)  
+
 
 
 
