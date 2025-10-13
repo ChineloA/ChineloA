@@ -91,7 +91,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🧠 Mental Health](#-mental-health)  
 - [👩‍💼 HR Employee Attrition](#%E2%80%8D-hr-employee-attrition) 
 - [🌍 Global Insight](#-global-insight)  
-- [🛍️ Retail Edge](#-retail-edge)
+- [🛍️ Retail Edge](#%EF%B8%8F-retail-edge)
 - [💪 IronCore Fitness](#-ironcore-fitness)
 
 
@@ -902,7 +902,7 @@ This analysis empowered HR teams to **pinpoint high-risk employee segments**, de
 
 ### 🌍 Global Insight  
 *Global Insight Analytics — Population trends and growth projections* 
-[← Previous](#%E2%80%8D-hr-employee-attrition) • [Back to TOC](#-main-table-of-contents) • [Next →](#-retail-edge)
+[← Previous](#%E2%80%8D-hr-employee-attrition) • [Back to TOC](#-main-table-of-contents) • [Next →](#%EF%B8%8F-retail-edge)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 
@@ -1013,7 +1013,7 @@ Equipped business leaders with a powerful tool to **evaluate regional performanc
 ---
 ### 💪 IronCore Fitness
 *Comprehensive Fitness Performance Dashboard*
-[← Previous](#-retail-edge) • [Back to TOC](#-main-table-of-contents) 
+[← Previous](#%EF%B8%8F-retail-edge) • [Back to TOC](#-main-table-of-contents) 
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 
