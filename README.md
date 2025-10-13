@@ -1633,8 +1633,8 @@ Build a series of **PostgreSQL analytical queries** to track retention, performa
 
 **🔎 SQL Analytics**  
 **Queries to support reporting and insights:**  
-- **A: EMPLOYEE RETENTION ANALYSIS**
-   *Goal: Understand the employee turnover trends and identify the root causes of high turnover rates.*
+- **A. EMPLOYEE RETENTION ANALYSIS**
+-   *Goal: Understand the employee turnover trends and identify the root causes of high turnover rates.*
 
 - **Q1) TOP 5 SERVING EMPLOYEES**
 ```sql
@@ -1968,7 +1968,7 @@ Use SQL to create a **retail intelligence layer** that segments products and cus
 **Queries to support reporting and insights:**  
 
 **-- Q1) Group Products into Price Categories**
-*Objective: Categorize products as Budget-Friendly, Mid-Range, or Premium based on unit price.*
+- *Objective: Categorize products as Budget-Friendly, Mid-Range, or Premium based on unit price.*
 ```sql
 SELECT productid, productname, price,
   CASE
@@ -1982,7 +1982,7 @@ FROM dimproduct;
 
 
 **Q2) Current Stock Status of Each Product**
-*Objective: Show stock, total sold quantity, and remaining quantity*
+- *Objective: Show stock, total sold quantity, and remaining quantity*
 ```sql
 SELECT dp.productid,
        dp.productname,
@@ -1998,7 +1998,7 @@ ORDER BY total_qty_sold;
 
 
 **Q3) Highest and Lowest Sales by Customers**
-*Objective: Find customers with the highest and lowest total sales amounts.*
+- *Objective: Find customers with the highest and lowest total sales amounts.*
 ```sql
 WITH customersales AS (
   SELECT dc.customerid,
