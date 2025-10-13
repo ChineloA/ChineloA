@@ -148,7 +148,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 &nbsp;  
 &nbsp;
 
-### ☕ Café Harmony  
+### 1. ☕ Café Harmony  
 *Employee & Sales Performance Dashboard*
 [Back to TOC](#-main-table-of-contents) • [Next →](#-10alytics-sales)
 
@@ -197,7 +197,7 @@ Empowered café management with a clear view of sales drivers, customer preferen
 &nbsp;  
 &nbsp;
 
-### 📊 10Alytics Sales  
+### 2. 📊 10Alytics Sales  
 *Sales Performance Dashboard — Advanced Excel dashboards & KPIs*
 [← Previous](#-café-harmony) • [Back to TOC](#-main-table-of-contents) • [Next →](#-sales--profitability) 
 
@@ -248,7 +248,7 @@ Improved business transparency and profitability awareness through structured sa
 &nbsp;  
 &nbsp;
 
-### 📈 Sales & Profitability  
+### 3. 📈 Sales & Profitability  
 *Excel-based analysis of product-level sales and profitability trends*
 [← Previous](#-10alytics-sales) • [Back to TOC](#-main-table-of-contents) • [Next →](#-betting-insights)
 
@@ -298,7 +298,7 @@ Delivered an insightful dashboard that helped management track profitability, id
 &nbsp;  
 &nbsp;
 
-### 🎰 Betting Insights  
+### 4. 🎰 Betting Insights  
 *Betting Insights Dashboard — Revenue, margin, and transaction analysis*  
 [← Previous](#-sales--profitability) • [Back to TOC](#-main-table-of-contents)
 
