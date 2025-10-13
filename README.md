@@ -99,8 +99,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 ### 📝 Draw.io Projects  
 - [🏥 Riverside General Hospital](#-riverside-general-hospital)  
 
-
-
+<br><br>
 
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
 
@@ -112,8 +111,8 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🛒 Sales Performance](#-sales-performance)  
 - [🪄 Harry Potter](#-harry-potter)
   
-
-
+&nbsp;  
+&nbsp;
 
 ![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql&logoColor=ffffff)
 
@@ -122,8 +121,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🗄 Lewis Database](#-lewis-database--sql-questions--answers)
 - [🪑 Alibert Furnitures](#-alibert-furnitures)
 
-
-
+<br><br>
 
 ![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft-fabric)
 
@@ -131,8 +129,8 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🧱 PrimeMart](#-primemart)  
 - [🚕 NYC Yellow Taxi](#-nyc-yellow-taxi)  
 
-
-
+&nbsp;  
+&nbsp;
 
 ![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff)
 
