@@ -196,7 +196,7 @@ Empowered café management with a clear view of sales drivers, customer preferen
 
 &nbsp;  
 &nbsp;
-<hr style="border: 0; height: 0.5px; background: #eee; margin: 18px 0;">
+<hr style="border: none; border-top: 0.4px solid #f0f0f0; margin: 10px 0;">
 
 ### 2. 📊 10Alytics Sales  
 *Sales Performance Dashboard — Advanced Excel dashboards & KPIs*
