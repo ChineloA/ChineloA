@@ -168,6 +168,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 ## 🧩 Project Overview  
 This dashboard analyzes café operations, focusing on employee performance, sales, and customer satisfaction. It provides insights into top-performing menu items, customer demographics, and inventory efficiency to support data-driven decision-making.
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Café Sales | Product Profitability | Seasonal Trends | Customer Insights  
 
 ### **What this shows**
@@ -212,6 +213,7 @@ Empowered café management with a clear view of sales drivers, customer preferen
 ## 🧩 Project Overview  
 Developed a comprehensive Excel dashboard to track organizational sales, profitability, and customer behavior. The goal was to uncover patterns across product categories, regions, and demographics.
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Regional Sales | Profitability | Customer Segmentation | Performance Trends  
 
 ### **What this shows**
@@ -260,6 +262,7 @@ Improved business transparency and profitability awareness through structured sa
 ## 🧩 Project Overview  
 An Excel-based dashboard designed to analyze company-wide **sales and profit performance** across categories, agents, and regions. It provides a unified view of how different product categories and states contribute to revenue and margins.
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Product Performance | Revenue Growth | Regional Profitability | Seasonal Insights  
 
 ### **What this shows**
@@ -310,6 +313,7 @@ Delivered an insightful dashboard that helped management track profitability, id
 ## 🧩 Project Overview  
 Created an Excel dashboard to analyze betting transactions, deposit behaviors, and customer segmentation for a betting firm. It provided actionable insights into customer categories, preferred banks, and deposit trends.
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Betting Revenue | Player Behavior | Platform Trends | Profitability  
 
 ### **What this shows**
@@ -364,6 +368,7 @@ Enhanced visibility into customer behavior, improved monitoring of betting activ
 ## 🧩 Project Overview  
 This Power BI dashboard provides a complete overview of fleet management performance — monitoring fuel usage, maintenance costs, and vehicle efficiency. It enables operations teams to track expenses, vehicle downtime, and performance trends to optimize logistics and resource allocation.
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Fleet Performance | Fuel Efficiency | Maintenance Costs | Driver Behavior  
 
 ### **What this shows**
@@ -417,6 +422,7 @@ The dashboard empowered fleet managers to **reduce downtime, control costs**, an
 ## 🧩 Project Overview  
 This Power BI dashboard provides a detailed analysis of Tri-Fleet’s global automotive sales, covering customer, product, and geographic performance. It offers a data-driven overview of sales distribution, trends, and top-performing customers and product lines.
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Fleet Utilization | Fuel Efficiency | Maintenance Costs | Trip Insights  
 
 ### **What this shows**
@@ -465,6 +471,7 @@ Enabled Tri-Fleet’s management team to **analyze global sales performance**, u
 ## 🧩 Project Overview  
 The PureSip Power BI dashboard analyzes beverage sales performance across multiple brands and retailers. It tracks sales trends, KPIs, and performance against goals, giving a clear picture of market growth and retail channel performance.
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Sales Performance | Product Profitability | Regional Insights | Customer Trends  
 
 ### **What this shows**
@@ -519,6 +526,7 @@ Delivered a dynamic sales intelligence solution that helped stakeholders **track
 ## 🧩 Project Overview  
 This Power BI project provides a comprehensive view of **Dreamy Bites’ sales and profitability performance** across both customers and products from 2019 to 2020. The dashboard integrates customer behavior, order trends, and product profitability to uncover key growth opportunities.
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Bakery Sales | Product Demand | Regional Profitability | Seasonal Trends  
 
 ### **What this shows**
@@ -574,6 +582,7 @@ Enabled Dreamy Bites’ management to **track sales and profit performance**, un
 ## 🧩 Project Overview  
 This Power BI dashboard analyzes NovaMed’s pharmaceutical sales and customer performance across multiple segments, including demographics, geography, and revenue contribution. It helps identify the most profitable drugs, customers, and market segments while providing actionable insights for strategic planning.
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Pharmaceutical Sales | Regional Performance | Product Profitability | Customer Insights  
 
 ### **What this shows**
@@ -631,6 +640,7 @@ Empowered NovaMed’s management to make **data-driven marketing and inventory d
 ## 🧩 Project Overview  
 The Deskify Power BI project analyzes office supply sales between 2009 and 2012, covering product, customer, and regional performance. The dashboard provides insights into profit distribution, customer segments, and delivery modes — supporting better inventory and customer management.
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Office Supplies | Multi-Year Trends | Regional Profit | Customer Segmentation  
 
 ### **What this shows**
@@ -684,6 +694,7 @@ Provided management with a centralized analytics tool to **evaluate profitabilit
 ## 🧩 Project Overview  
 The Aurora Threads Power BI dashboard provides a detailed overview of boutique sales performance across multiple stores. It analyzes product categories, gender-based sales, and payment preferences while tracking revenue trends over time.
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Boutique Sales | Product Demand | Payment Types | Gender Insights  
 
 ### **What this shows**
@@ -734,6 +745,7 @@ Enabled boutique owners to **understand customer preferences**, manage product p
 ## 🧩 Project Overview  
 This Power BI dashboard explores global life expectancy trends between 1990 and 2021, highlighting health and development disparities across continents. It provides a visual narrative of how socioeconomic factors and human development indices affect life expectancy worldwide.
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Global Life Expectancy | HDI Correlation | Continental Comparison | Temporal Trends  
 
 ### **What this shows**
@@ -786,6 +798,7 @@ Provided a powerful visualization tool for policymakers and researchers to **eva
 ## 🧩 Project Overview  
 The Clarity Care dashboard presents an in-depth analysis of global suicide data across 101 countries. It identifies key patterns by age, gender, and generation to better understand mental health trends and support prevention strategies.
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Suicide Data | Demographics | Generational Trends | Global Distribution  
 
 ### **What this shows**
@@ -839,6 +852,7 @@ The analysis offered mental health organizations and policymakers data-backed in
 ## 🧩 Project Overview  
 This Power BI project explores employee attrition across departments and job roles within an organization. The dashboard provides a comprehensive analysis of factors influencing employee turnover — including demographics, job satisfaction, income, and work-life balance — helping HR teams reduce attrition and improve retention strategies.
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Attrition | Demographics | Job Roles | Tenure | Survey Scores  
 
 ### **What this shows**
@@ -895,6 +909,7 @@ This analysis empowered HR teams to **pinpoint high-risk employee segments**, de
 ## 🧩 Project Overview  
 This Power BI dashboard provides a global perspective on population trends, exploring changes over time, regional distributions, and religious demographics. It visualizes data from 1955 to 2025 to reveal global population growth patterns and diversity insights.
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Global Population | Regional Trends | Religious Demographics | Country Comparison  
 
 ### **What this shows**
@@ -947,6 +962,7 @@ This dashboard provides a clear, data-driven view of **global demographic dynami
 ## 🧩 Project Overview  
 The Retail Edge Power BI dashboard delivers comprehensive insights into sales, profit, and revenue performance across products, cities, and distribution channels. It highlights key profitability drivers and trends for strategic business optimization.
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Sales Performance | Profitability | Channels | Customer Segmentation  
 
 ### **What this shows**
@@ -1008,6 +1024,7 @@ The current dependence on static reports makes it challenging to track membershi
 
 The IronCore Fitness Power BI dashboard tracks gym performance through membership activity, revenue growth, and client engagement metrics. It provides a clear view of operational performance, helping managers enhance retention and profitability.
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Membership Insights | Revenue & Profit Tracking | Trainer Performance | Client Engagement/Retention  
 
 ### **What this shows**
@@ -1087,6 +1104,7 @@ It provides a **star schema** structure optimized for performance reporting, int
 ## 🎯 Objective  
 To create a **data model** that supports **comprehensive healthcare reporting**, including revenue, expenses, and treatment insights (They had their data as a flat file; therefore struggled with Scalability and Integration).
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Workflow Mapping | Process Optimization | Decision Paths | Visual Communication  
 
 ### **What this shows**
@@ -1145,6 +1163,7 @@ Enabled the hospital to **build a robust analytics layer** for Power BI and Tabl
 ## 🧩 Project Overview  
 A Tableau dashboard analyzing **sales, profit, and delivery performance** for a premium chocolate manufacturer, *Choco De Luxe*, across multiple European regions.
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Sales Performance | Profitability | Delivery Efficiency | Channel Analysis  
 
 ### **What this shows**
@@ -1210,6 +1229,7 @@ Business leaders can now make informed decisions on:
 **📌 Project Aim**  
 To analyse sales performance across products, sub-categories, and regions to identify high- and low-performing segments, measure profitability trends, evaluate customer purchasing behaviour, and optimise pricing and inventory strategies. 
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Product Sales | Profitability | Customer Behavior | Pricing & Discount Impact  
 
 ### **What this shows**
@@ -1288,6 +1308,7 @@ Provided actionable insights for **inventory optimization, pricing strategy**, a
 The **Elevate Corp Workforce Dashboard** analyzes employee demographics, compensation, and experience across multiple departments and locations.  
 It provides leadership with a comprehensive view of **salary trends, benefits distribution, cost-of-living adjustments, and employee tenure**.
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Workforce Compensation | Experience Level | Benefits | Cost of Living  
 
 ### **What this shows**
@@ -1343,6 +1364,7 @@ It provides leadership with a comprehensive view of **salary trends, benefits di
 ## 🧩 Project Overview  
 This Tableau project provides a detailed analysis of **employee attrition and retention patterns**, allowing HR teams to identify the root causes of turnover and enhance retention strategies.
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Attrition | Demographics | Job Roles | Tenure | Satisfaction Scores  
 
 ### **What this shows**
@@ -1398,6 +1420,7 @@ This Tableau project provides a detailed analysis of **employee attrition and re
 ## 🧩 Project Overview  
 The **Sales Performance Dashboard** provides a consolidated view of key retail metrics, helping stakeholders evaluate sales, profit, and category performance across regions and time periods.
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Regional Sales | Category Profitability | Product Insights | Seasonal Trends  
 
 ### **What this shows**
@@ -1461,6 +1484,7 @@ It helps retail managers quickly track performance by region, category, and time
 - Show **monthly sales trends** for time-based performance analysis.  
 - Offer a **table view** of detailed order data for auditing and reporting.  
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Executive KPIs | Regional Sales | Category Performance | Order-Level Details  
 
 ### **What this shows**
@@ -1509,6 +1533,7 @@ It helps retail managers quickly track performance by region, category, and time
 This Tableau visualization explores **gender diversity and dialogue distribution** among 140 characters from the Harry Potter universe.  
 It highlights how male and female characters differ in representation, speaking time, and word count across Hogwarts houses.
 
+### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Gender Diversity | House Distribution | Dialogue Analysis | Character Representation  
 
 ### **What this shows**
@@ -2043,26 +2068,51 @@ FROM MonthRevenue;
 
 ![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft-fabric)(OneLake, Lakehouse), SQL Endpoint, Data Factory (pipelines), Power BI, Notebooks (optional)
 
-**📌 Problem Statement**  
-PrimeMart’s data is fragmented across daily Excel exports (sales), manual inventory updates, and siloed customer feedback databases. This causes:  
+### 🧩 **Problem Statement**
+PrimeMart’s data is fragmented across daily Excel exports (sales), manual inventory updates, and siloed customer feedback databases. This leads to:
 - **Delayed reporting** — insights arrive weekly/monthly instead of real-time.  
 - **Data inconsistency** — conflicting sales/revenue/stock figures across departments.  
 - **Limited analytics** — difficult to spot top sellers, buying trends, or stock shortages.  
 - **Reactive decisions** — missed opportunities to optimise pricing, promotions, and inventory.  
 
-**🎯 Project Aim**  
-Build a **single source of truth in Microsoft Fabric** to enable real-time, consistent, and actionable analytics across sales, inventory, and customer behaviour.
+### 🎯 **Project Aim**
+Build a **single source of truth in Microsoft Fabric** to enable **real-time, consistent, and actionable analytics** across sales, inventory, and customer behaviour.  
 
-**🛠️ Approach**  
-**Data Architecture (Medallion):**  
-- **Bronze (Raw):** Land source files in **OneLake** (store sales, inventory, customer feedback).  
+### 🛠️ **Approach**
+#### **Data Architecture (Medallion)**
+- **Bronze (Raw):** Land source files in OneLake (store sales, inventory, customer feedback).  
 - **Silver (Cleaned):** Standardise schemas, fix types/keys, deduplicate records.  
-- **Gold (Analytics-Ready):** Star/Snowflake models for Sales, Inventory, Customers, Products.
+- **Gold (Analytics-Ready):** Create Star/Snowflake models for *Sales*, *Inventory*, *Customers*, and *Products*.  
 
-**Pipelines & Models:**  
-- Orchestrate ingestion with **Data Factory** (scheduled/triggered).  
-- Transform with **Notebooks / Dataflows Gen2** to enforce business rules & SCD where needed.  
-- Expose **SQL Endpoint** for governed, fast analytics.
+#### **Pipelines & Models**
+- Automate ingestion with **Data Factory** (scheduled or event-triggered).  
+- Apply transformations in **Notebooks / Dataflows Gen2**, enforcing business logic and SCD tracking.  
+- Publish a **SQL Endpoint** for governed, fast analytics.  
+
+### 🔎 **SQL Analytics (Fabric SQL Endpoint)**
+Queries developed to power real-time dashboards and executive reporting:
+- Top 10 Products by Revenue  
+- Monthly Revenue Trend  
+- Regular Customers vs One-Time Customers
+- Regular Customers
+- Repeat Customers
+- Repeat VS One-Time Customers (One line each)  
+- Top 10 Transactions  
+- Stock vs Sales by Product and Store  
+- Aggregated Stock vs Sales across all Stores
+
+
+### 📊 **Dashboard Focus**
+**Focus:** Sales Performance | Product Revenue | Regional Insights | Payment Methods  
+
+**What this shows:**
+- **KPIs:** Active customers, total quantity, COGS, revenue, profit, and margin %.  
+- **Revenue Trends:** Line chart of daily revenue fluctuations.  
+- **Store Comparison:** Bar chart ranking revenue by store.  
+- **Customer Distribution:** Regional tree map showing customer concentration.  
+- **Payment Insights:** Donut chart breaking down payment method usage (Cash, Card, Mobile, Transfer).  
+- **Product Insights:** Combined chart of quantity vs revenue by product.  
+- **Insight:** Identifies high-performing stores, best-selling products, and customer preferences for better stock and marketing decisions.  
 
 **🔎 SQL Analytics (Fabric SQL Endpoint)**  
 **Queries to power executive reporting and self-service BI:**
@@ -2220,24 +2270,47 @@ ORDER BY
 
 ![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft-fabric)(OneLake, Lakehouse, SQL Endpoint, Power BI)  
 
-**📌 Problem Statement**  
-The New York City taxi industry generates massive amounts of trip data daily. However, without a unified analytics pipeline, extracting meaningful insights is challenging. This results in:  
-- **Missed insights** — difficulty identifying peak travel demand across time and zones.  
-- **Inefficient operations** — lack of clear visibility into revenue, trip lengths, and customer demand patterns.  
-- **Fragmented reporting** — raw trip data is not optimised for decision-making or interactive reporting.  
+### 🧩 **Problem Statement**
+The New York City taxi industry produces massive amounts of trip data daily. Without a unified analytics system, this results in:
+- **Missed insights** — hard to identify peak travel times and high-demand zones.  
+- **Inefficient operations** — lack of visibility into fares, distances, and vendor performance.  
+- **Fragmented reporting** — trip data stored raw and unoptimized for decision-making.  
 
-**🎯 Project Aim**  
-Leverage Microsoft Fabric to build an **end-to-end analytics solution** that ingests, processes, and visualises NYC Yellow Taxi trip data to uncover trends in urban mobility and support transportation planning.  
+### 🎯 **Project Aim**
+Use **Microsoft Fabric** to build an **end-to-end analytics pipeline** that ingests, cleans, and visualises NYC Yellow Taxi trip data to uncover travel patterns and support urban transportation planning.  
 
-**🛠️ Approach**  
-**Data Architecture (Medallion):**  
-- **Bronze (Raw):** Ingest raw taxi trip CSV/parquet data into **OneLake**.  
-- **Silver (Cleaned):** Clean schema, fix outliers (e.g., negative fares/distances), standardise timestamps.  
-- **Gold (Analytics-Ready):** Create aggregated fact tables for **Trips, Revenue, Zones, and Time**.  
+### 🛠️ **Approach**
+#### **Data Architecture (Medallion)**
+- **Bronze (Raw):** Ingest taxi trip CSV/Parquet data into **OneLake**.  
+- **Silver (Cleaned):** Standardise schema, fix data quality issues (negative fares/distances), and align timestamps.  
+- **Gold (Analytics-Ready):** Build analytical fact tables for *Trips*, *Revenue*, *Zones*, and *Time*.  
 
-**Data Processing & Queries:**  
-- Use **SQL Endpoint / Lakehouse SQL Editor** for analysis and transformations.  
-- Build summarised tables/views for Power BI dashboards.  
+#### **Data Processing & Queries**
+- Run **SQL Endpoint** transformations to create summarised tables and materialized views.  
+- Build **Power BI dashboards** for self-service and executive-level analytics.  
+
+### 🔎 **SQL Analytics (Fabric SQL Endpoint)**
+Core queries supporting insights:
+- Total Number of Trips  
+- Total Revenue by Month  
+- Average Fare Amount by Month  
+- Most Frequent Pickup Zones  
+- Trip Distribution by Hour of Day  
+- Payment Method Distribution  
+- Average Tip Amount per Hour  
+- Identify Trips with Negative or Suspicious Fares  
+
+### 📊 **Dashboard Focus**
+**Focus:** Revenue | Trip Volume | Payment Methods | Geographic Insights  
+
+**What this shows:**
+- **Overview KPIs:** Total revenue, total trips, average fare, tip %, and distance.  
+- **Revenue Trend:** Monthly trip and revenue correlation line chart.  
+- **Revenue by Vendor:** Bar chart ranking fleet/vendor performance.  
+- **Top Pickup Zones:** Bar chart highlighting busiest pickup areas.  
+- **Payment Distribution:** Donut chart showing share of card, cash, and other payment types.  
+- **Geographic View:** Global map pinpointing pickup activity.  
+- **Insight:** Provides visibility into NYC trip behavior, top-earning zones, and payment preferences for operational optimization.  
 
 **🔎 SQL Analytics (Fabric SQL Endpoint)**  
 **Queries to support reporting and insights:**  
@@ -2343,8 +2416,28 @@ where fare_amount < 0 or total_amount < 0;
 
 ![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff)![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
 
-**📌 Project Aim**  
-To analyse sales performance across products, sub-categories, and regions to identify high- and low-performing segments, measure profitability trends, evaluate customer purchasing behaviour, and optimise pricing and inventory strategies.  
+### 🧩 **Problem Statement**
+FusionPoint sought to enhance its sales analytics by integrating **natural language querying** (via ChatGPT) into Tableau dashboards. The goal was to make data exploration conversational, improving accessibility for non-technical users.  
+
+### 🎯 **Project Aim**
+Combine **AI-powered insights** with **visual analytics** to let business users ask data-driven questions conversationally, view results in Tableau, and uncover real-time performance drivers.  
+
+### 🛠️ **Approach**
+- Built Tableau dashboards to visualise **sales, profit, and discount performance** across categories, subcategories, and regions.  
+- Integrated **ChatGPT via Tableau extensions** for query handling and contextual analysis.  
+- Designed an **interactive analytics layer** to interpret plain-language queries and display visual responses.  
+- Enabled users to explore “why” and “how” questions behind trends — e.g., “Why did profit drop in Central region?”  
+
+### 📊 **Dashboard Focus**
+**Focus:** Product Sales | Profitability | Customer Behavior | AI Query Integration  
+
+**What this shows:**
+- **Dashboard KPIs:** Total sales, profit, quantity sold, and average profit margin.  
+- **Regional Performance:** Map of sales and profitability across U.S. regions.  
+- **Product Analysis:** Bar charts for category and subcategory trends.  
+- **Discount Insights:** Correlation between discount levels and profitability.  
+- **ChatGPT Integration:** Allows users to type queries and get visual insights directly in Tableau.  
+- **Insight:** Makes analytics accessible to all users by bridging data storytelling and conversational AI.  
 
 **🎯 Key Objectives**  
 - **Product & Regional Sales Performance:** Identify high- and low-performing categories, sub-categories, and regions.  
