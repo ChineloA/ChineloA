@@ -72,8 +72,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [📈 Sales & Profitability](#-sales--profitability)  
 - [🎰 Betting Insights](#-betting-insights)  
 
-
-
+<br><br>
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 
@@ -92,8 +91,8 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🛍️ Retail Edge](#%EF%B8%8F-retail-edge)
 - [💪 IronCore Fitness](#-ironcore-fitness)
 
-
-
+&nbsp;  
+&nbsp;
 
 ![ERD Modeling](https://img.shields.io/badge/Tool-ERD%20Modeling-FF6F00?style=plastic&logo=diagramsdotnet&logoColor=ffffff)
 
