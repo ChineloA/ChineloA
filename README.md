@@ -145,7 +145,8 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Power BI Projects](#-power-bi-projects) • [⏭ Jump to Drawio Projects](#-drawio-erd--data-modeling)  
 
-<hr style="border: 0; height: 0.5px; background: #dcdcdc; margin: 20px 0;">
+&nbsp;  
+&nbsp;
 
 ### 1. ☕ Café Harmony  
 *Employee & Sales Performance Dashboard*
@@ -195,6 +196,8 @@ Empowered café management with a clear view of sales drivers, customer preferen
 
 &nbsp;  
 &nbsp;
+<hr style="border: none; border-top: 1px dotted #ccc; margin: 25px 0;">
+
 
 ### 2. 📊 10Alytics Sales  
 *Sales Performance Dashboard — Advanced Excel dashboards & KPIs*
@@ -246,6 +249,7 @@ Improved business transparency and profitability awareness through structured sa
 
 &nbsp;  
 &nbsp;
+<hr style="border: none; border-top: 1px dotted #ccc; margin: 25px 0;">
 
 ### 3. 📈 Sales & Profitability  
 *Excel-based analysis of product-level sales and profitability trends*
@@ -296,6 +300,7 @@ Delivered an insightful dashboard that helped management track profitability, id
 
 &nbsp;  
 &nbsp;
+<hr style="border: none; border-top: 1px dotted #ccc; margin: 25px 0;">
 
 ### 4. 🎰 Betting Insights  
 *Betting Insights Dashboard — Revenue, margin, and transaction analysis*  
