@@ -81,7 +81,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 ### 🔷 Power BI Projects  
 - [🚗 Fleet Operations](#fleet-operations)
-- [🚘 Tri-Fleet Industries](#tri-fleet-industries) 
+- [🚘 Tri-Fleet Industries](#-tri-fleet-industries) 
 - [🏪 Retail Store](#-retail-store)  
 - [🍪 Dreamy Bites](#-dreamy-bites)  
 - [👥 Novamed](#-novamed)  
@@ -464,7 +464,7 @@ Enabled Tri-Fleet’s management team to **analyze global sales performance**, u
 
 ### 🏪 PureSip Retail Store  
 *Retail Store Performance Dashboard — Analysing sales, revenue, and customer trends*  
-[← Previous](#tri-fleet-industries) • [Back to TOC](#-main-table-of-contents) • [Next →](#-dreamy-bites)
+[← Previous](#-tri-fleet-industries) • [Back to TOC](#-main-table-of-contents) • [Next →](#-dreamy-bites)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 
