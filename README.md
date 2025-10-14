@@ -61,7 +61,6 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 ---
 
 # 📑 Main Table of Contents  
-<h2></h2>
 
 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel)
 
