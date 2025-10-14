@@ -243,7 +243,7 @@ Improved business transparency and profitability awareness through structured sa
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-06 172930](https://github.com/user-attachments/assets/1185c351-07b0-4a8b-b0ac-8f4001fc70fc)
 
-<br>
+## &nbsp;
 
 ### 3. 📈 Sales & Profitability  
 *Excel-based analysis of product-level sales and profitability trends*
