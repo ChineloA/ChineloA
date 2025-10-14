@@ -72,6 +72,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [📈 Sales & Profitability](#-sales--profitability)  
 - [🎰 Betting Insights](#-betting-insights)  
 
+<h2></h2>
 <br><br>
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
@@ -91,6 +92,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🛍️ Retail Edge](#%EF%B8%8F-retail-edge)
 - [💪 IronCore Fitness](#-ironcore-fitness)
 
+<h2></h2>
 &nbsp;  
 &nbsp;
 
@@ -99,6 +101,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 ### 📝 Draw.io Projects  
 - [🏥 Riverside General Hospital](#-riverside-general-hospital)  
 
+<h2></h2>
 <br><br>
 
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
@@ -110,7 +113,8 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🧑‍💼 HR Attrition](#%E2%80%8D-hr-attrition)  
 - [🛒 Sales Performance](#-sales-performance)  
 - [🪄 Harry Potter](#-harry-potter)
-  
+
+<h2></h2>  
 &nbsp;  
 &nbsp;
 
@@ -121,6 +125,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🗄 Lewis Database](#-lewis-database--sql-questions--answers)
 - [🪑 Alibert Furnitures](#-alibert-furnitures)
 
+<h2></h2>
 <br><br>
 
 ![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft-fabric)
@@ -129,6 +134,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🧱 PrimeMart](#-primemart)  
 - [🚕 NYC Yellow Taxi](#-nyc-yellow-taxi)  
 
+<h2></h2>
 &nbsp;  
 &nbsp;
 
@@ -348,6 +354,7 @@ Enhanced visibility into customer behavior, improved monitoring of betting activ
 
 
 ---
+<br><br>
 
 # 🔷 Power BI Projects  
 **Quick Links:**  
@@ -1102,7 +1109,7 @@ The dashboard provides a comprehensive view of:
 
 
 ---
-
+<br><br>
 
 # 📝 Draw.io (ERD / Data Modeling)   
 *Entity Relationship Diagram (ERD) — Healthcare data modelling with Draw.io*  
@@ -1176,6 +1183,7 @@ Enabled the hospital to **build a robust analytics layer** for Power BI and Tabl
 
 
 ---
+<br><br>
 
 # 📊 Tableau Projects  
 **Quick Links:**  
@@ -1635,7 +1643,7 @@ Delivered a creative, storytelling Tableau dashboard that combines **data visual
 
 
 ---
-
+<br><br>
 
 # 🗄 SQL / Database Projects  
 **Quick Links:**  
@@ -2172,6 +2180,7 @@ FROM MonthRevenue;
 
 
 ---
+<br><br>
 
 # 🧱 Microsoft Fabric Projects  
 **Quick Links:**  
@@ -2586,6 +2595,7 @@ where fare_amount < 0 or total_amount < 0;
 
 
 ---
+<br><br>
 
 # 🤖 ChatGPT + Tableau Projects  
 **Quick Links:**  
