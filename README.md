@@ -193,7 +193,7 @@ Empowered café management with a clear view of sales drivers, customer preferen
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-12 231933](https://github.com/user-attachments/assets/3554342c-a1ac-4745-8091-230dd7c2cca5)
 
-<hr style="border:0;border-top:1px solid #eaecef;transform:scaleY(.5);transform-origin:0 0;margin:20px 0;">
+<div style="height:1px;background:linear-gradient(90deg,rgba(0,0,0,0),#e5e7eb,rgba(0,0,0,0));margin:20px 0;"></div>
 
 ### 2. 📊 10Alytics Sales  
 *Sales Performance Dashboard — Advanced Excel dashboards & KPIs*
