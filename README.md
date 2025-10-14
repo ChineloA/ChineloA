@@ -75,7 +75,6 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [📈 Sales & Profitability](#-sales--profitability)  
 - [🎰 Betting Insights](#-betting-insights)  
 
-<h2></h2>
 &nbsp;  
 &nbsp;
 
