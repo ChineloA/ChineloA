@@ -73,7 +73,8 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🎰 Betting Insights](#-betting-insights)  
 
 <h2></h2>
-<br><br>
+&nbsp;  
+&nbsp;
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 
@@ -126,7 +127,8 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🪑 Alibert Furnitures](#-alibert-furnitures)
 
 <h2></h2>
-<br><br>
+&nbsp;  
+&nbsp;
 
 ![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft-fabric)
 
