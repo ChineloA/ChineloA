@@ -118,7 +118,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🧑‍💼 HR Attrition](#4-%E2%80%8D-hr-attrition)  
 - [🛒 Sales Performance](#5--sales-performance)
 - [🛍 Just Store ](#6--just-store)  
-- [🪄 Harry Potter](#6--harry-potter)
+- [🪄 Harry Potter](#7--harry-potter)
 
 <h2></h2>  
 &nbsp;  
