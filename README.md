@@ -193,10 +193,7 @@ Empowered café management with a clear view of sales drivers, customer preferen
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-12 231933](https://github.com/user-attachments/assets/3554342c-a1ac-4745-8091-230dd7c2cca5)
 
-<img
-  alt=""
-  style="display:block;width:100%;height:1px;margin:20px 0;"
-  src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='800' height='1'><rect width='100%' height='1' fill='%23eaecef'/></svg>" />
+<h2></h2>
 
 ### 2. 📊 10Alytics Sales  
 *Sales Performance Dashboard — Advanced Excel dashboards & KPIs*
@@ -246,9 +243,7 @@ Improved business transparency and profitability awareness through structured sa
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-06 172930](https://github.com/user-attachments/assets/1185c351-07b0-4a8b-b0ac-8f4001fc70fc)
 
-&nbsp;  
-&nbsp;
-<hr style="border: 0; height: 0.5px; background: #eee; margin: 18px 0;">
+<br>
 
 ### 3. 📈 Sales & Profitability  
 *Excel-based analysis of product-level sales and profitability trends*
@@ -297,9 +292,7 @@ Delivered an insightful dashboard that helped management track profitability, id
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-06 173052](https://github.com/user-attachments/assets/1551cc34-a964-4682-b8ce-e317117956ce)
 
-&nbsp;  
-&nbsp;
-<hr style="border: none; border-top: 0.3px solid #f5f5f5; margin: 8px 0;">
+<br>
 
 ### 4. 🎰 Betting Insights  
 *Betting Insights Dashboard — Revenue, margin, and transaction analysis*  
