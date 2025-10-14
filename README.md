@@ -243,7 +243,7 @@ Improved business transparency and profitability awareness through structured sa
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-06 172930](https://github.com/user-attachments/assets/1185c351-07b0-4a8b-b0ac-8f4001fc70fc)
 
-## &nbsp;
+<h2></h2>
 
 ### 3. 📈 Sales & Profitability  
 *Excel-based analysis of product-level sales and profitability trends*
@@ -292,7 +292,7 @@ Delivered an insightful dashboard that helped management track profitability, id
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-06 173052](https://github.com/user-attachments/assets/1551cc34-a964-4682-b8ce-e317117956ce)
 
-<br>
+<h2></h2>
 
 ### 4. 🎰 Betting Insights  
 *Betting Insights Dashboard — Revenue, margin, and transaction analysis*  
@@ -353,10 +353,9 @@ Enhanced visibility into customer behavior, improved monitoring of betting activ
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏭ Jump to Excel Projects](#-excel-projects)  
 
----
+<br>
 
-
-### 🚗Fleet Operations  
+### 1.  🚗Fleet Operations  
 *Fleet Operations Dashboard — Optimising performance and delivery tracking with Power BI*
 [Back to TOC](#-main-table-of-contents) • [Next →](#-tri-fleet-industries)
 
@@ -409,14 +408,9 @@ The dashboard empowered fleet managers to **reduce downtime, control costs**, an
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-25 161711](https://github.com/user-attachments/assets/ee57c7a6-8e41-450e-bcf8-4c738916fb3f)
 
+<h2></h2>
 
-
-
-
-
----
-
-# 🚘 Tri-Fleet Industries 
+### 2.  🚘 Tri-Fleet Industries 
 *Tri-Fleet Industries Analytics Dashboard*
 [← Previous](#fleet-operations) • [Back to TOC](#-main-table-of-contents) • [Next →](#-puresip-retail-store)
 
@@ -467,14 +461,9 @@ Enabled Tri-Fleet’s management team to **analyze global sales performance**, u
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-19 233508](https://github.com/user-attachments/assets/d851f5ae-ee1d-4f90-9d6c-b1b2356283cf)
 
+<h2></h2>
 
-
-
-
-
----
-
-### 🏪 PureSip Retail Store  
+### 3. 🏪 PureSip Retail Store  
 *Retail Store Performance Dashboard — Analysing sales, revenue, and customer trends*  
 [← Previous](#-tri-fleet-industries) • [Back to TOC](#-main-table-of-contents) • [Next →](#-dreamy-bites)
 
@@ -529,13 +518,9 @@ Delivered a dynamic sales intelligence solution that helped stakeholders **track
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-18 205721](https://github.com/user-attachments/assets/14fc100f-1ed3-4f71-9d5a-76ad6c86d484)
 
+<h2></h2>
 
-
-
-
----
-
-### 🍪 Dreamy Bites  
+### 4. 🍪 Dreamy Bites  
 *Dreamy Bites Profit Analysis — Product-level profitability insights using Power BI*
 [← Previous](#-puresip-retail-store) • [Back to TOC](#-main-table-of-contents) • [Next →](#-novamed)
 
@@ -591,13 +576,9 @@ Enabled Dreamy Bites’ management to **track sales and profit performance**, un
 📸 ![Screenshot 2025-05-20 222339](https://github.com/user-attachments/assets/55d6de90-0ab4-4503-a3ae-e6368fc8bb49)
 📸 ![Screenshot 2025-05-20 222410](https://github.com/user-attachments/assets/e163c20a-75a7-48d4-af10-e60add20b877)
 
+<h2></h2>
 
-
-
-
----
-
-### 👥 Novamed  
+### 5. 👥 Novamed  
 *Novamed Solutions — Top/Bottom Analysis & Revenue Trends*  
 [← Previous](#-dreamy-bites) • [Back to TOC](#-main-table-of-contents) • [Next →](#deskify)
 
@@ -655,13 +636,9 @@ Empowered NovaMed’s management to make **data-driven marketing and inventory d
 📸 ![Screenshot 2025-06-06 220650](https://github.com/user-attachments/assets/58b977ae-1139-40b7-bfb4-a646fa192f24)
 📸 ![Screenshot 2025-06-06 211951](https://github.com/user-attachments/assets/81d5e87d-1d10-43b5-af5a-fade6e44b155)
 
+<h2></h2>
 
-
-
-
----
-
-### 📉Deskify  
+### 6. 📉Deskify  
 *Deskify Office Supplies Report — Sales performance and category analysis*  
 [← Previous](#-novamed) • [Back to TOC](#-main-table-of-contents) • [Next →](#-aurora-threads)
 
@@ -715,13 +692,9 @@ Provided management with a centralized analytics tool to **evaluate profitabilit
 📸 ![Screenshot 2025-05-18 220415](https://github.com/user-attachments/assets/1ec5c740-a175-4806-8640-28c1b91b62ad)
 📸 ![Screenshot 2025-05-24 162959](https://github.com/user-attachments/assets/0c99f463-e311-4a08-bd81-f705fb9def26)
 
+<h2></h2>
 
-
-
-
----
-
-### 🧵 Aurora Threads  
+### 7. 🧵 Aurora Threads  
 *Aurora Threads Sales Dashboard — E-commerce profitability and customer insights*  
 [← Previous](#deskify) • [Back to TOC](#-main-table-of-contents) • [Next →](#-life-expectancy)
 
@@ -772,13 +745,9 @@ Enabled boutique owners to **understand customer preferences**, manage product p
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-12 233017](https://github.com/user-attachments/assets/731f5181-f6a3-4215-9b53-b4c9a09be62c)
 
+<h2></h2>
 
-
-
-
----
-
-### 🌍 Life Expectancy  
+### 8. 🌍 Life Expectancy  
 *Life Expectancy at Birth — Demographic data exploration with Power BI*  
 [← Previous](#-aurora-threads) • [Back to TOC](#-main-table-of-contents) • [Next →](#-mental-health)
 
@@ -831,13 +800,9 @@ Provided a powerful visualization tool for policymakers and researchers to **eva
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-09 160956](https://github.com/user-attachments/assets/937feaaf-6aef-45ad-9cda-b2a95592db5f)
 
+<h2></h2>
 
-
-
-
----
-
-### 🧠 Mental Health  
+### 9. 🧠 Mental Health  
 *Clarity Care Suicide Analytics Dashboard — Patterns and correlations in survey data* 
 [← Previous](#-life-expectancy) • [Back to TOC](#-main-table-of-contents) • [Next →](#%E2%80%8D-hr-employee-attrition)
 
@@ -890,13 +855,9 @@ The analysis offered mental health organizations and policymakers data-backed in
 📸 ![Screenshot 2025-05-18 195537](https://github.com/user-attachments/assets/f1edd98c-c542-45d5-930d-b71645b81e89)
 	<img width="1483" height="798" alt="Screenshot 2025-10-11 212745" src="https://github.com/user-attachments/assets/4324a4eb-aa33-48d8-a03f-c633918515da" />
 
+<h2></h2>
 
-
-
-
---- 
-
-### 👩‍💼 HR Employee Attrition  
+### 10. 👩‍💼 HR Employee Attrition  
 *Analyzing employee turnover drivers and retention strategies with HR analytics*
 [← Previous](#-mental-health) • [Back to TOC](#-main-table-of-contents) • [Next →](#-global-insight)
 
@@ -953,13 +914,9 @@ This analysis empowered HR teams to **pinpoint high-risk employee segments**, de
 📸 ![Screenshot 2025-05-06 175105](https://github.com/user-attachments/assets/1932b5d3-f04d-45fd-9dc7-81b7831e7f9e)
 📸 ![Screenshot 2025-05-06 175143](https://github.com/user-attachments/assets/5c1ea3dd-70a0-4841-ad14-38521337247a)
 
+<h2></h2>
 
-
-
-
----
-
-### 🌍 Global Insight  
+### 11. 🌍 Global Insight  
 *Global Insight Analytics — Population trends and growth projections* 
 [← Previous](#%E2%80%8D-hr-employee-attrition) • [Back to TOC](#-main-table-of-contents) • [Next →](#%EF%B8%8F-retail-edge)
 
@@ -1010,13 +967,9 @@ This dashboard provides a clear, data-driven view of **global demographic dynami
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-16 232450](https://github.com/user-attachments/assets/02aa7e6b-242c-4c5f-b0f6-70b9905279c7)
 
+<h2></h2>
 
-
-
-
----
-
-### 🛍️ Retail Edge  
+### 12. 🛍️ Retail Edge  
 *Retail Edge Solutions Analysis — Channel performance and revenue insights* 
 [← Previous](#-global-insight) • [Back to TOC](#-main-table-of-contents) • [Next →](#-ironcore-fitness)
 
@@ -1076,12 +1029,9 @@ Equipped business leaders with a powerful tool to **evaluate regional performanc
    ![Screenshot 2025-05-31 224002](https://github.com/user-attachments/assets/a29e2627-cb39-462f-8df7-652eabcab497)
    ![Screenshot 2025-05-31 223927](https://github.com/user-attachments/assets/e5581012-9280-43aa-9737-9826138a5c54)
 
+<h2></h2>
 
-
-
----
-
-### 💪 IronCore Fitness
+### 13. 💪 IronCore Fitness
 *Comprehensive Fitness Performance Dashboard*
 [← Previous](#%EF%B8%8F-retail-edge) • [Back to TOC](#-main-table-of-contents) 
 
@@ -1159,9 +1109,9 @@ The dashboard provides a comprehensive view of:
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Excel Projects](#-excel-projects) • [⏭ Jump to Tableau Projects](#-tableau-projects) 
 
----
+<br>
 
-### 🏥 Riverside General Hospital  
+### 1. 🏥 Riverside General Hospital  
 *Entity Relationship Diagram (ERD) — Healthcare data modeling with Draw.io* 
 [Back to TOC](#-main-table-of-contents) 
 
@@ -1231,10 +1181,9 @@ Enabled the hospital to **build a robust analytics layer** for Power BI and Tabl
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Drawio Projects](#-drawio-erd--data-modeling) • [⏭ Jump to SQL Projects](#-sql--database-projects)  
 
+<br>
 
----
-
-### 🍫 Choco De Luxe  
+### 1. 🍫 Choco De Luxe  
 *Unlocking Sales Insights Through Data Visualization for a European Artisanal Chocolate Brand*
 [Back to TOC](#-main-table-of-contents) • [Next →](#fusionpoint)
 
@@ -1297,14 +1246,9 @@ A Tableau dashboard analyzing **sales, profit, and delivery performance** for a 
 📸<img width="1602" height="859" alt="Screenshot 2025-08-31 121647" src="https://github.com/user-attachments/assets/1cd39d69-dec7-4a7b-b93b-37ce437a765c" />
   <img width="1593" height="857" alt="Screenshot 2025-08-31 121806" src="https://github.com/user-attachments/assets/016d0d1d-9cfb-44f4-b1ad-4e7b6e13cf54" />
 
+<h2></h2>
 
-
-
-
-
----
-
-### 🔌FusionPoint  
+### 2. 🔌FusionPoint  
 *Consumer Electronics Sales Trends & Profitability Analysis — Tableau with ChatGPT assistance* 
 [← Previous](#-choco-de-luxe) • [Back to TOC](#-main-table-of-contents) • [Next →](#-elevate-corp)
 
@@ -1380,15 +1324,9 @@ Provided actionable insights for **inventory optimization, pricing strategy**, a
    <img width="1586" height="846" alt="Screenshot 2025-10-03 180005" src="https://github.com/user-attachments/assets/840c434a-736a-4b4b-9533-760e89e51828" />
    <img width="1584" height="848" alt="Screenshot 2025-10-03 180023" src="https://github.com/user-attachments/assets/993b403e-8538-4365-b347-ec1b736a43cb" />
 
+<h2></h2>
 
-
-
-
-
----
-
-
-### 🏢 Elevate Corp  
+### 3. 🏢 Elevate Corp  
 *Employee Compensation & Performance Analytics*
 [← Previous](#fusionpoint) • [Back to TOC](#-main-table-of-contents) • [Next →](#%E2%80%8D-hr-attrition)
 
@@ -1444,13 +1382,9 @@ It provides leadership with a comprehensive view of **salary trends, benefits di
 **Dashboard Preview**
 📸<img width="1601" height="863" alt="Screenshot 2025-10-11 155536" src="https://github.com/user-attachments/assets/b3403321-08b1-4ee7-9d23-98c38a729dd4" />
 
+<h2></h2>
 
-
-
-
----
-
-### 🧑‍💼 HR Attrition
+### 4. 🧑‍💼 HR Attrition
 *Workforce Insights & Retention Analytics*
 [← Previous](#-elevate-corp) • [Back to TOC](#-main-table-of-contents) • [Next →](#-sales-performance)
 
@@ -1506,14 +1440,9 @@ This Tableau project provides a detailed analysis of **employee attrition and re
 **Dashboard Preview**  
 📸<img width="1571" height="876" alt="Screenshot 2025-10-11 155600" src="https://github.com/user-attachments/assets/1dc7a24a-9efd-4ff3-be9a-70b26f21b5c7" />
 
+<h2></h2>
 
-
-
-
-
----
-
-### 🛒 Sales Performance
+### 5. 🛒 Sales Performance
 *Regional & Category Performance*
 [← Previous](#%E2%80%8D-hr-attrition) • [Back to TOC](#-main-table-of-contents) • [Next →](#-just-store)
 
@@ -1569,14 +1498,9 @@ The dashboard enabled management to identify **regional strengths, low-margin pr
 <img width="1593" height="855" alt="Screenshot 2025-10-11 155344" src="https://github.com/user-attachments/assets/2c48f3a5-6807-488e-9066-9442577494fb" />
 <img width="1599" height="861" alt="Screenshot 2025-10-11 155400" src="https://github.com/user-attachments/assets/cd5a65d3-8568-4d48-92bb-55282f552f53" />
 
+<h2></h2>
 
-
-
-
-
----
-
-### 🛍 Just Store   
+### 6. 🛍 Just Store   
 *Retail Store Dashboard — Executive Sales Overview*
 [← Previous](#-sales-performance) • [Back to TOC](#-main-table-of-contents) • [Next →](#-harry-potter)
 
@@ -1632,16 +1556,9 @@ It helps retail managers quickly track performance by region, category, and time
 <img width="1592" height="855" alt="Screenshot 2025-10-11 154925" src="https://github.com/user-attachments/assets/56466629-4a6e-41cd-8aa5-9edb17f45341" />
 <img width="1597" height="855" alt="Screenshot 2025-10-11 155027" src="https://github.com/user-attachments/assets/14897827-3ca7-4f4d-bd79-ee2fd99c9f99" />
 
+<h2></h2>
 
-
-
-
-
-
----
-
-
-## 🪄 Harry Potter
+## 7. 🪄 Harry Potter
 *What is the Diversity of Harry Potter Characters?*
 [← Previous](#-just-store) • [Back to TOC](#-main-table-of-contents) 
 
@@ -1724,9 +1641,9 @@ Delivered a creative, storytelling Tableau dashboard that combines **data visual
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Tableau Projects](#-tableau-projects) • [⏭ Jump to Fabric Projects](#-microsoft-fabric-projects)
 
----
+<br>
 
-### 🌍 NextGen  
+### 1. 🌍 NextGen  
 *NextGen Corp Employee Success Analytics — PostgreSQL-based HR analysis* 
 [Back to TOC](#-main-table-of-contents) • [Next →](#-lewis-database--sql-questions--answers)
 
@@ -1930,15 +1847,9 @@ ORDER BY avg_performance_score DESC;
 
 📸 <img width="667" height="214" alt="Screenshot 2025-07-29 021806" src="https://github.com/user-attachments/assets/b1ceb71a-c4de-492d-b6d2-686b7ce0c8f3" />
 
+<h2></h2>
 
-
-
-
-
----
-
-
-### 🗄 Lewis Database — SQL Questions & Answers
+### 2. 🗄 Lewis Database — SQL Questions & Answers
 [← Previous](#-nextgen) • [Back to TOC](#-main-table-of-contents) • [Next →](#-alibert-furnitures)
 
 ![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql)
@@ -2066,14 +1977,9 @@ where "ProductID" not in (
 ```
 <img width="310" height="97" alt="Screenshot 2025-10-11 181023" src="https://github.com/user-attachments/assets/38a8bd1c-13b8-4282-ac99-0a1c62f02342" />
 
+<h2></h2>
 
-
-
-
-
----
-
-### 🪑 Alibert Furnitures
+### 3. 🪑 Alibert Furnitures
 [← Previous](#-lewis-database--sql-questions--answers) • [Back to TOC](#-main-table-of-contents) 
 
 ![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql)
@@ -2271,9 +2177,9 @@ FROM MonthRevenue;
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to SQL Projects](#-sql--database-projects) • [⏭ Jump to ChatGPT Projects](#-chatgpt--tableau-projects)
 
----
+<br>
 
-### 🧱 PrimeMart  
+### 1. 🧱 PrimeMart  
 *PrimeMart Retail — Sales & Customer Analytics in Microsoft Fabric (OneLake, SQL, Power BI)* 
 [Back to TOC](#-main-table-of-contents) • [Next →](#-nyc-yellow-taxi)  
 **Company / Context:** PrimeMart Retail Ltd. (Omnichannel Retail)
@@ -2492,14 +2398,9 @@ ORDER BY
 📊 **Dashboard Preview**  
 📸<img width="1437" height="779" alt="Screenshot 2025-09-28 131014" src="https://github.com/user-attachments/assets/684d5165-2e33-4cdc-8c6b-91181e0d4c64" />
 
+<h2></h2>
 
-
-
-
-
----
-
-### 🚕 NYC Yellow Taxi  
+### 2. 🚕 NYC Yellow Taxi  
 *Optimizing Urban Mobility — NYC Yellow Taxi Analytics Dashboard using Fabric*
 [← Previous](#-primemart) • [Back to TOC](#-main-table-of-contents)
 **Company / Context:** Public Data Case Study (NYC Yellow Taxi Dataset)  
@@ -2690,9 +2591,9 @@ where fare_amount < 0 or total_amount < 0;
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Fabric Projects](#-microsoft-fabric-projects)  
 
----
+<br>
 
-### 🔌 FusionPoint (ChatGPT)  
+### 1. 🔌 FusionPoint (ChatGPT)  
 *FusionPoint Industries — AI-assisted Tableau dashboards for sales trends & profitability*  
 [Back to TOC](#-main-table-of-contents)  
 **Company / Context:** FusionPoint Industries (Consumer Electronics) 
