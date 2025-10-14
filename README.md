@@ -9,6 +9,7 @@
 ![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff)
 
 ---
+<br><br>
 
 ## 1. 👩‍💻 About Me | Data Analyst & Insight Catalyst  
 
@@ -20,6 +21,7 @@ Beyond technical analysis, I see myself as an **insight catalyst** — someone w
 
 
 ---
+<br><br>
 
 ## 2. 🛠 Tools & Technologies  
 
@@ -36,6 +38,7 @@ Beyond technical analysis, I see myself as an **insight catalyst** — someone w
 
 
 ---
+<br><br>
 
 ## 3. 📂 About this Portfolio
 
@@ -51,6 +54,7 @@ Beyond technical analysis, I see myself as an **insight catalyst** — someone w
 
 
 ---
+<br><br>
 
 # 📊 Data Analytics Portfolio — Navigation  
 
@@ -59,6 +63,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 
 ---
+<br><br>
 
 # 📑 Main Table of Contents  
 
@@ -147,6 +152,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 
 ---
+<br><br>
 
 # 📑 Excel Projects  
 **Quick Links:**  
