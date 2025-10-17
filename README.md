@@ -9,7 +9,7 @@
 ![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff)
 
 ---
-<br><br>
+<br>
 
 ## 1. 👩‍💻 About Me | Data Analyst & Insight Catalyst  
 
@@ -38,7 +38,7 @@ Beyond technical analysis, I see myself as an **insight catalyst** — someone w
 
 
 ---
-<br><br>
+<br>
 
 ### 3. 🧠 Skills Summary  
 
@@ -49,7 +49,7 @@ Beyond technical analysis, I see myself as an **insight catalyst** — someone w
 - **Professional Strengths:** Reliable, detail-oriented, and proactive — with strong problem-solving, communication, and teamwork abilities.  
 
 ---
-<br><br>
+<br>
 
 ### 4. ✨ Personal Summary  
 
@@ -59,7 +59,7 @@ Collaboration is a big part of how I work — using tools like **Microsoft Fabri
 
 
 ---
-<br><br>
+<br>
 
 ## 5. 📂 About this Portfolio
 
@@ -77,7 +77,7 @@ This portfolio highlights a range of analytics projects that showcase my skills 
 
 
 ---
-<br><br>
+<br>
 
 # 📊 Data Analytics Portfolio — Navigation  
 
@@ -86,7 +86,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 
 ---
-<br><br>
+<br>
 
 # 📑 Main Table of Contents  
 
