@@ -2,6 +2,9 @@
 
 <p align="center">💫 <b>Transforming data into stories that inspire smarter decisions.</b></p>
 
+<p align="center">💫 <b><i>Transforming data into stories that inspire smarter decisions.</i></b></p>
+
+
 ---
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi&logoColor=000000)
