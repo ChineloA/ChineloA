@@ -377,6 +377,14 @@ Enhanced visibility into customer behavior, improved monitoring of betting activ
 📸 ![Screenshot 2025-05-06 173146](https://github.com/user-attachments/assets/ba9d986f-06e1-4122-a5be-e1afd031e42e)
 
 
+---
+
+These projects highlight how I use **Excel** for **data analysis, visualisation, and performance tracking**, transforming raw spreadsheets into meaningful business insights.
+
+---
+
+🔙 **[Back to Portfolio Home](../../README.md)** | 🔗 **[Next: Power BI Projects →](../Power-BI/README.md)**  
+💫 *Transforming data into stories that inspire smarter decisions.*
 
 
 
@@ -1130,6 +1138,14 @@ The dashboard provides a comprehensive view of:
 <img width="1423" height="798" alt="Screenshot 2025-10-11 171856" src="https://github.com/user-attachments/assets/2aeed7cb-a4d0-45a4-87a4-ff398804965f" />
 
 
+---
+
+These projects demonstrate my approach to **data storytelling and insight generation**, using **Power BI** to transform raw operational data into clear, actionable insights through interactive dashboards.
+
+---
+
+🔙 **[Back to Portfolio Home](../../README.md)** | 🔗 **[Next: ERD / Data Modeling Projects →](../Draw.io/README.md)**  
+💫 *Transforming data into stories that inspire smarter decisions.*
 
 
 
@@ -1204,6 +1220,14 @@ Enabled the hospital to **build a robust analytics layer** for Power BI and Tabl
 
 
 
+---
+
+These projects showcase my approach to **data architecture and relational modeling**, using **Draw.io** to visualise database structures that support clear, efficient analytics design.
+
+---
+
+🔙 **[Back to Portfolio Home](../../README.md)** | 🔗 **[Next: Tableau Projects →](../Tableau/README.md)**  
+💫 *Transforming data into stories that inspire smarter decisions.*
 
 
 
@@ -1664,6 +1688,14 @@ Delivered a creative, storytelling Tableau dashboard that combines **data visual
 
 
 
+---
+
+These projects showcase my ability to **turn complex datasets into visual stories** using **Tableau**, enabling stakeholders to explore trends and uncover insights effortlessly.
+
+---
+
+🔙 **[Back to Portfolio Home](../../README.md)** | 🔗 **[Next: SQL / Database Projects →](../SQL/README.md)**  
+💫 *Transforming data into stories that inspire smarter decisions.*
 
 
 
@@ -2201,6 +2233,14 @@ FROM MonthRevenue;
 <img width="290" height="105" alt="Screenshot 2025-10-11 184156" src="https://github.com/user-attachments/assets/ce3f86eb-793b-42c7-9cd3-2ffaff0a4cdb" />
 
 
+---
+
+These projects demonstrate how I use **SQL** and database design principles to **extract, model, and analyse data**, creating a solid foundation for performance insights and reporting.
+
+---
+
+🔙 **[Back to Portfolio Home](../../README.md)** | 🔗 **[Next: Microsoft Fabric Projects →](../Microsoft-Fabric/README.md)**  
+💫 *Transforming data into stories that inspire smarter decisions.*
 
 
 
@@ -2615,6 +2655,14 @@ where fare_amount < 0 or total_amount < 0;
    - Delivered actionable insights faster, strengthening FusionPoint’s market edge.
   
 
+---
+
+These projects explore how I apply **Microsoft Fabric** to build **modern data pipelines and unified analytics environments**, supporting data integration, modeling, and insight delivery.
+
+---
+
+🔙 **[Back to Portfolio Home](../../README.md)** | ✨ **[Explore More Projects](../../README.md#3--about-this-portfolio)**  
+💫 *Transforming data into stories that inspire smarter decisions.*
 
 
 
@@ -2699,6 +2747,14 @@ Combine **AI-powered insights** with **visual analytics** to let business users 
    <img width="1584" height="848" alt="Screenshot 2025-10-03 180023" src="https://github.com/user-attachments/assets/993b403e-8538-4365-b347-ec1b736a43cb" />
 
 
+---
+
+These projects illustrate how I use **AI tools like ChatGPT** to **enhance analytical workflows**, automate documentation, and support creative insight generation in data analysis.
+
+---
+
+🔙 **[Back to Portfolio Home](../../README.md)** | ✨ **[Explore More Projects](../../README.md#3--about-this-portfolio)**  
+💫 *Transforming data into stories that inspire smarter decisions.*
 
 
 
