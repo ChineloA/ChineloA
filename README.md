@@ -1,11 +1,6 @@
 # 📊 Data Analytics Portfolio – Chinelo Agumagu
 
-<p align="center">💫 <b>Transforming data into stories that inspire smarter decisions.</b></p>
-
 <p align="center">💫 <b><i>Transforming data into stories that inspire smarter decisions.</i></b></p>
-
-<p align="center">💫 <b>Transforming data into stories that inspire smarter decisions.</b></p>
-
 
 
 ---
