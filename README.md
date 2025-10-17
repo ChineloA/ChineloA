@@ -383,8 +383,9 @@ These projects highlight how I use **Excel** for **data analysis, visualisation,
 
 ---
 
-🔙 **[Back to Portfolio Home](../../README.md)** | 🔗 **[Next: Power BI Projects →](../Power-BI/README.md)**  
+🔙 **[Back to Portfolio Home](../README.md)** | 🔗 **[Next: Power BI Projects →](../Power-BI/README.md)**  
 💫 *Transforming data into stories that inspire smarter decisions.*
+
 
 
 
