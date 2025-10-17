@@ -1,5 +1,11 @@
 # 📊 Data Analytics Portfolio – Chinelo Agumagu
 
+<p align="center">💫 <b>Transforming data into stories that inspire smarter decisions.</b></p>
+
+
+---
+<br>
+
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi&logoColor=000000)
 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoftexcel&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql&logoColor=ffffff)
