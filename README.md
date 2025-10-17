@@ -85,10 +85,12 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 ---
 <br>
 
+<a id="toc"></a>
 # 📑 Main Table of Contents  
 
 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel)
 
+<a id="excel-projects"></a>
 ### 📑 Excel Projects  
 - [☕ Café Harmony](#1--café-harmony)  
 - [📊 10Alytics Sales](#2--10alytics-sales)  
@@ -101,6 +103,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 
+<a id="power-bi-projects"></a>
 ### 🔷 Power BI Projects  
 - [🚗 Fleet Operations](#1--fleet-operations)
 - [🚘 Tri-Fleet Industries](#2---tri-fleet-industries) 
@@ -122,6 +125,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 ![ERD Modeling](https://img.shields.io/badge/Tool-ERD%20Modeling-FF6F00?style=plastic&logo=diagramsdotnet&logoColor=ffffff)
 
+<a id="drawio-projects"></a>
 ### 📝 Draw.io Projects  
 - [🏥 Riverside General Hospital](#1--riverside-general-hospital)  
 
@@ -131,6 +135,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
 
+<a id="tableau-projects"></a>
 ### 📊 Tableau Projects  
 - [🍫 Choco De Luxe](#1--choco-de-luxe)  
 - [🔌 FusionPoint](#2-fusionpoint)
@@ -146,6 +151,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 ![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql&logoColor=ffffff)
 
+<a id="sql-projects"></a>
 ### 🗄 SQL Projects  
 - [🌍 NextGen](#1--nextgen)
 - [🗄 Lewis Database](#2--lewis-database--sql-questions--answers)
@@ -157,6 +163,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 ![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft-fabric)
 
+<a id="fabric-projects"></a>
 ### 🧱 Fabric Projects  
 - [🧱 PrimeMart](#1--primemart)  
 - [🚕 NYC Yellow Taxi](#2--nyc-yellow-taxi)  
@@ -167,6 +174,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 ![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff)
 
+<a id="chatgpt-projects"></a>
 ### 🤖 ChatGPT + Tableau Projects  
 - [🔌 FusionPoint (ChatGPT)](#1--fusionpoint-chatgpt)  
 
@@ -383,7 +391,7 @@ These projects highlight how I use **Excel** for **data analysis, visualisation,
 
 ---
 
-🔙 **[Back to Portfolio Home](../README.md)** | 🔗 **[Next: Power BI Projects →](../Power-BI/README.md)**  
+🔙 **[Back to Portfolio Home](#toc)** | 🔗 **[Next: Power BI Projects →](#power-bi-projects)**  
 💫 *Transforming data into stories that inspire smarter decisions.*
 
 
@@ -1145,7 +1153,7 @@ These projects demonstrate my approach to **data storytelling and insight genera
 
 ---
 
-🔙 **[Back to Portfolio Home](../../README.md)** | 🔗 **[Next: ERD / Data Modeling Projects →](../Draw.io/README.md)**  
+🔙 **[Back to Portfolio Home](#toc)** | 🔗 **[Next: ERD / Data Modeling Projects →](#drawio-projects)**  
 💫 *Transforming data into stories that inspire smarter decisions.*
 
 
@@ -1227,7 +1235,7 @@ These projects showcase my approach to **data architecture and relational modeli
 
 ---
 
-🔙 **[Back to Portfolio Home](../../README.md)** | 🔗 **[Next: Tableau Projects →](../Tableau/README.md)**  
+🔙 **[Back to Portfolio Home](#toc)** | 🔗 **[Next: Tableau Projects →](#tableau-projects)**  
 💫 *Transforming data into stories that inspire smarter decisions.*
 
 
@@ -1695,7 +1703,7 @@ These projects showcase my ability to **turn complex datasets into visual storie
 
 ---
 
-🔙 **[Back to Portfolio Home](../../README.md)** | 🔗 **[Next: SQL / Database Projects →](../SQL/README.md)**  
+🔙 **[Back to Portfolio Home](#toc)** | 🔗 **[Next: SQL / Database Projects →](#sql-projects)**  
 💫 *Transforming data into stories that inspire smarter decisions.*
 
 
@@ -2240,7 +2248,7 @@ These projects demonstrate how I use **SQL** and database design principles to *
 
 ---
 
-🔙 **[Back to Portfolio Home](../../README.md)** | 🔗 **[Next: Microsoft Fabric Projects →](../Microsoft-Fabric/README.md)**  
+🔙 **[Back to Portfolio Home](#toc)** | 🔗 **[Next: Microsoft Fabric Projects →](#fabric-projects)**  
 💫 *Transforming data into stories that inspire smarter decisions.*
 
 
@@ -2662,7 +2670,7 @@ These projects explore how I apply **Microsoft Fabric** to build **modern data p
 
 ---
 
-🔙 **[Back to Portfolio Home](../../README.md)** | ✨ **[Explore More Projects](../../README.md#3--about-this-portfolio)**  
+🔙 **[Back to Portfolio Home](#toc)** | ✨ **[Explore More Projects](#chatgpt-projects)**  
 💫 *Transforming data into stories that inspire smarter decisions.*
 
 
@@ -2754,7 +2762,7 @@ These projects illustrate how I use **AI tools like ChatGPT** to **enhance analy
 
 ---
 
-🔙 **[Back to Portfolio Home](../../README.md)** | ✨ **[Explore More Projects](../../README.md#3--about-this-portfolio)**  
+🔙 **[Back to Portfolio Home](#toc)** | 🔁 **[Next: Excel Projects →](#excel-projects)** | ✨ **[Explore More Projects](#toc)**   
 💫 *Transforming data into stories that inspire smarter decisions.*
 
 
