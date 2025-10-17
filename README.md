@@ -2670,7 +2670,7 @@ These projects explore how I apply **Microsoft Fabric** to build **modern data p
 
 ---
 
-🔙 **[Back to Portfolio Home](#toc)** | ✨ **[Explore More Projects](#chatgpt-projects)**  
+🔙 **[Back to Portfolio Home](#toc)** | 🔗 **[Next: ChatGPT / AI Projects →](#chatgpt-projects)**   
 💫 *Transforming data into stories that inspire smarter decisions.*
 
 
