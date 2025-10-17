@@ -61,7 +61,7 @@ Collaboration is a big part of how I work — using tools like **Microsoft Fabri
 ---
 <br><br>
 
-## 3. 📂 About this Portfolio
+## 5. 📂 About this Portfolio
 
 This portfolio highlights a range of analytics projects that showcase my skills across data visualisation, modeling, and business intelligence.
 
