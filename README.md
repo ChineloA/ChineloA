@@ -21,7 +21,7 @@ Beyond technical analysis, I see myself as an **insight catalyst** — someone w
 
 
 ---
-<br><br>
+<br>
 
 ## 2. 🛠 Tools & Technologies  
 
