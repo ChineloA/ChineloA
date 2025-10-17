@@ -4,16 +4,6 @@
 
 
 ---
-
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi&logoColor=000000)
-![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoftexcel&logoColor=ffffff)
-![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql&logoColor=ffffff)
-![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau&logoColor=ffffff)
-![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft&logoColor=ffffff)
-![ERD Modeling](https://img.shields.io/badge/Tool-ERD%20Modeling-FF6F00?style=plastic&logo=diagramsdotnet&logoColor=ffffff)
-![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff)
-
----
 <br>
 
 ## 1. 👩‍💻 About Me | Data Analyst & Insight Catalyst  
@@ -29,6 +19,8 @@ Beyond technical analysis, I see myself as an **insight catalyst** — someone w
 <br>
 
 ## 2. 🛠 Tools & Technologies  
+
+Here are the tools and technologies I use to explore, model, and visualise data effectively:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
@@ -183,7 +175,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 ---
 <br><br>
 
-# 📑 Excel Projects  
+# 📑 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoftexcel&logoColor=ffffff) Excel Projects 
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Power BI Projects](#-power-bi-projects) • [⏭ Jump to Drawio Projects](#-drawio-erd--data-modeling)  
 
@@ -392,7 +384,7 @@ Enhanced visibility into customer behavior, improved monitoring of betting activ
 ---
 <br><br>
 
-# 🔷 Power BI Projects  
+# 🔷![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi&logoColor=000000) Power BI Projects  
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏭ Jump to Excel Projects](#-excel-projects)  
 
@@ -1145,7 +1137,7 @@ The dashboard provides a comprehensive view of:
 ---
 <br><br>
 
-# 📝 Draw.io (ERD / Data Modeling)   
+# 📝![ERD Modeling](https://img.shields.io/badge/Tool-ERD%20Modeling-FF6F00?style=plastic&logo=diagramsdotnet&logoColor=ffffff) Draw.io (ERD / Data Modeling)   
 *Entity Relationship Diagram (ERD) — Healthcare data modelling with Draw.io*  
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Excel Projects](#-excel-projects) • [⏭ Jump to Tableau Projects](#-tableau-projects) 
@@ -1219,7 +1211,7 @@ Enabled the hospital to **build a robust analytics layer** for Power BI and Tabl
 ---
 <br><br>
 
-# 📊 Tableau Projects  
+# 📊![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau&logoColor=ffffff) Tableau Projects  
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Drawio Projects](#-drawio-erd--data-modeling) • [⏭ Jump to SQL Projects](#-sql--database-projects)  
 
@@ -1679,7 +1671,7 @@ Delivered a creative, storytelling Tableau dashboard that combines **data visual
 ---
 <br><br>
 
-# 🗄 SQL / Database Projects  
+# 🗄![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql&logoColor=ffffff) SQL / Database Projects  
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Tableau Projects](#-tableau-projects) • [⏭ Jump to Fabric Projects](#-microsoft-fabric-projects)
 
@@ -2216,7 +2208,7 @@ FROM MonthRevenue;
 ---
 <br><br>
 
-# 🧱 Microsoft Fabric Projects  
+# 🧱![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft&logoColor=ffffff) Microsoft Fabric Projects  
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to SQL Projects](#-sql--database-projects) • [⏭ Jump to ChatGPT Projects](#-chatgpt--tableau-projects)
 
@@ -2631,7 +2623,7 @@ where fare_amount < 0 or total_amount < 0;
 ---
 <br><br>
 
-# 🤖 ChatGPT + Tableau Projects  
+# 🤖![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff) ChatGPT + Tableau Projects  
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Fabric Projects](#-microsoft-fabric-projects)  
 
