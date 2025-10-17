@@ -2778,7 +2778,12 @@ I began with **DiveAfrica** and advanced through **10Alytics**, where I complete
 
 ## 📫 Let’s Connect
 📍 [LinkedIn Profile](https://www.linkedin.com/in/chinelo-agumagu) 
+<a href="mailto:nelonkem@gmail.com
+	chinelo_agumagu@yahoo.com">Email</a> 
 📬 Feel free to reach out or collaborate as I continue learning and growing in data analytics!
+
+
+<p align="center">💫 <i>Transforming data into stories that inspire smarter decisions.</i></p>
 
 ---
 
