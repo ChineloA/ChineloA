@@ -40,7 +40,7 @@ Beyond technical analysis, I see myself as an **insight catalyst** — someone w
 ---
 <br>
 
-### 3. 🧠 Skills Summary  
+## 3. 🧠 Skills Summary  
 
 - **Data Exploration & Visualisation:** Skilled at turning datasets into clear, interactive visuals using **Power BI, Tableau, Excel, and SQL** to uncover insights and support storytelling.  
 - **Business Intelligence & Reporting:** Experienced in developing automated dashboards and performance reports that monitor key business metrics and guide decision-making.  
@@ -51,7 +51,7 @@ Beyond technical analysis, I see myself as an **insight catalyst** — someone w
 ---
 <br>
 
-### 4. ✨ Personal Summary  
+## 4. ✨ Personal Summary  
 
 I approach every dataset with curiosity and purpose — aiming to uncover the story behind the numbers and present it in a way that makes sense to others.  
 I enjoy designing dashboards that simplify complex data, automate recurring reports, and help teams make confident, data-informed decisions.  
