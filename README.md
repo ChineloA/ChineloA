@@ -29,7 +29,8 @@ Here are the tools and technologies I use to explore, model, and visualise data 
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/ERD%20Modeling-FF6F00?style=for-the-badge&logo=diagrams.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/ChatGPT_&_AI_Tools-00A67E?style=for-the-badge&logo=openai&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Generative_AI_Projects-7B61FF?style=for-the-badge&logo=sparkles&logoColor=ffffff" />
 </p>  
 
 
@@ -172,7 +173,6 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 &nbsp;  
 &nbsp;
 
-![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff)
 ![ChatGPT & AI Tools](https://img.shields.io/badge/ChatGPT%20%26%20AI%20Tools-Powered-00A67E?style=plastic&logo=openai&logoColor=ffffff)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-Analytics-7B61FF?style=plastic&logo=openai&logoColor=ffffff)
 
@@ -2803,7 +2803,7 @@ These projects explore how I apply **Microsoft Fabric** to build **modern data p
 ---
 <br><br>
 
-# 🤖![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff) ChatGPT & AI-Powered Analytics Projects 
+# 🤖![ChatGPT & AI Tools](https://img.shields.io/badge/ChatGPT%20%26%20AI%20Tools-Powered-00A67E?style=plastic&logo=openai&logoColor=ffffff) ![Generative AI](https://img.shields.io/badge/Generative%20AI-Analytics-7B61FF?style=plastic&logo=openai&logoColor=ffffff) ChatGPT & AI-Powered Analytics Projects 
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Fabric Projects](#-microsoft-fabric-projects)  
 
@@ -2813,7 +2813,9 @@ These projects explore how I apply **Microsoft Fabric** to build **modern data p
 *FusionPoint Industries — AI-assisted Tableau dashboards for sales trends & profitability*  
 [Back to TOC](#-main-table-of-contents) • [Next →](#-sales-analysis-with-kimi-ai--chatgpt)
 
-![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff)
+![ChatGPT & AI Tools](https://img.shields.io/badge/ChatGPT%20%26%20AI%20Tools-Powered-00A67E?style=plastic&logo=openai&logoColor=ffffff) ![Generative AI](https://img.shields.io/badge/Generative%20AI-Analytics-7B61FF?style=plastic&logo=openai&logoColor=ffffff)
+
+
 
 **Company / Context:** FusionPoint Industries (Consumer Electronics) 
 
@@ -2891,7 +2893,8 @@ Combine **AI-powered insights** with **visual analytics** to let business users 
 *Project Type: AI-Assisted Data Cleaning, Analysis & Presentation Generation* 
 [Back to TOC](#-main-table-of-contents)  
 
-![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff)
+![ChatGPT & AI Tools](https://img.shields.io/badge/ChatGPT%20%26%20AI%20Tools-Powered-00A67E?style=plastic&logo=openai&logoColor=ffffff) ![Generative AI](https://img.shields.io/badge/Generative%20AI-Analytics-7B61FF?style=plastic&logo=openai&logoColor=ffffff)
+
 
 **Project Type**: AI-Assisted Data Cleaning, Analysis & Presentation Generation
 
