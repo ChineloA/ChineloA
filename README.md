@@ -10,7 +10,7 @@
 
 👋 Hi, I'm **Nelo** — a data analyst passionate about transforming raw information into clear, actionable insights.  
 
-Welcome to my **Data Analytics Portfolio**, where I showcase projects built with **Power BI, Tableau, Microsoft Fabric, Excel, SQL, and Data Modeling**. Each project reflects a key stage in my analytics journey — from **data cleaning and modeling** to **interactive dashboards, storytelling, and strategic insight generation**.  
+Welcome to my **Data Analytics Portfolio**, where I showcase projects built with **Power BI, Tableau, Microsoft Fabric, Excel, SQL, and Data Modelling**. Each project reflects a key stage in my analytics journey — from **data cleaning and modelling** to **interactive dashboards, storytelling, and strategic insight generation**.  
 
 Beyond technical analysis, I see myself as an **insight catalyst** — someone who bridges analytical precision with strategic storytelling to help organisations uncover what truly matters, to spark informed decisions and meaningful change.  
 
@@ -60,7 +60,7 @@ Collaboration is a big part of how I work — using tools like **Microsoft Fabri
 
 ## 5. 📂 About this Portfolio
 
-This portfolio highlights a range of analytics projects that showcase my skills across data visualisation, modeling, and business intelligence.
+This portfolio highlights a range of analytics projects that showcase my skills across data visualisation, modelling, and business intelligence.
 
 -📊 Business Intelligence Dashboards — Power BI & Tableau projects showcasing interactive analytics and storytelling.
 
@@ -198,7 +198,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 
 ## 🧩 Project Overview  
-This dashboard analyzes café operations, focusing on employee performance, sales, and customer satisfaction. It provides insights into top-performing menu items, customer demographics, and inventory efficiency to support data-driven decision-making.
+This dashboard analyses café operations, focusing on employee performance, sales, and customer satisfaction. It provides insights into top-performing menu items, customer demographics, and inventory efficiency to support data-driven decision-making.
 
 
 ### 📊 **Dashboard Focus**
@@ -210,16 +210,16 @@ This dashboard analyzes café operations, focusing on employee performance, sale
 - **Category Breakdown:** Pie chart of beverage vs. food revenue.  
 - **Monthly Trends:** Line graph showing sales fluctuations across the year.  
 - **Customer Patterns:** Highlights peak sales hours and best-selling product combinations.  
-- **Insight:** Identifies high-demand months and top-performing menu items for pricing optimization.  
+- **Insight:** Identifies high-demand months and top-performing menu items for pricing optimisation.  
 
 
 
 ## 🎯 Key Achievements  
-- Built an **interactive Excel dashboard** to visualize employee and product performance.  
+- Built an **interactive Excel dashboard** to visualise employee and product performance.  
 - Identified **top and bottom performers** to guide productivity improvements.  
 - Evaluated **sales performance by gender, age group, and location**.  
 - Assessed **customer satisfaction and feedback trends** for service enhancement.  
-- Monitored **stock performance and sales targets** to optimize resource management.  
+- Monitored **stock performance and sales targets** to optimise resource management.  
 
 
 ## 💡 Insights  
@@ -230,6 +230,13 @@ This dashboard analyzes café operations, focusing on employee performance, sale
 
 ## 🚀 Outcome  
 Empowered café management with a clear view of sales drivers, customer preferences, and staff efficiency — improving service quality and operational decisions.
+
+## 🧰 Tools Used  
+- **Excel** for data analysis, visualisation, and reporting  
+- **Power Query** for data cleaning and transformation
+- **Power Pivot** for advanced data modelling and DAX calculations  
+- **Pivot Tables & Charts** for summarizing key insights  
+- **Conditional Formatting** for highlighting trends and KPIs  
 
 
 **Dashboard Preview**
@@ -245,7 +252,7 @@ Empowered café management with a clear view of sales drivers, customer preferen
 
 
 ## 🧩 Project Overview  
-Developed a comprehensive Excel dashboard to track organizational sales, profitability, and customer behavior. The goal was to uncover patterns across product categories, regions, and demographics.
+Developed a comprehensive Excel dashboard to track organisational sales, profitability, and customer behaviour. The goal was to uncover patterns across product categories, regions, and demographics.
 
 
 ### 📊 **Dashboard Focus**
@@ -257,7 +264,7 @@ Developed a comprehensive Excel dashboard to track organizational sales, profita
 - **Top Customers:** Table listing top 10 customers by sales contribution.  
 - **Category Profitability:** Product-level margin breakdown to identify best sellers.  
 - **Trend Analysis:** Month-over-month sales and profit visualization.  
-- **Insight:** Reveals strongest performing regions and customer groups driving revenue.  
+- **Insight:** Reveals the strongest performing regions and customer groups driving revenue.  
 
 
 ## 🎯 Key Achievements  
@@ -267,7 +274,7 @@ Analysed over 34,000 transactions to visualise profit trends, product category p
 - 🛍️ Top products: Phones, Clothing, Accessories  
 - 📍 Leading states: Abuja, Anambra, Bauchi
 - Created **dynamic performance metrics** for total transactions, costs, and profits.  
-- Visualized **profit by customer age group, gender, and location**.  
+- Visualised **profit by customer age group, gender, and location**.  
 - Compared **total cost, revenue, and profit/loss** across multiple categories.  
 - Highlighted **top 10 states** contributing to business profitability.  
 
@@ -280,6 +287,13 @@ Analysed over 34,000 transactions to visualise profit trends, product category p
 
 ## 🚀 Outcome  
 Improved business transparency and profitability awareness through structured sales tracking and demographic analysis.
+
+## 🧰 Tools Used  
+- **Excel** for data analysis, visualisation, and reporting  
+- **Power Query** for data cleaning and transformation
+- **Power Pivot** for advanced data modelling and DAX calculations  
+- **Pivot Tables & Charts** for summarizing key insights  
+- **Conditional Formatting** for highlighting trends and KPIs  
 
 
 **Dashboard Preview**
@@ -295,7 +309,7 @@ Improved business transparency and profitability awareness through structured sa
 
 
 ## 🧩 Project Overview  
-An Excel-based dashboard designed to analyze company-wide **sales and profit performance** across categories, agents, and regions. It provides a unified view of how different product categories and states contribute to revenue and margins.
+An Excel-based dashboard designed to analyse company-wide **sales and profit performance** across categories, agents, and regions. It provides a unified view of how different product categories and states contribute to revenue and margins.
 
 
 ### 📊 **Dashboard Focus**
@@ -303,7 +317,7 @@ An Excel-based dashboard designed to analyze company-wide **sales and profit per
 
 ### **What this shows**
 - **Overview KPIs:** Total sales, profit, orders, and profit margin %.  
-- **Top Products:** Markers, Tables, and Sofas as top contributors to revenue.  
+- **Top Products:** Markers, Tables, and Sofas are the top contributors to revenue.  
 - **Regional Insights:** Bar chart showing top-performing U.S. states — New York, Florida, California.  
 - **Sales Trends:** Monthly and quarterly sales trend lines to identify seasonal dips and peaks.  
 - **Category Performance:** Profitability by product sub-category and sales channel.  
@@ -330,6 +344,13 @@ An Excel-based dashboard designed to analyze company-wide **sales and profit per
 ## 🚀 Outcome  
 Delivered an insightful dashboard that helped management track profitability, identify trends, and guide sales strategy across multiple regions and product lines.
 
+## 🧰 Tools Used  
+- **Excel** for data analysis, visualisation, and reporting  
+- **Power Query** for data cleaning and transformation
+- **Power Pivot** for advanced data modelling and DAX calculations   
+- **Pivot Tables & Charts** for summarizing key insights  
+- **Conditional Formatting** for highlighting trends and KPIs  
+
 
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-06 173052](https://github.com/user-attachments/assets/1551cc34-a964-4682-b8ce-e317117956ce)
@@ -344,7 +365,7 @@ Delivered an insightful dashboard that helped management track profitability, id
 
 
 ## 🧩 Project Overview  
-Created an Excel dashboard to analyze betting transactions, deposit behaviors, and customer segmentation for a betting firm. It provided actionable insights into customer categories, preferred banks, and deposit trends.
+Created an Excel dashboard to analyse betting transactions, deposit behaviours, and customer segmentation for a betting firm. It provided actionable insights into customer categories, preferred banks, and deposit trends.
 
 
 ### 📊 **Dashboard Focus**
@@ -367,7 +388,7 @@ Visualised customer behaviour, bank usage, and transaction trends in January.
 - 👶 36 underage accounts flagged
 - Designed a **visual summary of transactions and deposits** by day and customer type.  
 - Highlighted **top loyal customers** and **most used banks**.  
-- Segmented users by **age, category, and account status** for behavioral insights.  
+- Segmented users by **age, category, and account status** for behavioural insights.  
 - Analyzed **deposit trends and category distribution** throughout the month.  
 
 
@@ -378,7 +399,14 @@ Visualised customer behaviour, bank usage, and transaction trends in January.
 
 
 ## 🚀 Outcome  
-Enhanced visibility into customer behavior, improved monitoring of betting activity, and supported responsible gaming initiatives.
+Enhanced visibility into customer behaviour, improved monitoring of betting activity, and supported responsible gaming initiatives.
+
+## 🧰 Tools Used  
+- **Excel** for data analysis, visualisation, and reporting  
+- **Power Query** for data cleaning and transformation
+- **Power Pivot** for advanced data modelling and DAX calculations    
+- **Pivot Tables & Charts** for summarizing key insights  
+- **Conditional Formatting** for highlighting trends and KPIs  
 
 
 **Dashboard Preview**
@@ -415,8 +443,7 @@ These projects highlight how I use **Excel** for **data analysis, visualisation,
 
 
 ## 🧩 Project Overview  
-This Power BI dashboard provides a complete overview of fleet management performance — monitoring fuel usage, maintenance costs, and vehicle efficiency. It enables operations teams to track expenses, vehicle downtime, and performance trends to optimize logistics and resource allocation.
-
+This Power BI dashboard provides a complete overview of fleet management performance — monitoring fuel usage, maintenance costs, and vehicle efficiency. It enables operations teams to track expenses, vehicle downtime, and performance trends to optimise logistics and resource allocation.
 
 ### 📊 **Dashboard Focus**
 ## 🔍 **Focus:** Fleet Performance | Fuel Efficiency | Maintenance Costs | Driver Behavior  
@@ -427,31 +454,31 @@ This Power BI dashboard provides a complete overview of fleet management perform
 - **Vehicle Cost Analysis:** Bar chart comparing maintenance and fuel costs per vehicle.  
 - **Driver Performance:** Visual ranking of drivers by efficiency and trip count.  
 - **Route Insights:** Map visual displaying trip frequency and regional distribution.  
-- **Insight:** Helps identify cost-saving opportunities by optimizing routes and vehicle maintenance schedules.  
+- **Insight:** Helps identify cost-saving opportunities by optimising routes and vehicle maintenance schedules.  
 
 
 ## 🎯 Key Achievements  
 Analysed fuel usage, downtime, and maintenance costs across multiple vehicles.  
 - Highlighted top maintenance cost drivers  
 - Tracked operational performance over time  
-- Designed an **interactive fleet monitoring dashboard** to analyze performance by vehicle type and month.  
+- Designed an **interactive fleet monitoring dashboard** to analyse performance by vehicle type and month.  
 - Tracked **maintenance costs, downtime days, and fuel consumption trends**.  
 - Integrated **KPIs for total vehicles, distance, and average maintenance cost**.  
 - Enabled **yearly trend analysis** for fuel efficiency and operational planning.  
 
 
 ## 💡 Insights  
-- Vans recorded the **highest maintenance cost and downtime**, signaling overuse or aging assets.  
+- Vans recorded the **highest maintenance cost and downtime**, signalling overuse or ageing assets.  
 - Fuel consumption peaked mid-year, aligning with seasonal activity trends.  
-- Maintenance efficiency varied by vehicle type, with **trucks showing lowest fuel use per distance**.  
+- Maintenance efficiency varied by vehicle type, with **trucks showing the lowest fuel use per distance**.  
 
 
 ## 🚀 Outcome  
-The dashboard empowered fleet managers to **reduce downtime, control costs**, and plan for better vehicle utilization through data-backed maintenance decisions.
+The dashboard empowered fleet managers to **reduce downtime, control costs**, and plan for better vehicle utilisation through data-backed maintenance decisions.
 
 
 ## 🧰 Tools Used  
-- **Power BI** for data modeling and visualization  
+- **Power BI** for data modelling and visualisation  
 - **DAX Measures** for KPIs and custom calculations  
 - **Power Query** for data cleaning and transformation  
 - **Excel Integration** for raw data source connection  
@@ -477,19 +504,19 @@ This Power BI dashboard provides a detailed analysis of Tri-Fleet’s global aut
 ## 🔍 **Focus:** Fleet Utilization | Fuel Efficiency | Maintenance Costs | Trip Insights  
 
 ### **What this shows**
-- **Key KPIs:** Total distance traveled, total trips, fuel cost, and average mileage per vehicle.  
-- **Fleet Overview:** Summary visuals of vehicles, active vs inactive fleet, and overall utilization rate.  
+- **Key KPIs:** Total distance travelled, total trips, fuel cost, and average mileage per vehicle.  
+- **Fleet Overview:** Summary visuals of vehicles, active vs inactive fleet, and overall utilisation rate.  
 - **Fuel Efficiency Trend:** Line chart showing mileage and fuel consumption over time.  
 - **Maintenance Analysis:** Bar chart comparing maintenance and operational costs by vehicle.  
 - **Driver Performance:** Ranking of drivers based on distance covered, efficiency, and trip completion rate.  
-- **Route Visualization:** Map view of trip frequency and geographic distribution.  
+- **Route Visualisation:** Map view of trip frequency and geographic distribution.  
 - **Insight:** Enables better cost management and operational efficiency by tracking fleet usage, fuel patterns, and maintenance needs.  
 
 
 ## 🎯 Key Achievements  
 - Built an **interactive analytics dashboard** showing sales by product line, customer, and region.  
 - Integrated **time-based trend analysis** to track quarterly and yearly sales patterns.  
-- Visualized **geographic performance** using map-based insights for global markets.  
+- Visualised **geographic performance** using map-based insights for global markets.  
 - Identified **top 10 customers** and **most profitable vehicle categories**.  
 
 
@@ -500,11 +527,11 @@ This Power BI dashboard provides a detailed analysis of Tri-Fleet’s global aut
 
 
 ## 🚀 Outcome  
-Enabled Tri-Fleet’s management team to **analyze global sales performance**, understand customer segments, and refine marketing and inventory strategies.
+Enabled Tri-Fleet’s management team to **analyse global sales performance**, understand customer segments, and refine marketing and inventory strategies.
 
 
 ## 🧰 Tools Used  
-- **Power BI** for reporting and data visualization  
+- **Power BI** for reporting and data visualisation  
 - **Power Query** for preprocessing and merging data sources  
 - **DAX** for KPI measures and time intelligence functions  
 - **Map Visuals** for country-level sales tracking  
@@ -523,7 +550,7 @@ Enabled Tri-Fleet’s management team to **analyze global sales performance**, u
 
 
 ## 🧩 Project Overview  
-The PureSip Power BI dashboard analyzes beverage sales performance across multiple brands and retailers. It tracks sales trends, KPIs, and performance against goals, giving a clear picture of market growth and retail channel performance.
+The PureSip Power BI dashboard analyses beverage sales performance across multiple brands and retailers. It tracks sales trends, KPIs, and performance against goals, giving a clear picture of market growth and retail channel performance.
 
 
 ### 📊 **Dashboard Focus**
@@ -580,7 +607,7 @@ Delivered a dynamic sales intelligence solution that helped stakeholders **track
 
 
 ## 🧩 Project Overview  
-This Power BI project provides a comprehensive view of **Dreamy Bites’ sales and profitability performance** across both customers and products from 2019 to 2020. The dashboard integrates customer behavior, order trends, and product profitability to uncover key growth opportunities.
+This Power BI project provides a comprehensive view of **Dreamy Bites’ sales and profitability performance** across both customers and products from 2019 to 2020. The dashboard integrates customer behaviour, order trends, and product profitability to uncover key growth opportunities.
 
 
 ### 📊 **Dashboard Focus**
@@ -588,11 +615,11 @@ This Power BI project provides a comprehensive view of **Dreamy Bites’ sales a
 
 ### **What this shows**
 - **Sales KPIs:** Total revenue, profit, orders, and average profit margin.  
-- **Top Products:** Visualization of best-selling items (e.g., cakes, pastries, cookies).  
+- **Top Products:** Visualisation of best-selling items (e.g., cakes, pastries, cookies).  
 - **Sales by Region:** Map showing top-performing store locations.  
 - **Monthly Trends:** Line chart tracking sales and profit over time.  
 - **Category Analysis:** Bar chart comparing dessert categories by revenue.  
-- **Insight:** Highlights customer favorites, top regions, and time periods for strategic promotions.  
+- **Insight:** Highlights customer favourites, top regions, and time periods for strategic promotions.  
 
 
 ## 🎯 Key Achievements  
@@ -600,7 +627,7 @@ Analysed updated cookie pricing and cost structure from the business memo.
 - Evaluated gross margins across 6 cookie types  
 - Created pricing model with profitability flags  
 - Designed **two connected Power BI dashboards** — one for **Customer Analysis** and another for **Product Analysis**.  
-- Visualized **profit and expense performance by customer and product**.  
+- Visualised **profit and expense performance by customer and product**.  
 - Tracked **monthly sales, profit trends, and quantity sold** to identify business seasonality.  
 - Developed **profit and quantity targets** to measure goal attainment.  
 - Mapped **regional performance** to assess sales contributions by U.S. states.  
@@ -638,7 +665,7 @@ Enabled Dreamy Bites’ management to **track sales and profit performance**, un
 
 
 ## 🧩 Project Overview  
-This Power BI dashboard analyzes NovaMed’s pharmaceutical sales and customer performance across multiple segments, including demographics, geography, and revenue contribution. It helps identify the most profitable drugs, customers, and market segments while providing actionable insights for strategic planning.
+This Power BI dashboard analyses NovaMed’s pharmaceutical sales and customer performance across multiple segments, including demographics, geography, and revenue contribution. It helps identify the most profitable drugs, customers, and market segments while providing actionable insights for strategic planning.
 
 
 ### 📊 **Dashboard Focus**
@@ -660,7 +687,7 @@ This Power BI dashboard analyzes NovaMed’s pharmaceutical sales and customer p
 - Built a **comprehensive sales performance dashboard** with customer and regional insights.  
 - Visualized **monthly revenue and profit comparisons** for year-round tracking.  
 - Highlighted **top and bottom-performing customers** by both sales and profit.  
-- Analyzed **revenue by gender, age range, and country** using interactive filters.  
+- Analysed **revenue by gender, age range, and country** using interactive filters.  
 - Created a **geographical insight map** to visualize global performance.  
 
 
@@ -672,12 +699,12 @@ This Power BI dashboard analyzes NovaMed’s pharmaceutical sales and customer p
 
 
 ## 🚀 Outcome  
-Empowered NovaMed’s management to make **data-driven marketing and inventory decisions**, optimize distribution across regions, and identify high-value customers for retention strategies.
+Empowered NovaMed’s management to make **data-driven marketing and inventory decisions**, optimise distribution across regions, and identify high-value customers for retention strategies.
 
 
 ## 🧰 Tools Used  
 - **Power BI** for report building and KPI tracking  
-- **Power Query** for data modeling and transformation  
+- **Power Query** for data modelling and transformation  
 - **DAX Measures** for profitability, segmentation, and time intelligence  
 - **Map Visuals** for global sales and customer analysis  
 
@@ -698,7 +725,7 @@ Empowered NovaMed’s management to make **data-driven marketing and inventory d
 
 
 ## 🧩 Project Overview  
-The Deskify Power BI project analyzes office supply sales between 2009 and 2012, covering product, customer, and regional performance. The dashboard provides insights into profit distribution, customer segments, and delivery modes — supporting better inventory and customer management.
+The Deskify Power BI project analyses office supply sales between 2009 and 2012, covering product, customer, and regional performance. The dashboard provides insights into profit distribution, customer segments, and delivery modes — supporting better inventory and customer management.
 
 
 ### 📊 **Dashboard Focus**
@@ -716,7 +743,7 @@ The Deskify Power BI project analyzes office supply sales between 2009 and 2012,
 ## 🎯 Key Achievements  
 - Created **interactive Power BI dashboards** for multi-year sales tracking.  
 - Compared **profit performance across product categories** like Furniture, Office Supplies, and Technology.  
-- Analyzed **profit by product name, sub-category, and customer segment**.  
+- Analysed **profit by product name, sub-category, and customer segment**.  
 - Mapped **top-performing states by profit** and regional performance distribution.  
 - Integrated **DAX KPIs** for total revenue, profit margin, and customer metrics.  
 
@@ -725,11 +752,11 @@ The Deskify Power BI project analyzes office supply sales between 2009 and 2012,
 - **Office Supplies** contributed the largest share of total revenue, while **Furniture** followed closely in profitability.  
 - **Corporate and Consumer segments** delivered the highest profits.  
 - Top customers such as **Emily Phan and Ruben Dartt** drove significant profit margins.  
-- Regular Air shipping accounted for the **majority of deliveries**, reflecting efficiency in order fulfillment.  
+- Regular Air shipping accounted for the **majority of deliveries**, reflecting efficiency in order fulfilment.  
 
 
 ## 🚀 Outcome  
-Provided management with a centralized analytics tool to **evaluate profitability, understand customer behavior**, and optimize logistics and product strategy.
+Provided management with a centralised analytics tool to **evaluate profitability, understand customer behaviour**, and optimise logistics and product strategy.
 
 
 ## 🧰 Tools Used  
@@ -754,7 +781,7 @@ Provided management with a centralized analytics tool to **evaluate profitabilit
 
 
 ## 🧩 Project Overview  
-The Aurora Threads Power BI dashboard provides a detailed overview of boutique sales performance across multiple stores. It analyzes product categories, gender-based sales, and payment preferences while tracking revenue trends over time.
+The Aurora Threads Power BI dashboard provides a detailed overview of boutique sales performance across multiple stores. It analyses product categories, gender-based sales, and payment preferences while tracking revenue trends over time.
 
 
 ### 📊 **Dashboard Focus**
@@ -766,12 +793,12 @@ The Aurora Threads Power BI dashboard provides a detailed overview of boutique s
 - **Sales by Gender:** Comparison of male, female, and unisex product sales.  
 - **Payment Methods:** Revenue share by cash, card, and digital payments.  
 - **Revenue Over Time:** Line chart of sales growth trends.  
-- **Insight:** Helps identify customer preferences and optimize product and payment strategies.  
+- **Insight:** Helps identify customer preferences and optimise product and payment strategies.  
 
 
 ## 🎯 Key Achievements  
 - Built an **interactive Power BI dashboard** to monitor boutique sales and customer metrics.  
-- Visualized **revenue by category, gender, and payment type** for improved market segmentation.  
+- Visualised **revenue by category, gender, and payment type** for improved market segmentation.  
 - Highlighted **top-performing products and customers** through ranking visuals.  
 - Integrated **time-based revenue tracking** to identify demand patterns and seasonality.  
 
@@ -779,12 +806,12 @@ The Aurora Threads Power BI dashboard provides a detailed overview of boutique s
 ## 💡 Insights  
 - Accessories contributed the **largest share of revenue**, followed by clothing and footwear.  
 - **Unisex products** accounted for the highest revenue among gender categories.  
-- Sales were **evenly distributed across payment types**, showing customer flexibility in purchase behavior.  
+- Sales were **evenly distributed across payment types**, showing customer flexibility in purchase behaviour.  
 - Handbags and necklaces emerged as **top-selling products**.  
 
 
 ## 🚀 Outcome  
-Enabled boutique owners to **understand customer preferences**, manage product performance, and optimize store inventory and payment offerings.
+Enabled boutique owners to **understand customer preferences**, manage product performance, and optimise store inventory and payment offerings.
 
 
 ## 🧰 Tools Used  
@@ -817,9 +844,9 @@ This Power BI dashboard explores global life expectancy trends between 1990 and 
 - **Dashboard KPIs:** Global average life expectancy and HDI score.  
 - **Trend Over Time:** Line chart showing changes from 1990–2021.  
 - **By Continent:** Bar chart comparing life expectancy averages.  
-- **Top & Bottom Countries:** Dual tables showcasing highest and lowest performing nations.  
+- **Top & Bottom Countries:** Dual tables showcasing the highest and lowest performing nations.  
 - **HDI Correlation:** Scatter plot linking human development with longevity.  
-- **Insight:** Reveals strong correlation between HDI and life expectancy improvements globally.  
+- **Insight:** Reveals a strong correlation between HDI and life expectancy improvements globally.  
 
 
 ## 🎯 Key Achievements  
@@ -839,7 +866,7 @@ This Power BI dashboard explores global life expectancy trends between 1990 and 
 
 
 ## 🚀 Outcome  
-Provided a powerful visualization tool for policymakers and researchers to **evaluate global health trends**, track improvements, and identify countries needing targeted interventions.
+Provided a powerful visualisation tool for policymakers and researchers to **evaluate global health trends**, track improvements, and identify countries needing targeted interventions.
 
 
 ## 🧰 Tools Used  
@@ -880,7 +907,7 @@ The Clarity Care dashboard presents an in-depth analysis of global suicide data 
 ## 🎯 Key Achievements  
 - Developed a **multi-page Power BI dashboard** combining demographic, temporal, and geographic views.  
 - Explored **suicide distribution by gender, generation, and age group**.  
-- Utilized **AI visuals (Key Influencers)** to detect the strongest predictors of suicide rates.  
+- Utilised **AI visuals (Key Influencers)** to detect the strongest predictors of suicide rates.  
 - Integrated **GDP and population metrics** for contextual socioeconomic insights.
 - Identified age groups with higher risk trends   
 
@@ -893,11 +920,11 @@ The Clarity Care dashboard presents an in-depth analysis of global suicide data 
 
 
 ## 🚀 Outcome  
-The analysis offered mental health organizations and policymakers data-backed insights to **target prevention efforts** and design awareness programs focusing on high-risk age and gender groups.
+The analysis offered mental health organisations and policymakers data-backed insights to **target prevention efforts** and design awareness programs focusing on high-risk age and gender groups.
 
 
 ## 🧰 Tools Used  
-- **Power BI** for advanced visualization and analytics  
+- **Power BI** for advanced visualisation and analytics  
 - **AI visuals (Key Influencers, Decomposition Tree)** for predictive insights  
 - **Power Query** for large dataset transformation  
 - **DAX** for KPI and demographic measures  
@@ -910,14 +937,14 @@ The analysis offered mental health organizations and policymakers data-backed in
 <h2></h2>
 
 ### 10. 👩‍💼 HR Employee Attrition  
-*Analyzing employee turnover drivers and retention strategies with HR analytics*
+*Analysing employee turnover drivers and retention strategies with HR analytics*
 [← Previous](#9--mental-health) • [Back to TOC](#-main-table-of-contents) • [Next →](#11--global-insight)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 
 
 ## 🧩 Project Overview  
-This Power BI project explores employee attrition across departments and job roles within an organization. The dashboard provides a comprehensive analysis of factors influencing employee turnover — including demographics, job satisfaction, income, and work-life balance — helping HR teams reduce attrition and improve retention strategies.
+This Power BI project explores employee attrition across departments and job roles within an organisation. The dashboard provides a comprehensive analysis of factors influencing employee turnover — including demographics, job satisfaction, income, and work-life balance — helping HR teams reduce attrition and improve retention strategies.
 
 
 ### 📊 **Dashboard Focus**
@@ -929,16 +956,16 @@ This Power BI project explores employee attrition across departments and job rol
 - **Demographics:** Gender & age group splits for attrition vs. retention.  
 - **Education Field:** Identifies disciplines with higher turnover.  
 - **Trend:** Monthly attrition patterns over time.  
-- **Survey Matrix:** Visualizes job satisfaction and engagement levels.  
+- **Survey Matrix:** Visualises job satisfaction and engagement levels.  
 - **Insight:** Provides clarity on high-risk employee segments and key retention factors.  
 
 
 ## 🎯 Key Achievements  
-- Developed a **multi-page Power BI dashboard** to analyze overall attrition, departmental trends, and influencing factors.  
+- Developed a **multi-page Power BI dashboard** to analyse overall attrition, departmental trends, and influencing factors.  
 - Created **dynamic visual filters** to slice data by department, gender, age, job role, and education.  
 - Calculated **attrition and loyalty rates**, segmented by performance level and risk category.  
 - Identified **key drivers of turnover**, including income, satisfaction, and work-life balance.  
-- Integrated **predictive modeling visuals** to assess loyalty risk (low, medium, high).  
+- Integrated **predictive modelling visuals** to assess loyalty risk (low, medium, high).  
 
 
 ## 💡 Insights  
@@ -954,10 +981,10 @@ This analysis empowered HR teams to **pinpoint high-risk employee segments**, de
 
 
 ## 🧰 Tools Used  
-- **Power BI** for dashboard creation and KPI visualization  
+- **Power BI** for dashboard creation and KPI visualisation  
 - **Power Query** for data transformation and cleaning  
 - **DAX** for calculated measures (attrition rate, loyalty rate, performance segmentation)  
-- **Predictive Visuals** for risk-level assessment and turnover modeling  
+- **Predictive Visuals** for risk-level assessment and turnover modelling  
 
 
 **Dashboard Preview**
@@ -976,7 +1003,7 @@ This analysis empowered HR teams to **pinpoint high-risk employee segments**, de
 
  
 ## 🧩 Project Overview  
-This Power BI dashboard provides a global perspective on population trends, exploring changes over time, regional distributions, and religious demographics. It visualizes data from 1955 to 2025 to reveal global population growth patterns and diversity insights.
+This Power BI dashboard provides a global perspective on population trends, exploring changes over time, regional distributions, and religious demographics. It visualises data from 1955 to 2025 to reveal global population growth patterns and diversity insights.
 
 
 ### 📊 **Dashboard Focus**
@@ -986,7 +1013,7 @@ This Power BI dashboard provides a global perspective on population trends, expl
 - **Population Growth:** Line chart showing world population increase from 1955 to 2025 — from **2.7 billion to 8.2 billion**.  
 - **By Region:** Map visualization highlighting population distribution across **Asia, Africa, Europe, and the Americas**.  
 - **By Religion:** Bar chart comparing populations of major groups — **Christians (2.17B)**, **Muslims (1.6B)**, **Hindus (1.03B)**, etc.  
-- **By Country:** Geographic map showing top/bottom populated countries with proportional bubble sizes.  
+- **By Country:** Geographic map showing the top/bottom populated countries with proportional bubble sizes.  
 - **Insight Highlight:** Demonstrates the correlation between **population density and religious distribution** across regions.  
 
 
@@ -1010,7 +1037,7 @@ This dashboard provides a clear, data-driven view of **global demographic dynami
 
 
 ## 🧰 Tools Used  
-- **Power BI** for visualization and trend analysis  
+- **Power BI** for visualisation and trend analysis  
 - **Map visuals** for regional and global comparison  
 - **DAX** for growth rate calculations  
 - **Power Query** for dataset transformation and cleanup  
@@ -1029,7 +1056,7 @@ This dashboard provides a clear, data-driven view of **global demographic dynami
 
 
 ## 🧩 Project Overview  
-The Retail Edge Power BI dashboard delivers comprehensive insights into sales, profit, and revenue performance across products, cities, and distribution channels. It highlights key profitability drivers and trends for strategic business optimization.
+The Retail Edge Power BI dashboard delivers comprehensive insights into sales, profit, and revenue performance across products, cities, and distribution channels. It highlights key profitability drivers and trends for strategic business optimisation.
 
 
 ### 📊 **Dashboard Focus**
@@ -1040,9 +1067,9 @@ The Retail Edge Power BI dashboard delivers comprehensive insights into sales, p
 - **Monthly Revenue Trend:** Tracks sales fluctuations and identifies peak months.  
 - **Top Products:** Bar chart listing the top 5 revenue-generating products.  
 - **Revenue by Channel:** Donut chart comparing **Wholesale, Distributor, and Export** shares.  
-- **Top Cities:** Highlights top-performing regions with highest revenue contribution.  
+- **Top Cities:** Highlights top-performing regions with the highest revenue contribution.  
 - **Day-of-Week Revenue:** Line graph to identify best-performing days for sales and profits.  
-- **Customer Analysis:** Top 5 patronizing customers and their contribution to revenue.  
+- **Customer Analysis:** Top 5 patronising customers and their contribution to revenue.  
 
 
 ## 🎯 Key Achievements  
@@ -1063,7 +1090,7 @@ The Retail Edge Power BI dashboard delivers comprehensive insights into sales, p
 
 
 ## 🚀 Outcome  
-Equipped business leaders with a powerful tool to **evaluate regional performance, manage distribution channels**, and optimize product profitability.
+Equipped business leaders with a powerful tool to **evaluate regional performance, manage distribution channels**, and optimise product profitability.
 
 
 ## 🧰 Tools Used  
@@ -1091,7 +1118,7 @@ Equipped business leaders with a powerful tool to **evaluate regional performanc
 ## 🧩 Project Overview  
 As IronCore Fitness expands its client base, training programs, and membership tiers across multiple locations, the management team struggles to gain a unified, real-time view of member distribution, trainer performance, and overall fitness engagement.  
 
-The current dependence on static reports makes it challenging to track membership growth, identify underutilized services, or analyze patterns in client retention and churn. This limits data-driven decision-making in membership management, trainer allocation, and program development.  
+The current dependence on static reports makes it challenging to track membership growth, identify underutilised services, or analyse patterns in client retention and churn. This limits data-driven decision-making in membership management, trainer allocation, and program development.  
 
 The IronCore Fitness Power BI dashboard tracks gym performance through membership activity, revenue growth, and client engagement metrics. It provides a clear view of operational performance, helping managers enhance retention and profitability.
 
@@ -1104,13 +1131,13 @@ The IronCore Fitness Power BI dashboard tracks gym performance through membershi
 - **Revenue Trend:** Monthly breakdown of total revenue, profit, and expenses.  
 - **Membership Plan Breakdown:** Donut charts showing **Platinum, Gold, and Silver** memberships — active vs expired.  
 - **Client Expiry Tracker:** Lists client names, activity status, and progress completion.  
-- **Monthly Sign-Ups:** Bar chart visualizing new memberships per month.  
+- **Monthly Sign-Ups:** Bar chart visualising new memberships per month.  
 - **Engagement Insight:** Highlights where renewals drop and which plans maintain the highest retention.  
 
 
 ## 🎯 Key Achievements  
 - Developed a **fitness analytics dashboard** integrating membership and financial data.  
-- Visualized **monthly revenue, profit, and expense trends**.  
+- Visualised **monthly revenue, profit, and expense trends**.  
 - Monitored **membership plan activity** across Platinum, Gold, and Silver tiers.  
 - Built a **Client Expiry Tracker** to monitor progress and renewal rates.  
 - Included **monthly signup trends** to measure acquisition performance.  
@@ -1128,7 +1155,7 @@ Enabled gym managers to **track member progress, evaluate profitability**, and d
 
 
 ## 🧰 Tools Used  
-- **Power BI** for data visualization and trend analysis  
+- **Power BI** for data visualisation and trend analysis  
 - **DAX** for KPIs and progress metrics  
 - **Power Query** for data integration  
 - **Donut and Line charts** for membership and revenue tracking  
@@ -1162,7 +1189,7 @@ These projects demonstrate my approach to **data storytelling and insight genera
 ---
 <br><br>
 
-# 📝![ERD Modeling](https://img.shields.io/badge/Tool-ERD%20Modeling-FF6F00?style=plastic&logo=diagramsdotnet&logoColor=ffffff) Draw.io (ERD / Data Modeling)   
+# 📝![ERD Modelling](https://img.shields.io/badge/Tool-ERD%20Modeling-FF6F00?style=plastic&logo=diagramsdotnet&logoColor=ffffff) Draw.io (ERD / Data Modelling)   
 *Entity Relationship Diagram (ERD) — Healthcare data modelling with Draw.io*  
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Excel Projects](#-excel-projects) • [⏭ Jump to Tableau Projects](#-tableau-projects) 
@@ -1170,7 +1197,7 @@ These projects demonstrate my approach to **data storytelling and insight genera
 <br>
 
 ### 1. 🏥 Riverside General Hospital  
-*Entity Relationship Diagram (ERD) — Healthcare data modeling with Draw.io* 
+*Entity Relationship Diagram (ERD) — Healthcare data modelling with Draw.io* 
 [Back to TOC](#-main-table-of-contents) 
 
 ![ERD Modeling](https://img.shields.io/badge/Tool-ERD%20Modeling-FF6F00?style=plastic&logo=diagramsdotnet&logoColor=ffffff)
@@ -1179,7 +1206,7 @@ These projects demonstrate my approach to **data storytelling and insight genera
 
 ## 🧩 Project Overview  
 This **Entity Relationship Diagram (ERD)** was designed in **Draw.io** to model a healthcare data warehouse for hospital analytics.  
-It provides a **star schema** structure optimized for performance reporting, integrating key entities for **doctors, patients, procedures, dates, and locations**.
+It provides a **star schema** structure optimised for performance reporting, integrating key entities for **doctors, patients, procedures, dates, and locations**.
 
 
 ## 🎯 Objective  
@@ -1200,7 +1227,7 @@ To create a **data model** that supports **comprehensive healthcare reporting**,
 ## 🧱 Schema Design  
 - **Fact Table:** `Transaction_Fact` — stores transactional data like revenue, expenses, and links to dimension tables.  
 - **Dimension Tables:**  
-  - `Doctor_Dim`: Doctor details (specialty, gender, contact info)  
+  - `Doctor_Dim`: Doctor details (speciality, gender, contact info)  
   - `Patient_Dim`: Patient demographics (age, gender, location)  
   - `Procedure_Dim`: Details of medical procedures  
   - `Calendar_Dim`: Date-based attributes for trend analysis  
@@ -1221,7 +1248,10 @@ Enabled the hospital to **build a robust analytics layer** for Power BI and Tabl
 ## 🧰 Tools Used  
 - **Draw.io** – ER diagram and schema design  
 - **Star Schema Modeling** – for analytical database structure  
-- **SQL Server** – intended backend for implementation
+- **Star Schema Design** for optimized reporting  
+- **Normalisation** to reduce data redundancy  
+- **ERD Modelling** to visualize entity relationships  
+
 
 
 #### 📸 Dashboard Preview 
@@ -1231,7 +1261,7 @@ Enabled the hospital to **build a robust analytics layer** for Power BI and Tabl
 
 ---
 
-These projects showcase my approach to **data architecture and relational modeling**, using **Draw.io** to visualise database structures that support clear, efficient analytics design.
+These projects showcase my approach to **data architecture and relational modelling**, using **Draw.io** to visualise database structures that support clear, efficient analytics design.
 
 ---
 
@@ -1251,14 +1281,14 @@ These projects showcase my approach to **data architecture and relational modeli
 <br>
 
 ### 1. 🍫 Choco De Luxe  
-*Unlocking Sales Insights Through Data Visualization for a European Artisanal Chocolate Brand*
+*Unlocking Sales Insights Through Data Visualisation for a European Artisanal Chocolate Brand*
 [Back to TOC](#-main-table-of-contents) • [Next →](#2-fusionpoint)
 
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
 
 
 ## 🧩 Project Overview  
-A Tableau dashboard analyzing **sales, profit, and delivery performance** for a premium chocolate manufacturer, *Choco De Luxe*, across multiple European regions.
+A Tableau dashboard analysing **sales, profit, and delivery performance** for a premium chocolate manufacturer, *Choco De Luxe*, across multiple European regions.
 
 
 ### 📊 **Dashboard Focus**
@@ -1266,7 +1296,7 @@ A Tableau dashboard analyzing **sales, profit, and delivery performance** for a 
 
 ### **What this shows**
 - **Sales Overview:** Total revenue, profit, and delivery success rate.  
-- **Sales by Location:** Map visualization comparing sales across France, Belgium, Germany, and Italy.  
+- **Sales by Location:** Map visualisation comparing sales across France, Belgium, Germany, and Italy.  
 - **Product Performance:** Category-level comparison (Organic vs Inorganic).  
 - **Sales Channel Analysis:** Breakdown of Web, Warehouse, and Social Media performance.  
 - **Salesperson Productivity:** KPI cards and ranking based on sales vs. €100K profit target.  
@@ -1276,7 +1306,7 @@ A Tableau dashboard analyzing **sales, profit, and delivery performance** for a 
 
 ## 🎯 Key Objectives  
 - Analyse **Choco De Luxe’s sales performance** across locations, channels, and product lines to uncover patterns, inefficiencies, and growth opportunities.  
-- Deliver **interactive Tableau dashboards** enabling leaders to make informed decisions on product positioning, channel optimization, and profitability.  
+- Deliver **interactive Tableau dashboards** enabling leaders to make informed decisions on product positioning, channel optimisation, and profitability.  
 - Provide **data-driven insights** into:
   - **Location Sales Performance:** Identify high vs. low-performing regions based on delivery success and revenue.  
   - **Channel Effectiveness:** Assess the impact of sales channels (social media, warehouse, web) on profitability and transactions.  
@@ -1306,6 +1336,8 @@ A Tableau dashboard analyzing **sales, profit, and delivery performance** for a 
 - **Mapbox Integration** for geographic insights  
 - **Calculated Fields** for profitability ratios  
 - **ETL (Excel/SQL)** for data preprocessing
+- **Filters & Parameters** for dynamic insights  
+
 
 
 
@@ -1373,14 +1405,16 @@ To analyse sales performance across products, sub-categories, and regions to ide
 
 
 ## 🚀 Outcome  
-Provided actionable insights for **inventory optimization, pricing strategy**, and **customer retention planning**, improving long-term profitability.
+Provided actionable insights for **inventory optimisation, pricing strategy**, and **customer retention planning**, improving long-term profitability.
 
 
 ## 🧰 Tools Used  
 - **Tableau** – Interactive dashboards and data storytelling  
-- **Mapbox** – Regional sales mapping  
 - **LOD (Level of Detail) Expressions** – for customer lifetime value (CLV)  
-- **Calculated Fields** – to derive profit margin, AOV, and CLV metrics  
+- **Mapbox Integration** for geographic insights  
+- **Calculated Fields** for profitability ratios  
+- **ETL (Excel/SQL)** for data preprocessing
+- **Filters & Parameters** for dynamic insights 
 
 
 📊 **Dashboard Preview**  
@@ -1401,7 +1435,7 @@ Provided actionable insights for **inventory optimization, pricing strategy**, a
 
 
 ## 🧩 Project Overview  
-The **Elevate Corp Workforce Dashboard** analyzes employee demographics, compensation, and experience across multiple departments and locations.  
+The **Elevate Corp Workforce Dashboard** analyses employee demographics, compensation, and experience across multiple departments and locations.  
 It provides leadership with a comprehensive view of **salary trends, benefits distribution, cost-of-living adjustments, and employee tenure**.
 
 
@@ -1414,7 +1448,7 @@ It provides leadership with a comprehensive view of **salary trends, benefits di
 - **Geographic Comparison:** Adjusted salary vs. cost of living across major cities.  
 - **Benefits Breakdown:** Pie chart displaying Standard, Premium, and None categories.  
 - **Years of Service:** Distribution chart showing workforce tenure.  
-- **Insight:** Provides clarity on salary equity, benefit utilization, and retention by experience level.  
+- **Insight:** Provides clarity on salary equity, benefit utilisation, and retention by experience level.  
 
 
 ## 🎯 Key Objectives  
@@ -1439,11 +1473,12 @@ It provides leadership with a comprehensive view of **salary trends, benefits di
 - Enabled strategic, data-driven decisions for workforce planning.
 
 
-## 🧰 Tools Used  
-- Tableau – Data visualization  
-- Excel – Source data preparation  
-- Calculated Fields – for adjusted salary and compensation metrics  
-- Parameters & Filters – for interactive exploration  
+- ## 🧰 Tools Used  
+- **Tableau** for visualization  
+- **Mapbox Integration** for geographic insights  
+- **Calculated Fields** for profitability ratios  
+- **ETL (Excel/SQL)** for data preprocessing
+- **Filters & Parameters** for dynamic insights 
 
 
 **Dashboard Preview**
@@ -1470,7 +1505,7 @@ This Tableau project provides a detailed analysis of **employee attrition and re
 - **Department Breakdown:** Donut and bar visuals for Sales, R&D, and HR attrition comparison.  
 - **Demographics:** Gender, age group, and education field splits.  
 - **Attrition Trend:** Monthly attrition analysis identifying spikes and dips.  
-- **Engagement Matrix:** Satisfaction and survey score visualization by role.
+- **Engagement Matrix:** Satisfaction and survey score visualisation by role.
 - **Education Field:** Where leavers cluster by discipline. 
 - **Attrition Detail Table:** Shows leavers’ hourly rate, satisfaction, tenure, and performance rating.  
 - **Insight:** Helps HR identify high-risk groups and build targeted retention strategies.  
@@ -1478,7 +1513,7 @@ This Tableau project provides a detailed analysis of **employee attrition and re
 
 ## 🎯 Key Objectives  
 - Measure **attrition rate and trends** across departments, job roles, and demographics.  
-- Analyze **age, gender, and education** distributions of employees leaving the organization.  
+- Analyse **age, gender, and education** distributions of employees leaving the organisation.  
 - Correlate **survey scores, job satisfaction, and performance** with attrition.  
 - Provide **data-driven insights** to reduce employee turnover.
 
@@ -1498,10 +1533,12 @@ This Tableau project provides a detailed analysis of **employee attrition and re
 
 
 ## 🧰 Tools Used  
-- Tableau – Dashboard design and analysis  
-- Excel – Employee survey and HR data  
-- Calculated Fields – Attrition Rate, Performance Rating, Satisfaction Index  
-- Heatmaps & Donut Charts – for demographics and department visuals  
+- **Tableau** for visualization  
+- **Mapbox Integration** for geographic insights  
+- **Calculated Fields** for profitability ratios  
+- **ETL (Excel/SQL)** for data preprocessing
+- **Filters & Parameters** for dynamic insights
+- **Heatmaps & Donut Charts** – for demographics and department visuals
 
 
 **Dashboard Preview**  
@@ -1526,7 +1563,7 @@ The **Sales Performance Dashboard** provides a consolidated view of key retail m
 ### **What this shows**
 - **Overview KPIs:** Sales, profit, orders, and margin %.  
 - **Sales by Region:** Bar chart comparing revenue across Central, West, East, and South.  
-- **Profit by Category:** Visualization of high and low-margin product categories.
+- **Profit by Category:** Visualisation of high and low-margin product categories.
 - **Sales Over Time:** Line + area chart visualizing monthly sales trends.  
 - **Sales vs Profit by Category:** Category-wise breakdown highlighting margins.  
 - **Top 10 Products by Sales:** Horizontal bar chart showing best-performing products.
@@ -1555,10 +1592,11 @@ The dashboard enabled management to identify **regional strengths, low-margin pr
 
 
 ## 🧰 Tools Used  
-- Tableau – Data visualization and KPI dashboards  
-- Excel – Data preparation and source file  
-- Filters – Region, Category, Order Date  
-- Calculated Fields – Profit Margin, Total Sales  
+- **Tableau** for visualization  
+- **Mapbox Integration** for geographic insights  
+- **Calculated Fields** for profitability ratios  
+- **ETL (Excel/SQL)** for data preprocessing
+- **Filters & Parameters** for dynamic insights
 
 
 **Dashboard Preview**  
@@ -1608,17 +1646,19 @@ It helps retail managers quickly track performance by region, category, and time
 
 ## 🚀 Outcome  
 - This dual-view dashboard enhanced visibility into **store-level and customer-level performance**, enabling informed decisions for **marketing, inventory, and regional strategy**.
-- Enabled executives to identify trends and optimize resource allocation.  
+- Enabled executives to identify trends and optimise resource allocation.  
 - Strengthened business forecasting and sales planning processes.
 
 
 ## 🧰 Tools Used  
-- Tableau – Dashboard creation and interactivity  
-- Excel – Source data (Sales & Orders)  
-- Parameters & Filters – for region, category, and time  
-- Dual Dashboards – Executive View & Table View  
+- **Tableau** for visualization  
+- **Mapbox Integration** for geographic insights  
+- **Calculated Fields** for profitability ratios  
+- **ETL (Excel/SQL)** for data preprocessing
+- **Filters & Parameters** for dynamic insights
+- **Dual Dashboards** – Executive View & Table View
 
-
+  
 **Dashboard Preview**  
 <img width="1592" height="855" alt="Screenshot 2025-10-11 154925" src="https://github.com/user-attachments/assets/56466629-4a6e-41cd-8aa5-9edb17f45341" />
 <img width="1597" height="855" alt="Screenshot 2025-10-11 155027" src="https://github.com/user-attachments/assets/14897827-3ca7-4f4d-bd79-ee2fd99c9f99" />
@@ -1629,12 +1669,12 @@ It helps retail managers quickly track performance by region, category, and time
 *What is the Diversity of Harry Potter Characters?*
 [← Previous](#6--just-store) • [Back to TOC](#-main-table-of-contents) 
 
-![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau) – for data visualization and dashboard design
+![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau) – for data visualisation and dashboard design
 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel) – for basic data cleaning and file preparation  
 
 
 ## 🧩 Project Overview  
-This Tableau visualization explores **gender diversity and dialogue distribution** among 140 characters from the Harry Potter universe.  
+This Tableau visualisation explores **gender diversity and dialogue distribution** among 140 characters from the Harry Potter universe.  
 It highlights how male and female characters differ in representation, speaking time, and word count across Hogwarts houses.
 
 
@@ -1642,14 +1682,14 @@ It highlights how male and female characters differ in representation, speaking 
 ## 🔍 **Focus:** Gender Diversity | House Distribution | Dialogue Analysis | Character Representation  
 
 ### **What this shows**
-- **Overview KPIs:** Total characters analyzed and gender ratio.
+- **Overview KPIs:** Total characters analysed and gender ratio.
 - **Gender Distribution:** Comparison of male vs female representation across all houses - 90 (64.3%) male vs 49 (35%) female characters.  
 - **House Analysis:** Bar chart showing gender split per house (Gryffindor, Slytherin, Ravenclaw, Hufflepuff)- Ravenclaw shows the highest ratio of female students, while Gryffindor and Slytherin remain male-dominated.   
 - **Dialogue Insights:** Scatter plot comparing sentence count and average words per character-
   - Males speak the most overall (more characters).  
   - Females average **more words per sentence** and occasionally **more words per character**.  
-- **Dialogue Volume:** Scatterplot visualization of total sentences vs average words per character.   
-- **Top Speakers:** Ranking of characters with most dialogue (e.g., Harry, Hermione, Snape).
+- **Dialogue Volume:** Scatterplot visualisation of total sentences vs average words per character.   
+- **Top Speakers:** Ranking of characters with the most dialogue (e.g., Harry, Hermione, Snape).
   - **Harry Potter** leads in dialogue volume.  
   - **Hermione Granger** and **Snape** stand out for consistent, high speaking frequency.
 - **Insight:** Highlights gender imbalances, dialogue richness, and representation trends across the series.  
@@ -1673,7 +1713,7 @@ It highlights how male and female characters differ in representation, speaking 
 
 
 ## 🚀 Outcome  
-Delivered a creative, storytelling Tableau dashboard that combines **data visualization with narrative context**, offering an engaging perspective on diversity and character prominence in fiction.
+Delivered a creative, storytelling Tableau dashboard that combines **data visualisation with narrative context**, offering an engaging perspective on diversity and character prominence in fiction.
 
 
 ## 📈 Visualizations
@@ -1686,7 +1726,7 @@ Delivered a creative, storytelling Tableau dashboard that combines **data visual
 
 
 ## 🧰 Tools Used  
-- **Tableau** – Data visualization and storytelling design  
+- **Tableau** – Data visualisation and storytelling design  
 - **Excel** – Character and dialogue dataset  
 - **Image Annotations** – Character portraits for context  
 - **Calculated Fields** – Word count ratios, gender splits, average speech metrics  
@@ -1750,7 +1790,7 @@ Build a series of **PostgreSQL analytical queries** to track retention, performa
 - **Retention Analysis:** Tracks employee tenure, turnover rates per department, and reasons for leaving.  
 - **Performance Evaluation:** Highlights top performers and high-risk employees based on review averages.  
 - **Salary Review:** Compares average pay across job titles and departments, and detects high earners.  
-- **Equity Insights:** Analyzes how performance aligns with compensation for fairness benchmarking.  
+- **Equity Insights:** Analyses how performance aligns with compensation for fairness benchmarking.  
 - **Outcome:** Empowers HR to target engagement initiatives and reward systems backed by data.  
 
 
@@ -1920,6 +1960,13 @@ GROUP BY d.department_name
 ORDER BY avg_performance_score DESC;
 ```
 
+## 🧰 Tools Used  
+- **PostgreSQL** for querying and analysing HR and sales data  
+- **SQL Joins & CTEs** for relational data analysis  
+- **Aggregation Functions** for performance metrics  
+- **Database Design** for efficient data organization  
+
+
 📸 <img width="667" height="214" alt="Screenshot 2025-07-29 021806" src="https://github.com/user-attachments/assets/b1ceb71a-c4de-492d-b6d2-686b7ce0c8f3" />
 
 <h2></h2>
@@ -1931,7 +1978,7 @@ ORDER BY avg_performance_score DESC;
 
 
 ### 🧩 Problem Statement  
-Lewis’ retail database captured detailed order and product data but lacked pricing consistency, missing values, and sales insight. Management needed to:  
+Lewis’s retail database captured detailed order and product data but lacked pricing consistency, missing values, and sales insight. Management needed to:  
 - Understand **revenue by product category**,  
 - Apply **tiered discount logic**, and  
 - Identify **top-selling products** and overall order patterns.  
@@ -1957,7 +2004,7 @@ Design **SQL queries** to calculate total and discounted revenue, detect missing
 - **Order Volume:** Tracks total number of orders and activity by year.  
 - **Top Sellers:** Lists best-selling products and total quantities ordered.  
 - **Unpurchased Items:** Detects products that never sold, returning friendly fallback text.  
-- **Outcome:** Provides reliable pricing, discount, and sales data for business optimization.  
+- **Outcome:** Provides reliable pricing, discount, and sales data for business optimisation.  
 
 
 **🔎 SQL Analytics**  
@@ -1967,7 +2014,7 @@ Design **SQL queries** to calculate total and discounted revenue, detect missing
 **Business rule:**  
 - 10% discount if **Price > 100**  
 - 5% discount if **50 ≤ Price ≤ 100**  
-- Otherwise no discount
+- Otherwise, no discount
 
 ```sql
 -- A) Baseline (no discount)
@@ -2011,7 +2058,7 @@ join products on orders. "ProductID" = products. "ProductID";
 ```
 <img width="222" height="101" alt="Screenshot 2025-10-11 175928" src="https://github.com/user-attachments/assets/bd73b852-a5d2-4a90-95cc-4d4e51827c0d" />
 
-**Q3) How many orders were placed in 2015**
+**Q3) How many orders were placed in 2015?**
 ```sql
 select count(distinct "OrderID")
 from orders
@@ -2021,7 +2068,7 @@ where cast("OrderDate" as date) between '2015-01-01' and '2015-12-31';
 
 **Q4) Top-selling product in 2015 (by quantity)**
 ```sql
-select "ProductName","ProductCategory", best."TotalQty"
+select "ProductName", "ProductCategory", best."TotalQty"
 from products
 join (select "ProductID",sum("Quantity") as "TotalQty"
 from orders
@@ -2050,6 +2097,14 @@ where "ProductID" not in (
 	select distinct "ProductID" from orders
 );
 ```
+
+## 🧰 Tools Used  
+- **PostgreSQL** for querying and analysing HR and sales data  
+- **SQL Joins & CTEs** for relational data analysis  
+- **Aggregation Functions** for performance metrics  
+- **Database Design** for efficient data organization  
+
+
 <img width="310" height="97" alt="Screenshot 2025-10-11 181023" src="https://github.com/user-attachments/assets/38a8bd1c-13b8-4282-ac99-0a1c62f02342" />
 
 <h2></h2>
@@ -2063,14 +2118,14 @@ where "ProductID" not in (
 
 
 ### 🧩 Problem Statement  
-Alibert Furnitures managed growing product and customer data without analytics to track **pricing, stock, or loyalty trends**. The business needed insights to manage inventory, reward high-spending customers, and forecast monthly sales.  
+Alibert Furniture managed growing product and customer data without analytics to track **pricing, stock, or loyalty trends**. The business needed insights to manage inventory, reward high-spending customers, and forecast monthly sales.  
 
 
 ### 🎯 Project Aim  
 Use SQL to create a **retail intelligence layer** that segments products and customers, manages discounts, and provides visibility into sales performance and stock levels.  
 
 ### 🛠️ Approach  
-- Categorized products by price band (Budget, Mid-Range, Premium) using **CASE logic**.  
+- Categorised products by price band (Budget, Mid-Range, Premium) using **CASE logic**.  
 - Joined fact and dimension tables (`dimproduct`, `dimcustomer`, `factsales`) to unify insights.  
 - Built **CTEs** for customer ranking, loyalty tier classification, and monthly revenue tracking.  
 - Applied **aggregate calculations** to identify high-purchasing customers and best-selling products.  
@@ -2093,7 +2148,7 @@ Use SQL to create a **retail intelligence layer** that segments products and cus
 **Queries to support reporting and insights:**  
 
 **-- Q1) Group Products into Price Categories**
-- *Objective: Categorize products as Budget-Friendly, Mid-Range, or Premium based on unit price.*
+- *Objective: Categorise products as Budget-Friendly, Mid-Range, or Premium based on unit price.*
 ```sql
 SELECT productid, productname, price,
   CASE
@@ -2179,7 +2234,7 @@ HAVING SUM(fs.saleamount) > 3000;
 
 **Q6) Apply 10% Discount to Low-Selling Products**
 *Objective: Reduce price by 10% where total quantity sold < 10*
--- **⚠️ This query updates data. Run in a transaction / test environment first.**
+-- **⚠️ This query updates data. Run in a transaction/test environment first.**
 ```sql
 UPDATE dimproduct
 SET price = price * 0.9
@@ -2239,6 +2294,14 @@ SELECT
   ROUND(AVG(Monthly_Revenue), 2) AS Avg_Monthly_Revenue
 FROM MonthRevenue;
 ```
+
+## 🧰 Tools Used  
+- **PostgreSQL** for querying and analysing HR and sales data  
+- **SQL Joins & CTEs** for relational data analysis  
+- **Aggregation Functions** for performance metrics  
+- **Database Design** for efficient data organization  
+
+
 <img width="290" height="105" alt="Screenshot 2025-10-11 184156" src="https://github.com/user-attachments/assets/ce3f86eb-793b-42c7-9cd3-2ffaff0a4cdb" />
 
 
@@ -2279,7 +2342,7 @@ This disconnected setup causes:
 - **Delayed reporting:** Managers receive weekly or monthly summaries instead of real-time insights.  
 - **Data inconsistency:** Conflicting sales, revenue, and stock figures across departments.  
 - **Limited analytics:** Difficult to identify top-performing products, customer buying trends, or inventory shortages.  
-- **Reactive decision-making:** By the time insights are available, optimization opportunities are missed.  
+- **Reactive decision-making:** By the time insights are available, optimisation opportunities are missed.  
 
 These issues create operational confusion, reduce efficiency, and limit PrimeMart’s ability to compete effectively in a fast-changing retail market.  
 
@@ -2292,10 +2355,10 @@ The goal is to enable **real-time, accurate, and actionable insights** for busin
 ### 🛠️ Project Tasks & Approach  
 
 #### **1. Data Lakehouse Architecture (Medallion Model)**  
-Organize data into structured layers within **Microsoft Fabric OneLake**:  
+Organise data into structured layers within **Microsoft Fabric OneLake**:  
 - **Bronze (Raw):** Ingest daily store sales, inventory updates, and customer feedback files.  
-- **Silver (Cleaned):** Standardize schemas, fix data types, and remove duplicates.  
-- **Gold (Analytics-Ready):** Create relational models optimized for BI dashboards and analytics.  
+- **Silver (Cleaned):** Standardise schemas, fix data types, and remove duplicates.  
+- **Gold (Analytics-Ready):** Create relational models optimised for BI dashboards and analytics.  
 
 #### **2. SQL Analytics (Fabric SQL Endpoint)**  
 Develop and run analytical queries to uncover key retail insights:  
@@ -2305,7 +2368,7 @@ Develop and run analytical queries to uncover key retail insights:
 - 📦 Stock Level Monitoring vs. Sales Volume  
 
 #### **3. Power BI Dashboard Integration**  
-Design **interactive dashboards** directly connected to Fabric datasets to visualize:  
+Design **interactive dashboards** directly connected to Fabric datasets to visualise:  
 - **Revenue trends** by month and store.  
 - **Top-selling categories and products.**  
 - **Low-inventory alerts** vs. current sales demand.  
@@ -2479,13 +2542,20 @@ ORDER BY
     Remaining_Stock ASC;
 ```
 
+## 🧰 Tools Used  
+- **Microsoft Fabric** for unified data analytics workflows  
+- **OneLake & Lakehouse** for data storage and modeling  
+- **Data Factory (Pipelines)** for ETL automation  
+- **SQL Endpoint & Power BI** for analysis and reporting  
+
+
 📊 **Dashboard Preview**  
 📸<img width="1437" height="779" alt="Screenshot 2025-09-28 131014" src="https://github.com/user-attachments/assets/684d5165-2e33-4cdc-8c6b-91181e0d4c64" />
 
 <h2></h2>
 
 ### 2. 🚕 NYC Yellow Taxi  
-*Optimizing Urban Mobility — NYC Yellow Taxi Analytics Dashboard using Fabric*
+*Optimising Urban Mobility — NYC Yellow Taxi Analytics Dashboard using Fabric*
 [← Previous](#1--primemart) • [Back to TOC](#-main-table-of-contents)
 **Company / Context:** Public Data Case Study (NYC Yellow Taxi Dataset)  
 
@@ -2493,19 +2563,19 @@ ORDER BY
 
 
 ### 🧩 Problem Statement  
-The **New York City Yellow Taxi** fleet generates vast amounts of trip and fare data daily, covering millions of rides across all five boroughs. However, this data often remains **underutilized** due to its raw, unstructured format and lack of unified analytics.  
+The **New York City Yellow Taxi** fleet generates vast amounts of trip and fare data daily, covering millions of rides across all five boroughs. However, this data often remains **underutilised** due to its raw, unstructured format and lack of unified analytics.  
 
-Without a centralized analytics pipeline, city planners and transport agencies struggle to:  
+Without a centralised analytics pipeline, city planners and transport agencies struggle to:  
 - Identify **peak travel demand** across time and zones.  
 - Understand **revenue and fare patterns** by route or vendor.  
-- Analyze **passenger behavior**, payment preferences, and trip durations.  
+- Analyse **passenger behaviour**, payment preferences, and trip durations.  
 - Detect **data quality issues** like negative fares or missing values.  
 
-These gaps limit visibility into transportation trends, reduce operational efficiency, and hinder evidence-based decisions for optimizing urban mobility.
+These gaps limit visibility into transportation trends, reduce operational efficiency, and hinder evidence-based decisions for optimising urban mobility.
 
 
 ### 🎯 Project Aim  
-Build a **complete end-to-end data analytics pipeline in Microsoft Fabric** to process, model, and visualize NYC Yellow Taxi trip data — transforming raw trip records into actionable insights that support data-driven transportation planning and revenue optimization.
+Build a **complete end-to-end data analytics pipeline in Microsoft Fabric** to process, model, and visualise NYC Yellow Taxi trip data — transforming raw trip records into actionable insights that support data-driven transportation planning and revenue optimisation.
 
 
 ### 🛠️ Project Tasks & Approach  
@@ -2529,7 +2599,7 @@ Run analytical queries to uncover business insights, including:
 - **Payment method breakdown** and revenue by vendor.  
 - Identify **suspicious or negative fares** for data validation.  
 
-#### **4. Visualization in Power BI**  
+#### **4. Visualisation in Power BI**  
 Build interactive dashboards using **Power BI connected to Fabric** to display:  
 - 🚕 **Trip trends** over time (daily/monthly).  
 - 🗺️ **Pickup and drop-off zones** by borough.  
@@ -2561,8 +2631,8 @@ Core SQL queries used in analysis:
 **What this shows:**  
 - **Trip Frequency & Distance Patterns:** Identifies peak hours, borough traffic patterns, and high-demand pickup/drop-off zones.  
 - **Revenue & Fare Composition:** Breaks down revenue sources, tips, and surcharges by vendor and zone.  
-- **Passenger & Payment Insights:** Analyzes passenger counts, trip lengths, and preferred payment methods.  
-- **Operational Value:** Supports data-driven planning for route optimization, pricing strategy, and service quality improvements.  
+- **Passenger & Payment Insights:** Analyses passenger counts, trip lengths, and preferred payment methods.  
+- **Operational Value:** Supports data-driven planning for route optimisation, pricing strategy, and service quality improvements.  
 - **Outcome:** A fully automated, insight-driven solution built in Microsoft Fabric that empowers better decision-making for transportation stakeholders.  
 
 
@@ -2577,7 +2647,7 @@ Core SQL queries used in analysis:
 - **Top Pickup Zones:** Bar chart highlighting busiest pickup areas.  
 - **Payment Distribution:** Donut chart showing share of card, cash, and other payment types.  
 - **Geographic View:** Global map pinpointing pickup activity.  
-- **Insight:** Provides visibility into NYC trip behavior, top-earning zones, and payment preferences for operational optimization.  
+- **Insight:** Provides visibility into NYC trip behaviour, top-earning zones, and payment preferences for operational optimisation.  
 
 **🔎 SQL Analytics (Fabric SQL Endpoint)**  
 **Queries to support reporting and insights:**  
@@ -2645,6 +2715,13 @@ from nyc_yellow_taxi_enriched
 where fare_amount < 0 or total_amount < 0;
 ```
 
+## 🧰 Tools Used  
+- **Microsoft Fabric** for unified data analytics workflows  
+- **OneLake & Lakehouse** for data storage and modeling  
+- **Data Factory (Pipelines)** for ETL automation  
+- **SQL Endpoint & Power BI** for analysis and reporting  
+
+
 📊 **Dashboard Preview**  
 📸<img width="1383" height="789" alt="Screenshot 2025-09-24 222732" src="https://github.com/user-attachments/assets/fb7e26d4-6a10-4882-835f-097ba1d926ad" />
    <img width="999" height="776" alt="Screenshot 2025-09-27 170038" src="https://github.com/user-attachments/assets/c1593aba-871b-4f96-8c8b-43b79f42bc0a" />
@@ -2666,7 +2743,7 @@ where fare_amount < 0 or total_amount < 0;
 
 ---
 
-These projects explore how I apply **Microsoft Fabric** to build **modern data pipelines and unified analytics environments**, supporting data integration, modeling, and insight delivery.
+These projects explore how I apply **Microsoft Fabric** to build **modern data pipelines and unified analytics environments**, supporting data integration, modelling, and insight delivery.
 
 ---
 
@@ -2706,7 +2783,7 @@ Combine **AI-powered insights** with **visual analytics** to let business users 
 - Built Tableau dashboards to visualise **sales, profit, and discount performance** across categories, subcategories, and regions.  
 - Integrated **ChatGPT via Tableau extensions** for query handling and contextual analysis.  
 - Designed an **interactive analytics layer** to interpret plain-language queries and display visual responses.  
-- Enabled users to explore “why” and “how” questions behind trends — e.g., “Why did profit drop in Central region?”  
+- Enabled users to explore “why” and “how” questions behind trends — e.g., “Why did profit drop in the Central region?”  
 
 
 ### 📊 **Dashboard Focus**
@@ -2745,6 +2822,10 @@ Combine **AI-powered insights** with **visual analytics** to let business users 
 **Step 4 — Recommendations**  
 - Summarised actionable findings supported by AI-enhanced insights  
 - Delivered guidance on **pricing, product assortment, and customer outreach**  
+
+## 🧰 Tools Used  
+- **ChatGPT** for analytics support and storytelling (for AI-driven data insights) 
+- **Prompt Engineering** for enhancing data exploration  
 
 
 📊 **Dashboard Preview**  
