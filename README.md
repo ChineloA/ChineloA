@@ -547,7 +547,7 @@ Enabled Tri-Fleet’s management team to **analyse global sales performance**, u
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-19 233508](https://github.com/user-attachments/assets/d851f5ae-ee1d-4f90-9d6c-b1b2356283cf)
 
-### 🔗 [View Interactive Dashboard on Power BI Service →](
+### 🔗 [View Interactive Dashboard on Power BI Service →](https://app.fabric.microsoft.com/reportEmbed?reportId=011ec3a0-5500-40ea-9b5d-5d1ad8f869c5&autoAuth=true&ctid=ff0f3e3a-3e53-454f-b2b5-6c68753b8ee4)
 
 <h2></h2>
 
@@ -2598,6 +2598,8 @@ ORDER BY
 📊 **Dashboard Preview**  
 📸<img width="1437" height="779" alt="Screenshot 2025-09-28 131014" src="https://github.com/user-attachments/assets/684d5165-2e33-4cdc-8c6b-91181e0d4c64" />
 
+### [🔗 View Interactive Report on Microsoft Fabric](https://app.fabric.microsoft.com/reportEmbed?reportId=db752a12-4f89-4898-9acb-5520c34cb2f5&autoAuth=true&ctid=ff0f3e3a-3e53-454f-b2b5-6c68753b8ee4)
+
 <h2></h2>
 
 ### 2. 🚕 NYC Yellow Taxi  
@@ -2771,6 +2773,9 @@ where fare_amount < 0 or total_amount < 0;
 📊 **Dashboard Preview**  
 📸<img width="1383" height="789" alt="Screenshot 2025-09-24 222732" src="https://github.com/user-attachments/assets/fb7e26d4-6a10-4882-835f-097ba1d926ad" />
    <img width="999" height="776" alt="Screenshot 2025-09-27 170038" src="https://github.com/user-attachments/assets/c1593aba-871b-4f96-8c8b-43b79f42bc0a" />
+
+### [🔗 View Interactive Report on Microsoft Fabric](https://app.fabric.microsoft.com/reportEmbed?reportId=fe2c83d9-feb8-4441-821f-f7e5bd32d5f0&autoAuth=true&ctid=ff0f3e3a-3e53-454f-b2b5-6c68753b8ee4)
+
 
 
 **✅ Rationale & Outcomes**
