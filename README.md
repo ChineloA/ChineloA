@@ -486,7 +486,7 @@ The dashboard empowered fleet managers to **reduce downtime, control costs**, an
 
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-25 161711](https://github.com/user-attachments/assets/ee57c7a6-8e41-450e-bcf8-4c738916fb3f)
-🔗 [View Interactive Dashboard (Power BI Service)]([https://app.powerbi.com/view?r=your-link-here](https://app.powerbi.com/groups/me/reports/c41cb75e-eab0-4a70-a4a4-ba5a3a36b2c1/bfc76170981f6a731045?experience=power-bi))
+### 🔗 [View Interactive Dashboard on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiOGFhYzFkZjUtMGZiNS00YzE5LThiYzMtMWVhYTIyNmE4NTc0IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
 
 
 <h2></h2>
