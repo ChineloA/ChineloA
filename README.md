@@ -180,7 +180,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 <a id="ai-projects"></a>
 ### 🤖 ChatGPT & AI-Powered Analytics Projects  
 - [🔌 FusionPoint (ChatGPT)](#1--fusionpoint-chatgpt)
-- [🧾 Sales Analysis (Kimi AI + ChatGPT)](#sales-analysis-kimi)
+- [🧾 Sales Analysis (Kimi AI + ChatGPT)](#-sales-analysis-with-kimi-ai--chatgpt)
 
 
 
