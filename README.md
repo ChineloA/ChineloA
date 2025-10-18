@@ -173,10 +173,14 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 &nbsp;
 
 ![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff)
+![ChatGPT & AI Tools](https://img.shields.io/badge/ChatGPT%20%26%20AI%20Tools-Powered-00A67E?style=plastic&logo=openai&logoColor=ffffff)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-Analytics-7B61FF?style=plastic&logo=openai&logoColor=ffffff)
+
 
 <a id="ai-projects"></a>
 ### 🤖 ChatGPT & AI-Powered Analytics Projects  
-- [🔌 FusionPoint (ChatGPT)](#1--fusionpoint-chatgpt)  
+- [🔌 FusionPoint (ChatGPT)](#1--fusionpoint-chatgpt)
+- [🧾 Sales Analysis (Kimi AI + ChatGPT)](#sales-analysis-kimi)
 
 
 
@@ -2807,7 +2811,10 @@ These projects explore how I apply **Microsoft Fabric** to build **modern data p
 
 ### 1. 🔌 FusionPoint (ChatGPT)  
 *FusionPoint Industries — AI-assisted Tableau dashboards for sales trends & profitability*  
-[Back to TOC](#-main-table-of-contents)  
+[Back to TOC](#-main-table-of-contents) • [Next →](#-sales-analysis-with-kimi-ai--chatgpt)
+
+![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff)
+
 **Company / Context:** FusionPoint Industries (Consumer Electronics) 
 
 ![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff)![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
@@ -2878,10 +2885,64 @@ Combine **AI-powered insights** with **visual analytics** to let business users 
    <img width="1586" height="846" alt="Screenshot 2025-10-03 180005" src="https://github.com/user-attachments/assets/840c434a-736a-4b4b-9533-760e89e51828" />
    <img width="1584" height="848" alt="Screenshot 2025-10-03 180023" src="https://github.com/user-attachments/assets/993b403e-8538-4365-b347-ec1b736a43cb" />
 
+<h2></h2>
+
+### 💼 Sales Analysis with Kimi AI & ChatGPT  
+*Project Type: AI-Assisted Data Cleaning, Analysis & Presentation Generation* 
+[Back to TOC](#-main-table-of-contents)  
+
+![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff)
+
+**Project Type**: AI-Assisted Data Cleaning, Analysis & Presentation Generation
+
+### 🧩 Project Overview  
+This project demonstrates how **Kimi AI** and **ChatGPT** were used to automate data cleaning, regional and product analysis, and presentation generation.  
+The analysis explores **sales performance across four regions and seven product categories** (Jan–Jun 2024), highlighting how AI tools can simplify complex analytical workflows — from **data preparation to automated insight delivery**.
+
+
+### 🧰 Tools Used  
+- **ChatGPT** for prompt design, workflow guidance, and narrative generation  
+- **Kimi AI** for dataset cleaning, summarization, and visualization  
+- **Excel / CSV** for raw and structured data handling  
+- **Python (Kimi backend)** for AI-assisted transformations  
+- **PDF & Web Output** for report presentation  
+
+
+### 📊 Key Insights  
+- 📈 **Total Revenue:** $59.89M | **Total Profit:** $14.99M  
+- 🌍 The **East Region** dominated both revenue and profit share  
+- 🧭 **Q2 outperformed Q1 by 2.0%**, showing steady momentum  
+- 🎧 **Headphones** had the highest profit margin (**25.9%**)  
+- ⚙️ Dataset verified — **no missing or duplicate records**
+
+
+### 📁 Project Files  
+📊 [Sales Dataset (Raw)](Sales_dataset.xlsx)  
+🧹 [Cleaned Dataset](sales_cleaned.csv)  
+🌍 [Regional Analysis](regional_analysis.csv)  
+🛍️ [Product Analysis](product_analysis.csv)  
+📑 [AI-Generated Sales Analysis Presentation (PDF)](Sales_Analysis_Presentation.pdf)  
+
+
+### 🌐 View the Full AI-Generated Web Report  
+🔗 [Open Interactive Web Presentation](https://6t5qkotgkc6mi.ok.kimi.link/)  
+
+
+### 🧠 AI Involvement  
+This project was developed collaboratively using:  
+- **ChatGPT** — for designing the analytical prompt used to guide Kimi AI, and for generating the insight narrative and structure  
+- **Kimi AI** — for executing data cleaning, performing the regional and product analyses, and generating the presentation  
+- **Generative AI Workflows** — for producing structured data outputs and automating documentation  
+
+
+### 💬 Summary  
+This project highlights the evolving role of **AI copilots** in analytics — automating manual processes, improving data accuracy, and accelerating storytelling.  
+By combining **ChatGPT**’s prompt engineering and workflow design with **Kimi AI’s automation capabilities**, data preparation and reporting were completed in a fraction of the time — delivering clean datasets, clear insights, and a ready-to-share presentation.
+
 
 ---
 
-These projects illustrate how I use **AI tools like ChatGPT** to **enhance analytical workflows**, automate documentation, and support creative insight generation in data analysis.
+These projects illustrate how I use **AI tools** to **enhance analytical workflows**, automate documentation, and support creative insight generation in data analysis.
 
 ---
 
