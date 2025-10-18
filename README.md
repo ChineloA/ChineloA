@@ -2769,13 +2769,17 @@ These projects illustrate how I use **AI tools like ChatGPT** to **enhance analy
 
 
 ---
+<br>
 
-## 📌 Learning Journey
+## 📌 Learning Journey  
 
-I began with **DiveAfrica** and advanced through **10Alytics**, where I completed practical projects in Excel and Power BI. I’ve since built dashboards using real and simulated business data to improve my analytical thinking and storytelling.
+I began my data journey with **DiveAfrica**, where I was introduced to data analysis using **Excel** and **Power BI**.  
+Building on that foundation, I advanced through a **comprehensive 6-month Data Analytics programme with 10Alytics**, where I deepened my knowledge and learned to use additional tools such as **SQL, Tableau, Microsoft Fabric, ERD Modeling, and ChatGPT for data storytelling**.  
+
+I’m currently gaining real-world experience as a **Data Analytics Intern with Amdari**, a sister company of 10Alytics, where I apply my skills to practical business projects and collaborative analytics solutions.
 
 ---
-
+<br>
 ## 📫 Let’s Connect  
 
 <p align="center">
