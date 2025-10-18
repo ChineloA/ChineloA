@@ -1374,6 +1374,8 @@ A Tableau dashboard analysing **sales, profit, and delivery performance** for a 
 📸<img width="1602" height="859" alt="Screenshot 2025-08-31 121647" src="https://github.com/user-attachments/assets/1cd39d69-dec7-4a7b-b93b-37ce437a765c" />
   <img width="1593" height="857" alt="Screenshot 2025-08-31 121806" src="https://github.com/user-attachments/assets/016d0d1d-9cfb-44f4-b1ad-4e7b6e13cf54" />
 
+🔗 [View Live Dashboard on Tableau Public](https://public.tableau.com/views/ChocoDeLuxe_17607565879410/MainView?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 <h2></h2>
 
 ### 2. 🔌FusionPoint  
@@ -1454,6 +1456,8 @@ Provided actionable insights for **inventory optimisation, pricing strategy**, a
    <img width="1586" height="846" alt="Screenshot 2025-10-03 180005" src="https://github.com/user-attachments/assets/840c434a-736a-4b4b-9533-760e89e51828" />
    <img width="1584" height="848" alt="Screenshot 2025-10-03 180023" src="https://github.com/user-attachments/assets/993b403e-8538-4365-b347-ec1b736a43cb" />
 
+🔗 [View Live Dashboard on Tableau Public](https://public.tableau.com/views/FusionPointIndustries_17607564219740/ExecutiveSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 <h2></h2>
 
 ### 3. 🏢 Elevate Corp  
@@ -1512,6 +1516,8 @@ It provides leadership with a comprehensive view of **salary trends, benefits di
 
 **Dashboard Preview**
 📸<img width="1601" height="863" alt="Screenshot 2025-10-11 155536" src="https://github.com/user-attachments/assets/b3403321-08b1-4ee7-9d23-98c38a729dd4" />
+
+🔗 [View Live Dashboard on Tableau Public](https://public.tableau.com/views/ElevateCorp_17607565868730/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <h2></h2>
 
@@ -1573,6 +1579,8 @@ This Tableau project provides a detailed analysis of **employee attrition and re
 **Dashboard Preview**  
 📸<img width="1571" height="876" alt="Screenshot 2025-10-11 155600" src="https://github.com/user-attachments/assets/1dc7a24a-9efd-4ff3-be9a-70b26f21b5c7" />
 
+🔗 [View Live Dashboard on Tableau Public](https://public.tableau.com/views/HRAttrition_17607566490790/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 <h2></h2>
 
 ### 5. 🛒 Sales Performance
@@ -1631,6 +1639,8 @@ The dashboard enabled management to identify **regional strengths, low-margin pr
 **Dashboard Preview**  
 <img width="1593" height="855" alt="Screenshot 2025-10-11 155344" src="https://github.com/user-attachments/assets/2c48f3a5-6807-488e-9066-9442577494fb" />
 <img width="1599" height="861" alt="Screenshot 2025-10-11 155400" src="https://github.com/user-attachments/assets/cd5a65d3-8568-4d48-92bb-55282f552f53" />
+
+🔗 [View Live Dashboard on Tableau Public](https://public.tableau.com/views/SalesPerformance_17607567127320/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <h2></h2>
 
@@ -1691,6 +1701,8 @@ It helps retail managers quickly track performance by region, category, and time
 **Dashboard Preview**  
 <img width="1592" height="855" alt="Screenshot 2025-10-11 154925" src="https://github.com/user-attachments/assets/56466629-4a6e-41cd-8aa5-9edb17f45341" />
 <img width="1597" height="855" alt="Screenshot 2025-10-11 155027" src="https://github.com/user-attachments/assets/14897827-3ca7-4f4d-bd79-ee2fd99c9f99" />
+
+🔗 [View Live Dashboard on Tableau Public](https://public.tableau.com/shared/8GXHBG9Q6?:display_count=n&:origin=viz_share_link)
 
 <h2></h2>
 
@@ -1764,6 +1776,7 @@ Delivered a creative, storytelling Tableau dashboard that combines **data visual
 ## 📷 Dashboard Preview
 <img width="790" height="869" alt="Screenshot 2025-10-13 031125" src="https://github.com/user-attachments/assets/8a8e23da-d27b-4d9c-a5c9-cbe75aca3f87" />
 
+🔗 [View Live Dashboard on Tableau Public](https://public.tableau.com/views/HarryPotter_17607561004090/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ---
