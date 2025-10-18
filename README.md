@@ -2903,6 +2903,12 @@ This project demonstrates how **Kimi AI** and **ChatGPT** were used to automate 
 The analysis explores **sales performance across four regions and seven product categories** (Jan–Jun 2024), highlighting how AI tools can simplify complex analytical workflows — from **data preparation to automated insight delivery**.
 
 
+**🛠️ Approach**
+- Automated checks improved data reliability by identifying and resolving quality issues  
+- Top products and regions surfaced via AI-assisted analysis and summaries  
+- Executive-ready presentation generated from the cleaned outputs
+
+  
 ### 🧰 Tools Used  
 - **ChatGPT** for prompt design, workflow guidance, and narrative generation  
 - **Kimi AI** for dataset cleaning, summarization, and visualization  
@@ -2920,11 +2926,13 @@ The analysis explores **sales performance across four regions and seven product 
 
 
 ### 📁 Project Files  
-📊 [Sales Dataset (Raw)](Sales_dataset.xlsx)  
-🧹 [Cleaned Dataset](sales_cleaned.csv)  
-🌍 [Regional Analysis](regional_analysis.csv)  
-🛍️ [Product Analysis](product_analysis.csv)  
-📑 [AI-Generated Sales Analysis Presentation (PDF)](Sales_Analysis_Presentation.pdf)  
+- [📊 Original Sales Dataset (Excel)](https://github.com/ChineloA/ChineloA/blob/main/Sales_dataset.xlsx)  
+- [🧹 Cleaned Dataset (CSV)](https://github.com/ChineloA/ChineloA/blob/main/sales_cleaned.csv)  
+- [🌍 Regional Analysis Dataset (CSV)](https://github.com/ChineloA/ChineloA/blob/main/regional_analysis.csv)  
+- [🛍️ Product Analysis Dataset (CSV)](https://github.com/ChineloA/ChineloA/blob/main/product_analysis.csv)  
+- [📑 Project Presentation (PDF)](https://github.com/ChineloA/ChineloA/blob/main/Sales_Analysis_Presentation.pdf)
+<sub>💡 Tip: To allow direct downloads, replace `blob` with `raw` in the file URLs.</sub>
+
 
 
 ### 🌐 View the Full AI-Generated Web Report  
