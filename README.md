@@ -174,8 +174,8 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 ![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff)
 
-<a id="chatgpt-projects"></a>
-### 🤖 ChatGPT + Tableau Projects  
+<a id="ai-projects"></a>
+### 🤖 ChatGPT & AI-Powered Analytics Projects  
 - [🔌 FusionPoint (ChatGPT)](#1--fusionpoint-chatgpt)  
 
 
@@ -2789,7 +2789,7 @@ These projects explore how I apply **Microsoft Fabric** to build **modern data p
 
 ---
 
-🔙 **[Back to Portfolio Home](#toc)** | 🔗 **[Next: ChatGPT / AI Projects →](#chatgpt-projects)**   
+🔙 **[Back to Portfolio Home](#toc)** | 🔗 **[Next: ChatGPT / AI Projects →](#AI-Projects)**   
 💫 *Transforming data into stories that inspire smarter decisions.*
 
 
@@ -2799,7 +2799,7 @@ These projects explore how I apply **Microsoft Fabric** to build **modern data p
 ---
 <br><br>
 
-# 🤖![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff) ChatGPT + Tableau Projects  
+# 🤖![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff) ChatGPT & AI-Powered Analytics Projects 
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Fabric Projects](#-microsoft-fabric-projects)  
 
