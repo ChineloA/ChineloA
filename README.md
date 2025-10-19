@@ -185,6 +185,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 
 ---
+
 <br><br>
 
 ## 📑  Excel Projects ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoftexcel&logoColor=ffffff)
@@ -439,6 +440,7 @@ Enhanced visibility into customer behaviour, improved monitoring of betting acti
 
 
 ---
+
 <br><br>
 
 ## 🔷 Power BI Projects ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi&logoColor=000000) 
@@ -1222,7 +1224,11 @@ The dashboard provides a comprehensive view of:
 
 ---
 
+<br>
+
  ***These projects demonstrate my approach to data storytelling and insight generation, using Power BI to transform raw operational data into clear, actionable insights through interactive dashboards.***
+
+<br>
 
 ---
 
@@ -1233,6 +1239,7 @@ The dashboard provides a comprehensive view of:
 
 
 ---
+
 <br><br>
 
 ## 📝 Draw.io (ERD / Data Modelling) ![ERD Modelling](https://img.shields.io/badge/Tool-ERD%20Modeling-FF6F00?style=plastic&logo=diagramsdotnet&logoColor=ffffff)  
@@ -1311,7 +1318,11 @@ Enabled the hospital to **build a robust analytics layer** for Power BI and Tabl
 
 ---
 
+<br>
+
 ***These projects showcase my approach to data architecture and relational modelling, using Draw.io to visualise database structures and analytical frameworks that enable clear, efficient, and scalable insights design.***
+
+<br>
 
 ---
 
@@ -1322,6 +1333,7 @@ Enabled the hospital to **build a robust analytics layer** for Power BI and Tabl
 
 
 ---
+
 <br><br>
 
 ## 📊 Tableau Projects ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau&logoColor=ffffff) 
@@ -1807,7 +1819,11 @@ Delivered a creative, storytelling Tableau dashboard that combines **data visual
 
 ---
 
+<br>
+
 ***These projects showcase my ability to turn complex datasets into visual stories using Tableau — combining interactivity and design to help stakeholders explore trends, uncover insights, and make data-driven decisions effortlessly.***
+
+<br>
 
 ---
 
@@ -1818,6 +1834,7 @@ Delivered a creative, storytelling Tableau dashboard that combines **data visual
 
 
 ---
+
 <br><br>
 
 ## 🗄 SQL / Database Projects ![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql&logoColor=ffffff) 
@@ -2380,7 +2397,11 @@ FROM MonthRevenue;
 
 ---
 
+<br>
+
 ***These projects demonstrate how I use SQL and database design principles to extract, model, and analyse data, creating a solid foundation for performance insights and reporting — strengthening the analytical backbone of business intelligence solutions.***
+
+<br>
 
 ---
 
@@ -2391,6 +2412,7 @@ FROM MonthRevenue;
 
 
 ---
+
 <br><br>
 
 ## 🧱 Microsoft Fabric Projects ![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft&logoColor=ffffff) 
@@ -2825,7 +2847,11 @@ where fare_amount < 0 or total_amount < 0;
 
 ---
 
+<br>
+
 ***These projects explore how I apply Microsoft Fabric to build modern data pipelines and unified analytics environments — supporting data integration, modelling, and efficient insight delivery.***
+
+<br>
 
 ---
 
@@ -2837,6 +2863,7 @@ where fare_amount < 0 or total_amount < 0;
 
 
 ---
+
 <br><br>
 
 ## 🤖 ChatGPT & AI-Powered Analytics Projects ![ChatGPT & AI Tools](https://img.shields.io/badge/ChatGPT%20%26%20AI%20Tools-Powered-00A67E?style=plastic&logo=openai&logoColor=ffffff) ![Generative AI](https://img.shields.io/badge/Generative%20AI-Analytics-7B61FF?style=plastic&logo=openai&logoColor=ffffff)
@@ -2994,7 +3021,11 @@ By combining **ChatGPT’s prompt engineering** with **Kimi AI’s automation**,
 
 ---
 
+<br>
+
 ***These projects illustrate how I leverage AI tools to enhance analytical workflows, automate documentation, and generate actionable insights that support data-driven decision-making.***
+
+<br>
 
 ---
 
@@ -3006,7 +3037,8 @@ By combining **ChatGPT’s prompt engineering** with **Kimi AI’s automation**,
 
 
 ---
-<br>
+
+<br><br>
 
 ## 📌 Learning Journey  
 
@@ -3017,7 +3049,8 @@ I also completed a **1-month course in Generative AI**, learning to use **N8N**,
 
 
 ---
-<br>
+
+<br><br>
 
 ## 📫 Let’s Connect  
 
