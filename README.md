@@ -423,7 +423,11 @@ Enhanced visibility into customer behaviour, improved monitoring of betting acti
 
 ---
 
+<br>
+
 ***These projects highlight how I use Excel for data analysis, visualisation, and performance tracking — transforming raw spreadsheets into meaningful business insights.***
+
+<br>
 
 ---
 
