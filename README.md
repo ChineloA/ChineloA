@@ -1,12 +1,12 @@
 # 📊 Data Analytics Portfolio – Chinelo Agumagu
 
-<p align="center">💫 <b>Transforming data into stories that inspire smarter decisions.</i></b></p>
-
+<p align="center">💫 <b><i>Transforming data into stories that inspire smarter decisions.</i></b></p>
 
 ---
+
 <br>
 
-## 1. 👩‍💻 About Me | Data Analyst & Insight Catalyst  
+## 1. 🙋‍♀️ About Me | Data Analyst & Insight Catalyst  
 
 👋 Hi, I'm **Nelo** — a data analyst passionate about transforming raw information into clear, actionable insights.  
 
