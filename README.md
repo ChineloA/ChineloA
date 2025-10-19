@@ -187,8 +187,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 ---
 <br><br>
 
-## 📑  Excel Projects 
-![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoftexcel&logoColor=ffffff)
+## 📑  Excel Projects ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoftexcel&logoColor=ffffff)
 
 *These projects demonstrate how I use Excel for data analysis, visualisation, and performance tracking — transforming raw spreadsheets into clear, actionable business insights.*
 
@@ -438,11 +437,14 @@ Enhanced visibility into customer behaviour, improved monitoring of betting acti
 ---
 <br><br>
 
-# 🔷![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi&logoColor=000000) Power BI Projects  
+## 🔷 Power BI Projects ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi&logoColor=000000) 
+
+*These projects showcase how I use Power BI to transform operational data into dynamic, interactive dashboards that drive data storytelling and informed decision-making.*
+
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏭ Jump to Excel Projects](#-excel-projects) 
 
-*These projects showcase how I use Power BI to transform operational data into dynamic, interactive dashboards that drive data storytelling and informed decision-making.*
+
 
 <br>
 
@@ -1229,12 +1231,14 @@ The dashboard provides a comprehensive view of:
 ---
 <br><br>
 
-# 📝![ERD Modelling](https://img.shields.io/badge/Tool-ERD%20Modeling-FF6F00?style=plastic&logo=diagramsdotnet&logoColor=ffffff) Draw.io (ERD / Data Modelling)   
-*Entity Relationship Diagram (ERD) — Healthcare data modelling with Draw.io*  
+## 📝 Draw.io (ERD / Data Modelling) ![ERD Modelling](https://img.shields.io/badge/Tool-ERD%20Modeling-FF6F00?style=plastic&logo=diagramsdotnet&logoColor=ffffff)  
+
+*These projects highlight how I use Draw.io to design process flows, data models, and visual frameworks that simplify complex systems and support strategic analysis.*
+
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Excel Projects](#-excel-projects) • [⏭ Jump to Tableau Projects](#-tableau-projects) 
 
-*These projects highlight how I use Draw.io to design process flows, data models, and visual frameworks that simplify complex systems and support strategic analysis.*
+
 
 <br>
 
@@ -1316,11 +1320,14 @@ Enabled the hospital to **build a robust analytics layer** for Power BI and Tabl
 ---
 <br><br>
 
-# 📊![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau&logoColor=ffffff) Tableau Projects  
+## 📊 Tableau Projects ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau&logoColor=ffffff) 
+
+*These projects reflect how I use Tableau to build visually compelling dashboards that uncover trends, enhance data storytelling, and support data-driven strategies.*
+
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Drawio Projects](#-drawio-erd--data-modeling) • [⏭ Jump to SQL Projects](#-sql--database-projects)  
 
-*These projects reflect how I use Tableau to build visually compelling dashboards that uncover trends, enhance data storytelling, and support data-driven strategies.*
+
 
 <br>
 
@@ -1809,11 +1816,14 @@ Delivered a creative, storytelling Tableau dashboard that combines **data visual
 ---
 <br><br>
 
-# 🗄![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql&logoColor=ffffff) SQL / Database Projects  
+## 🗄 SQL / Database Projects ![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql&logoColor=ffffff) 
+
+*These projects demonstrate how I use SQL to query, clean, and analyse structured datasets — building the foundation for efficient data pipelines and analytics.*
+
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Tableau Projects](#-tableau-projects) • [⏭ Jump to Fabric Projects](#-microsoft-fabric-projects)
 
-*These projects demonstrate how I use SQL to query, clean, and analyse structured datasets — building the foundation for efficient data pipelines and analytics.*
+
 
 <br>
 
@@ -2379,11 +2389,13 @@ FROM MonthRevenue;
 ---
 <br><br>
 
-# 🧱![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft&logoColor=ffffff) Microsoft Fabric Projects  
+## 🧱 Microsoft Fabric Projects ![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft&logoColor=ffffff) 
+
+*These projects explore how I apply Microsoft Fabric to create unified data pipelines, integrate diverse data sources, and deliver end-to-end analytical insights.*
+
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to SQL Projects](#-sql--database-projects) • [⏭ Jump to ChatGPT Projects](#-chatgpt--tableau-projects)
 
-*These projects explore how I apply Microsoft Fabric to create unified data pipelines, integrate diverse data sources, and deliver end-to-end analytical insights.*
 
 <br>
 
@@ -2823,11 +2835,14 @@ where fare_amount < 0 or total_amount < 0;
 ---
 <br><br>
 
-# 🤖![ChatGPT & AI Tools](https://img.shields.io/badge/ChatGPT%20%26%20AI%20Tools-Powered-00A67E?style=plastic&logo=openai&logoColor=ffffff) ![Generative AI](https://img.shields.io/badge/Generative%20AI-Analytics-7B61FF?style=plastic&logo=openai&logoColor=ffffff) ChatGPT & AI-Powered Analytics Projects 
+## 🤖 ChatGPT & AI-Powered Analytics Projects ![ChatGPT & AI Tools](https://img.shields.io/badge/ChatGPT%20%26%20AI%20Tools-Powered-00A67E?style=plastic&logo=openai&logoColor=ffffff) ![Generative AI](https://img.shields.io/badge/Generative%20AI-Analytics-7B61FF?style=plastic&logo=openai&logoColor=ffffff)
+
+*These projects showcase how I combine ChatGPT and other AI tools to automate analysis, enhance insight generation, and streamline data storytelling workflows.*
+
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Fabric Projects](#-microsoft-fabric-projects)  
 
-*These projects showcase how I combine ChatGPT and other AI tools to automate analysis, enhance insight generation, and streamline data storytelling workflows.*
+
 
 <br>
 
