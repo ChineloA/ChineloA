@@ -2905,26 +2905,26 @@ Combine **AI-powered insights** with **visual analytics** to let business users 
 
 ### 🧩 Project Overview  
 This project demonstrates how **Kimi AI** and **ChatGPT** were used to automate data cleaning, regional and product analysis, and presentation generation.  
-The analysis explores **sales performance across four regions and seven product categories** (Jan–Jun 2024), highlighting how AI tools can simplify complex analytical workflows — from **data preparation to automated insight delivery**.
+The analysis explores sales performance across four regions and seven product categories (Jan–Jun 2024), showcasing how AI tools can simplify complex analytical workflows — from data preparation to automated insight delivery.  
 
 
-**🛠️ Approach**
+### 🛠️ Approach  
 - Automated checks improved data reliability by identifying and resolving quality issues  
-- Top products and regions surfaced via AI-assisted analysis and summaries  
-- Executive-ready presentation generated from the cleaned outputs
+- Top products and regions identified through AI-assisted analysis and summaries  
+- Executive-ready presentation automatically generated from cleaned datasets  
 
   
 ### 🧰 Tools Used  
-- **ChatGPT** for prompt design, workflow guidance, and narrative generation  
-- **Kimi AI** for dataset cleaning, summarization, and visualization  
-- **Excel / CSV** for raw and structured data handling  
-- **Python (Kimi backend)** for AI-assisted transformations  
-- **PDF & Web Output** for report presentation  
+- **ChatGPT** – for prompt design, workflow guidance, and narrative generation  
+- **Kimi AI** – for dataset cleaning, summarisation, and visualisation  
+- **Excel / CSV** – for raw and structured data handling  
+- **Python (Kimi backend)** – for AI-assisted transformations  
+- **PDF & Web Output** – for report presentation  
 
 
 ### 📊 Key Insights  
 - 📈 **Total Revenue:** $59.89M | **Total Profit:** $14.99M  
-- 🌍 The **East Region** dominated both revenue and profit share  
+- 🌍 **East Region** dominated both revenue and profit share  
 - 🧭 **Q2 outperformed Q1 by 2.0%**, showing steady momentum  
 - 🎧 **Headphones** had the highest profit margin (**25.9%**)  
 - ⚙️ Dataset verified — **no missing or duplicate records**
@@ -2936,6 +2936,7 @@ The analysis explores **sales performance across four regions and seven product 
 - [🌍 Regional Analysis Dataset (CSV)](https://github.com/ChineloA/ChineloA/blob/main/regional_analysis.csv)  
 - [🛍️ Product Analysis Dataset (CSV)](https://github.com/ChineloA/ChineloA/blob/main/product_analysis.csv)  
 - [📑 Project Presentation (PDF)](https://github.com/ChineloA/ChineloA/blob/main/Sales_Analysis_Presentation.pdf)
+
 <sub>💡 Tip: To allow direct downloads, replace `blob` with `raw` in the file URLs.</sub>
 
 
@@ -2946,21 +2947,18 @@ The analysis explores **sales performance across four regions and seven product 
 
 ### 🧠 AI Involvement  
 This project was developed collaboratively using:  
-- **ChatGPT** — for designing the analytical prompt used to guide Kimi AI, and for generating the insight narrative and structure  
-- **Kimi AI** — for executing data cleaning, performing the regional and product analyses, and generating the presentation  
-- **Generative AI Workflows** — for producing structured data outputs and automating documentation  
+- **ChatGPT** — for designing the analytical prompt, generating narratives, and structuring insights  
+- **Kimi AI** — for executing data cleaning, performing analyses, and generating the presentation  
+- **Generative AI Workflows** — for automating structured data outputs and documentation  
 
 
 ### 💬 Summary  
 This project highlights the evolving role of **AI copilots** in analytics — automating manual processes, improving data accuracy, and accelerating storytelling.  
-By combining **ChatGPT**’s prompt engineering and workflow design with **Kimi AI’s automation capabilities**, data preparation and reporting were completed in a fraction of the time — delivering clean datasets, clear insights, and a ready-to-share presentation.
+By combining **ChatGPT’s prompt engineering** with **Kimi AI’s automation**, data preparation and reporting were completed in a fraction of the time — delivering clean datasets, clear insights, and a ready-to-share presentation.  
 
-
+These projects illustrate how I leverage AI tools to enhance analytical workflows, automate documentation, and generate actionable insights in data analysis.  
 ---
 
-These projects illustrate how I use **AI tools** to **enhance analytical workflows**, automate documentation, and support creative insight generation in data analysis.
-
----
 
 🔙 **[Back to Portfolio Home](#toc)** | 🔁 **[Next: Excel Projects →](#excel-projects)** | ✨ **[Explore More Projects](#toc)**   
 💫 *Transforming data into stories that inspire smarter decisions.*
