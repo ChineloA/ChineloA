@@ -191,6 +191,8 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Power BI Projects](#-power-bi-projects) • [⏭ Jump to Drawio Projects](#-drawio-erd--data-modeling)  
 
+*These projects demonstrate how I use Excel for data analysis, visualisation, and performance tracking — transforming raw spreadsheets into clear, actionable business insights.*
+
 &nbsp;  
 
 ### 1. ☕ Café Harmony  
@@ -419,7 +421,7 @@ Enhanced visibility into customer behaviour, improved monitoring of betting acti
 
 ---
 
-## **These projects highlight how I use **Excel** for **data analysis, visualisation, and performance tracking**, transforming raw spreadsheets into meaningful business insights.*
+## *These projects highlight how I use Excel for data analysis, visualisation, and performance tracking — transforming raw spreadsheets into meaningful business insights.*
 
 ---
 
@@ -435,7 +437,9 @@ Enhanced visibility into customer behaviour, improved monitoring of betting acti
 
 # 🔷![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi&logoColor=000000) Power BI Projects  
 **Quick Links:**  
-[⬆ Back to Main TOC](#-main-table-of-contents) • [⏭ Jump to Excel Projects](#-excel-projects)  
+[⬆ Back to Main TOC](#-main-table-of-contents) • [⏭ Jump to Excel Projects](#-excel-projects) 
+
+*These projects showcase how I use Power BI to transform operational data into dynamic, interactive dashboards that drive data storytelling and informed decision-making.*
 
 <br>
 
@@ -1209,7 +1213,7 @@ The dashboard provides a comprehensive view of:
 
 ---
 
-## **These projects demonstrate my approach to **data storytelling and insight generation**, using **Power BI** to transform raw operational data into clear, actionable insights through interactive dashboards.*
+## *These projects demonstrate my approach to data storytelling and insight generation, using Power BI to transform raw operational data into clear, actionable insights through interactive dashboards.*
 
 ---
 
@@ -1226,6 +1230,8 @@ The dashboard provides a comprehensive view of:
 *Entity Relationship Diagram (ERD) — Healthcare data modelling with Draw.io*  
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Excel Projects](#-excel-projects) • [⏭ Jump to Tableau Projects](#-tableau-projects) 
+
+*These projects highlight how I use Draw.io to design process flows, data models, and visual frameworks that simplify complex systems and support strategic analysis.*
 
 <br>
 
@@ -1294,7 +1300,7 @@ Enabled the hospital to **build a robust analytics layer** for Power BI and Tabl
 
 ---
 
-## **These projects showcase my approach to **data architecture and relational modelling**, using **Draw.io** to visualise database structures that support clear, efficient analytics design.*
+## *These projects showcase my approach to data architecture and relational modelling, using Draw.io to visualise database structures and analytical frameworks that enable clear, efficient, and scalable insights design.*
 
 ---
 
@@ -1310,6 +1316,8 @@ Enabled the hospital to **build a robust analytics layer** for Power BI and Tabl
 # 📊![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau&logoColor=ffffff) Tableau Projects  
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Drawio Projects](#-drawio-erd--data-modeling) • [⏭ Jump to SQL Projects](#-sql--database-projects)  
+
+*These projects reflect how I use Tableau to build visually compelling dashboards that uncover trends, enhance data storytelling, and support data-driven strategies.*
 
 <br>
 
@@ -1785,7 +1793,7 @@ Delivered a creative, storytelling Tableau dashboard that combines **data visual
 
 ---
 
-## **These projects showcase my ability to **turn complex datasets into visual stories** using **Tableau**, enabling stakeholders to explore trends and uncover insights effortlessly.*
+## *These projects showcase my ability to turn complex datasets into visual stories using Tableau — combining interactivity and design to help stakeholders explore trends, uncover insights, and make data-driven decisions effortlessly.*
 
 ---
 
@@ -1801,6 +1809,8 @@ Delivered a creative, storytelling Tableau dashboard that combines **data visual
 # 🗄![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql&logoColor=ffffff) SQL / Database Projects  
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Tableau Projects](#-tableau-projects) • [⏭ Jump to Fabric Projects](#-microsoft-fabric-projects)
+
+*These projects demonstrate how I use SQL to query, clean, and analyse structured datasets — building the foundation for efficient data pipelines and analytics.*
 
 <br>
 
@@ -2353,7 +2363,7 @@ FROM MonthRevenue;
 
 ---
 
-## **These projects demonstrate how I use **SQL** and database design principles to **extract, model, and analyse data**, creating a solid foundation for performance insights and reporting.*
+## *These projects demonstrate how I use SQL and database design principles to extract, model, and analyse data, creating a solid foundation for performance insights and reporting — strengthening the analytical backbone of business intelligence solutions.*
 
 ---
 
@@ -2369,6 +2379,8 @@ FROM MonthRevenue;
 # 🧱![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft&logoColor=ffffff) Microsoft Fabric Projects  
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to SQL Projects](#-sql--database-projects) • [⏭ Jump to ChatGPT Projects](#-chatgpt--tableau-projects)
+
+*These projects explore how I apply Microsoft Fabric to create unified data pipelines, integrate diverse data sources, and deliver end-to-end analytical insights.*
 
 <br>
 
@@ -2794,7 +2806,7 @@ where fare_amount < 0 or total_amount < 0;
 
 ---
 
-## **These projects explore how I apply **Microsoft Fabric** to build **modern data pipelines and unified analytics environments**, supporting data integration, modelling, and insight delivery.*
+## *These projects explore how I apply Microsoft Fabric to build modern data pipelines and unified analytics environments — supporting data integration, modelling, and efficient insight delivery.*
 
 ---
 
@@ -2811,6 +2823,8 @@ where fare_amount < 0 or total_amount < 0;
 # 🤖![ChatGPT & AI Tools](https://img.shields.io/badge/ChatGPT%20%26%20AI%20Tools-Powered-00A67E?style=plastic&logo=openai&logoColor=ffffff) ![Generative AI](https://img.shields.io/badge/Generative%20AI-Analytics-7B61FF?style=plastic&logo=openai&logoColor=ffffff) ChatGPT & AI-Powered Analytics Projects 
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Fabric Projects](#-microsoft-fabric-projects)  
+
+*These projects showcase how I combine ChatGPT and other AI tools to automate analysis, enhance insight generation, and streamline data storytelling workflows.*
 
 <br>
 
@@ -2958,7 +2972,7 @@ By combining **ChatGPT’s prompt engineering** with **Kimi AI’s automation**,
 
 ---
 
-## **These projects illustrate how I leverage AI tools to enhance analytical workflows, automate documentation, and generate actionable insights in data analysis.*
+## *These projects illustrate how I leverage AI tools to enhance analytical workflows, automate documentation, and generate actionable insights that support data-driven decision-making.*
 
 ---
 
