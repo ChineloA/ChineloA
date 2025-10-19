@@ -200,6 +200,9 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 ### 1. ☕ Café Harmony  
 *Employee & Sales Performance Dashboard*
+
+<br>
+
 [Back to TOC](#-main-table-of-contents) • [Next →](#2--10alytics-sales)
 
 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel)
