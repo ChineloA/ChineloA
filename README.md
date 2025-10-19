@@ -419,7 +419,7 @@ Enhanced visibility into customer behaviour, improved monitoring of betting acti
 
 ---
 
-These projects highlight how I use **Excel** for **data analysis, visualisation, and performance tracking**, transforming raw spreadsheets into meaningful business insights.
+## **These projects highlight how I use **Excel** for **data analysis, visualisation, and performance tracking**, transforming raw spreadsheets into meaningful business insights.*
 
 ---
 
@@ -1209,7 +1209,7 @@ The dashboard provides a comprehensive view of:
 
 ---
 
-These projects demonstrate my approach to **data storytelling and insight generation**, using **Power BI** to transform raw operational data into clear, actionable insights through interactive dashboards.
+## **These projects demonstrate my approach to **data storytelling and insight generation**, using **Power BI** to transform raw operational data into clear, actionable insights through interactive dashboards.*
 
 ---
 
@@ -1294,7 +1294,7 @@ Enabled the hospital to **build a robust analytics layer** for Power BI and Tabl
 
 ---
 
-These projects showcase my approach to **data architecture and relational modelling**, using **Draw.io** to visualise database structures that support clear, efficient analytics design.
+## **These projects showcase my approach to **data architecture and relational modelling**, using **Draw.io** to visualise database structures that support clear, efficient analytics design.*
 
 ---
 
@@ -1785,7 +1785,7 @@ Delivered a creative, storytelling Tableau dashboard that combines **data visual
 
 ---
 
-These projects showcase my ability to **turn complex datasets into visual stories** using **Tableau**, enabling stakeholders to explore trends and uncover insights effortlessly.
+## **These projects showcase my ability to **turn complex datasets into visual stories** using **Tableau**, enabling stakeholders to explore trends and uncover insights effortlessly.*
 
 ---
 
@@ -2353,7 +2353,7 @@ FROM MonthRevenue;
 
 ---
 
-These projects demonstrate how I use **SQL** and database design principles to **extract, model, and analyse data**, creating a solid foundation for performance insights and reporting.
+## **These projects demonstrate how I use **SQL** and database design principles to **extract, model, and analyse data**, creating a solid foundation for performance insights and reporting.*
 
 ---
 
@@ -2794,7 +2794,7 @@ where fare_amount < 0 or total_amount < 0;
 
 ---
 
-## **These projects explore how I apply **Microsoft Fabric** to build **modern data pipelines and unified analytics environments**, supporting data integration, modelling, and insight delivery.**
+## **These projects explore how I apply **Microsoft Fabric** to build **modern data pipelines and unified analytics environments**, supporting data integration, modelling, and insight delivery.*
 
 ---
 
@@ -2956,7 +2956,10 @@ This project was developed collaboratively using:
 This project highlights the evolving role of **AI copilots** in analytics — automating manual processes, improving data accuracy, and accelerating storytelling.  
 By combining **ChatGPT’s prompt engineering** with **Kimi AI’s automation**, data preparation and reporting were completed in a fraction of the time — delivering clean datasets, clear insights, and a ready-to-share presentation.  
 
-These projects illustrate how I leverage AI tools to enhance analytical workflows, automate documentation, and generate actionable insights in data analysis.  
+---
+
+## **These projects illustrate how I leverage AI tools to enhance analytical workflows, automate documentation, and generate actionable insights in data analysis.*
+
 ---
 
 
