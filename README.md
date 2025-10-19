@@ -189,7 +189,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 ## 📑  Excel Projects ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoftexcel&logoColor=ffffff)
 
-*These projects demonstrate how I use Excel for data analysis, visualisation, and performance tracking — transforming raw spreadsheets into clear, actionable business insights.*
+<p align="left"><b><i>These projects demonstrate how I use Excel for data analysis, visualisation, and performance tracking — transforming raw spreadsheets into clear, actionable business insights.</i></b></p>
 
 **Quick Links:**  
 [⬆ Back to Main TOC](#-main-table-of-contents) • [⏮ Jump to Power BI Projects](#-power-bi-projects) • [⏭ Jump to Drawio Projects](#-drawio-erd--data-modeling)  
