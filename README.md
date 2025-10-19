@@ -256,6 +256,7 @@ Empowered café management with a clear view of sales drivers, customer preferen
 
 ### 2. 📊 10Alytics Sales  
 *Sales Performance Dashboard — Advanced Excel dashboards & KPIs*
+
 [← Previous](#1--café-harmony) • [Back to TOC](#-main-table-of-contents) • [Next →](#3--sales--profitability) 
 
 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel)
@@ -313,6 +314,7 @@ Improved business transparency and profitability awareness through structured sa
 
 ### 3. 📈 Sales & Profitability  
 *Excel-based analysis of product-level sales and profitability trends*
+
 [← Previous](#2--10alytics-sales) • [Back to TOC](#-main-table-of-contents) • [Next →](#4--betting-insights)
 
 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel)
@@ -369,6 +371,7 @@ Delivered an insightful dashboard that helped management track profitability, id
 
 ### 4. 🎰 Betting Insights  
 *Betting Insights Dashboard — Revenue, margin, and transaction analysis*  
+
 [← Previous](#3--sales--profitability) • [Back to TOC](#-main-table-of-contents)
 
 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel)
@@ -457,6 +460,7 @@ Enhanced visibility into customer behaviour, improved monitoring of betting acti
 
 ### 1.  🚗Fleet Operations  
 *Fleet Operations Dashboard — Optimising performance and delivery tracking with Power BI*
+
 [Back to TOC](#-main-table-of-contents) • [Next →](#2---tri-fleet-industries)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
@@ -514,6 +518,7 @@ The dashboard empowered fleet managers to **reduce downtime, control costs**, an
 
 ### 2.  🚘 Tri-Fleet Industries 
 *Tri-Fleet Industries Analytics Dashboard*
+
 [← Previous](#1--fleet-operations) • [Back to TOC](#-main-table-of-contents) • [Next →](#3--puresip-retail-store)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
@@ -568,7 +573,8 @@ Enabled Tri-Fleet’s management team to **analyse global sales performance**, u
 <h2></h2>
 
 ### 3. 🏪 PureSip Retail Store  
-*Retail Store Performance Dashboard — Analysing sales, revenue, and customer trends*  
+*Retail Store Performance Dashboard — Analysing sales, revenue, and customer trends* 
+
 [← Previous](#2---tri-fleet-industries) • [Back to TOC](#-main-table-of-contents) • [Next →](#4--dreamy-bites)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
@@ -628,6 +634,7 @@ Delivered a dynamic sales intelligence solution that helped stakeholders **track
 
 ### 4. 🍪 Dreamy Bites  
 *Dreamy Bites Profit Analysis — Product-level profitability insights using Power BI*
+
 [← Previous](#3--puresip-retail-store) • [Back to TOC](#-main-table-of-contents) • [Next →](#5--novamed)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
@@ -688,6 +695,7 @@ Enabled Dreamy Bites’ management to **track sales and profit performance**, un
 
 ### 5. 👥 Novamed  
 *Novamed Solutions — Top/Bottom Analysis & Revenue Trends*  
+
 [← Previous](#4--dreamy-bites) • [Back to TOC](#-main-table-of-contents) • [Next →](#6-deskify)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
@@ -750,6 +758,7 @@ Empowered NovaMed’s management to make **data-driven marketing and inventory d
 
 ### 6. 📉Deskify  
 *Deskify Office Supplies Report — Sales performance and category analysis*  
+
 [← Previous](#5--novamed) • [Back to TOC](#-main-table-of-contents) • [Next →](#7--aurora-threads)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
@@ -808,6 +817,7 @@ Provided management with a centralised analytics tool to **evaluate profitabilit
 
 ### 7. 🧵 Aurora Threads  
 *Aurora Threads Sales Dashboard — E-commerce profitability and customer insights*  
+
 [← Previous](#6-deskify) • [Back to TOC](#-main-table-of-contents) • [Next →](#8--life-expectancy)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
@@ -862,7 +872,8 @@ Enabled boutique owners to **understand customer preferences**, manage product p
 <h2></h2>
 
 ### 8. 🌍 Life Expectancy  
-*Life Expectancy at Birth — Demographic data exploration with Power BI*  
+*Life Expectancy at Birth — Demographic data exploration with Power BI* 
+
 [← Previous](#7--aurora-threads) • [Back to TOC](#-main-table-of-contents) • [Next →](#9--mental-health)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
@@ -921,6 +932,7 @@ Provided a powerful visualisation tool for policymakers and researchers to **eva
 
 ### 9. 🧠 Mental Health  
 *Clarity Care Suicide Analytics Dashboard — Patterns and correlations in survey data* 
+
 [← Previous](#8--life-expectancy) • [Back to TOC](#-main-table-of-contents) • [Next →](#10-%E2%80%8D-hr-employee-attrition)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
@@ -978,6 +990,7 @@ The analysis offered mental health organisations and policymakers data-backed in
 
 ### 10. 👩‍💼 HR Employee Attrition  
 *Analysing employee turnover drivers and retention strategies with HR analytics*
+
 [← Previous](#9--mental-health) • [Back to TOC](#-main-table-of-contents) • [Next →](#11--global-insight)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
@@ -1039,6 +1052,7 @@ This analysis empowered HR teams to **pinpoint high-risk employee segments**, de
 
 ### 11. 🌍 Global Insight  
 *Global Insight Analytics — Population trends and growth projections* 
+
 [← Previous](#10-%E2%80%8D-hr-employee-attrition) • [Back to TOC](#-main-table-of-contents) • [Next →](#12-%EF%B8%8F-retail-edge)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
@@ -1094,6 +1108,7 @@ This dashboard provides a clear, data-driven view of **global demographic dynami
 
 ### 12. 🛍️ Retail Edge  
 *Retail Edge Solutions Analysis — Channel performance and revenue insights* 
+
 [← Previous](#11--global-insight) • [Back to TOC](#-main-table-of-contents) • [Next →](#13--ironcore-fitness)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
@@ -1156,6 +1171,7 @@ Equipped business leaders with a powerful tool to **evaluate regional performanc
 
 ### 13. 💪 IronCore Fitness
 *Comprehensive Fitness Performance Dashboard*
+
 [← Previous](#12-%EF%B8%8F-retail-edge) • [Back to TOC](#-main-table-of-contents) 
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
@@ -1256,6 +1272,7 @@ The dashboard provides a comprehensive view of:
 
 ### 1. 🏥 Riverside General Hospital  
 *Entity Relationship Diagram (ERD) — Healthcare data modelling with Draw.io* 
+
 [Back to TOC](#-main-table-of-contents) 
 
 ![ERD Modeling](https://img.shields.io/badge/Tool-ERD%20Modeling-FF6F00?style=plastic&logo=diagramsdotnet&logoColor=ffffff)
@@ -1350,6 +1367,7 @@ Enabled the hospital to **build a robust analytics layer** for Power BI and Tabl
 
 ### 1. 🍫 Choco De Luxe  
 *Unlocking Sales Insights Through Data Visualisation for a European Artisanal Chocolate Brand*
+
 [Back to TOC](#-main-table-of-contents) • [Next →](#2-fusionpoint)
 
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
@@ -1419,6 +1437,7 @@ A Tableau dashboard analysing **sales, profit, and delivery performance** for a 
 
 ### 2. 🔌FusionPoint  
 *Consumer Electronics Sales Trends & Profitability Analysis — Tableau with ChatGPT assistance* 
+
 [← Previous](#1--choco-de-luxe) • [Back to TOC](#-main-table-of-contents) • [Next →](#3--elevate-corp)
 
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)(with AI-assisted exploration- !![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff))  
@@ -1501,6 +1520,7 @@ Provided actionable insights for **inventory optimisation, pricing strategy**, a
 
 ### 3. 🏢 Elevate Corp  
 *Employee Compensation & Performance Analytics*
+
 [← Previous](#2-fusionpoint) • [Back to TOC](#-main-table-of-contents) • [Next →](#4-%E2%80%8D-hr-attrition)
 
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
@@ -1562,6 +1582,7 @@ It provides leadership with a comprehensive view of **salary trends, benefits di
 
 ### 4. 🧑‍💼 HR Attrition
 *Workforce Insights & Retention Analytics*
+
 [← Previous](#3--elevate-corp) • [Back to TOC](#-main-table-of-contents) • [Next →](#5--sales-performance)
 
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
@@ -1624,6 +1645,7 @@ This Tableau project provides a detailed analysis of **employee attrition and re
 
 ### 5. 🛒 Sales Performance
 *Regional & Category Performance*
+
 [← Previous](#4-%E2%80%8D-hr-attrition) • [Back to TOC](#-main-table-of-contents) • [Next →](#6--just-store)
 
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
@@ -1685,6 +1707,7 @@ The dashboard enabled management to identify **regional strengths, low-margin pr
 
 ### 6. 🛍 Just Store   
 *Retail Store Dashboard — Executive Sales Overview*
+
 [← Previous](#5--sales-performance) • [Back to TOC](#-main-table-of-contents) • [Next →](#7--harry-potter)
 
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
@@ -1747,6 +1770,7 @@ It helps retail managers quickly track performance by region, category, and time
 
 ## 7. 🪄 Harry Potter
 *What is the Diversity of Harry Potter Characters?*
+
 [← Previous](#6--just-store) • [Back to TOC](#-main-table-of-contents) 
 
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau) – for data visualisation and dashboard design
@@ -1851,6 +1875,7 @@ Delivered a creative, storytelling Tableau dashboard that combines **data visual
 
 ### 1. 🌍 NextGen  
 *NextGen Corp Employee Success Analytics — PostgreSQL-based HR analysis* 
+
 [Back to TOC](#-main-table-of-contents) • [Next →](#2--lewis-database--sql-questions--answers)
 
 ![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql&logoColor=ffffff)
@@ -2063,6 +2088,7 @@ ORDER BY avg_performance_score DESC;
 <h2></h2>
 
 ### 2. 🗄 Lewis Database — SQL Questions & Answers
+
 [← Previous](#1--nextgen) • [Back to TOC](#-main-table-of-contents) • [Next →](#3--alibert-furnitures)
 
 ![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql)
@@ -2201,11 +2227,12 @@ where "ProductID" not in (
 <h2></h2>
 
 ### 3. 🪑 Alibert Furnitures
+*SQL Retail & Loyalty Analytics*
+
 [← Previous](#2--lewis-database--sql-questions--answers) • [Back to TOC](#-main-table-of-contents) 
 
 ![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql)
 
-## 🪑 Alibert Furnitures — SQL Retail & Loyalty Analytics  
 
 
 ### 🧩 Problem Statement  
@@ -2428,8 +2455,8 @@ FROM MonthRevenue;
 
 ### 1. 🧱 PrimeMart  
 *PrimeMart Retail — Sales & Customer Analytics in Microsoft Fabric (OneLake, SQL, Power BI)* 
+
 [Back to TOC](#-main-table-of-contents) • [Next →](#2--nyc-yellow-taxi)  
-**Company / Context:** PrimeMart Retail Ltd. (Omnichannel Retail)
 
 ![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft-fabric)(OneLake, Lakehouse), SQL Endpoint, Data Factory (pipelines), Power BI, Notebooks (optional)
 
@@ -2658,8 +2685,8 @@ ORDER BY
 
 ### 2. 🚕 NYC Yellow Taxi  
 *Optimising Urban Mobility — NYC Yellow Taxi Analytics Dashboard using Fabric*
+
 [← Previous](#1--primemart) • [Back to TOC](#-main-table-of-contents)
-**Company / Context:** Public Data Case Study (NYC Yellow Taxi Dataset)  
 
 ![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft-fabric)(OneLake, Lakehouse, SQL Endpoint, Power BI) 
 
@@ -2879,7 +2906,8 @@ where fare_amount < 0 or total_amount < 0;
 <br>
 
 ### 1. 🔌 FusionPoint (ChatGPT)  
-*FusionPoint Industries — AI-assisted Tableau dashboards for sales trends & profitability*  
+*FusionPoint Industries — AI-assisted Tableau dashboards for sales trends & profitability* 
+
 [Back to TOC](#-main-table-of-contents) • [Next →](#-sales-analysis-with-kimi-ai--chatgpt)
 
 ![ChatGPT & AI Tools](https://img.shields.io/badge/ChatGPT%20%26%20AI%20Tools-Powered-00A67E?style=plastic&logo=openai&logoColor=ffffff) ![Generative AI](https://img.shields.io/badge/Generative%20AI-Analytics-7B61FF?style=plastic&logo=openai&logoColor=ffffff)
@@ -2960,6 +2988,7 @@ Combine **AI-powered insights** with **visual analytics** to let business users 
 
 ### 💼 Sales Analysis with Kimi AI & ChatGPT  
 *Project Type: AI-Assisted Data Cleaning, Analysis & Presentation Generation* 
+
 [Back to TOC](#-main-table-of-contents)  
 
 ![ChatGPT & AI Tools](https://img.shields.io/badge/ChatGPT%20%26%20AI%20Tools-Powered-00A67E?style=plastic&logo=openai&logoColor=ffffff) ![Generative AI](https://img.shields.io/badge/Generative%20AI-Analytics-7B61FF?style=plastic&logo=openai&logoColor=ffffff)
