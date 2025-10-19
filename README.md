@@ -2794,7 +2794,7 @@ where fare_amount < 0 or total_amount < 0;
 
 ---
 
-**These projects explore how I apply **Microsoft Fabric** to build **modern data pipelines and unified analytics environments**, supporting data integration, modelling, and insight delivery.**
+## **These projects explore how I apply **Microsoft Fabric** to build **modern data pipelines and unified analytics environments**, supporting data integration, modelling, and insight delivery.**
 
 ---
 
