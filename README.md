@@ -181,7 +181,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 <a id="ai-projects"></a>
 ### 🤖 ChatGPT & AI-Powered Analytics Projects  
-- [🔌 FusionPoint (ChatGPT)](#2-fusionpoint)
+- [🔌 FusionPoint (ChatGPT)](#1--fusionpoint-chatgpt)
 - [🧾 Sales Analysis (Kimi AI + ChatGPT)](#-sales-analysis-with-kimi-ai--chatgpt)
 
 
@@ -3031,82 +3031,13 @@ This project integrates **ChatGPT with Tableau** to enable natural-language quer
 
 ➡️ [View full project details under Tableau Projects →](#2-fusionpoint)
 
-**Company / Context:** FusionPoint Industries (Consumer Electronics) 
-
-![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-00A67E?style=plastic&logo=openai&logoColor=ffffff)![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
-
-
-### 🧩 **Problem Statement**
-FusionPoint sought to enhance its sales analytics by integrating **natural language querying** (via ChatGPT) into Tableau dashboards. The goal was to make data exploration conversational, improving accessibility for non-technical users.  
-
-
-### 🎯 **Project Aim**
-Combine **AI-powered insights** with **visual analytics** to let business users ask data-driven questions conversationally, view results in Tableau, and uncover real-time performance drivers.  
-
-
-### 🛠️ **Approach**
-- Built Tableau dashboards to visualise **sales, profit, and discount performance** across categories, subcategories, and regions.  
-- Integrated **ChatGPT via Tableau extensions** for query handling and contextual analysis.  
-- Designed an **interactive analytics layer** to interpret plain-language queries and display visual responses.  
-- Enabled users to explore “why” and “how” questions behind trends — e.g., “Why did profit drop in the Central region?”  
-
-
-### 📊 **Dashboard Focus**
-**Focus:** Product Sales | Profitability | Customer Behavior | AI Query Integration  
-
-**What this shows:**
-- **Dashboard KPIs:** Total sales, profit, quantity sold, and average profit margin.  
-- **Regional Performance:** Map of sales and profitability across U.S. regions.  
-- **Product Analysis:** Bar charts for category and subcategory trends.  
-- **Discount Insights:** Correlation between discount levels and profitability.  
-- **ChatGPT Integration:** Allows users to type queries and get visual insights directly in Tableau.  
-- **Insight:** Makes analytics accessible to all users by bridging data storytelling and conversational AI.  
-
-
-**🎯 Key Objectives**  
-- **Product & Regional Sales Performance:** Identify high- and low-performing categories, sub-categories, and regions.  
-- **Profitability Trends:** Measure margins by category, sub-category, and sales channel to support profit-driven decision-making.  
-- **Customer Behaviour:** Analyse purchasing patterns and payment preferences to inform customer-centric strategies.  
-- **Demand Patterns:** Identify demand fluctuations across time and geographies to optimise supply chain planning.  
-- **Pricing & Discounts:** Assess the impact of discounts and pricing strategies on revenue and profit margins.  
-- **Actionable Recommendations:** Support long-term marketing, pricing, and product portfolio strategies for sustainable growth.  
-
-
-**🛠️ Approach**  
-**Step 1 — Data Collection & Preparation**  
-- Gathered raw sales transaction data  
-- Cleaned and preprocessed for consistency and completeness  
-
-**Step 2 — Data Exploration & Descriptive Analytics**  
-- Applied AI-assisted exploration to uncover patterns, outliers, and trends  
-
-**Step 3 — Insight Visualisation & Reporting**  
-- Built interactive Tableau dashboards with AI features for smart recommendations  
-- Documented findings in structured reports and slide decks  
-
-**Step 4 — Recommendations**  
-- Summarised actionable findings supported by AI-enhanced insights  
-- Delivered guidance on **pricing, product assortment, and customer outreach**  
-
-## 🧰 Tools Used  
-- **ChatGPT** for analytics support and storytelling (for AI-driven data insights) 
-- **Prompt Engineering** for enhancing data exploration  
-
-
-📊 **Dashboard Preview**  
-📸<img width="1587" height="850" alt="Screenshot 2025-10-03 175847" src="https://github.com/user-attachments/assets/00eec2e2-cfc3-474c-ac15-7298521108a1" />
-   <img width="1584" height="846" alt="Screenshot 2025-10-03 175907" src="https://github.com/user-attachments/assets/661291e1-1d0e-48a8-91db-2f0a9ea9ca38" />
-   <img width="1586" height="845" alt="Screenshot 2025-10-03 175922" src="https://github.com/user-attachments/assets/3ff00a17-3461-45bf-98c5-402c417a89a9" />
-   <img width="1585" height="844" alt="Screenshot 2025-10-03 175951" src="https://github.com/user-attachments/assets/10465592-3d7c-4d39-b3f3-c5a8bf02d9de" />
-   <img width="1586" height="846" alt="Screenshot 2025-10-03 180005" src="https://github.com/user-attachments/assets/840c434a-736a-4b4b-9533-760e89e51828" />
-   <img width="1584" height="848" alt="Screenshot 2025-10-03 180023" src="https://github.com/user-attachments/assets/993b403e-8538-4365-b347-ec1b736a43cb" />
 
 <h2></h2>
 
 ### 💼 Sales Analysis with Kimi AI & ChatGPT  
 *Project Type: AI-Assisted Data Cleaning, Analysis & Presentation Generation* 
 
-[Back to TOC](#-main-table-of-contents)  
+[← Previous](#1--fusionpoint-chatgpt) • [Back to TOC](#-main-table-of-contents)  
 
 ![ChatGPT & AI Tools](https://img.shields.io/badge/ChatGPT%20%26%20AI%20Tools-Powered-00A67E?style=plastic&logo=openai&logoColor=ffffff) ![Generative AI](https://img.shields.io/badge/Generative%20AI-Analytics-7B61FF?style=plastic&logo=openai&logoColor=ffffff)
 
