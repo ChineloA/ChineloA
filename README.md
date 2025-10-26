@@ -158,7 +158,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🌍 NextGen](#1--nextgen)
 - [🗄 Lewis Database](#2--lewis-database--sql-questions--answers)
 - [🪑 Alibert Furnitures](#3--alibert-furnitures)
-- [⚡ AfriTech Electronics (Power BI + SQL)](#14--afritech-electronics)
+- [⚡ AfriTech Electronics (Power BI + SQL)](#4--afritech-electronics-power-bi--sql)
 
 <h2></h2>
 &nbsp;  
@@ -2328,7 +2328,7 @@ where "ProductID" not in (
 ### 3. 🪑 Alibert Furnitures
 *SQL Retail & Loyalty Analytics*
 
-[← Previous](#2--lewis-database--sql-questions--answers) • [Back to TOC](#-main-table-of-contents) [Next →](#3--afritech-electronics)
+[← Previous](#2--lewis-database--sql-questions--answers) • [Back to TOC](#-main-table-of-contents) [Next →](#4--afritech-electronics-power-bi--sql)
 
 ![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql)
 
