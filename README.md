@@ -119,6 +119,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🌍 Global Insight](#11--global-insight)  
 - [🛍️ Retail Edge](#12-%EF%B8%8F-retail-edge)
 - [💪 IronCore Fitness](#13--ironcore-fitness)
+- [⚡ AfriTech Electronics](#14--afritech-electronics)
 
 <h2></h2>
 &nbsp;  
@@ -157,6 +158,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🌍 NextGen](#1--nextgen)
 - [🗄 Lewis Database](#2--lewis-database--sql-questions--answers)
 - [🪑 Alibert Furnitures](#3--alibert-furnitures)
+- [⚡ AfriTech Electronics (Power BI + SQL)](#14--afritech-electronics)
 
 <h2></h2>
 &nbsp;  
@@ -179,7 +181,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 <a id="ai-projects"></a>
 ### 🤖 ChatGPT & AI-Powered Analytics Projects  
-- [🔌 FusionPoint (ChatGPT)](#1--fusionpoint-chatgpt)
+- [🔌 FusionPoint (ChatGPT)](#2-fusionpoint)
 - [🧾 Sales Analysis (Kimi AI + ChatGPT)](#-sales-analysis-with-kimi-ai--chatgpt)
 
 
@@ -1172,7 +1174,7 @@ Equipped business leaders with a powerful tool to **evaluate regional performanc
 ### 13. 💪 IronCore Fitness
 *Comprehensive Fitness Performance Dashboard*
 
-[← Previous](#12-%EF%B8%8F-retail-edge) • [Back to TOC](#-main-table-of-contents) 
+[← Previous](#12-%EF%B8%8F-retail-edge) • [Back to TOC](#-main-table-of-contents) • [Next →](#14--afritech-electronics)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 
@@ -1238,6 +1240,103 @@ The dashboard provides a comprehensive view of:
 ### 🔗 [View Interactive Dashboard on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiZmE2OGFjN2QtMWU4MC00YTg4LTg1MmMtNjUzOWRiNzk3ZTc2IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
 
 
+<h2></h2>
+
+### 14. ⚡ AfriTech Electronics  
+*AfriTech Electronics Performance Analysis — SQL & Power BI Integration for Brand Reputation and Customer Insights*  
+
+[← Previous](#13--ironcore-fitness) • [Back to TOC](#-main-table-of-contents)  
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
+![SQL](https://img.shields.io/badge/Tool-SQL-blue?style=plastic&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-lightblue?style=plastic&logo=postgresql)
+![DAX](https://img.shields.io/badge/Language-DAX-orange?style=plastic&logo=microsoft)
+
+---
+
+## 🧩 Project Overview  
+The **AfriTech Electronics Performance Analysis** project delivers a unified analytics solution combining **sales, customer, and social media data** to enhance brand reputation and improve customer satisfaction.  
+
+It leverages **SQL for data integration** and **Power BI for visualization**, giving AfriTech’s leadership real-time insights into revenue, customer loyalty, sentiment, and crisis management.
+
+---
+
+### 📊 **Dashboard Focus**
+## 🔍 **Focus:** Sales | Brand Sentiment | Customer Loyalty | Crisis Management  
+
+### **What this shows**  
+- **Revenue Metrics:** Total revenue, order count, and AOV by region.  
+- **Customer Segments:** Revenue from New, Returning, and VIP customers.  
+- **Sentiment Trends:** Positive, neutral, and negative mentions across social media.  
+- **Crisis Tracking:** Product recalls, resolution rates, and response times.  
+- **Engagement Insights:** Platform reach, influencer score, and competitor mentions.  
+- **Insight:** Enables proactive brand management and data-driven decision-making.  
+
+---
+
+## 🎯 Key Achievements  
+- Designed a **PostgreSQL data warehouse** integrating customer, sales, and social datasets.  
+- Automated **data cleaning and transformation** workflows with SQL (0 data integrity errors).  
+- Built **four interactive Power BI dashboards** for real-time business insights.  
+- Implemented **DAX-based KPIs** for NPS, crisis resolution, and engagement tracking.  
+- Streamlined reporting to help executives monitor brand performance at a glance.  
+
+---
+
+## 💡 Insights  
+- Achieved **$57.53M total revenue** from 73.6K orders.  
+- **91% of revenue** came from **Returning and VIP customers**.  
+- **Laptops (43%)** led sales; Smartphones (25%) and Tablets (19%) followed.  
+- **41% positive sentiment**, trending upward across social platforms.  
+- Logged **13.4K crises**, with a **47.6% resolution rate**.  
+- **Average NPS: 5.0 (Neutral)** — slower responses reduced promoter count.  
+
+---
+
+## 🚀 Outcome  
+Empowered AfriTech Electronics to consolidate fragmented data sources and gain **real-time visibility** into sales, sentiment, and crisis activity.  
+Leadership can now proactively detect negative trends, improve service response, and reinforce consumer trust through actionable insights.
+
+---
+
+## 🧰 Tools Used  
+- **Power BI** — dashboard creation and data visualization  
+- **SQL (PostgreSQL)** — ETL workflows and data warehousing  
+- **DAX** — calculated measures and KPIs  
+- **Power Query** — data transformation and integration  
+- **Excel/CSV** — initial data source files  
+
+---
+
+## 📸 Dashboard Preview  
+![AfriTech Electronics Dashboard - Home](https://github.com/user-attachments/assets/your-dashboard-image1.png)  
+![AfriTech Electronics Dashboard - Sentiment Analysis](https://github.com/user-attachments/assets/your-dashboard-image2.png)  
+![AfriTech Electronics Dashboard - Crisis Management](https://github.com/user-attachments/assets/your-dashboard-image3.png)  
+
+### 🔗 [View Interactive Dashboard on Power BI Service →](#)
+
+---
+
+## 💬 Recommendations  
+- Introduce **VIP & Returning Customer Loyalty Programs**.  
+- Set up **real-time alerts** for negative sentiment or competitor mentions.  
+- Automate **support responses** via chatbots and macros.  
+- Maintain **recall rate < 8%** through improved quality checks.  
+- Optimize **response time metrics** in DAX for SLA accuracy.  
+
+---
+
+## 🧭 Next Steps  
+- Implement **predictive analytics** for churn and product recall risk.  
+- Automate **Power BI data refresh and sentiment alerts**.  
+- Add **profitability KPIs by product and region**.  
+- Continue **SQL query optimization** and data governance improvements.  
+
+---
+
+**Prepared by:** *Chinelo*  
+**Role:** Data Analyst | AfriTech Electronics Ltd.  
+**Keywords:** #PowerBI #SQL #PostgreSQL #DataAnalytics #BrandReputation #CustomerInsights  
 
 ---
 
@@ -2229,7 +2328,7 @@ where "ProductID" not in (
 ### 3. 🪑 Alibert Furnitures
 *SQL Retail & Loyalty Analytics*
 
-[← Previous](#2--lewis-database--sql-questions--answers) • [Back to TOC](#-main-table-of-contents) 
+[← Previous](#2--lewis-database--sql-questions--answers) • [Back to TOC](#-main-table-of-contents) [Next →](#3--afritech-electronics)
 
 ![SQL](https://img.shields.io/badge/Tool-SQL-336791?style=plastic&logo=postgresql)
 
@@ -2421,6 +2520,21 @@ FROM MonthRevenue;
 
 
 <img width="290" height="105" alt="Screenshot 2025-10-11 184156" src="https://github.com/user-attachments/assets/ce3f86eb-793b-42c7-9cd3-2ffaff0a4cdb" />
+
+<h2></h2>
+
+### 4. ⚡ AfriTech Electronics (Power BI + SQL)  
+*AfriTech Electronics Performance Analysis — SQL & Power BI Integration for Brand Reputation and Customer Insights*  
+
+[← Previous](#3--alibert-furnitures) • [Back to TOC](#-main-table-of-contents)  
+
+![SQL](https://img.shields.io/badge/Tool-SQL-blue?style=plastic&logo=postgresql)
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-lightblue?style=plastic&logo=postgresql)
+
+This project showcases **SQL-driven data integration and Power BI visualization** for analysing sales, customer sentiment, and brand reputation at AfriTech Electronics.  
+
+➡️ [View full project details under Power BI Projects →](#14--afritech-electronics)
 
 
 ---
@@ -2905,6 +3019,7 @@ where fare_amount < 0 or total_amount < 0;
 
 <br>
 
+
 ### 1. 🔌 FusionPoint (ChatGPT)  
 *FusionPoint Industries — AI-assisted Tableau dashboards for sales trends & profitability* 
 
@@ -2912,7 +3027,9 @@ where fare_amount < 0 or total_amount < 0;
 
 ![ChatGPT & AI Tools](https://img.shields.io/badge/ChatGPT%20%26%20AI%20Tools-Powered-00A67E?style=plastic&logo=openai&logoColor=ffffff) ![Generative AI](https://img.shields.io/badge/Generative%20AI-Analytics-7B61FF?style=plastic&logo=openai&logoColor=ffffff)
 
+This project integrates **ChatGPT with Tableau** to enable natural-language querying and conversational data exploration.
 
+➡️ [View full project details under Tableau Projects →](#2-fusionpoint)
 
 **Company / Context:** FusionPoint Industries (Consumer Electronics) 
 
