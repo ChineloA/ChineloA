@@ -1311,10 +1311,10 @@ Leadership can now proactively detect negative trends, improve service response,
 
 ## 📸 Dashboard Preview  
 <img width="1421" height="797" alt="Screenshot 2025-10-26 151322" src="https://github.com/user-attachments/assets/dd90df2d-95b4-4d1c-b056-0f0816561478" />
-<img width="1407" height="800" alt="Screenshot 2025-10-26 151344" src="https://github.com/user-attachments/assets/a29c5fe2-9fe4-4f43-a031-642bc8e77300" />
+<img width="1404" height="793" alt="Screenshot 2025-10-28 171644" src="https://github.com/user-attachments/assets/552ad7c9-9089-4327-ae14-1b650622ee42" />
 <img width="660" height="231" alt="Screenshot 2025-10-26 151359" src="https://github.com/user-attachments/assets/6adc1b16-fb24-468e-8499-6f2526f00e7a" />
-<img width="1404" height="795" alt="Screenshot 2025-10-26 151419" src="https://github.com/user-attachments/assets/dd6a1a5b-9d70-4dbe-97b6-495ec40f73c3" />
-<img width="1405" height="793" alt="Screenshot 2025-10-26 151438" src="https://github.com/user-attachments/assets/116b1848-b91d-4cdf-8b72-8376f7aa93e2" />
+<img width="1406" height="795" alt="Screenshot 2025-10-28 171708" src="https://github.com/user-attachments/assets/e70c5fe5-8152-411d-8eca-30d23a5ff811" />
+<img width="1403" height="794" alt="Screenshot 2025-10-28 171725" src="https://github.com/user-attachments/assets/d09252e7-d9eb-4892-9d33-6c5144ea4c71" />
 
 ### 🔗 [View Interactive Dashboard on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiZDIwMDIzOGEtNGFmOC00ZmMyLWE5YTYtMmZjNzJmNjZmNTM3IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
 
