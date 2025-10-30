@@ -1313,7 +1313,7 @@ Leadership can now proactively detect negative trends, improve service response,
 <img width="1421" height="797" alt="Screenshot 2025-10-26 151322" src="https://github.com/user-attachments/assets/dd90df2d-95b4-4d1c-b056-0f0816561478" />
 <img width="1404" height="793" alt="Screenshot 2025-10-28 171644" src="https://github.com/user-attachments/assets/552ad7c9-9089-4327-ae14-1b650622ee42" />
 <img width="660" height="231" alt="Screenshot 2025-10-26 151359" src="https://github.com/user-attachments/assets/6adc1b16-fb24-468e-8499-6f2526f00e7a" />
-<img width="1406" height="795" alt="Screenshot 2025-10-28 171708" src="https://github.com/user-attachments/assets/e70c5fe5-8152-411d-8eca-30d23a5ff811" />
+<img width="1402" height="791" alt="Screenshot 2025-10-30 214831" src="https://github.com/user-attachments/assets/2d596b1b-225a-4e1c-b8b4-3d9ad3ba694b" />
 <img width="1403" height="794" alt="Screenshot 2025-10-28 171725" src="https://github.com/user-attachments/assets/d09252e7-d9eb-4892-9d33-6c5144ea4c71" />
 
 ### 🔗 [View Interactive Dashboard on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiZDIwMDIzOGEtNGFmOC00ZmMyLWE5YTYtMmZjNzJmNjZmNTM3IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
