@@ -1341,6 +1341,178 @@ Leadership can now proactively detect negative trends, improve service response,
 **Role:** Data Analyst | AfriTech Electronics Ltd.  
 **Keywords:** #PowerBI #SQL #PostgreSQL #DataAnalytics #BrandReputation #CustomerInsights  
 
+
+<h2></h2>
+
+### 15. 🌆 UrbanEats Route Optimization Performance Analysis  
+*Amdari Internship Project*  
+*UrbanEats Route Optimization — SQL & Power BI Integration for Operational Efficiency and Customer Experience*  
+
+[← Previous](#14--afritech-electronics) • [Back to TOC](#-main-table-of-contents)  
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
+![SQL](https://img.shields.io/badge/Tool-SQL-blue?style=plastic&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-lightblue?style=plastic&logo=postgresql)
+![DAX](https://img.shields.io/badge/Language-DAX-orange?style=plastic&logo=microsoft)
+
+---
+
+### ✨ Introduction  
+A data-driven Power BI project that optimizes **UrbanEats’ food delivery routes**, achieving **26% faster lead times** and **15% lower operational costs** through advanced **SQL data modeling** and **DAX-powered insights**.  
+The solution enhances real-time visibility, driver efficiency, and SLA reliability across busy city routes.
+
+---
+
+🧩 **Project Overview**  
+The **UrbanEats Route Optimization** project delivers a unified analytics solution designed to tackle major operational challenges — prolonged delivery times, rising costs, and driver stress — by optimizing routes across dense urban zones.  
+
+Using **SQL** for data preparation and **Power BI** for visualization, the dashboards empower UrbanEats to monitor delivery efficiency, reduce costs, and improve driver and customer satisfaction.
+
+---
+
+📊 **Dashboard Focus**  
+🔍 **Focus:** Delivery Efficiency | Cost Optimization | Driver Performance | SLA Reliability  
+
+**What this shows**  
+- **Delivery Metrics:** Average, median, and P90 delivery times across all orders.  
+- **Operational KPIs:** Cost Index, Lead Time Reduction, Orders per Driver, and Completion Rate.  
+- **Driver & Restaurant Insights:** Fastest and slowest performers, delivery time patterns, and SLA compliance.  
+- **Traffic & Distance Patterns:** Geo-mapped deliveries and travel time impact by density zones.  
+
+**Insight:** Enables UrbanEats to identify bottlenecks, improve routing decisions, and monitor real-time performance toward strategic goals.
+
+---
+
+### 🎯 **Business Challenge**  
+Slow deliveries ⏱️ • High costs 💰 • Driver stress 🚗 • Customer complaints 😟  
+UrbanEats needed smarter routing and real-time visibility.
+
+---
+
+🎯 **Key Achievements**  
+- Designed an SQL-based pipeline integrating customer orders, driver data, and restaurant details.  
+- Built **three interactive Power BI dashboards** to track performance, diagnose inefficiencies, and monitor KPI progress.  
+- Created **custom DAX measures** for SLA %, Cost Index, and Lead Time Reduction.  
+- Implemented a **Top/Bottom toggle** to dynamically compare drivers and restaurants.  
+- Developed a **traffic density banding system** (Low/Medium/High) for congestion analysis.  
+
+---
+
+### 🧭 **Project Objectives**
+- **20% faster deliveries**  
+- **15% lower operational costs**  
+- **Improved driver satisfaction & reduced stress**  
+_Built using SQL + Power BI_
+
+---
+
+## 🟦 **Dashboard 1 – Performance Overview**
+**Purpose:** Provides a top-level summary of delivery performance, cost, and progress.  
+- Avg Delivery Time: **9 min**  
+- P90 Delivery: **17 min** (90% within this time)  
+- Lead Time Reduction: **26%** (exceeds 20% goal)  
+- Cost Index Reduction: **26%** (meets 15% goal)  
+- Distance ↓ **25%**, Minutes ↓ **9%**  
+- Orders per Driver: **20**  
+**Actions:** Maintain optimized routes; target slowest 10%; set SLA ≤10 min  
+
+---
+
+## ⚙️ **Dashboard 2 – Operational Performance**
+**Purpose:** Explains *why* delays occur by examining drivers, restaurants, and traffic.  
+- Orders per Hour: **2.83**  
+- Driver Utilization: **14–17%** (goal: 25%)  
+- Delay clusters: **Manhattan & Jersey City**  
+- Traffic density strongly affects delivery time.  
+**Actions:** Rebalance driver shifts; improve restaurant prep timing; apply dynamic routing.
+
+---
+
+## 👥 **Dashboard 3 – Driver & Restaurant Insights**
+**Purpose:** Identifies top and bottom performers for recognition, training, or intervention.  
+- Fastest Drivers: ~**6.4 min** avg  
+- Slowest Drivers: ~**12–13 min** avg  
+- Slowest Restaurants: **10–11 min** (prep delays)  
+- % Within SLA: **~9–12%** (needs improvement)  
+**Actions:** Reward top performers; retrain slower ones; use predictive SLA alerts.
+
+---
+
+## 📊 **How the Dashboards Work Together**
+- **20% Faster Deliveries:** D1 tracks progress • D2 explains causes • D3 identifies who to fix.  
+- **15% Cost Reduction:** Route & distance optimization (D1–D2).  
+- **Driver Satisfaction:** Fair workloads & recognition (D2–D3).  
+- **Better SLA Reliability:** SLA metrics across D1–D3.  
+
+---
+
+### 🕒 **Understanding SLA**  
+An SLA is a **delivery promise** (e.g., ≤10 minutes). “% Within SLA” shows how often we meet that promise.  
+- ✅ **High %** = strong performance (most orders on time).  
+- ⚠️ **Low %** = reliability needs improvement.  
+**Why it matters:** Tracks reliability, improves customer trust, and supports the 20% faster delivery goal.  
+
+---
+
+💡 **Insights**  
+- **Average Delivery Time:** 9.03 mins, with **26% faster lead time** vs. baseline.  
+- **Cost Index Reduction:** 26%, surpassing the 15% target.  
+- **Driver Utilization:** 14–17%, suggesting room for efficiency improvement.  
+- **Fastest Drivers:** ~6.4 mins; **Slowest Drivers:** ~12–13 mins → training opportunities.  
+- **Top Restaurants:** 7.6–8.3 mins; **Slowest:** 10–11 mins → prep delays.  
+- **~67%** of deliveries completed within **0–10 minutes**, showing strong mid-range performance.  
+- **Traffic Analysis:** Manhattan and Jersey City show the most congestion.  
+
+---
+
+🚀 **Outcome**  
+UrbanEats achieved significant gains in **speed**, **cost control**, and **driver performance**.  
+Management can now:  
+- Detect bottlenecks in real time.  
+- Benchmark and recognize top performers.  
+- Track SLA and service consistency visually.  
+- Conduct weekly performance reviews using data-backed insights.  
+
+---
+
+🧰 **Tools Used**  
+- **Power BI** — Dashboard creation and KPI visualization  
+- **SQL** — Data integration and model preparation  
+- **DAX** — Advanced measures (SLA %, Lead Time %, Cost Index)  
+- **Power Query** — Data cleaning and transformation  
+- **Excel/CSV** — Source data input  
+
+---
+
+## 📸 Dashboard Preview  
+
+---
+
+### 🔗 [View Interactive Dashboard on Power BI Service →]
+
+---
+
+💬 **Recommendations**  
+- Increase **driver utilization** to at least 25%.  
+- Introduce **real-time SLA alerts** for at-risk deliveries.  
+- Collaborate with **slow restaurants** to reduce prep delays.  
+- Reward top performers to encourage consistency.  
+- Apply **AI-based route prediction** in traffic-heavy areas.  
+
+---
+
+🧭 **Next Steps**  
+- Automate Power BI data refresh with real-time order feeds.  
+- Add **profit-per-route** and **fuel cost** metrics for transparency.  
+- Use predictive analytics to forecast **late deliveries**.  
+- Expand SLA tracking to include **customer satisfaction**.  
+
+---
+
+👩🏽‍💼 **Prepared by:** Chinelo  
+**Role:** Data Analyst | UrbanEats Logistics  
+**Keywords:** #PowerBI #SQL #DAX #DataAnalytics #LogisticsOptimization #RoutePlanning #OperationsInsights
+
 ---
 
 <br>
