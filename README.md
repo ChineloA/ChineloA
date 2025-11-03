@@ -1490,7 +1490,7 @@ Management can now:
 
 ---
 
-### 🔗 [View Interactive Dashboard on Power BI Service →]
+### 🔗 [View Interactive Dashboard on Power BI Service →]https://app.powerbi.com/reportEmbed?reportId=4c8e1c71-dfb0-4964-bc62-add538b91506&autoAuth=true&ctid=ff0f3e3a-3e53-454f-b2b5-6c68753b8ee4
 
 ---
 
