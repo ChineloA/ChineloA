@@ -1487,10 +1487,14 @@ Management can now:
 ---
 
 ## 📸 Dashboard Preview  
+<img width="1421" height="800" alt="Screenshot 2025-11-03 234244" src="https://github.com/user-attachments/assets/79e86998-767b-46cf-b8e1-622f19ffcea1" />
+<img width="1418" height="798" alt="Screenshot 2025-11-03 234306" src="https://github.com/user-attachments/assets/95020595-354d-4c31-85c2-435c47b2aee3" />
+<img width="1422" height="792" alt="Screenshot 2025-11-03 234335" src="https://github.com/user-attachments/assets/9628be50-a390-4362-8971-99e365fe72a7" />
+
 
 ---
 
-### 🔗 [View Interactive Dashboard on Power BI Service →]https://app.powerbi.com/reportEmbed?reportId=4c8e1c71-dfb0-4964-bc62-add538b91506&autoAuth=true&ctid=ff0f3e3a-3e53-454f-b2b5-6c68753b8ee4
+### 🔗 [View Interactive Dashboard on Power BI Service →](https://app.powerbi.com/reportEmbed?reportId=4c8e1c71-dfb0-4964-bc62-add538b91506&autoAuth=true&ctid=ff0f3e3a-3e53-454f-b2b5-6c68753b8ee4)
 
 ---
 
