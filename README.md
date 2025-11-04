@@ -514,7 +514,8 @@ The dashboard empowered fleet managers to **reduce downtime, control costs**, an
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-25 161711](https://github.com/user-attachments/assets/ee57c7a6-8e41-450e-bcf8-4c738916fb3f)
 
-### 🔗 [View Interactive Dashboard on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiOGFhYzFkZjUtMGZiNS00YzE5LThiYzMtMWVhYTIyNmE4NTc0IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
+### 🔗 Explore the Interactive Dashboard 
+🎯 **Live Power BI Report:** [Click here to view on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiOGFhYzFkZjUtMGZiNS00YzE5LThiYzMtMWVhYTIyNmE4NTc0IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
 
 
 <h2></h2>
@@ -571,7 +572,8 @@ Enabled Tri-Fleet’s management team to **analyse global sales performance**, u
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-19 233508](https://github.com/user-attachments/assets/d851f5ae-ee1d-4f90-9d6c-b1b2356283cf)
 
-### 🔗 [View Interactive Dashboard on Power BI Service →](https://app.fabric.microsoft.com/reportEmbed?reportId=011ec3a0-5500-40ea-9b5d-5d1ad8f869c5&autoAuth=true&ctid=ff0f3e3a-3e53-454f-b2b5-6c68753b8ee4)
+### 🔗 Explore the Interactive Dashboard 
+🎯 **Live Power BI Report:** [Click here to view on Power BI Service →](https://app.fabric.microsoft.com/reportEmbed?reportId=011ec3a0-5500-40ea-9b5d-5d1ad8f869c5&autoAuth=true&ctid=ff0f3e3a-3e53-454f-b2b5-6c68753b8ee4)
 
 <h2></h2>
 
@@ -631,7 +633,8 @@ Delivered a dynamic sales intelligence solution that helped stakeholders **track
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-18 205721](https://github.com/user-attachments/assets/14fc100f-1ed3-4f71-9d5a-76ad6c86d484)
 
-### 🔗 [View Interactive Dashboard on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiMzRjM2NlNzQtYTAyYi00NDVmLWIwODItNzViYzBmMGQyMGVhIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
+### 🔗 Explore the Interactive Dashboard 
+🎯 **Live Power BI Report:** [Click here to view on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiMzRjM2NlNzQtYTAyYi00NDVmLWIwODItNzViYzBmMGQyMGVhIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
 
 <h2></h2>
 
@@ -692,7 +695,8 @@ Enabled Dreamy Bites’ management to **track sales and profit performance**, un
 📸 ![Screenshot 2025-05-20 222339](https://github.com/user-attachments/assets/55d6de90-0ab4-4503-a3ae-e6368fc8bb49)
 📸 ![Screenshot 2025-05-20 222410](https://github.com/user-attachments/assets/e163c20a-75a7-48d4-af10-e60add20b877)
 
-### 🔗 [View Interactive Dashboard on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiMzcyMTFkMjctZGRhYS00ZGU1LWFlNzgtZWZlOGYzOGI4ZGIyIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
+### 🔗 Explore the Interactive Dashboard 
+🎯 **Live Power BI Report:** [Click here to view on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiMzcyMTFkMjctZGRhYS00ZGU1LWFlNzgtZWZlOGYzOGI4ZGIyIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
 
 <h2></h2>
 
@@ -755,7 +759,8 @@ Empowered NovaMed’s management to make **data-driven marketing and inventory d
 📸 ![Screenshot 2025-06-06 220650](https://github.com/user-attachments/assets/58b977ae-1139-40b7-bfb4-a646fa192f24)
 📸 ![Screenshot 2025-06-06 211951](https://github.com/user-attachments/assets/81d5e87d-1d10-43b5-af5a-fade6e44b155)
 
-### 🔗 [View Interactive Dashboard on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiZDU5NWVlMWQtM2FmZS00MTcxLWFkNjEtNDg0YWJmMThiN2RhIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
+### 🔗 Explore the Interactive Dashboard 
+🎯 **Live Power BI Report:** [Click here to view on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiZDU5NWVlMWQtM2FmZS00MTcxLWFkNjEtNDg0YWJmMThiN2RhIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
 
 <h2></h2>
 
@@ -814,7 +819,8 @@ Provided management with a centralised analytics tool to **evaluate profitabilit
 📸 ![Screenshot 2025-05-18 220415](https://github.com/user-attachments/assets/1ec5c740-a175-4806-8640-28c1b91b62ad)
 📸 ![Screenshot 2025-05-24 162959](https://github.com/user-attachments/assets/0c99f463-e311-4a08-bd81-f705fb9def26)
 
-### 🔗 [View Interactive Dashboard on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiZDJlNzM5ZmEtYWY0My00NGUyLWJlMDctZmMwMzkzNjQxOTgzIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
+### 🔗 Explore the Interactive Dashboard 
+🎯 **Live Power BI Report:** [Click here to view on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiZDJlNzM5ZmEtYWY0My00NGUyLWJlMDctZmMwMzkzNjQxOTgzIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
 
 <h2></h2>
 
@@ -870,7 +876,8 @@ Enabled boutique owners to **understand customer preferences**, manage product p
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-12 233017](https://github.com/user-attachments/assets/731f5181-f6a3-4215-9b53-b4c9a09be62c)
 
-### 🔗 [View Interactive Dashboard on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiMmY5YmQwYjktYjAwOS00Zjk2LTkxMTAtMDg1NjUyZjJmZmRmIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
+### 🔗 Explore the Interactive Dashboard 
+🎯 **Live Power BI Report:** [Click here to view on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiMmY5YmQwYjktYjAwOS00Zjk2LTkxMTAtMDg1NjUyZjJmZmRmIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
 
 <h2></h2>
 
@@ -928,7 +935,8 @@ Provided a powerful visualisation tool for policymakers and researchers to **eva
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-09 160956](https://github.com/user-attachments/assets/937feaaf-6aef-45ad-9cda-b2a95592db5f)
 
-### 🔗 [View Interactive Dashboard on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiYWM0Njk2NTMtZjQ1Zi00YmQ0LTg5ZjMtY2QyYjYwOGI0ZmIxIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
+### 🔗 Explore the Interactive Dashboard 
+🎯 **Live Power BI Report:** [Click here to view on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiYWM0Njk2NTMtZjQ1Zi00YmQ0LTg5ZjMtY2QyYjYwOGI0ZmIxIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
 
  
 <h2></h2>
@@ -987,7 +995,8 @@ The analysis offered mental health organisations and policymakers data-backed in
 📸 ![Screenshot 2025-05-18 195537](https://github.com/user-attachments/assets/f1edd98c-c542-45d5-930d-b71645b81e89)
 	<img width="1483" height="798" alt="Screenshot 2025-10-11 212745" src="https://github.com/user-attachments/assets/4324a4eb-aa33-48d8-a03f-c633918515da" />
 
-### 🔗 [View Interactive Dashboard on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiZDNjNjE3MmQtM2Q1Ni00NTY5LWJlYWYtNDc0OGZlZjA3ZjI3IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
+### 🔗 Explore the Interactive Dashboard 
+🎯 **Live Power BI Report:** [Click here to view on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiZDNjNjE3MmQtM2Q1Ni00NTY5LWJlYWYtNDc0OGZlZjA3ZjI3IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
 
 <h2></h2>
 
@@ -1049,7 +1058,8 @@ This analysis empowered HR teams to **pinpoint high-risk employee segments**, de
 📸 ![Screenshot 2025-05-06 175105](https://github.com/user-attachments/assets/1932b5d3-f04d-45fd-9dc7-81b7831e7f9e)
 📸 ![Screenshot 2025-05-06 175143](https://github.com/user-attachments/assets/5c1ea3dd-70a0-4841-ad14-38521337247a)
 
-### 🔗 [View Interactive Dashboard on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiMjI3YTU3MDgtYmUxMy00MjZiLWIxMWQtNzFmNjkxYTZmMGI0IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
+### 🔗 Explore the Interactive Dashboard 
+🎯 **Live Power BI Report:** [Click here to view on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiMjI3YTU3MDgtYmUxMy00MjZiLWIxMWQtNzFmNjkxYTZmMGI0IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
 
 <h2></h2>
 
@@ -1105,7 +1115,8 @@ This dashboard provides a clear, data-driven view of **global demographic dynami
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-16 232450](https://github.com/user-attachments/assets/02aa7e6b-242c-4c5f-b0f6-70b9905279c7)
 
-### 🔗 [View Interactive Dashboard on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiYjRkYWRjYjctZmQzZC00MDBhLWJlNDktOTgxODYzOGYxNmUzIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
+### 🔗 Explore the Interactive Dashboard 
+🎯 **Live Power BI Report:** [Click here to view on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiYjRkYWRjYjctZmQzZC00MDBhLWJlNDktOTgxODYzOGYxNmUzIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
 
 <h2></h2>
 
@@ -1168,7 +1179,8 @@ Equipped business leaders with a powerful tool to **evaluate regional performanc
    ![Screenshot 2025-05-31 224002](https://github.com/user-attachments/assets/a29e2627-cb39-462f-8df7-652eabcab497)
    ![Screenshot 2025-05-31 223927](https://github.com/user-attachments/assets/e5581012-9280-43aa-9737-9826138a5c54)
 
-### 🔗 [View Interactive Dashboard on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiYjljZjkzOGItYTQ1Ni00YmQ1LThiM2UtZDE1NzQ1MWVkNGFlIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
+### 🔗 Explore the Interactive Dashboard 
+🎯 **Live Power BI Report:** [Click here to view on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiYjljZjkzOGItYTQ1Ni00YmQ1LThiM2UtZDE1NzQ1MWVkNGFlIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
 
 <h2></h2>
 
@@ -1238,7 +1250,8 @@ The dashboard provides a comprehensive view of:
 #### 📸 Dashboard Preview  
 <img width="1423" height="798" alt="Screenshot 2025-10-11 171856" src="https://github.com/user-attachments/assets/2aeed7cb-a4d0-45a4-87a4-ff398804965f" />
 
-### 🔗 [View Interactive Dashboard on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiZmE2OGFjN2QtMWU4MC00YTg4LTg1MmMtNjUzOWRiNzk3ZTc2IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
+### 🔗 Explore the Interactive Dashboard 
+🎯 **Live Power BI Report:** [Click here to view on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiZmE2OGFjN2QtMWU4MC00YTg4LTg1MmMtNjUzOWRiNzk3ZTc2IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
 
 
 <h2></h2>
@@ -1307,18 +1320,7 @@ Leadership can now proactively detect negative trends, improve service response,
 - **SQL (PostgreSQL)** — ETL workflows and data warehousing  
 - **DAX** — calculated measures and KPIs  
 - **Power Query** — data transformation and integration  
-- **Excel/CSV** — initial data source files  
-
----
-
-## 📸 Dashboard Preview  
-<img width="1421" height="797" alt="Screenshot 2025-10-26 151322" src="https://github.com/user-attachments/assets/dd90df2d-95b4-4d1c-b056-0f0816561478" />
-<img width="1404" height="793" alt="Screenshot 2025-10-28 171644" src="https://github.com/user-attachments/assets/552ad7c9-9089-4327-ae14-1b650622ee42" />
-<img width="660" height="231" alt="Screenshot 2025-10-26 151359" src="https://github.com/user-attachments/assets/6adc1b16-fb24-468e-8499-6f2526f00e7a" />
-<img width="1402" height="791" alt="Screenshot 2025-10-30 214831" src="https://github.com/user-attachments/assets/2d596b1b-225a-4e1c-b8b4-3d9ad3ba694b" />
-<img width="1403" height="794" alt="Screenshot 2025-10-28 171725" src="https://github.com/user-attachments/assets/d09252e7-d9eb-4892-9d33-6c5144ea4c71" />
-
-### 🔗 [View Interactive Dashboard on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiZDIwMDIzOGEtNGFmOC00ZmMyLWE5YTYtMmZjNzJmNjZmNTM3IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
+- **Excel/CSV** — initial data source files
 
 ---
 
@@ -1335,7 +1337,19 @@ Leadership can now proactively detect negative trends, improve service response,
 - Implement **predictive analytics** for churn and product recall risk.  
 - Automate **Power BI data refresh and sentiment alerts**.  
 - Add **profitability KPIs by product and region**.  
-- Continue **SQL query optimization** and data governance improvements.  
+- Continue **SQL query optimization** and data governance improvements. 
+
+---
+
+## 📸 Dashboard Preview  
+<img width="1421" height="797" alt="Screenshot 2025-10-26 151322" src="https://github.com/user-attachments/assets/dd90df2d-95b4-4d1c-b056-0f0816561478" />
+<img width="1404" height="793" alt="Screenshot 2025-10-28 171644" src="https://github.com/user-attachments/assets/552ad7c9-9089-4327-ae14-1b650622ee42" />
+<img width="660" height="231" alt="Screenshot 2025-10-26 151359" src="https://github.com/user-attachments/assets/6adc1b16-fb24-468e-8499-6f2526f00e7a" />
+<img width="1402" height="791" alt="Screenshot 2025-10-30 214831" src="https://github.com/user-attachments/assets/2d596b1b-225a-4e1c-b8b4-3d9ad3ba694b" />
+<img width="1403" height="794" alt="Screenshot 2025-10-28 171725" src="https://github.com/user-attachments/assets/d09252e7-d9eb-4892-9d33-6c5144ea4c71" />
+
+###### 🔗 Explore the Interactive Dashboard 
+🎯 **Live Power BI Report:** [Click here to view on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiZDIwMDIzOGEtNGFmOC00ZmMyLWE5YTYtMmZjNzJmNjZmNTM3IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9) 
 
 ---
 
@@ -1346,9 +1360,9 @@ Leadership can now proactively detect negative trends, improve service response,
 
 <h2></h2>
 
-### 15. 🌆 UrbanEats Route Optimization Performance Analysis  
+### 15. 🌆 UrbanEats Route Optimisation Performance Analysis  
 *Amdari Internship Project*  
-*UrbanEats Route Optimization — SQL & Power BI Integration for Operational Efficiency and Customer Experience*  
+*UrbanEats Route Optimisation — SQL & Power BI Integration for Operational Efficiency and Customer Experience*  
 
 [← Previous](#14--afritech-electronics) • [Back to TOC](#-main-table-of-contents)  
 
@@ -1360,15 +1374,15 @@ Leadership can now proactively detect negative trends, improve service response,
 ---
 
 ### ✨ Introduction  
-A data-driven Power BI project that optimizes **UrbanEats’ food delivery routes**, achieving **26% faster lead times** and **15% lower operational costs** through advanced **SQL data modeling** and **DAX-powered insights**.  
+A data-driven Power BI project that optimises **UrbanEats’ food delivery routes**, achieving **26% faster lead times** and **15% lower operational costs** through advanced **SQL data modelling** and **DAX-powered insights**.  
 The solution enhances real-time visibility, driver efficiency, and SLA reliability across busy city routes.
 
 ---
 
 🧩 **Project Overview**  
-The **UrbanEats Route Optimization** project delivers a unified analytics solution designed to tackle major operational challenges — prolonged delivery times, rising costs, and driver stress — by optimizing routes across dense urban zones.  
+The **UrbanEats Route Optimisation** project delivers a unified analytics solution designed to tackle major operational challenges — prolonged delivery times, rising costs, and driver stress — by optimising routes across dense urban zones.  
 
-Using **SQL** for data preparation and **Power BI** for visualization, the dashboards empower UrbanEats to monitor delivery efficiency, reduce costs, and improve driver and customer satisfaction.
+Using **SQL** for data preparation and **Power BI** for visualisation, the dashboards empower UrbanEats to monitor delivery efficiency, reduce costs, and improve driver and customer satisfaction.
 
 ---
 
@@ -1528,19 +1542,6 @@ Management can now:
 
 ---
 
-## 📸 Dashboard Preview  
-<img width="1421" height="800" alt="Screenshot 2025-11-03 234244" src="https://github.com/user-attachments/assets/79e86998-767b-46cf-b8e1-622f19ffcea1" />
-<img width="1418" height="798" alt="Screenshot 2025-11-03 234306" src="https://github.com/user-attachments/assets/95020595-354d-4c31-85c2-435c47b2aee3" />
-<img width="1422" height="792" alt="Screenshot 2025-11-03 234335" src="https://github.com/user-attachments/assets/9628be50-a390-4362-8971-99e365fe72a7" />
-
-
----
-
-### 🔗 Explore the Interactive Dashboard 
-🎯 **Live Power BI Report:** [View Interactive Dashboard on Power BI Service →](https://app.powerbi.com/reportEmbed?reportId=4c8e1c71-dfb0-4964-bc62-add538b91506&autoAuth=true&ctid=ff0f3e3a-3e53-454f-b2b5-6c68753b8ee4)
-
----
-
 💬 **Recommendations** 
 ### 🟢 SLA Reliability
 - Add **predictive SLA alerts** and track late deliveries daily.  
@@ -1594,6 +1595,19 @@ its **customer promise of consistent, on-time delivery performance**.
 - Add **profit-per-route** and **fuel cost** metrics for transparency.  
 - Use predictive analytics to forecast **late deliveries**.  
 - Expand SLA tracking to include **customer satisfaction**.  
+
+---
+
+## 📸 Dashboard Preview  
+<img width="1421" height="800" alt="Screenshot 2025-11-03 234244" src="https://github.com/user-attachments/assets/79e86998-767b-46cf-b8e1-622f19ffcea1" />
+<img width="1418" height="798" alt="Screenshot 2025-11-03 234306" src="https://github.com/user-attachments/assets/95020595-354d-4c31-85c2-435c47b2aee3" />
+<img width="1422" height="792" alt="Screenshot 2025-11-03 234335" src="https://github.com/user-attachments/assets/9628be50-a390-4362-8971-99e365fe72a7" />
+
+
+---
+
+### 🔗 Explore the Interactive Dashboard 
+🎯 **Live Power BI Report:** [Click here to view on Power BI Service →](https://app.powerbi.com/reportEmbed?reportId=4c8e1c71-dfb0-4964-bc62-add538b91506&autoAuth=true&ctid=ff0f3e3a-3e53-454f-b2b5-6c68753b8ee4)
 
 ---
 
