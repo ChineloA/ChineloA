@@ -120,7 +120,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [🛍️ Retail Edge](#12-%EF%B8%8F-retail-edge)
 - [💪 IronCore Fitness](#13--ironcore-fitness)
 - [⚡ AfriTech Electronics](#14--afritech-electronics)
-- [🌆 UrbanEats Route Optimization Performance Analysis](#15--urbaneats-route-optimization-performance-analysis)
+- [🌆 UrbanEats Route Optimization Performance Analysis](#15--urbaneats-route-optimisation-performance-analysis)
   
 <h2></h2>
 &nbsp;  
@@ -1260,7 +1260,7 @@ The dashboard provides a comprehensive view of:
 *Amdari Internship Project*
 *AfriTech Electronics Performance Analysis — SQL & Power BI Integration for Brand Reputation and Customer Insights*  
 
-[← Previous](#13--ironcore-fitness) • [Back to TOC](#-main-table-of-contents) • [Next →](#15--urbaneats-route-optimization-performance-analysis)
+[← Previous](#13--ironcore-fitness) • [Back to TOC](#-main-table-of-contents) • [Next →](#15--urbaneats-route-optimisation-performance-analysis)
 
   
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
