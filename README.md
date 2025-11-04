@@ -1305,7 +1305,23 @@ It leverages **SQL for data integration** and **Power BI for visualization**, gi
 - **Laptops (43%)** led sales; Smartphones (25%) and Tablets (19%) followed.  
 - **41% positive sentiment**, trending upward across social platforms.  
 - Logged **13.4K crises**, with a **47.6% resolution rate**.  
-- **Average NPS: 5.0 (Neutral)** — slower responses reduced promoter count.  
+- **Average NPS: 5.0 (Neutral)** — slower responses reduced promoter count.
+  
+## Customer Satisfaction (NPS)
+- **Promoters:** 20.06 %
+- **Passives:** 15.53 %
+- **Detractors:** 64.42 %
+- **NPS Score:** –44.36 (negative) → indicates more dissatisfied customers than satisfied ones.
+
+**Analysis Parameters:**  
+- NPS calculated from all valid responses (scores 0–10)  
+- 0–6 = Detractors  
+- 7–8 = Passives  
+- 9–10 = Promoters
+
+**Implications:**  
+- High detractor proportion correlates with low resolution rates and slow response times.  
+- Highlights areas impacting customer satisfaction and identifies opportunities for improvement.
 
 ---
 
@@ -1329,7 +1345,10 @@ Leadership can now proactively detect negative trends, improve service response,
 - Set up **real-time alerts** for negative sentiment or competitor mentions.  
 - Automate **support responses** via chatbots and macros.  
 - Maintain **recall rate < 8%** through improved quality checks.  
-- Optimize **response time metrics** in DAX for SLA accuracy.  
+- Optimize **response time metrics** in DAX for SLA accuracy.
+- **Monitor NPS continuously:**  
+  Track **Promoters, Passives, and Detractors** by **region** or **product** to identify high-impact service gaps.
+ 
 
 ---
 
@@ -1346,7 +1365,8 @@ Leadership can now proactively detect negative trends, improve service response,
 <img width="1404" height="793" alt="Screenshot 2025-10-28 171644" src="https://github.com/user-attachments/assets/552ad7c9-9089-4327-ae14-1b650622ee42" />
 <img width="660" height="231" alt="Screenshot 2025-10-26 151359" src="https://github.com/user-attachments/assets/6adc1b16-fb24-468e-8499-6f2526f00e7a" />
 <img width="1402" height="791" alt="Screenshot 2025-10-30 214831" src="https://github.com/user-attachments/assets/2d596b1b-225a-4e1c-b8b4-3d9ad3ba694b" />
-<img width="1403" height="794" alt="Screenshot 2025-10-28 171725" src="https://github.com/user-attachments/assets/d09252e7-d9eb-4892-9d33-6c5144ea4c71" />
+<img width="1401" height="791" alt="Screenshot 2025-11-04 222556" src="https://github.com/user-attachments/assets/6a936733-965f-43b0-a0cf-bb9abf9b20e3" />
+
 
 ###### 🔗 Explore the Interactive Dashboard 
 🎯 **Live Power BI Report:** [Click here to view on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiZDIwMDIzOGEtNGFmOC00ZmMyLWE5YTYtMmZjNzJmNjZmNTM3IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9) 
