@@ -1449,21 +1449,63 @@ _Built using SQL + Power BI_
 ---
 
 ### 🕒 **Understanding SLA**  
-An SLA is a **delivery promise** (e.g., ≤10 minutes). “% Within SLA” shows how often we meet that promise.  
-- ✅ **High %** = strong performance (most orders on time).  
-- ⚠️ **Low %** = reliability needs improvement.  
-**Why it matters:** Tracks reliability, improves customer trust, and supports the 20% faster delivery goal.  
+**What is SLA?**  
+An SLA is a delivery promise — the target time UrbanEats commits to for completing an order (e.g., ≤ **10 minutes**).  
+The **% Within SLA** metric shows how often that promise is met.
+
+### 📊 Current SLA Status
+- ✅ **Met:** 56.5%  
+- 🎯 **Target:** 90%  
+- 📉 **Variance:** −33.5% → Underperforming  
+
+**Interpretation:**  
+Only about half of deliveries arrive within the promised window.  
+Reliability is weaker in **high-traffic zones** and **slow-prep restaurants**.  
+Gauge and KPI label visuals track SLA % vs target and highlight variance  
+*(green = met, amber = close, red = below)*.
+
+**Why It Matters:**  
+- Measures delivery reliability and customer satisfaction  
+- Highlights slow routes, drivers, or restaurants  
+- Tracks progress toward the **20% faster delivery** goal  
+- Encourages accountability through clear KPI visibility  
+
+> **In short:** SLA performance tells UrbanEats how well it keeps its promise to customers —  
+> a key driver of loyalty and brand trust.
 
 ---
 
-💡 **Insights**  
-- **Average Delivery Time:** 9.03 mins, with **26% faster lead time** vs. baseline.  
-- **Cost Index Reduction:** 26%, surpassing the 15% target.  
-- **Driver Utilization:** 14–17%, suggesting room for efficiency improvement.  
-- **Fastest Drivers:** ~6.4 mins; **Slowest Drivers:** ~12–13 mins → training opportunities.  
+💡 **Key Insights**  
+*(These insights directly show how the project objectives were achieved.)*
+
+### 🚀 Delivery Speed
+- Achieved Avg Delivery Time of 9.03 mins, with **26% faster deliveries** through SQL-based route optimization  
+  and dynamic Power BI tracking.  
+- Deliveries are faster, routes are shorter, and costs are falling.
+- **Fastest Drivers:** ~6.4 mins; **Slowest Drivers:** ~12–13 mins → training opportunities.
 - **Top Restaurants:** 7.6–8.3 mins; **Slowest:** 10–11 mins → prep delays.  
-- **~67%** of deliveries completed within **0–10 minutes**, showing strong mid-range performance.  
-- **Traffic Analysis:** Manhattan and Jersey City show the most congestion.  
+- **~67%** of deliveries completed within **0–10 minutes**, showing strong mid-range performance.
+  
+### 💰 Cost Efficiency
+- Reduced delivery costs by **26%**, exceeding the **15%** goal.  
+- Improvements came from shorter routes and balanced driver assignments.
+
+### ⏱️ SLA Performance
+- Reached **56.5%** within SLA (below **90% target**).  
+- Delays mainly from **Manhattan** and **Jersey City** clusters.
+
+### 👩‍✈️ Driver Utilization
+- Improved to **17%** from baseline **10%**,  
+  with top drivers completing **20+ orders daily**. Suggesting room for efficiency improvement. 
+
+### 🍽️ Restaurant Delays
+- Slowest restaurants: **10–11 min prep times**.  
+- Top performers: **7–8 mins**, showing clear efficiency gains.
+
+### 🚦 Traffic Impact
+- **Medium-density zones (61–119 vpm)** had the **slowest delivery speeds** (avg **10.2 mins**).  
+- Indicates opportunity for smarter, traffic-aware routing.
+-  Manhattan and Jersey City show the most congestion.
 
 ---
 
@@ -1471,7 +1513,7 @@ An SLA is a **delivery promise** (e.g., ≤10 minutes). “% Within SLA” shows
 UrbanEats achieved significant gains in **speed**, **cost control**, and **driver performance**.  
 Management can now:  
 - Detect bottlenecks in real time.  
-- Benchmark and recognize top performers.  
+- Benchmark and recognise top performers.  
 - Track SLA and service consistency visually.  
 - Conduct weekly performance reviews using data-backed insights.  
 
@@ -1494,16 +1536,56 @@ Management can now:
 
 ---
 
-### 🔗 [View Interactive Dashboard on Power BI Service →](https://app.powerbi.com/reportEmbed?reportId=4c8e1c71-dfb0-4964-bc62-add538b91506&autoAuth=true&ctid=ff0f3e3a-3e53-454f-b2b5-6c68753b8ee4)
+### 🔗 Explore the Interactive Dashboard 
+🎯 **Live Power BI Report:** [View Interactive Dashboard on Power BI Service →](https://app.powerbi.com/reportEmbed?reportId=4c8e1c71-dfb0-4964-bc62-add538b91506&autoAuth=true&ctid=ff0f3e3a-3e53-454f-b2b5-6c68753b8ee4)
 
 ---
 
-💬 **Recommendations**  
-- Increase **driver utilization** to at least 25%.  
-- Introduce **real-time SLA alerts** for at-risk deliveries.  
-- Collaborate with **slow restaurants** to reduce prep delays.  
-- Reward top performers to encourage consistency.  
-- Apply **AI-based route prediction** in traffic-heavy areas.  
+💬 **Recommendations** 
+### 🟢 SLA Reliability
+- Add **predictive SLA alerts** and track late deliveries daily.  
+- Aim for **+10–15%** SLA improvement.
+
+### 🟠 Driver Utilization
+- Implement **shift balancing** and **zone optimization**.  
+- Rebalance driver schedules to reduce idle time.
+- Increase **driver utilization** to at least 25%.
+  
+### 🍴 Restaurant Coordination
+- Train restaurants with **longest prep delays**.  
+- Improve **prep-to-pickup coordination** for faster order handoff.
+
+### 🚗 Traffic Zones
+- Apply **AI-based route prediction** and **dynamic rerouting**  
+  for medium-density and high-traffic areas.  
+- Maintain optimised routes and focus on the **slowest 10%**.
+
+### 🏆 Performance Motivation
+- Add **leaderboards** and **recognition badges** in Power BI.  
+- Reward **top performers** 🌟 and retrain **slower performers** 📘.  
+- Boosts morale, speed, and consistency.
+
+### ⚙️ Data Automation
+- Automate **Power BI refresh** and **email summaries**.  
+- Ensures real-time visibility for management.
+
+---
+
+## 🎯 How This Solves UrbanEats' Objectives
+
+| **Objective** | **Target** | **Actual** | **Status** |
+|---------------|------------|------------|-------------|
+| 20% faster deliveries | 20% | 26% | ✅ Met / Exceeded |
+| 15% lower operational costs | 15% | 26% | ✅ Met / Exceeded |
+| Happier, less-stressed drivers | 25% Utilization | 17% | ⚙️ In Progress |
+| Improved SLA reliability | 90% | 56.5% | ⚠️ Needs Improvement |
+
+---
+
+**📈 Summary:**  
+UrbanEats made measurable progress toward **faster, cheaper, and smarter** delivery operations.  
+With improved SLA reliability and continued automation, the brand is set to achieve  
+its **customer promise of consistent, on-time delivery performance**.
 
 ---
 
