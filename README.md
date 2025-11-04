@@ -1427,7 +1427,8 @@ _Built using SQL + Power BI_
 - Avg Delivery Time: **9 min**  
 - P90 Delivery: **17 min** (90% within this time)  
 - Lead Time Reduction: **26%** (exceeds 20% goal)  
-- Cost Index Reduction: **26%** (meets 15% goal)  
+- Cost Index Reduction: **26%** (meets 15% goal)
+- SLA reliability is **56.5%** (below the 90% target)
 - Distance ↓ **25%**, Minutes ↓ **9%**  
 - Orders per Driver: **20**  
 **Actions:** Maintain optimized routes; target slowest 10%; set SLA ≤10 min  
@@ -1437,7 +1438,7 @@ _Built using SQL + Power BI_
 ## ⚙️ **Dashboard 2 – Operational Performance**
 **Purpose:** Explains *why* delays occur by examining drivers, restaurants, and traffic.  
 - Orders per Hour: **2.83**  
-- Driver Utilization: **14–17%** (goal: 25%)  
+- Driver Utilisation: **14–17%** (goal: 25%)  
 - Delay clusters: **Manhattan & Jersey City**  
 - Traffic density strongly affects delivery time.  
 **Actions:** Rebalance driver shifts; improve restaurant prep timing; apply dynamic routing.
@@ -1449,7 +1450,8 @@ _Built using SQL + Power BI_
 - Fastest Drivers: ~**6.4 min** avg  
 - Slowest Drivers: ~**12–13 min** avg  
 - Slowest Restaurants: **10–11 min** (prep delays)  
-- % Within SLA: **~9–12%** (needs improvement)  
+- % Within SLA: **~9–12%** (needs improvement)
+- SLA Performance: 56.5% met
 **Actions:** Reward top performers; retrain slower ones; use predictive SLA alerts.
 
 ---
