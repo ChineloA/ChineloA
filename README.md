@@ -1446,7 +1446,7 @@ UrbanEats needed a **scalable, insight-driven dashboard** to optimise delivery p
 | 20% faster deliveries | 20% | **26%** | ✅ Met / Exceeded |
 | 15% lower operational costs | 15% | **26%** | ✅ Met / Exceeded |
 | Happier, less-stressed drivers | 25% Utilization | **17%** | ⚙️ In Progress |
-| Improved SLA reliability | 90% | **56.5%** | ⚠️ Needs Improvement |
+| Improved SLA reliability | 90% | **56.5% (avg)** | ⚠️ Needs Improvement |
 
 ---
 
@@ -1458,7 +1458,7 @@ UrbanEats needed a **scalable, insight-driven dashboard** to optimise delivery p
 - Avg Delivery Hours per Order: **0.15 hrs**  
 - Lead Time Reduction: **26.4%** (Target 20%)  
 - Cost Index Reduction: **25.9%** (Target 15%)  
-- SLA Reliability: **56.5%** (Target 90%)  
+- **SLA Reliability (Average): 56.5%** across all deliveries (Target: 90%) 
 - Orders per Driver: ~20  
 - Delivered Orders: **347 / 1000 Total**  
 
@@ -1494,7 +1494,8 @@ UrbanEats needed a **scalable, insight-driven dashboard** to optimise delivery p
 - Avg Shift Duration: **7 hrs (6–8 range)**  
 - Total Drivers: **50**  
 - Top Drivers: Complete **20+ orders/day**  
-- SLA Performance Range: **60% – 85%**  
+- **Driver SLA Range:** 60% – 85% (individual performance variation)  
+- **Overall SLA Average:** 56.5% across all drivers and restaurants  
 - Fastest Drivers: ~6.2 min avg  
 - Slowest Drivers: ~12–15 min avg  
 - Top Restaurants (Fastest): **7.6–8.3 min** prep times  
@@ -1512,7 +1513,7 @@ An SLA is a **delivery promise** — the time UrbanEats commits to complete an o
 The **% Within SLA** metric shows how often this promise is met.
 
 **Current SLA Performance:**  
-✅ Met: **56.5%**  
+✅ Met: **56.5% (average across all deliveries)**
 🎯 Target: **90%**  
 📉 Variance: −33.5% → *Underperforming*
 
@@ -1536,7 +1537,8 @@ The **% Within SLA** metric shows how often this promise is met.
 - Medium-density zones remain the most cost-inefficient.
 
 📦 **SLA Reliability**
-- SLA Met: **56.5% vs 90% target**.  
+- **Overall SLA Average:** 56.5% across all orders (Target: 90%).  
+- **Driver SLA Range:** 60–85%, showing strong top-performer consistency but high variance.  
 - Delays are heavily concentrated in Manhattan & Jersey City.  
 - SLA variance primarily driven by **restaurant prep times**, not just route inefficiency.
 
@@ -1596,7 +1598,7 @@ The **% Within SLA** metric shows how often this promise is met.
 🧰 **Tools Used**
 
 - **Power BI** — Dashboard creation & KPI visualizations  
-- **SQL** — Data integration and transformation  
+- **PostgreSQL** — Data integration and transformation  
 - **DAX** — Custom KPI measures (SLA %, Lead Time %, Cost Index %)  
 - **Power Query** — ETL and model shaping  
 - **Excel/CSV** — Raw dataset input  
