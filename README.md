@@ -1466,43 +1466,57 @@ UrbanEats needed a **scalable, insight-driven dashboard** to optimise delivery p
 
 ---
 
-⚙️ **Dashboard 2 – Traffic Density Analysis**
+⚙️ **Dashboard 2 – Traffic Density & Restaurant Analysis**
 
-**Purpose:** Evaluates how traffic congestion and zone density impact delivery times.  
+**Purpose:** Examines how traffic density and restaurant prep efficiency impact overall delivery time and SLA reliability.  
 
 - Avg Traffic Density: **70 vpm (vehicles per minute)**  
+- Avg Delivery Time: **9.03 min**  
+- Avg Delivery Hours per Order: **0.15 hrs**
 - Delivery Speed by Density:  
   - Low: **9.2 min**  
   - Medium: **10.2 min**  
   - High: **8.8 min**  
 - Most Busy Hour: **7 AM**  
-- Key Zones: Manhattan, Kips Bay, Jersey City  
+- Key Zones: Manhattan, Kips Bay, Jersey City
+
+  
+**Restaurant Performance Insights:**  
+- Fastest Restaurants: **Collins–Marquez (7.6m)**, **Butler & Sons (7.7m)**, **Smith Inc (7.8m)** Prep time
+- Slowest Restaurants: **McDaniel–Harrington (10.5m)**, **Conrad Inc (10.3m)**, **King Ltd (9.9m)** Prep time 
+- Bottom 10 restaurants consistently exceed SLA time, mainly due to long prep durations.  
+- Prep delays (10–11 min) contribute more to SLA variance than driver or traffic delays combined.  
 
 **Insights:**  
-- Medium-density zones cause the **longest delays (10.2 min avg)** due to signal congestion.  
-- High-density zones perform **faster than expected** due to shorter route clusters.  
-- SLA reliability weakens in Manhattan & Jersey City.  
+- Medium-density zones show the **highest delivery delays** (10.2 min avg).  
+- High-density routes perform better than expected due to **shorter average delivery radii**.  
+- Kips Bay and Lower Manhattan present **strong opportunities for micro-hub staging**.  
 
-**Action:** Implement **micro-routing** and **AI-assisted traffic prediction** for medium-density areas.
+**Action:**  
+Implement **AI-based traffic prediction**, improve **restaurant prep coordination**, and **track “Ready vs Pickup Time”** to address prep-related SLA breaches.
 
 ---
 
-👥 **Dashboard 3 – Driver & Restaurant Analysis**
+👥 **Dashboard 3 – Driver Attrition & Performance Analysis**
 
-**Purpose:** Identifies performance gaps among drivers and restaurants.  
+**Purpose:** Analyses driver workload, shift patterns, and SLA performance to improve scheduling and reduce delays.  
 
-- Avg Shift Duration: **7 hrs (6–8 range)**  
 - Total Drivers: **50**  
-- Top Drivers: Complete **20+ orders/day**  
-- **Driver SLA Range:** 60% – 85% (individual performance variation)  
-- **Overall SLA Average:** 56.5% across all drivers and restaurants  
-- Fastest Drivers: ~6.2 min avg  
-- Slowest Drivers: ~12–15 min avg  
-- Top Restaurants (Fastest): **7.6–8.3 min** prep times  
-- Slowest Restaurants: **10–11 min** prep times  
+- Avg Shift Duration: **7 hrs (6–8 range)**  
+- Shifts per Day: **3**  
+- Top Drivers: **20+ orders/day**  
+- Avg SLA Performance (Overall): **56.5%**  
+- Individual Driver SLA Range: **60–85%**  
+- Top 10 Fastest Drivers: **~5–7 min** avg delivery time  
+- Bottom 10 Slowest Drivers: **~12–15 min** avg delivery time  
+
+**Insights:**  
+- Drivers like **Jacqueline Chen, Janice Reyes, Rebecca Hancock** lead with >75% SLA adherence.  
+- Bottom drivers struggle with route familiarity and longer idle periods.  
+- Morning shifts (7 AM) correlate with faster delivery performance due to balanced demand.  
 
 **Action:**  
-Reward top performers 🌟, retrain slower ones 📘, and align shifts with weekday demand peaks.
+Rebalance shift timing, introduce **driver leaderboard visibility**, and pair low-performing drivers with experienced mentors.
 
 ---
 
@@ -1638,7 +1652,7 @@ The next milestone lies in **boosting SLA reliability and scaling predictive rou
 ---
 
 ### 🔗 Explore the Interactive Dashboard 
-🎯 **Live Power BI Report:** [Click here to view on Power BI Service →](https://app.powerbi.com/reportEmbed?reportId=4c8e1c71-dfb0-4964-bc62-add538b91506&autoAuth=true&ctid=ff0f3e3a-3e53-454f-b2b5-6c68753b8ee4)
+🎯 **Live Power BI Report:** [Click here to view on Power BI Service →](https://app.powerbi.com/reportEmbed?reportId=0ce5bec1-5d8c-4615-b014-9dc8b40d4859&autoAuth=true&ctid=ff0f3e3a-3e53-454f-b2b5-6c68753b8ee4)
 
 ---
 
