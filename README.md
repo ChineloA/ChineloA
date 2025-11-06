@@ -1643,11 +1643,12 @@ The next milestone lies in **boosting SLA reliability and scaling predictive rou
 ---
 
 ## 📸 Dashboard Preview  
-<img width="1417" height="791" alt="Screenshot 2025-11-05 000921" src="https://github.com/user-attachments/assets/2c9e80d2-1256-4b49-bc08-ff5d4f270285" />
+<img width="1421" height="793" alt="Screenshot 2025-11-06 003649" src="https://github.com/user-attachments/assets/39463753-1b41-480e-9930-c285c97b4691" />
 <br>
-<img width="1413" height="795" alt="Screenshot 2025-11-05 001002" src="https://github.com/user-attachments/assets/318a4d5d-531d-42a2-ab5f-56b844d7f546" />
+<img width="1424" height="796" alt="Screenshot 2025-11-06 003711" src="https://github.com/user-attachments/assets/ff7a68a0-c53f-43b9-ad94-5454eaca2f7a" />
 <br>
-<img width="1416" height="793" alt="Screenshot 2025-11-05 001117" src="https://github.com/user-attachments/assets/5d2fc14a-2cce-41ee-80c8-1fb392578e1a" />
+<img width="1422" height="796" alt="Screenshot 2025-11-06 003733" src="https://github.com/user-attachments/assets/86d9f169-c87c-4c8c-93e2-884415cc06eb" />
+
 
 ---
 
