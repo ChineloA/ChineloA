@@ -97,7 +97,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [📊 10Alytics Sales](#2--10alytics-sales)  
 - [📈 Sales & Profitability](#3--sales--profitability)  
 - [🎰 Betting Insights](#4--betting-insights)
-- [📦 Streamline Logistics – Order Fulfillment Performance & Forecast Analysis ](#5-streamline-logistics--order-fulfillment-performance--forecast-analysis)  
+- [📦 Streamline Logistics – Order Fulfillment Performance & Forecast Analysis ](#5--streamline-logistics--order-fulfillment-performance--forecast-analysis)  
 
 <h2></h2>
 &nbsp;  
@@ -376,7 +376,7 @@ Delivered an insightful dashboard that helped management track profitability, id
 ### 4. 🎰 Betting Insights  
 *Betting Insights Dashboard — Revenue, margin, and transaction analysis*  
 
-[← Previous](#3--sales--profitability) • [Back to TOC](#-main-table-of-contents) • [Next →](#-streamline-logistics--order-fulfillment-performance--forecast-analysis)
+[← Previous](#3--sales--profitability) • [Back to TOC](#-main-table-of-contents) • [Next →](#5--streamline-logistics--order-fulfillment-performance--forecast-analysis)
 
 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel)
 
