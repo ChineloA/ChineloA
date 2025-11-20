@@ -666,9 +666,8 @@ Streamline Logistics is not facing a demand problem — it’s facing a **workfl
 Fixing the workflow, improving routing and driver allocation, and using forecast ranges for planning can dramatically improve on-time performance, cost efficiency, and customer satisfaction.
 
 **Dashboard Preview**
-📸<img width="1845" height="698" alt="Screenshot 2025-11-15 221647" src="https://github.com/user-attachments/assets/a962eeb7-d8c8-48ed-af63-417c577e62f8" />
-<img width="1850" height="701" alt="Screenshot 2025-11-16 005302" src="https://github.com/user-attachments/assets/39f444a4-218f-40c2-828f-c526be8becea" />
-
+📸<img width="1859" height="704" alt="Screenshot 2025-11-20 113149" src="https://github.com/user-attachments/assets/5494e9cf-1590-44b5-ac15-d3ee9f1ec567" />
+<img width="1849" height="699" alt="Screenshot 2025-11-20 113119" src="https://github.com/user-attachments/assets/bcc8d5a0-1224-4ecb-bee1-906e1882bd75" />
 
 ---
 
