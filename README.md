@@ -536,13 +536,13 @@ Delays are *system-wide* — built into the workflow.
 
 ## 🧭 **Project Objectives**
 
-| Objective                             | Description                                                                 |
+| Objective                            | Description                                                                 |
 |--------------------------------------|-----------------------------------------------------------------------------|
-| Efficient Resource Allocation         | Assign drivers and vehicles based on order volume and location              |
-| Monitor Order Progress               | Track orders in real time and identify bottlenecks early                   |
+| Efficient Resource Allocation        | Assign drivers and vehicles based on order volume and location              |
+| Monitor Order Progress               | Track orders in real time and identify bottlenecks early                    |
 | Improve Customer Communication       | Provide clear status updates to reduce frustration                          |
-| Enhance Delivery Speed               | Reduce average delivery time by 15–20%                                     |
-| Reduce Backlogs & Operational Costs  | Clear “In Progress” backlog and cut overtime / rush delivery costs         |
+| Enhance Delivery Speed               | Reduce average delivery time by 15–20%                                      |
+| Reduce Backlogs & Operational Costs  | Clear “In Progress” backlog and cut overtime / rush delivery costs          |
 | Elevate Customer Satisfaction        | Improve delivery reliability and maintain customer trust                    |
 | Support Better Planning              | Use forecast ranges for next-week staffing                                  |
 
@@ -666,8 +666,8 @@ Streamline Logistics is not facing a demand problem — it’s facing a **workfl
 Fixing the workflow, improving routing and driver allocation, and using forecast ranges for planning can dramatically improve on-time performance, cost efficiency, and customer satisfaction.
 
 **Dashboard Preview**
-📸<img width="1859" height="704" alt="Screenshot 2025-11-20 113149" src="https://github.com/user-attachments/assets/5494e9cf-1590-44b5-ac15-d3ee9f1ec567" />
-<img width="1849" height="699" alt="Screenshot 2025-11-20 113119" src="https://github.com/user-attachments/assets/bcc8d5a0-1224-4ecb-bee1-906e1882bd75" />
+📸<img width="1852" height="692" alt="Screenshot 2025-11-20 204835" src="https://github.com/user-attachments/assets/c53cfb64-a9e3-44b8-a62c-03562c3dd551" />
+<img width="1850" height="691" alt="Screenshot 2025-11-20 204327" src="https://github.com/user-attachments/assets/2ec49b29-5919-46af-95cb-8d7433676e1e" />
 
 ---
 
