@@ -474,9 +474,6 @@ This dashboard set answers four key operational questions:
 - **Forecast Dashboard** (7–8 day forecast)
 - Short executive summary  
 - Full management report  
-- Speaking script for presentation  
-- Q&A sheet for stakeholders  
-
 
 ## 📊 **Dashboard Focus Areas**
 
