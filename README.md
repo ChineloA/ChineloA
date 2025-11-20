@@ -375,7 +375,7 @@ Delivered an insightful dashboard that helped management track profitability, id
 ### 4. 🎰 Betting Insights  
 *Betting Insights Dashboard — Revenue, margin, and transaction analysis*  
 
-[← Previous](#3--sales--profitability) • [Back to TOC](#-main-table-of-contents)
+[← Previous](#3--sales--profitability) • [Back to TOC](#-main-table-of-contents) • [Next →](#-streamline-logistics--order-fulfillment-performance--forecast-analysis)
 
 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel)
 
@@ -430,7 +430,7 @@ Enhanced visibility into customer behaviour, improved monitoring of betting acti
 
 <h2></h2>
 
-# 📦 Streamline Logistics – Order Fulfillment Performance & Forecast Analysis  
+### 5. 📦 Streamline Logistics – Order Fulfillment Performance & Forecast Analysis  
 *Interactive Excel Dashboards • Forecast.ETS • Operational Analytics*
 
 [← Previous](#2--10alytics-sales) • [Back to TOC](#-main-table-of-contents) 
