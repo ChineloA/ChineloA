@@ -96,7 +96,8 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [☕ Café Harmony](#1--café-harmony)  
 - [📊 10Alytics Sales](#2--10alytics-sales)  
 - [📈 Sales & Profitability](#3--sales--profitability)  
-- [🎰 Betting Insights](#4--betting-insights)  
+- [🎰 Betting Insights](#4--betting-insights)
+- [📦 Streamline Logistics – Order Fulfillment Performance & Forecast Analysis ](#5-streamline-logistics--order-fulfillment-performance--forecast-analysis)  
 
 <h2></h2>
 &nbsp;  
@@ -433,7 +434,7 @@ Enhanced visibility into customer behaviour, improved monitoring of betting acti
 ### 5. 📦 Streamline Logistics – Order Fulfillment Performance & Forecast Analysis  
 *Interactive Excel Dashboards • Forecast.ETS • Operational Analytics*
 
-[← Previous](#2--10alytics-sales) • [Back to TOC](#-main-table-of-contents) 
+[← Previous](#4--betting-insights) • [Back to TOC](#-main-table-of-contents) 
 
 ![Excel](https://img.shields.io/badge/Excel-Dashboard-217346?logo=microsoft-excel&logoColor=white)
 ![Analytics](https://img.shields.io/badge/Data%20Analysis-Operations-blue)
