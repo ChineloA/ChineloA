@@ -493,13 +493,12 @@ Customer Satisfaction • Workflow Bottlenecks • Short-Term Forecasting
   - Average Driver Efficiency Score  
   - Average CSAT  
 
-- ### Driver & Zone Insights
-  
-- **Driver Performance:** Toggle between **Top 10** and **Bottom 10** drivers to visualise productivity gaps and their impact on zone performance.
-- **Uneven Workload Distribution:** Large differences in driver productivity create imbalanced workloads across zones.
-- **Driver Allocation Impact:** Inefficient driver assignment contributes to recurring delivery delays.
-- **Delivery Time by Zone:** Zones vary in average delivery time, with some showing consistently higher delays.
-- **Customer Feedback by Zone:** Satisfaction levels remain sensitive to operational delays, even when differences appear small.
+- **Driver & Zone Insights**
+  - **Driver Performance:** Toggle between **Top 10** and **Bottom 10** drivers to visualise productivity gaps and their impact on zone performance.
+	- **Uneven Workload Distribution:** Large differences in driver productivity create imbalanced workloads across zones.
+	- **Driver Allocation Impact:** Inefficient driver assignment contributes to recurring delivery delays.
+	- **Delivery Time by Zone:** Zones vary in average delivery time, with some showing consistently higher delays.
+	- **Customer Feedback by Zone:** Satisfaction levels remain sensitive to operational delays, even when differences appear small.
 
 
 - **Forecasting Insights**
