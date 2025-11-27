@@ -446,7 +446,7 @@ Enhanced visibility into customer behaviour, improved monitoring of betting acti
 
 ## ✨ **Introduction**
 
-This project delivers a **2-dashboard Excel solution** for Streamline Logistics Solutions, analysing delivery performance and forecasting next-week demand using **Excel FORECAST.ETS**.
+This project delivers a **2-dashboard Excel solution** for Streamline Logistics Solutions, analysing delivery performance and forecasting next-week demand using **Excel FORECAST.ETS** model.
 
 The dashboards uncover:
 
@@ -456,26 +456,26 @@ The dashboards uncover:
 - A rising delivery-time trend  
 - A slight decline in forecasted orders  
 
-And provide **manager-friendly insights and clear operational recommendations**.
+Together, they provide **clear operational insights and practical recommendations** for improvement.
 
 
 ## 🧩 **Project Overview**
 
-This dashboard set answers four key operational questions:
+This analysis addresses four key operational questions:
 
-1. *Where are delays occurring in the delivery process?*  
-2. *Are issues caused by drivers, zones, or workflow bottlenecks?*  
-3. *How many orders should we expect next week?*  
-4. *How will delivery time behave — improve or worsen?*  
+1. **Where are delays occurring in the workflow?**  
+2. **Are problems caused by drivers, zones, or process bottlenecks?**  
+3. **How many orders should we expect next week?**  
+4. **Will delivery time improve or continue rising?**
 
 ### Deliverables
 
 - **Performance Dashboard** (current operations)
 - **Forecast Dashboard** (7–8 day forecast)
-- Short executive summary  
-- Full management report  
+- Executive summary  
+- Full management report
 
-## 📊 **Dashboard Focus Areas**
+### 📊 **Dashboard Focus Areas**
 
 Delivery Speed • Delay Patterns • Driver Performance • Zone Comparison  
 Customer Satisfaction • Workflow Bottlenecks • Short-Term Forecasting
@@ -506,7 +506,7 @@ Customer Satisfaction • Workflow Bottlenecks • Short-Term Forecasting
   Customer satisfaction varies only slightly between zones, but remains highly sensitive to operational delays and long delivery times.
 
 
-- **Forecasting Insights**
+- **🔮 Forecasting Insights**
   - Forecasted daily orders  
   - Forecasted delivery time  
   - Confidence Interval (CI)  
@@ -523,20 +523,19 @@ Streamline Logistics is facing:
 - **Increasing operational costs** (overtime, re-deliveries, rush jobs)
 - **Customer frustration risk** as delays continued
 
-The question was:  
-> “Is the issue caused by geography, drivers, or system workflow?”
+**Core Question:**  
+> “Are delays caused by geography, drivers, or the workflow?”
 
 **Answer:**  
-Delays are *system-wide* — built into the workflow.
-
+Delays are **systemic**, rooted in the workflow—not individual drivers or zones.
 
 ## 🏆 **Key Outcomes**
 
-- Identified that **delays are systemic** (built into the process), not just driver or zone related
-- Confirmed that **all zones deliver at almost the same speed**, pointing to workflow issues not geography
+- Identified that delays originate **before** routes begin (dispatch/loading/scanning).  
+- Confirmed **zones deliver at the same speed**, ruling out geography.  
 - Built a **short-term forecast** for orders and delivery time using **FORECAST.ETS**
 - Explained and visualised **confidence bands** (CI, Upper, Lower) for manager-friendly planning
-- Actionable recommendations for workflow, routing, and driver allocation
+- Provided actionable recommendations across routing, workflow, and staffing.
 
 ---
 
@@ -544,7 +543,7 @@ Delays are *system-wide* — built into the workflow.
 
 | Objective                            | Description                                                                 |
 |--------------------------------------|-----------------------------------------------------------------------------|
-| Efficient Resource Allocation        | Assign drivers and vehicles based on order volume and location              |
+| Efficient Resource Allocation        | Assign drivers based on order volume + zone demand               |
 | Monitor Order Progress               | Track orders in real time and identify bottlenecks early                    |
 | Improve Customer Communication       | Provide clear status updates to reduce frustration                          |
 | Enhance Delivery Speed               | Reduce average delivery time by 15–20%                                      |
@@ -568,14 +567,13 @@ Delays are *system-wide* — built into the workflow.
 
 ### Key Insight
 
-- All zones have nearly identical delivery times (±0.03 hrs), meaning delays are **not** caused by geography or distance.  
-	- They originate **before** drivers begin their routes — in dispatch, loading, scanning, or routing.
-- Top drivers finish 22–25 deliveries
-- Others complete far fewer
-- Workload is **uneven**, leading to:
-  - Overloaded high performers
-  - Under-used slower drivers
-  - Longer overall delivery times
+- All zones deliver at nearly identical speeds (±0.03 hr).  
+- Delays originate **before** the driving stage (dispatch/loading/scanning).  
+- Top drivers complete **22–25** deliveries; lower performers complete **6–21**.  
+- Workload imbalance results in:
+  - Overloaded high performers  
+  - Underutilised slower drivers  
+  - Longer overall delivery cycles 
 - Customer feedback remains stable but at risk  
 - On-time performance is low across all days  
 
@@ -590,14 +588,12 @@ Delays are *system-wide* — built into the workflow.
 # 🟧 **Dashboard 2 — Forecast Dashboard**
 
 ### Forecasted Orders  
-- Slight decline from ~170 → 147  
-- Indicates a calmer upcoming week  
-- Good opportunity to clear backlog or retrain drivers  
+- Slight decline (**~170 → 147**) → calmer week ahead.  
+- Opportunity to clear backlog or retrain drivers.
 
 ### Forecasted Delivery Time  
-- Rising from ~2.56 → 2.63 hours  
-> Delivery is getting slower **even with fewer orders** → clear sign of inefficiency
-
+- Rising (**2.56 → 2.63 hrs**) → slowing operations despite lower demand.  
+**Clear sign of workflow inefficiency.**
 
 ## 🧮 **Understanding CI, Upper & Lower (Manager-Friendly)**
 
@@ -624,46 +620,47 @@ Managers can plan drivers and vans **using the full range**, not just the averag
 
 ## 💬 **Key Insights Summary**
 
-- **Delays are systemic** – built into the workflow, not caused by one zone or a few drivers.
-- **On-time performance is critically low** at 3.1%.
-- **Delivery times are rising** even as demand falls in the forecast.
-- **Customer satisfaction is stable for now** (~66%) but at risk if delays continue.
-- Driver workload imbalance is a major contributor.
+- Delays are **systemic**, not driver- or zone-specific.  
+- On-time delivery is critically low (3.1%).  
+- Delivery times continue rising even as demand falls in the forecast.  
+- CSAT stable but vulnerable to delays.  
+- Driver workload imbalance is a major contributor.  
 - There is **significant room for efficiency gains** through better allocation and process redesign.
 
 
 ## 💡 **Recommendations**
 
 ### Short-Term (1–2 Weeks)
-- Rebalance driver workload across zones
+- Rebalance drivers across zones  
 - Reduce dispatch-to-first-stop delays  
-- Fix “In Progress” order bottlenecks
-- Use forecast ranges (Lower–Upper) for daily staffing
+- Fix "In Progress" backlogs  
+- Use forecast ranges for staffing 
 
 ### Medium-Term (1–2 Months)
-- Train slower drivers and set clear performance targets
-- Redesign zone boundaries where needed  
-- Introduce incentives for on-time and efficient deliveries
+- Train slower drivers  
+- Redesign zone boundaries  
+- Add performance incentives  
 
 ### Long-Term
 - Automate routing and dispatching  
 - Build real-time operational monitoring (alerts for long delays) 
 - Implement live routing & performance alerts
-- Explore predictive models to flag at-risk orders before they’re late
+- Explore predictive models for early risk detection
 
 ### Ongoing Monitoring & Control
-- Track key metrics daily: on-time rate, delivery time, backlogs, and order status.
-- Flag orders stuck >120 minutes for rapid correction.
-- Monitor zone-level and driver-level trends weekly and adjust assignments proactively.
-- Track the link between delays and customer feedback to protect CSAT and identify risk trends.
+- Track on-time rate, backlog, and delays daily  
+- Flag orders stuck >120 mins  
+- Review zone/driver trends weekly  
+- Monitor CSAT link to delays  
 
 
 ## 🛠 **Tools Used**
 
 -  **Microsoft Excel**
-  - Data cleaning and helper columns
-  - Pivot tables & charts
-  - Slicers and interactive views
+  - Data cleaning  
+  - Helper columns  
+  - Pivot tables & charts  
+  - Slicers & interactivity
 - **Forecasting**
   - `FORECAST.ETS`
   - `FORECAST.ETS.CONFINT` (CI, Upper, Lower)
@@ -675,8 +672,13 @@ Managers can plan drivers and vans **using the full range**, not just the averag
 
 ## 🌟 **Strategic Takeaway**
 
-Streamline Logistics is not facing a demand problem — it’s facing a **workflow problem**.  
-Fixing the workflow, improving routing and driver allocation, and using forecast ranges for planning can dramatically improve on-time performance, cost efficiency, and customer satisfaction.
+Streamline Logistics does **not** have a demand problem — it has a **workflow problem**.  
+Fixing dispatch, routing, driver allocation, and monitoring can significantly:
+
+- Improve on-time delivery  
+- Reduce operational costs  
+- Shorten delivery cycles  
+- Protect customer satisfaction 
 
 **Dashboard Preview**
 📸<img width="1850" height="691" alt="Screenshot 2025-11-27 041041" src="https://github.com/user-attachments/assets/53edc340-58da-49e9-8154-5c3b152a9e7c" />
