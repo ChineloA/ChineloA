@@ -493,12 +493,14 @@ Customer Satisfaction • Workflow Bottlenecks • Short-Term Forecasting
   - Average Driver Efficiency Score  
   - Average CSAT  
 
-- **Driver & Zone Insights**
-  - Top 10 drivers
-  - Uneven workload distribution
-  - Impact of driver allocation on delays
-  - Delivery time by zone  
-  - Customer feedback by zone  
+- ### Driver & Zone Insights
+  
+- **Driver Performance:** Toggle between **Top 10** and **Bottom 10** drivers to visualise productivity gaps and their impact on zone performance.
+- **Uneven Workload Distribution:** Large differences in driver productivity create imbalanced workloads across zones.
+- **Driver Allocation Impact:** Inefficient driver assignment contributes to recurring delivery delays.
+- **Delivery Time by Zone:** Zones vary in average delivery time, with some showing consistently higher delays.
+- **Customer Feedback by Zone:** Satisfaction levels remain sensitive to operational delays, even when differences appear small.
+
 
 - **Forecasting Insights**
   - Forecasted daily orders  
@@ -666,7 +668,9 @@ Streamline Logistics is not facing a demand problem — it’s facing a **workfl
 Fixing the workflow, improving routing and driver allocation, and using forecast ranges for planning can dramatically improve on-time performance, cost efficiency, and customer satisfaction.
 
 **Dashboard Preview**
-📸<img width="1854" height="696" alt="Screenshot 2025-11-25 220422" src="https://github.com/user-attachments/assets/722d545e-8c11-4778-a073-505f469f0668" />
+📸<img width="1850" height="691" alt="Screenshot 2025-11-27 041041" src="https://github.com/user-attachments/assets/53edc340-58da-49e9-8154-5c3b152a9e7c" />
+
+<img width="1851" height="703" alt="Screenshot 2025-11-27 041059" src="https://github.com/user-attachments/assets/15ab11c7-77a2-47f7-9998-07d21e555a9a" />
 
 <img width="1850" height="691" alt="Screenshot 2025-11-20 204327" src="https://github.com/user-attachments/assets/2ec49b29-5919-46af-95cb-8d7433676e1e" />
 
