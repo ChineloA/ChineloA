@@ -645,6 +645,13 @@ Managers can plan drivers and vans **using the full range**, not just the averag
 - Implement live routing & performance alerts
 - Explore predictive models to flag at-risk orders before they’re late
 
+### 4. Ongoing Monitoring & Control
+- Track key metrics daily: on-time rate, delivery time, backlogs, and order status.
+- Flag orders stuck >120 minutes for rapid correction.
+- Monitor zone-level and driver-level trends weekly and adjust assignments proactively.
+- Track the link between delays and customer feedback to protect CSAT and identify risk trends.
+
+
 ## 🛠 **Tools Used**
 
 -  **Microsoft Excel**
