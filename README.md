@@ -122,7 +122,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [💪 IronCore Fitness](#13--ironcore-fitness)
 - [⚡ AfriTech Electronics](#14--afritech-electronics)
 - [🌆 UrbanEats Route Optimization Performance Analysis](#15--urbaneats-route-optimisation-performance-analysis)
-- [🏘️ Tenant Retention Optimisation Dashboard ](#16--tenant-retention-optimisation-dashboard) 
+- [🏘️ Tenant Retention Optimisation Dashboard ](#16-%EF%B8%8F-tenant-retention-optimisation-dashboard) 
   
 <h2></h2>
 &nbsp;  
@@ -1643,7 +1643,7 @@ Leadership can now proactively detect negative trends, improve service response,
 *Amdari Internship Project*  
 *UrbanEats Route Optimisation — SQL & Power BI Integration for Operational Efficiency and Customer Experience*  
 
-[← Previous](#14--afritech-electronics) • [Next →](#16--tenant-retention-optimisation-dashboard) • [Back to TOC](#-main-table-of-contents)  
+[← Previous](#14--afritech-electronics) • [Next →](#16-%EF%B8%8F-tenant-retention-optimisation-dashboard) • [Back to TOC](#-main-table-of-contents)  
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 ![SQL](https://img.shields.io/badge/Tool-SQL-blue?style=plastic&logo=postgresql)
