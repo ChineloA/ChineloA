@@ -1258,6 +1258,7 @@ The analysis offered mental health organisations and policymakers data-backed in
 
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-18 195537](https://github.com/user-attachments/assets/f1edd98c-c542-45d5-930d-b71645b81e89)
+<br><br>
 	<img width="1483" height="798" alt="Screenshot 2025-10-11 212745" src="https://github.com/user-attachments/assets/4324a4eb-aa33-48d8-a03f-c633918515da" />
 
 ### 🔗 Explore the Interactive Dashboard 
