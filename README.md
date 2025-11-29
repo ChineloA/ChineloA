@@ -683,9 +683,9 @@ Fixing dispatch, routing, driver allocation, and monitoring can significantly:
 
 **Dashboard Preview**
 📸<img width="1850" height="691" alt="Screenshot 2025-11-27 041041" src="https://github.com/user-attachments/assets/53edc340-58da-49e9-8154-5c3b152a9e7c" />
-<h2>
+<br><br>
 <img width="1851" height="703" alt="Screenshot 2025-11-27 041059" src="https://github.com/user-attachments/assets/15ab11c7-77a2-47f7-9998-07d21e555a9a" />
-<h2>
+<br><br>
 <img width="1850" height="691" alt="Screenshot 2025-11-20 204327" src="https://github.com/user-attachments/assets/2ec49b29-5919-46af-95cb-8d7433676e1e" />
 
 ---
@@ -952,7 +952,7 @@ Enabled Dreamy Bites’ management to **track sales and profit performance**, un
 
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-20 222339](https://github.com/user-attachments/assets/55d6de90-0ab4-4503-a3ae-e6368fc8bb49)
-<h2>
+<br><br>
 📸 ![Screenshot 2025-05-20 222410](https://github.com/user-attachments/assets/e163c20a-75a7-48d4-af10-e60add20b877)
 
 ### 🔗 Explore the Interactive Dashboard 
@@ -1015,11 +1015,11 @@ Empowered NovaMed’s management to make **data-driven marketing and inventory d
 
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-25 161501](https://github.com/user-attachments/assets/717b0e09-960d-4049-b292-62204937c7f4)
-<h2>
+<br><br>
 📸 ![Screenshot 2025-05-25 161537](https://github.com/user-attachments/assets/e8d2e5b2-f3db-4a7b-805a-257c411384f8)
-<h2>
+<br><br>
 📸 ![Screenshot 2025-06-06 220650](https://github.com/user-attachments/assets/58b977ae-1139-40b7-bfb4-a646fa192f24)
-<h2>		
+<br><br>	
 📸 ![Screenshot 2025-06-06 211951](https://github.com/user-attachments/assets/81d5e87d-1d10-43b5-af5a-fade6e44b155)
 
 ### 🔗 Explore the Interactive Dashboard 
@@ -1079,9 +1079,9 @@ Provided management with a centralised analytics tool to **evaluate profitabilit
 
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-18 220145](https://github.com/user-attachments/assets/0a4a485a-6455-4f42-be25-ecbc2f14864f)
-<h2>
+<br><br>
 📸 ![Screenshot 2025-05-18 220415](https://github.com/user-attachments/assets/1ec5c740-a175-4806-8640-28c1b91b62ad)
-<h2>
+<br><br>
 📸 ![Screenshot 2025-05-24 162959](https://github.com/user-attachments/assets/0c99f463-e311-4a08-bd81-f705fb9def26)
 
 ### 🔗 Explore the Interactive Dashboard 
@@ -1319,11 +1319,11 @@ This analysis empowered HR teams to **pinpoint high-risk employee segments**, de
 
 **Dashboard Preview**
 📸 ![Screenshot 2025-05-06 175001](https://github.com/user-attachments/assets/f2c9bed6-5259-4e86-ac4a-702983089111)
-<h2>
+<br><br>
 📸 ![Screenshot 2025-05-06 175035](https://github.com/user-attachments/assets/7ac52dc6-2fb6-4b04-b8f9-ed2420eaea87)
-<h2>
+<br><br>
 📸 ![Screenshot 2025-05-06 175105](https://github.com/user-attachments/assets/1932b5d3-f04d-45fd-9dc7-81b7831e7f9e)
-<h2>
+<br><br>
 📸 ![Screenshot 2025-05-06 175143](https://github.com/user-attachments/assets/5c1ea3dd-70a0-4841-ad14-38521337247a)
 
 ### 🔗 Explore the Interactive Dashboard 
@@ -1443,11 +1443,11 @@ Equipped business leaders with a powerful tool to **evaluate regional performanc
 
 **Dashboard Preview**  
 📸 ![Screenshot 2025-05-31 223847](https://github.com/user-attachments/assets/4303fe87-4b00-4583-a9a6-e7aa411c9617)
-<h2>
+<br><br>
    ![Screenshot 2025-05-31 223812](https://github.com/user-attachments/assets/621acb94-5fa8-451e-ae92-1adfe3a06522)
-<h2>
+<br><br>
    ![Screenshot 2025-05-31 224002](https://github.com/user-attachments/assets/a29e2627-cb39-462f-8df7-652eabcab497)
-<h2>
+<br><br>
    ![Screenshot 2025-05-31 223927](https://github.com/user-attachments/assets/e5581012-9280-43aa-9737-9826138a5c54)
 
 ### 🔗 Explore the Interactive Dashboard 
@@ -1633,13 +1633,13 @@ Leadership can now proactively detect negative trends, improve service response,
 
 ## 📸 Dashboard Preview  
 <img width="1421" height="797" alt="Screenshot 2025-10-26 151322" src="https://github.com/user-attachments/assets/dd90df2d-95b4-4d1c-b056-0f0816561478" />
-<h2>
+<br><br>
 <img width="1404" height="793" alt="Screenshot 2025-10-28 171644" src="https://github.com/user-attachments/assets/552ad7c9-9089-4327-ae14-1b650622ee42" />
-<h2>
+<br><br>
 <img width="660" height="231" alt="Screenshot 2025-10-26 151359" src="https://github.com/user-attachments/assets/6adc1b16-fb24-468e-8499-6f2526f00e7a" />
-<h2>
+<br><br>
 <img width="1402" height="791" alt="Screenshot 2025-10-30 214831" src="https://github.com/user-attachments/assets/2d596b1b-225a-4e1c-b8b4-3d9ad3ba694b" />
-<h2>
+<br><br>
 <img width="1401" height="791" alt="Screenshot 2025-11-04 222556" src="https://github.com/user-attachments/assets/6a936733-965f-43b0-a0cf-bb9abf9b20e3" />
 
 
@@ -1919,9 +1919,9 @@ The next milestone lies in **boosting SLA reliability and scaling predictive rou
 
 ## 📸 Dashboard Preview  
 <img width="1421" height="793" alt="Screenshot 2025-11-06 003649" src="https://github.com/user-attachments/assets/39463753-1b41-480e-9930-c285c97b4691" />
-<br>
+<br><br>
 <img width="1424" height="796" alt="Screenshot 2025-11-06 003711" src="https://github.com/user-attachments/assets/ff7a68a0-c53f-43b9-ad94-5454eaca2f7a" />
-<br>
+<br><br>
 <img width="1422" height="796" alt="Screenshot 2025-11-06 003733" src="https://github.com/user-attachments/assets/86d9f169-c87c-4c8c-93e2-884415cc06eb" />
 
 
@@ -2226,11 +2226,11 @@ This dashboard helps HomeVibe move from guessing to **measuring, understanding, 
 ## 📸 Dashboard Preview  
 
 <img width="1420" height="798" alt="Screenshot 2025-11-28 234709" src="https://github.com/user-attachments/assets/032f6825-705e-47cf-a4db-fd815789e568" />
-<h2>
+<br><br>
 <img width="1422" height="805" alt="Screenshot 2025-11-28 234757" src="https://github.com/user-attachments/assets/39e2b792-0d6e-430f-aba1-2f0bdeb1fd5c" />
-<h2>
+<br><br>
 <img width="1430" height="805" alt="Screenshot 2025-11-28 234734" src="https://github.com/user-attachments/assets/75f61417-998f-4ca9-91c5-5430c712ddf9" />
-<h2>
+<br><br>
 <img width="1428" height="806" alt="Screenshot 2025-11-28 234745" src="https://github.com/user-attachments/assets/af9a5696-0c83-4a6e-b563-79ab24ed19a3" />
 
 ---
@@ -2435,7 +2435,7 @@ A Tableau dashboard analysing **sales, profit, and delivery performance** for a 
 
 📊 **Screenshots of Interactive Dashboards**  
 📸<img width="1602" height="859" alt="Screenshot 2025-08-31 121647" src="https://github.com/user-attachments/assets/1cd39d69-dec7-4a7b-b93b-37ce437a765c" />
-<h2>
+<br><br>
   <img width="1593" height="857" alt="Screenshot 2025-08-31 121806" src="https://github.com/user-attachments/assets/016d0d1d-9cfb-44f4-b1ad-4e7b6e13cf54" />
 
 🔗 [View Live Dashboard on Tableau Public](https://public.tableau.com/views/ChocoDeLuxe_17607565879410/MainView?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -2515,15 +2515,15 @@ Provided actionable insights for **inventory optimisation, pricing strategy**, a
 
 📊 **Dashboard Preview**  
 📸<img width="1587" height="850" alt="Screenshot 2025-10-03 175847" src="https://github.com/user-attachments/assets/00eec2e2-cfc3-474c-ac15-7298521108a1" />
-<h2>
+<br><br>
    <img width="1584" height="846" alt="Screenshot 2025-10-03 175907" src="https://github.com/user-attachments/assets/661291e1-1d0e-48a8-91db-2f0a9ea9ca38" />
-<h2>
+<br><br>
    <img width="1586" height="845" alt="Screenshot 2025-10-03 175922" src="https://github.com/user-attachments/assets/3ff00a17-3461-45bf-98c5-402c417a89a9" />
-<h2>
+<br><br>
    <img width="1585" height="844" alt="Screenshot 2025-10-03 175951" src="https://github.com/user-attachments/assets/10465592-3d7c-4d39-b3f3-c5a8bf02d9de" />
-<h2>
+<br><br>
    <img width="1586" height="846" alt="Screenshot 2025-10-03 180005" src="https://github.com/user-attachments/assets/840c434a-736a-4b4b-9533-760e89e51828" />
-<h2>
+<br><br>
    <img width="1584" height="848" alt="Screenshot 2025-10-03 180023" src="https://github.com/user-attachments/assets/993b403e-8538-4365-b347-ec1b736a43cb" />
 
 🔗 [View Live Dashboard on Tableau Public](https://public.tableau.com/views/FusionPointIndustries_17607564219740/ExecutiveSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -2711,7 +2711,7 @@ The dashboard enabled management to identify **regional strengths, low-margin pr
 
 **Dashboard Preview**  
 <img width="1593" height="855" alt="Screenshot 2025-10-11 155344" src="https://github.com/user-attachments/assets/2c48f3a5-6807-488e-9066-9442577494fb" />
-<h2>
+<br><br>
 <img width="1599" height="861" alt="Screenshot 2025-10-11 155400" src="https://github.com/user-attachments/assets/cd5a65d3-8568-4d48-92bb-55282f552f53" />
 
 🔗 [View Live Dashboard on Tableau Public](https://public.tableau.com/views/SalesPerformance_17607567127320/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -2775,7 +2775,7 @@ It helps retail managers quickly track performance by region, category, and time
   
 **Dashboard Preview**  
 <img width="1592" height="855" alt="Screenshot 2025-10-11 154925" src="https://github.com/user-attachments/assets/56466629-4a6e-41cd-8aa5-9edb17f45341" />
-<h2>
+<br><br>
 <img width="1597" height="855" alt="Screenshot 2025-10-11 155027" src="https://github.com/user-attachments/assets/14897827-3ca7-4f4d-bd79-ee2fd99c9f99" />
 
 🔗 [View Live Dashboard on Tableau Public](https://public.tableau.com/shared/8GXHBG9Q6?:display_count=n&:origin=viz_share_link)
