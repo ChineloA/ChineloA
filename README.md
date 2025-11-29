@@ -122,6 +122,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [💪 IronCore Fitness](#13--ironcore-fitness)
 - [⚡ AfriTech Electronics](#14--afritech-electronics)
 - [🌆 UrbanEats Route Optimization Performance Analysis](#15--urbaneats-route-optimisation-performance-analysis)
+- [🏘️ Tenant Retention Optimisation Dashboard ](#16--tenant-retention-optimisation-dashboard) 
   
 <h2></h2>
 &nbsp;  
@@ -1642,7 +1643,7 @@ Leadership can now proactively detect negative trends, improve service response,
 *Amdari Internship Project*  
 *UrbanEats Route Optimisation — SQL & Power BI Integration for Operational Efficiency and Customer Experience*  
 
-[← Previous](#14--afritech-electronics) • [Back to TOC](#-main-table-of-contents)  
+[← Previous](#14--afritech-electronics) • [Next →](#16--tenant-retention-optimisation-dashboard) • [Back to TOC](#-main-table-of-contents)  
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 ![SQL](https://img.shields.io/badge/Tool-SQL-blue?style=plastic&logo=postgresql)
@@ -1913,7 +1914,313 @@ The next milestone lies in **boosting SLA reliability and scaling predictive rou
 ### 🔗 Explore the Interactive Dashboard 
 🎯 **Live Power BI Report:** [Click here to view on Power BI Service →](https://app.powerbi.com/reportEmbed?reportId=0ce5bec1-5d8c-4615-b014-9dc8b40d4859&autoAuth=true&ctid=ff0f3e3a-3e53-454f-b2b5-6c68753b8ee4)
 
+
+<h2></h2>
+
+### 16. 🏘️ Tenant Retention Optimisation Dashboard  
+*Amdari Internship Project* 
+*HomeVibe Properties — Power BI Solution for Reducing Churn, Improving Renewals & Enhancing Resident Satisfaction*  
+
+[← Previous](#15--urbaneats-route-optimisation-performance-analysis) • [Back to TOC](#-main-table-of-contents)  
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
+![Power Query](https://img.shields.io/badge/ETL-Power%20Query-green?style=plastic&logo=microsoft)
+![DAX](https://img.shields.io/badge/Language-DAX-orange?style=plastic&logo=microsoft)
+![Excel](https://img.shields.io/badge/Data-Excel%20%2F%20CSV-lightgrey?style=plastic&logo=microsoft)
+
 ---
+
+✨ **Introduction**
+
+A comprehensive Power BI project designed to help **HomeVibe Properties** reduce tenant churn, improve lease renewals, analyse satisfaction patterns, and monitor occupancy performance.
+
+The original dataset ended in **September 2025**, meaning that, from today’s perspective, all leases appear to have expired. To enable realistic churn, renewal, and active-lease analysis, a **date-extension transformation** was applied in Power Query, simulating ongoing lease activity while preserving the original data structure.
+
+This dashboard provides data-driven insights to optimise retention strategies, improve satisfaction, and enhance long-term property performance.
+
+---
+
+🧩 **Project Overview**
+
+HomeVibe Properties needed to understand:
+
+- Why tenants churn  
+- Which properties are most at risk  
+- How satisfaction impacts renewals  
+- How occupancy and churn evolve over time  
+
+Using **Power Query** for ETL and **Power BI + DAX** for modelling and visual storytelling, this solution brings together tenant, lease, property, and feedback data into a unified **Tenant Retention Analytics Dashboard**.
+
+---
+
+📊 **Dashboard Focus**
+
+🔍 **Focus Areas:** Tenant Retention | Lease Renewals | Satisfaction Insights | Churn Analysis | Property Performance | Occupancy Trends  
+
+**What this shows:**
+- **Churn Metrics:** Churn rate by month, churned vs active tenants.  
+- **Renewal Behaviour:** Renewed vs expired leases (ended-in-period view).  
+- **Satisfaction Analytics:** Average satisfaction score, distribution, and trend.  
+- **Property Insights:** Churn status and satisfaction by property type.  
+- **Lease Patterns:** Lease term distribution and its impact on retention.  
+- **Revenue Context:** Expected rent and high-level payment indicators.  
+
+**Insight:** Enables HomeVibe to spot at-risk tenants and properties, understand satisfaction drivers, and track the impact of retention efforts over time.
+
+---
+
+🎯 **Business Challenge**
+
+📉 High tenant churn • ⏳ Inefficient renewals • 😟 Limited visibility into satisfaction trends • 💸 Revenue loss from frequent turnover  
+
+HomeVibe needed a **scalable, insight-driven dashboard** to move from reactive to proactive tenant retention management.
+
+---
+
+🏆 **Key Achievements**
+
+- Designed a **star-schema data model** combining leases, tenants, properties, and feedback.  
+- Implemented **date-extension logic** in Power Query so active vs churned analysis remains realistic beyond the original maximum end date.  
+- Created a robust **Churned Status** classification based on the presence of a future lease.  
+- Developed **satisfaction scoring (1–5)** and bands for slicers and segmentation.  
+- Built custom **DAX measures** for churn %, occupancy %, satisfaction trends, and lease KPIs.  
+- Added **drillthrough pages** for tenant-level and property-level diagnostics.  
+
+---
+
+🧭 **Project Objectives**
+
+| Objective                 | Target | Actual         | Status              |
+|---------------------------|--------|----------------|---------------------|
+| Reduce Tenant Churn       | < 25%  | **~22%**       | ✅ Achieved         |
+| Improve Renewals          | > 70%  | **~49%**       | ⚠️ Below Target     |
+| Increase Satisfaction     | ≥ 3.2  | **2.86–3.13**  | ⚙️ In Progress      |
+| Improve Occupancy         | > 70%  | **~83%**       | ✅ Strong Performance |
+
+---
+
+---
+
+### 🟦 **Dashboard 1 – Retention Overview**
+
+**Purpose:**  
+Provides a high-level summary of churn, renewals, satisfaction, and occupancy.
+
+**Key Metrics & Visuals:**
+- **Churn Rate:** ~22% (based on leases ending in period)  
+- **Renewal Rate:** ~49%  
+- **Expiration Rate:** ~51%  
+- **Average Satisfaction Score:** **3.02 / 5**  
+- **Occupancy Rate (as-of):** **~83%**  
+- **Trends:**  
+  - Active vs Churned (monthly)  
+  - Satisfaction Score Trend (2.86 → 3.13)  
+  - Renewed vs Expired (monthly)  
+  - Rent Collection Trend  
+- **Property-Type Breakdown:**  
+  - Churn & Satisfaction by property type  
+- **Navigation Buttons:** Access to dashboards 2–4
+
+**Action:**  
+Track months where churn rises and satisfaction dips; prioritise retention initiatives in low-performing months.
+
+---
+
+### 🟧 **Dashboard 2 – Lease Term Details**
+
+**Purpose:**  
+Analyse how lease duration affects tenant churn and renewal behaviour.
+
+**Key Visuals:**
+- **Lease Term Frequency Distribution** (5–25 months)  
+- **Churn by Lease Term**  
+- **Retention Strength in 18–24-Month Leases**  
+- **Short-Term Leases (<10 months) Showing Higher Churn**  
+- **Drillthrough:** Tenant-level lease details
+
+**Insights:**
+- Longer leases help retention.  
+- Shorter lease cycles increase churn probability.
+
+**Action:**  
+Offer incentives promoting **18–24 month** lease agreements to stabilise long-term occupancy.
+
+---
+
+### 🟩 **Dashboard 3 – Satisfaction Score Insights**
+
+**Purpose:**  
+Deep dive into tenant satisfaction and how it influences renewals and churn.
+
+**Key Visuals:**
+- **Total Satisfaction Score by Response:**  
+  - Very Satisfied: **2.0K**  
+  - Satisfied: **1.6K**  
+  - Neutral: **1.3K**  
+  - Dissatisfied: **0.8K**  
+  - Very Dissatisfied: **0.4K**
+- **Satisfaction Trend (monthly):** 2.86 → 3.13  
+- **Satisfaction vs Churn (Property Type)**  
+- **Drillthrough:** Property-level feedback page
+
+**Insights:**
+- Condos show the **lowest satisfaction & highest churn**.  
+- Satisfaction drops precede churn rises — a key early warning signal.
+
+**Action:**  
+Prioritise improvements for properties with low satisfaction and high churn patterns.
+
+---
+
+### 🟥 **Dashboard 4 – Churn Status & Rent Impact**
+
+**Purpose:**  
+Understand churn outcomes at the property level and evaluate revenue implications.
+
+**Key Visuals:**
+- **Active vs Churned by Property**  
+- **Churn Status Indicator Table**  
+- **Rent Amount & Expected Rent Impact**  
+- **Amenities Overview**  
+- **Navigation Button:** Back to Overview
+
+**Insights:**
+- High churn properties show lower satisfaction and inconsistent rent patterns.  
+- Condos again show high expiration ratios.  
+- Properties with stronger amenity offerings show better retention.
+
+**Action:**  
+Target specific properties with **renewal incentives**, **amenity improvements**, or **service quality upgrades**.
+
+---
+
+### 📊 **How the Dashboards Work Together**
+
+| Objective                  | Dashboard                    | Focus                                       |
+|----------------------------|------------------------------|---------------------------------------------|
+| Reduce Tenant Churn        | D1 – Retention Overview      | Churn %, Expiration %, churn trends         |
+| Improve Satisfaction       | D3 – Satisfaction Insights   | Score patterns, survey responses            |
+| Strengthen Lease Strategy  | D2 – Lease Term Details      | Lease duration behaviour & churn patterns   |
+| Improve Occupancy & Rent   | D4 – Churn & Rent Analysis   | Property churn, revenue trends, amenities   |
+
+---
+
+🕒 **Understanding Churn, Renewal & Date Extension**
+
+**Problem with Original Data:**  
+The dataset ended at **September 2025**, which caused:  
+- All leases to appear **expired**  
+- Churn = **100%**  
+- Renewals = **0%**  
+- No distinction between active and churned tenants  
+
+**Solution:**  
+To restore realistic tenancy behaviour:
+
+- Lease dates for selected tenants were **extended forward** (shifted by +26 months).  
+- Approximately **half (49%)** received a subsequent lease simulating renewal.  
+- The remaining **51%** represent natural expirations or churn.  
+- A custom *Churn Status* column determines whether a tenant renewed or exited.
+
+This approach preserves the modelling quality while enabling meaningful churn and renewal analytics.
+
+---
+
+💡 **Key Insights**
+
+🚪 **Tenant Retention**
+- Churn is heavily concentrated in **condos**.  
+- Strong renewal behaviour exists but varies by property experience.
+
+😊 **Satisfaction**
+- Scores hover around **3.0**, making retention vulnerable.  
+- Satisfaction below **3.0** consistently aligns with churn increases the following months.
+
+🏢 **Property Performance**
+- Well-performing properties combine:  
+  - Higher satisfaction  
+  - Lower churn  
+  - Longer lease terms  
+- Underperforming properties show consistent retention risk.
+
+📅 **Seasonality**
+- Renewal and churn cycles align with natural lease periods, offering predictable intervention windows.
+
+---
+
+💬 **Recommendations**
+
+🟢 **1. Strengthen Satisfaction Feedback Loop**
+- Resolve negative feedback within **48 hours**.  
+- Track “reported issue vs resolved” metrics.  
+
+🟠 **2. Optimise Renewals**
+- Apply a structured **T-90 / T-60 / T-30** communication cycle.  
+- Offer flexible terms or reduced fees for early renewals.  
+
+🏚️ **3. Improve High-Risk Properties**
+- Prioritise condos and other high-churn segments for upgrades.  
+- Audit tenant complaints to guide improvements.  
+
+📊 **4. Enhance Reporting & Data**
+- Integrate maintenance request data.  
+- Introduce CSAT/NPS-style satisfaction questions.  
+- Automate Power BI refresh schedules.
+
+---
+
+🧰 **Tools Used**
+
+- **Power BI** — Dashboard visualisation  
+- **Power Query** — ETL + date extension logic  
+- **DAX** — Churn %, occupancy %, satisfaction scoring  
+- **Excel / CSV** — Dataset source  
+
+---
+
+🎯 **How This Solves HomeVibe’s Objectives**
+
+This project equips HomeVibe with a **retention intelligence layer**, revealing:
+
+- Who is churning  
+- Why are they churning  
+- Which properties need attention  
+- How satisfaction drives lease decisions  
+
+It builds the foundation for a targeted, proactive retention strategy.
+
+---
+
+🧭 **Next Steps**
+
+- Integrate **maintenance & ticketing data**  
+- Add **predictive churn modelling**  
+- Deploy automated **email snapshots** and scheduled refresh  
+- Expand survey structure for deeper sentiment analysis  
+
+---
+
+🌟 **Strategic Takeaway**
+
+Tenant retention is driven by satisfaction, communication, and property experience.  
+This dashboard helps HomeVibe move from guessing to **measuring, understanding, and acting** on the drivers of tenant loyalty.
+
+---
+
+## 📸 Dashboard Preview  
+
+<img width="1420" height="798" alt="Screenshot 2025-11-28 234709" src="https://github.com/user-attachments/assets/032f6825-705e-47cf-a4db-fd815789e568" />
+<img width="1422" height="805" alt="Screenshot 2025-11-28 234757" src="https://github.com/user-attachments/assets/39e2b792-0d6e-430f-aba1-2f0bdeb1fd5c" />
+<img width="1430" height="805" alt="Screenshot 2025-11-28 234734" src="https://github.com/user-attachments/assets/75f61417-998f-4ca9-91c5-5430c712ddf9" />
+<img width="1428" height="806" alt="Screenshot 2025-11-28 234745" src="https://github.com/user-attachments/assets/af9a5696-0c83-4a6e-b563-79ab24ed19a3" />
+
+---
+
+### 🔗 Explore the Interactive Dashboard 
+🎯 **Live Power BI Report:** [Click here to view on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiMDBhZTAwZTYtNTYxOC00ZTZhLWE4ZWYtMmQwYmQ5ZWNiNzMyIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
+
+---
+
 
 👩🏽‍💼 **Prepared by:** Chinelo  
 **Role:** Data Analyst | UrbanEats Logistics  
