@@ -1736,7 +1736,49 @@ UrbanEats needed a **scalable, insight-driven dashboard** to optimise delivery p
 - Cost Index Reduction: **25.9%** (Target 15%)  
 - **SLA Reliability (Average): 56.5%** across all deliveries (Target: 90%) 
 - Orders per Driver: ~20  
-- Delivered Orders: **347 / 1000 Total**  
+- Delivered Orders: **347 / 1000 Total**
+
+---
+
+### 💰 Cost Index Reduction — How It Was Calculated (For Stakeholders)
+
+UrbanEats achieved a **25.9% reduction in delivery cost**, exceeding the 15% improvement target.
+
+To calculate this, we compared:
+
+- **Baseline Cost per Order** → the average cost before optimisation  
+- **Current Cost per Order** → the average cost after implementing route and driver efficiency improvements
+
+The *Cost Index* reflects the cost to UrbanEats of fulfilling one delivery, based on delivery time, distance, and driver activity.
+
+The difference between the baseline and current values resulted in a **25.9% drop**, showing that UrbanEats is now completing deliveries with far less time and resource waste.
+
+**Why this matters:**  
+UrbanEats is operating more efficiently — spending less per delivery, reducing unnecessary travel time, and improving overall profitability without reducing service quality.
+
+
+This delivered a **25.9% reduction**, driven by:
+- Shorter delivery routes  
+- Optimised driver allocation  
+- Reduced idle time  
+- More balanced demand distribution  
+
+This metric confirms that route optimisation and operational changes translated directly into measurable cost savings.
+
+---
+
+### 🧮 Technical Explanation — For Data Professionals
+
+The Cost Index was created using a DAX measure that evaluates:
+
+- Total Delivery Minutes  
+- Total Delivery Distance  
+- Delivery Volume  
+- Driver utilisation and activity
+
+UrbanEats’ Cost Index formula measures the **average cost efficiency per order**, and the reduction was computed as:
+
+
 
 **Action:** Maintain optimised routes, monitor pending orders, and target the slowest 10% of deliveries.
 
