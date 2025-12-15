@@ -2297,7 +2297,7 @@ This dashboard helps HomeVibe move from guessing to **measuring, understanding, 
 *Personal Portfolio Project*  
 *Power BI Dashboard Exploring Smoking Impact Across Organs, Age Groups & Risk Profiles*
 
-[← Previous](#15--urbaneats-route-optimisation-performance-analysis) • [Back to TOC](#-main-table-of-contents)
+[← Previous](#16-%EF%B8%8F-tenant-retention-optimisation-dashboard) • [Back to TOC](#-main-table-of-contents)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 ![Power Query](https://img.shields.io/badge/ETL-Power%20Query-green?style=plastic&logo=microsoft)
