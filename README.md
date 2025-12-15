@@ -1980,7 +1980,7 @@ The next milestone lies in **boosting SLA reliability and scaling predictive rou
 *Amdari Internship Project* 
 *HomeVibe Properties — Power BI Solution for Reducing Churn, Improving Renewals & Enhancing Resident Satisfaction*  
 
-[← Previous](#15--urbaneats-route-optimisation-performance-analysis) • [Back to TOC](#-main-table-of-contents)  
+[← Previous](#15--urbaneats-route-optimisation-performance-analysis)  • [Next →](#17--smoking-health-risk-analysis-dashboard) • [Back to TOC](#-main-table-of-contents)  
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 ![Power Query](https://img.shields.io/badge/ETL-Power%20Query-green?style=plastic&logo=microsoft)
@@ -2287,6 +2287,168 @@ This dashboard helps HomeVibe move from guessing to **measuring, understanding, 
 👩🏽‍💼 **Prepared by:** Chinelo  
 **Role:** Data Analyst | UrbanEats Logistics  
 **Keywords:** #PowerBI #SQL #DAX #DataAnalytics #LogisticsOptimization #RoutePlanning #OperationsInsights
+
+
+<h2></h2>
+
+### 17 🫁 Smoking Health Risk Analysis Dashboard  
+*Personal Portfolio Project*  
+*Power BI Dashboard Exploring Smoking Impact Across Organs, Age Groups & Risk Profiles*
+
+[← Previous](#15--urbaneats-route-optimisation-performance-analysis) • [Back to TOC](#-main-table-of-contents)
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
+![Power Query](https://img.shields.io/badge/ETL-Power%20Query-green?style=plastic&logo=microsoft)
+![DAX](https://img.shields.io/badge/Language-DAX-orange?style=plastic&logo=microsoft)
+![CSV](https://img.shields.io/badge/Data-CSV-lightgrey?style=plastic&logo=microsoft)
+
+---
+
+✨ **Introduction**
+
+A Power BI health analytics project analysing how **smoking behaviour** correlates with health risk across the **human body**.
+
+This dashboard takes a **holistic approach**, allowing users to explore smoking-related risk across different **organs**, **age groups**, and **demographic segments**, with interactive slicers to compare **Healthy vs Damaged** profiles.
+
+The goal was to transform complex health data into a **single, intuitive dashboard** that supports exploration, comparison, and insight discovery.
+
+---
+
+🧩 **Project Overview**
+
+This project was designed to answer:
+
+- How does smoking status relate to health risk across the body?
+- Do current smokers consistently show higher risk signals?
+- How does age interact with smoking-related risk?
+- Do former smokers return to the same risk profile as never smokers?
+- How do BMI and gender influence observed patterns?
+
+Using **Power Query** for data preparation and **Power BI + DAX** for modelling and visual storytelling, the dashboard enables users to explore health risk from multiple perspectives within one unified view.
+
+---
+
+📊 **Dashboard Focus**
+
+🔍 **Focus Areas:** Smoking Status | Organ Health | Age Groups | Risk Indicators | BMI | Gender
+
+**What the dashboard enables:**
+- Switch between **Healthy** and **Damaged** profiles using slicers  
+- Compare smoking status (Never / Current / Former) across organs  
+- Analyse age-group distributions and risk accumulation  
+- Observe how BMI and demographic factors interact with smoking behaviour  
+- Identify consistent risk patterns across different body systems  
+
+**Insight:**  
+Smoking-related health impact appears **systemic**, not isolated to a single organ.
+
+---
+
+🎯 **Analytical Challenge**
+
+🫁 Multi-organ health impacts • ⏳ Risk accumulation over time • 📊 Multiple dimensions in one view • 🧠 Clear communication without clinical complexity  
+
+The challenge was to design a **single dashboard** that:
+- Remains intuitive despite multiple dimensions  
+- Encourages exploration without overwhelming users  
+- Highlights patterns without overstating conclusions  
+
+---
+
+🏆 **Key Achievements**
+
+- Designed a **single integrated dashboard** with dynamic slicers for organ selection and health status (Healthy vs Damaged).  
+- Implemented **smoking status segmentation** across all visuals.  
+- Created **DAX measures** supporting comparison by age, BMI, and demographic attributes.  
+- Ensured consistent patterns remain visible when switching between organs.  
+- Balanced analytical depth with clean, human-centred visual design.
+
+---
+
+💡 **Key Insights**
+
+🫁 **Systemic Impact**  
+Current smokers consistently show higher risk signals across all observed organs.
+
+⏳ **Accelerated Risk**  
+Smoking appears to accelerate risk accumulation, with younger smokers often resembling older non-smokers.
+
+🔁 **Former Smokers**  
+Former smokers show improved outcomes, but residual risk remains compared to never smokers.
+
+⚖️ **Compounding Factors**  
+Age and BMI subtly amplify smoking-related risk patterns.
+
+🚻 **Gender Patterns**  
+While smoking distribution differs by gender, overall risk trends remain consistent.
+
+---
+
+⚠️ **Disclaimer**
+
+This project is intended for **educational and portfolio purposes only**.  
+It is **not a medical or diagnostic tool** and should not be interpreted as clinical advice.
+
+---
+
+🙏 **Acknowledgements**
+
+This project was inspired and shaped by:  
+- **[Emmanuel Isaac]**
+
+Thank you for the inspiration and data that guided this analysis.
+
+---
+
+🧰 **Tools Used**
+
+- **Power BI** — Dashboard design & modelling  
+- **Power Query** — Data cleaning & transformation  
+- **DAX** — Analytical measures  
+- **CSV** — Dataset source  
+
+---
+
+🌟 **Strategic Takeaway**
+
+Smoking-related health risk is cumulative, systemic, and shaped by time and behaviour.  
+This dashboard demonstrates how analytics can turn complex health data into **clear, exploratory insight** within a single, cohesive visual experience.
+
+---
+
+## 📸 Dashboard Preview
+<img width="1423" height="799" alt="Screenshot 2025-12-14 231118" src="https://github.com/user-attachments/assets/b5e366ba-b4e0-47bb-bb1e-fe48e503000b" />
+<br><br>
+<img width="1418" height="799" alt="Screenshot 2025-12-14 231152" src="https://github.com/user-attachments/assets/674fff74-30e4-4b48-958d-5153c6b9b63a" />
+<br><br>
+<img width="1420" height="793" alt="Screenshot 2025-12-14 234013" src="https://github.com/user-attachments/assets/3b7c3661-fd3e-4807-b59f-f469a61fe41e" />
+<br><br>
+<img width="1416" height="792" alt="Screenshot 2025-12-14 234026" src="https://github.com/user-attachments/assets/e28c6382-cfd8-4178-9c27-9a4106e78679" />
+<br><br>
+<img width="1421" height="789" alt="Screenshot 2025-12-14 234043" src="https://github.com/user-attachments/assets/1950af3b-8063-4a59-a536-f22ec7dc3358" />
+<br><br>
+<img width="1418" height="793" alt="Screenshot 2025-12-14 234100" src="https://github.com/user-attachments/assets/d3a2f4c3-aaa2-48da-ad9e-1ef67c5f5998" />
+<br><br>
+<img width="1417" height="789" alt="Screenshot 2025-12-14 234116" src="https://github.com/user-attachments/assets/8a0a4aba-d524-4dce-abb7-ec86cd970a1c" />
+<br><br>
+<img width="1421" height="785" alt="Screenshot 2025-12-14 234137" src="https://github.com/user-attachments/assets/774a4db7-8409-45f1-8884-36e4824d3b4b" />
+<br><br>
+<img width="1420" height="797" alt="Screenshot 2025-12-14 234158" src="https://github.com/user-attachments/assets/9363aba3-5357-4f41-90b4-b94a37d235dc" />
+<br><br>
+<img width="1421" height="794" alt="Screenshot 2025-12-14 234225" src="https://github.com/user-attachments/assets/604fe06a-9bad-44f8-b3d9-beb697b8b8bd" />
+<br><br>
+
+---
+
+### 🔗 Explore the Interactive Dashboard
+🎯 **Live Power BI Report:** [Link to Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiNDBlMDkxNzctMGExNS00NzVlLWFhYmUtYmNkNmY2NWMzYzA0IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
+
+---
+
+👩🏽‍💼 **Prepared by:** Chinelo  
+**Role:** Data Analyst  
+**Keywords:** #PowerBI #DAX #HealthAnalytics #DataStorytelling #PortfolioProject
+
 
 ---
 
