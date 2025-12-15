@@ -123,6 +123,8 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 - [⚡ AfriTech Electronics](#14--afritech-electronics)
 - [🌆 UrbanEats Route Optimization Performance Analysis](#15--urbaneats-route-optimisation-performance-analysis)
 - [🏘️ Tenant Retention Optimisation Dashboard ](#16-%EF%B8%8F-tenant-retention-optimisation-dashboard) 
+- [17 🫁 Smoking Health Risk Analysis Dashboard](#17--smoking-health-risk-analysis-dashboard)
+
   
 <h2></h2>
 &nbsp;  
