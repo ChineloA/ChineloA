@@ -82,11 +82,11 @@ This portfolio highlights a range of analytics projects that showcase my skills 
 
 ---
 
-## 6. ## 📫 Contact Me
+## 6. 📫 Contact Me
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/chinelo-agumagu)
-- **Email:** [your.email@example.com](mailto:chinelo_agumagu@yahoo.com)
-- **Email:** [your.email@example.com](mailto:nelonkem@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinelo-agumagu)
+[![Email](https://img.shields.io/badge/EMAIL-CHINELO_AGUMAGU-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinelo_agumagu@yahoo.com)
+[![Email](https://img.shields.io/badge/EMAIL-NELONKEM-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelonkem@gmail.com)
 
 ---
 <br>
