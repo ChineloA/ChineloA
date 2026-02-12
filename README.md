@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:chinelo_agumagu@yahoo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Yahoomail-Chinelo_AGUMAGU-430297?style=for-the-badge&logo=maildotrugmail&logoColor=white" alt="Email Chinelo">
+    <img src="https://img.shields.io/badge/Yahoomail-Chinelo_AGUMAGU-430297?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email Chinelo">
   </a>
   <a href="mailto:nelonkem@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Nelonkem-34A853?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nelonkem">
