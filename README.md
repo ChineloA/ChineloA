@@ -36,6 +36,10 @@
   </a>
 </p>
 
+<a href="mailto:chinelo_agumagu@yahoo.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Yahoo!_Mail_Logo.png" alt="Yahoo Mail" width="90">
+</a>
+
 ---
 
 <br>
