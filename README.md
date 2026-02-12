@@ -36,9 +36,12 @@
   </a>
 </p>
 
+<img src="https://img.shields.io/badge/YahooMail-Chinelo_AGUMAGU-6001D2?style=for-the-badge&logoColor=white" alt="Email Chinelo">
+
 <a href="mailto:chinelo_agumagu@yahoo.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Yahoo!_Mail_Logo.png" alt="Yahoo Mail" width="90">
+  <img src="https://img.shields.io/badge/Email-Chinelo_AGUMAGU-430297?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email Chinelo">
 </a>
+
 
 ---
 
