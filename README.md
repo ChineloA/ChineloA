@@ -29,14 +29,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:chinelo_agumagu@yahoo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Yahoomail-Chinelo_AGUMAGU-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Chinelo">
+    <img src="https://img.shields.io/badge/Yahoomail-Chinelo_AGUMAGU-430297?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Chinelo">
   </a>
   <a href="mailto:nelonkem@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Nelonkem-34A853?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nelonkem">
   </a>
 </p>
 
-<img src="https://img.shields.io/badge/YahooMail-Chinelo_AGUMAGU-6001D2?style=for-the-badge&logoColor=white" alt="Email Chinelo">
 
 <a href="mailto:chinelo_agumagu@yahoo.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Chinelo_AGUMAGU-430297?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email Chinelo">
