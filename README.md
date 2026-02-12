@@ -2312,6 +2312,10 @@ This dashboard helps HomeVibe move from guessing to **measuring, understanding, 
 
 ---
 
+**Disclaimer:**
+***This project is intended for educational and portfolio purposes only. It is not a medical, diagnostic, or clinical decision support tool.***
+
+
 ✨ **Introduction**
 
 A Power BI health analytics project analysing how **smoking behaviour** correlates with health risk across the **human body**.
