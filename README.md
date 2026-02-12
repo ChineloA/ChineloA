@@ -8,9 +8,6 @@
 
 <p align="center">💫 <b><i>I help organisations make smarter decisions by analysing data, building dashboards, and telling stories with numbers. Explore my projects to see how I leverage data, visualisation, and AI tools to solve real-world problems.</i></b></p>
 
-<p align="center" style="font-family: 'Fira Code', monospace; font-size: 24px; color: #F75C7E; line-height: 1.5;">
-I help organisations make smarter decisions by analysing data, building dashboards, and telling stories with numbers. Explore my projects to see how I leverage data, visualisation, and AI tools to solve real-world problems.
-</p>
 ---
 
 <br>
