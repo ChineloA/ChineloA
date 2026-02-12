@@ -2312,9 +2312,11 @@ This dashboard helps HomeVibe move from guessing to **measuring, understanding, 
 
 ---
 
-**Disclaimer:**
+🌟**Disclaimer:**
+
 ***This project is intended for educational and portfolio purposes only. It is not a medical, diagnostic, or clinical decision support tool.***
 
+---
 
 ✨ **Introduction**
 
