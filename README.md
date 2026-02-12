@@ -96,13 +96,6 @@ This portfolio highlights a range of analytics projects that showcase my skills 
 
 ---
 
-## 6. 📫 Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinelo-agumagu)
-[![Email](https://img.shields.io/badge/EMAIL-CHINELO_AGUMAGU-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinelo_agumagu@yahoo.com)
-[![Email](https://img.shields.io/badge/EMAIL-NELONKEM-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelonkem@gmail.com)
-
----
 <br>
 
 # 📊 Data Analytics Portfolio — Navigation  
