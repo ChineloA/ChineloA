@@ -1,7 +1,7 @@
 # 📊 Data Analytics Portfolio – Chinelo Agumagu
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Chinelo;Data+Analyst;Excel+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau;I+Love+Solving+Problems+with+Data;Transforming+Data+into+Stories+That+Inspire+Smarter+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=F75C7E&center=true&vCenter=true&width=100%&lines=Hi+there%2C+I'm+Chinelo;Data+Analyst;Excel+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau;I+Love+Solving+Problems+with+Data;Transforming+Data+into+Stories+That+Inspire+Smarter+Decisions" alt="Typing SVG" />
 </p>
 
 ---
