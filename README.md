@@ -10,18 +10,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chinelo-agumagu">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:chinelo_agumagu@yahoo.com">
-    <img src="https://img.shields.io/badge/YAHOOMAIL-CHINELO_AGUMAGU-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Chinelo">
-  </a>
-  <a href="mailto:nelonkem@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-NELONKEM-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nelonkem">
-  </a>
-</p>
-
 ## 📫 Connect with Me
 
 <p align="center">
