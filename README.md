@@ -81,6 +81,14 @@ This portfolio highlights a range of analytics projects that showcase my skills 
 
 
 ---
+
+## 6. ## 📫 Contact Me
+
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/chinelo-agumagu)
+- **Email:** [your.email@example.com](mailto:chinelo_agumagu@yahoo.com)
+- **Email:** [your.email@example.com](mailto:nelonkem@gmail.com)
+
+---
 <br>
 
 # 📊 Data Analytics Portfolio — Navigation  
