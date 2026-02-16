@@ -55,8 +55,6 @@ Here are the tools I use to explore, model, and visualise data effectively:
   <img src="https://img.shields.io/badge/Generative_AI_Projects-7B61FF?style=for-the-badge&logo=sparkles&logoColor=ffffff" />
 </p>  
 
-
-
 ---
 <br>
 
@@ -78,6 +76,7 @@ I enjoy designing dashboards that simplify complex data, automate recurring repo
 Collaboration is key — I work across platforms such as **Microsoft Fabric, Google Workspace, and Slack** to ensure projects are organised, transparent, and impact-driven.
 
 ---
+<br>
 
 ## 📂 About This Portfolio  
 
@@ -93,7 +92,6 @@ You'll find work across:
 👉 Scroll down to explore the full **Table of Contents of projects**, each reflecting a key stage of my analytics journey.
 
 ---
-
 <br>
 
 # 📊 Data Analytics Portfolio — Navigation  
