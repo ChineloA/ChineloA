@@ -2329,9 +2329,10 @@ This dashboard helps HomeVibe move from guessing to **measuring, understanding, 
 
 ---
 
-🌟**Disclaimer:**
+⚠️ **Disclaimer**
 
-***This project is intended for educational and portfolio purposes only. It is not a medical, diagnostic, or clinical decision support tool.***
+*This project is intended for **educational and portfolio purposes only**.  
+It is **not a medical or diagnostic tool** and should not be interpreted as clinical advice.*
 
 ---
 
@@ -2415,10 +2416,23 @@ While smoking distribution differs by gender, overall risk trends remain consist
 
 ---
 
-⚠️ **Disclaimer**
+⚠️ **Limitations**
 
-This project is intended for **educational and portfolio purposes only**.  
-It is **not a medical or diagnostic tool** and should not be interpreted as clinical advice.
+- The dataset represents a simplified health-risk model and does not capture full clinical complexity.  
+- Observed relationships indicate **association, not causation**, and should not be interpreted as direct medical conclusions.  
+- Some demographic and behavioural factors (e.g., lifestyle, environment, genetics) are not included and may influence outcomes.  
+- Risk indicators are based on reported or simulated measures rather than verified medical diagnoses.  
+- The dashboard is designed for **exploratory analysis and pattern discovery**, not for predictive or clinical use.
+
+---
+
+🚀 **Future Improvements**
+
+- Incorporate longitudinal (time-series) data to analyse how smoking-related risk evolves.  
+- Extend the model to include additional lifestyle factors such as physical activity, diet, and environmental exposure.  
+- Introduce predictive analytics to estimate risk trajectories for different smoking profiles.  
+- Add geographic or socioeconomic segmentation to explore population-level differences.  
+- Enhance interactivity with scenario-based views (e.g., “What if smoking status changes?”).  
 
 ---
 
