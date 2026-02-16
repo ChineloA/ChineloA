@@ -31,12 +31,11 @@
 
 ## 1. 🙋‍♀️ About Me | Data Analyst & Insight Catalyst  
 
-👋 Hi, I'm **Nelo** — a data analyst passionate about transforming raw information into clear, actionable insights.  
+👋 Hi, I'm **Nelo** — a data analyst passionate about turning raw information into actionable insights.  
 
-Welcome to my **Data Analytics Portfolio**, where I showcase projects built with **Power BI, Tableau, Microsoft Fabric, Excel, SQL, and Data Modelling**. Each project reflects a key stage in my analytics journey — from **data cleaning and modelling** to **interactive dashboards, storytelling, and strategic insight generation**.  
+This portfolio showcases my **data analytics journey**: from **data cleaning and modeling** to **interactive dashboards, storytelling, and strategic insight generation**. Each project demonstrates how I translate numbers into insights that inform decisions and drive impact.  
 
-Beyond technical analysis, I see myself as an **insight catalyst** — someone who bridges analytical precision with strategic storytelling to help organisations uncover what truly matters, to spark informed decisions and meaningful change.  
-
+Beyond the technical side, I see myself as an **insight catalyst** — bridging analytical precision with strategic storytelling to help organisations uncover what truly matters and spark meaningful change.
 
 ---
 <br>
