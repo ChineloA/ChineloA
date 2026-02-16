@@ -1,6 +1,4 @@
 # 📊 Data Analytics Portfolio – Chinelo Agumagu
-
-# 📊 Data Analytics Portfolio – Chinelo Agumagu
 <sub align="center">Transforming data into actionable insights & impactful stories</sub>
 
 <p align="center">
