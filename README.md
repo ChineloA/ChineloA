@@ -42,7 +42,7 @@ Beyond the technical side, I see myself as an **insight catalyst** — bridging 
 
 ## 2. 🛠 Tools & Technologies  
 
-Here are the tools and technologies I use to explore, model, and visualise data effectively:
+Here are the tools I use to explore, model, and visualise data effectively:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
@@ -62,39 +62,35 @@ Here are the tools and technologies I use to explore, model, and visualise data 
 
 ## 3. 🧠 Skills Summary  
 
-- **Data Exploration & Visualisation:** Skilled at turning datasets into clear, interactive visuals using **Power BI, Tableau, Excel, and SQL** to uncover insights and support storytelling.  
-- **Business Intelligence & Reporting:** Experienced in developing automated dashboards and performance reports that monitor key business metrics and guide decision-making.  
-- **Data Preparation & Modelling:** Proficient in cleaning, transforming, and structuring data for analysis using tools like **Power Query** and **DAX**.  
-- **Collaboration & Workflow:** Comfortable working across platforms such as **Microsoft Fabric**, **Google Workspace**, **Slack**, and **Zoom** to coordinate tasks and share insights effectively.  
-- **Professional Strengths:** Reliable, detail-oriented, and proactive — with strong problem-solving, communication, and teamwork abilities.  
+- **Data Exploration & Visualisation:** Turning datasets into clear, interactive visuals using **Power BI, Tableau, Excel, and SQL**.  
+- **Business Intelligence & Reporting:** Developing automated dashboards and performance reports to monitor key business metrics.  
+- **Data Preparation & Modelling:** Cleaning, transforming, and structuring data with **Power Query** and **DAX**.  
+- **Collaboration & Workflow:** Coordinating across platforms like **Microsoft Fabric, Google Workspace, Slack, and Zoom**. 
+- **Professional Strengths:** Reliable, detail-oriented, proactive — strong problem-solving, communication, and teamwork skills.
 
 ---
 <br>
 
-## 4. ✨ Personal Summary  
+## ✨ My Approach to Data  
 
-I approach every dataset with curiosity and purpose — aiming to uncover the story behind the numbers and present it in a way that makes sense to others.  
-I enjoy designing dashboards that simplify complex data, automate recurring reports, and help teams make confident, data-informed decisions.  
-Collaboration is a big part of how I work — using tools like **Microsoft Fabric**, **Google Workspace**, and **Slack** to keep projects organised, transparent, and insight-driven.  
-
+I approach every dataset with curiosity and purpose, aiming to uncover the story behind the numbers and present it in a way that drives confident, data-informed decisions.  
+I enjoy designing dashboards that simplify complex data, automate recurring reports, and help teams focus on what truly matters.  
+Collaboration is key — I work across platforms such as **Microsoft Fabric, Google Workspace, and Slack** to ensure projects are organised, transparent, and impact-driven.
 
 ---
-<br>
 
-## 5. 📂 About this Portfolio
+## 📂 About This Portfolio  
 
-This portfolio highlights a range of analytics projects that showcase my skills across data visualisation, modelling, and business intelligence.
+This portfolio highlights a selection of analytics projects that demonstrate my ability to turn data into actionable insights.  
 
--📊 Business Intelligence Dashboards — Power BI & Tableau projects showcasing interactive analytics and storytelling.
+You'll find work across:  
+- 📊 **Business Intelligence Dashboards:** Interactive Power BI & Tableau projects showcasing analytics and storytelling.  
+- 🧱 **Modern Data Engineering:** Microsoft Fabric case studies with medallion architecture and SQL analytics.  
+- 📑 **Excel Reporting:** Classic analysis & visualisation for sales, profitability, and customer insights.  
+- 🗄 **SQL / Databases:** PostgreSQL projects + ERD modeling for database design and insights.  
+- 🤖 **AI & Generative Analytics:** Projects leveraging ChatGPT, Kimi AI, and other generative tools to enhance analysis, automate insights, and support smarter decision-making.  
 
--🧱 Modern Data Engineering — Microsoft Fabric case studies with medallion architecture and SQL analytics.
-
--📑 Excel Reporting — Classic analysis & visualisation for sales, profitability, and customer insights.
-
--🗄 SQL / Databases — PostgreSQL projects + ERD modeling for database design and insights.
-
-👉 Scroll down to explore the full Table of Contents of projects!
-
+👉 Scroll down to explore the full **Table of Contents of projects**, each reflecting a key stage of my analytics journey.
 
 ---
 
