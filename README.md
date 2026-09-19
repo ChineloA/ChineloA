@@ -78,18 +78,21 @@ Collaboration is key — I work across platforms such as **Microsoft Fabric, Goo
 ---
 <br>
 
-## 📂 About This Portfolio  
+## 📂 About This Portfolio
 
-This portfolio highlights a selection of analytics projects that demonstrate my ability to turn data into actionable insights.  
+This portfolio reflects my progression as a Data Analyst, from my earlier projects through to more recent work involving business intelligence, SQL, data engineering, and AI-assisted analytics.
 
-You'll find work across:  
-- 📊 **Business Intelligence Dashboards:** Interactive Power BI & Tableau projects showcasing analytics and storytelling.  
-- 🧱 **Modern Data Engineering:** Microsoft Fabric case studies with medallion architecture and SQL analytics.  
-- 📑 **Excel Reporting:** Classic analysis & visualisation for sales, profitability, and customer insights.  
-- 🗄 **SQL / Databases:** PostgreSQL projects + ERD modeling for database design and insights.  
-- 🤖 **AI & Generative Analytics:** Projects leveraging ChatGPT, Kimi AI, and other generative tools to enhance analysis, automate insights, and support smarter decision-making.  
+I’ve intentionally kept some of my earlier projects here alongside my newer work to show how my technical skills, analytical thinking, and approach to data storytelling have developed over time. I continue to build on these skills through hands-on projects and practical problem-solving.
 
-👉 Scroll down to explore the full **Table of Contents of projects**, each reflecting a key stage of my analytics journey.
+You'll find work across:
+
+- 📊 **Business Intelligence Dashboards:** Interactive Power BI & Tableau projects focused on analysis, KPI reporting, and data storytelling.
+- 🧱 **Modern Data Engineering:** Microsoft Fabric projects exploring medallion architecture, data transformation, and SQL analytics.
+- 📑 **Excel Reporting:** Analysis and visualisation covering sales, profitability, customer behaviour, and business performance.
+- 🗄 **SQL / Databases:** PostgreSQL projects, SQL analysis, and ERD modelling for database design and insight generation.
+- 🤖 **AI & Generative Analytics:** Projects exploring the use of ChatGPT, Kimi AI, and other generative AI tools for data analysis, insight generation, automation, and decision support.
+  
+👉 Scroll down to explore the full **Table of Contents**, including both earlier and more recent projects that reflect different stages of my analytics journey.
 
 ---
 <br>
