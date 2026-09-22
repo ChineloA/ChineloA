@@ -98,6 +98,7 @@ You'll find work across:
 ---
 <br>
 
+<a id="featured-projects"></a>
 ## ⭐ Featured Projects
 
 Short on time? These projects highlight some of my more recent and
@@ -773,7 +774,7 @@ Fixing dispatch, routing, driver allocation, and monitoring can significantly:
 ### 1.  🚗Fleet Operations  
 *Fleet Operations Dashboard — Optimising performance and delivery tracking with Power BI*
 
-[Back to TOC](#-main-table-of-contents) • [Next →](#2---tri-fleet-industries)
+[⭐ Back to Featured Projects](#featured-projects) • [Back to TOC](#-main-table-of-contents) • [Next →](#2---tri-fleet-industries)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 
@@ -1710,7 +1711,7 @@ Leadership can now proactively detect negative trends, improve service response,
 *Amdari Internship Project*  
 *UrbanEats Route Optimisation — SQL & Power BI Integration for Operational Efficiency and Customer Experience*  
 
-[← Previous](#14--afritech-electronics) • [Next →](#16-%EF%B8%8F-tenant-retention-optimisation-dashboard) • [Back to TOC](#-main-table-of-contents)  
+[← Previous](#14--afritech-electronics) • [Next →](#16-%EF%B8%8F-tenant-retention-optimisation-dashboard) • [⭐ Back to Featured Projects](#featured-projects) • [Back to TOC](#-main-table-of-contents)  
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 ![SQL](https://img.shields.io/badge/Tool-SQL-blue?style=plastic&logo=postgresql)
@@ -2030,7 +2031,7 @@ The next milestone lies in **boosting SLA reliability and scaling predictive rou
 *Amdari Internship Project* 
 *HomeVibe Properties — Power BI Solution for Reducing Churn, Improving Renewals & Enhancing Resident Satisfaction*  
 
-[← Previous](#15--urbaneats-route-optimisation-performance-analysis)  • [Next →](#17--smoking-health-risk-analysis-dashboard) • [Back to TOC](#-main-table-of-contents)  
+[← Previous](#15--urbaneats-route-optimisation-performance-analysis)  • [Next →](#17--smoking-health-risk-analysis-dashboard) • [⭐ Back to Featured Projects](#featured-projects) • [Back to TOC](#-main-table-of-contents)  
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 ![Power Query](https://img.shields.io/badge/ETL-Power%20Query-green?style=plastic&logo=microsoft)
@@ -3990,7 +3991,7 @@ ORDER BY
 ### 2. 🚕 NYC Yellow Taxi  
 *Optimising Urban Mobility — NYC Yellow Taxi Analytics Dashboard using Fabric*
 
-[← Previous](#1--primemart) • [Back to TOC](#-main-table-of-contents)
+[← Previous](#1--primemart) • [⭐ Back to Featured Projects](#featured-projects) • [Back to TOC](#-main-table-of-contents)
 
 ![Microsoft Fabric](https://img.shields.io/badge/Tool-Microsoft%20Fabric-blue?style=plastic&logo=microsoft-fabric)(OneLake, Lakehouse, SQL Endpoint, Power BI) 
 
@@ -4228,7 +4229,7 @@ This project integrates **ChatGPT with Tableau** to enable natural-language quer
 ### 💼 Sales Analysis with Kimi AI & ChatGPT  
 *Project Type: AI-Assisted Data Cleaning, Analysis & Presentation Generation* 
 
-[← Previous](#1--fusionpoint-chatgpt) • [Back to TOC](#-main-table-of-contents)  
+[← Previous](#1--fusionpoint-chatgpt) • [⭐ Back to Featured Projects](#featured-projects) • [Back to TOC](#-main-table-of-contents)  
 
 ![ChatGPT & AI Tools](https://img.shields.io/badge/ChatGPT%20%26%20AI%20Tools-Powered-00A67E?style=plastic&logo=openai&logoColor=ffffff) ![Generative AI](https://img.shields.io/badge/Generative%20AI-Analytics-7B61FF?style=plastic&logo=openai&logoColor=ffffff)
 
