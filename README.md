@@ -92,9 +92,8 @@ You'll find work across:
 - 🗄 **SQL / Databases:** PostgreSQL projects, SQL analysis, and ERD modelling for database design and insight generation.
 - 🤖 **AI & Generative Analytics:** Projects exploring the use of ChatGPT, Kimi AI, and other generative AI tools for data analysis, insight generation, automation, and decision support.
   
-👉 Scroll down to explore the full **Table of Contents**, including both earlier and more recent projects that reflect different stages of my analytics journey.
+👉 **[Explore the full Table of Contents](#toc)** to view both earlier and more recent projects that reflect different stages of my analytics journey.
 
-👉 **[Explore the full Table of Contents](# 📑 Main Table of Contents)** to view my earlier and more recent projects and see the progression of my analytics journey.
 
 ---
 <br>
