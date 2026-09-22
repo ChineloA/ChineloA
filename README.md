@@ -115,7 +115,7 @@ Short on time? These projects highlight some of my more recent and job-relevant 
 - [📦 Streamline Logistics – Order Fulfillment Performance & Forecast Analysis](#5--streamline-logistics--order-fulfillment-performance--forecast-analysis) **— Excel**  
   Order fulfilment analysis, operational KPIs, driver performance, and demand forecasting.
 
-- [🍫 Choco De Luxe](#YOUR-EXISTING-CHOCO-DE-LUXE-ANCHOR) **— Tableau**  
+- [🍫 Choco De Luxe](#1--choco-de-luxe) **— Tableau**  
   Profitability, delivery efficiency, sales performance, and geographic analysis.
 
 - [🚕 NYC Yellow Taxi](#2--nyc-yellow-taxi) **— Microsoft Fabric & Power BI**  
