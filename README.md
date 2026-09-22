@@ -98,7 +98,34 @@ You'll find work across:
 ---
 <br>
 
-# 📊 Data Analytics Portfolio — Navigation  
+## ⭐ Featured Projects
+
+Short on time? These projects highlight some of my more recent and
+job-relevant work across business intelligence, operational analytics,
+data engineering, and AI-assisted analysis.
+
+- [🚗 Fleet Operations](#1--fleet-operations) **— Power BI**  
+  Operational performance, utilisation, costs, maintenance and KPI analysis.
+
+- [🌆 UrbanEats Route Optimization Performance Analysis](#15--urbaneats-route-optimisation-performance-analysis) **— Power BI & PostgreSQL**  
+  Delivery performance, SLA monitoring, route optimisation and operational analytics.
+
+- [🏘️ Tenant Retention Optimisation Dashboard ](#16-%EF%B8%8F-tenant-retention-optimisation-dashboard) **— Power BI**  
+  Churn, renewals, occupancy and customer satisfaction analysis.
+
+- [🚕 NYC Yellow Taxi](#2--nyc-yellow-taxi) **— Microsoft Fabric & Power BI**  
+  End-to-end data engineering and analytics using a medallion architecture.
+
+- [🧾 Sales Analysis (Kimi AI + ChatGPT)](#-sales-analysis-with-kimi-ai--chatgpt) **— ChatGPT & Kimi AI**  
+  AI-assisted data analysis, insight generation and executive reporting.
+
+👉 **[Explore the full portfolio](#toc)**
+
+
+---
+<br>
+
+## 📊 Data Analytics Portfolio — Navigation  
 
 This file contains the **navigation structure** for my portfolio projects.  
 Use the **Table of Contents** below to jump directly to projects, or use the **Prev / TOC / Next** links inside each project to browse smoothly.  
@@ -206,7 +233,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 
 
 <a id="ai-projects"></a>
-### 🤖 ChatGPT & AI-Powered Analytics Projects  
+### 🤖 AI-Assisted Analytics Projects  
 - [🔌 FusionPoint (ChatGPT)](#1--fusionpoint-chatgpt)
 - [🧾 Sales Analysis (Kimi AI + ChatGPT)](#-sales-analysis-with-kimi-ai--chatgpt)
 
@@ -4172,7 +4199,7 @@ where fare_amount < 0 or total_amount < 0;
 
 <br><br>
 
-## 🤖 ChatGPT & AI-Powered Analytics Projects ![ChatGPT & AI Tools](https://img.shields.io/badge/ChatGPT%20%26%20AI%20Tools-Powered-00A67E?style=plastic&logo=openai&logoColor=ffffff) ![Generative AI](https://img.shields.io/badge/Generative%20AI-Analytics-7B61FF?style=plastic&logo=openai&logoColor=ffffff)
+## 🤖 AI-Assisted Analytics Projects ![ChatGPT & AI Tools](https://img.shields.io/badge/ChatGPT%20%26%20AI%20Tools-Powered-00A67E?style=plastic&logo=openai&logoColor=ffffff) ![Generative AI](https://img.shields.io/badge/Generative%20AI-Analytics-7B61FF?style=plastic&logo=openai&logoColor=ffffff)
 
 *These projects showcase how I combine ChatGPT and other AI tools to automate analysis, enhance insight generation, and streamline data storytelling workflows.*
 
