@@ -230,7 +230,7 @@ Use the **Table of Contents** below to jump directly to projects, or use the **P
 *Employee & Sales Performance Dashboard*
 
 [Back to TOC](#-main-table-of-contents) • [Next →](#2--10alytics-sales)
-
+[⬆️ Back to Table of Contents](#toc) [TOC](#toc)
 ![Excel](https://img.shields.io/badge/Tool-Excel-brightgreen?style=plastic&logo=microsoft-excel)
 
 
