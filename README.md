@@ -94,6 +94,8 @@ You'll find work across:
   
 👉 Scroll down to explore the full **Table of Contents**, including both earlier and more recent projects that reflect different stages of my analytics journey.
 
+👉 **[Explore the full Table of Contents](#-table-of-contents)** to view my earlier and more recent projects and see the progression of my analytics journey.
+
 ---
 <br>
 
