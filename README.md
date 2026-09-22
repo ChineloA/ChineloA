@@ -101,24 +101,28 @@ You'll find work across:
 <a id="featured-projects"></a>
 ## ⭐ Featured Projects
 
-Short on time? These projects highlight some of my more recent and
-job-relevant work across business intelligence, operational analytics,
-data engineering, and AI-assisted analysis.
+Short on time? These projects highlight some of my more recent and job-relevant work across business intelligence, operational analytics, healthcare analytics, data engineering, forecasting, and AI-assisted analysis.
 
 - [🚗 Fleet Operations](#1--fleet-operations) **— Power BI**  
-  Operational performance, utilisation, costs, maintenance and KPI analysis.
+  Operational performance, vehicle utilisation, costs, maintenance, and KPI analysis.
 
-- [🌆 UrbanEats Route Optimization Performance Analysis](#15--urbaneats-route-optimisation-performance-analysis) **— Power BI & PostgreSQL**  
-  Delivery performance, SLA monitoring, route optimisation and operational analytics.
+- [🌆 UrbanEats Route Optimisation Performance Analysis](#15--urbaneats-route-optimisation-performance-analysis) **— Power BI & PostgreSQL**  
+  Delivery performance, SLA monitoring, route optimisation, and operational analytics.
 
-- [🏘️ Tenant Retention Optimisation Dashboard ](#16-%EF%B8%8F-tenant-retention-optimisation-dashboard) **— Power BI**  
-  Churn, renewals, occupancy and customer satisfaction analysis.
+- [🫁 Smoking Health Risk Analysis Dashboard](#17--smoking-health-risk-analysis-dashboard) **— Power BI**  
+  Health-risk analysis exploring smoking patterns, demographic factors, and health outcomes.
+
+- [📦 Streamline Logistics – Order Fulfillment Performance & Forecast Analysis](#5--streamline-logistics--order-fulfillment-performance--forecast-analysis) **— Excel**  
+  Order fulfilment analysis, operational KPIs, driver performance, and demand forecasting.
+
+- [🍫 Choco De Luxe](#YOUR-EXISTING-CHOCO-DE-LUXE-ANCHOR) **— Tableau**  
+  Profitability, delivery efficiency, sales performance, and geographic analysis.
 
 - [🚕 NYC Yellow Taxi](#2--nyc-yellow-taxi) **— Microsoft Fabric & Power BI**  
-  End-to-end data engineering and analytics using a medallion architecture.
+  End-to-end data engineering and analytics using medallion architecture, SQL, and Power BI.
 
-- [🧾 Sales Analysis (Kimi AI + ChatGPT)](#-sales-analysis-with-kimi-ai--chatgpt) **— ChatGPT & Kimi AI**  
-  AI-assisted data analysis, insight generation and executive reporting.
+- [🧾 Sales Analysis (Kimi AI + ChatGPT)](#-sales-analysis-with-kimi-ai--chatgpt) **— AI-Assisted Analytics**  
+  AI-assisted data analysis, insight generation, and executive reporting.
 
 👉 **[Explore the full portfolio](#toc)**
 
@@ -486,7 +490,7 @@ Enhanced visibility into customer behaviour, improved monitoring of betting acti
 ### 5. 📦 Streamline Logistics – Order Fulfillment Performance & Forecast Analysis  
 *Interactive Excel Dashboards • Forecast.ETS • Operational Analytics*
 
-[← Previous](#4--betting-insights) • [Back to TOC](#-main-table-of-contents) 
+[← Previous](#4--betting-insights) • [⭐ Back to Featured Projects](#featured-projects) • [Back to TOC](#-main-table-of-contents) 
 
 ![Excel](https://img.shields.io/badge/Excel-Dashboard-217346?logo=microsoft-excel&logoColor=white)
 ![Analytics](https://img.shields.io/badge/Data%20Analysis-Operations-blue)
@@ -2031,7 +2035,7 @@ The next milestone lies in **boosting SLA reliability and scaling predictive rou
 *Amdari Internship Project* 
 *HomeVibe Properties — Power BI Solution for Reducing Churn, Improving Renewals & Enhancing Resident Satisfaction*  
 
-[← Previous](#15--urbaneats-route-optimisation-performance-analysis)  • [Next →](#17--smoking-health-risk-analysis-dashboard) • [⭐ Back to Featured Projects](#featured-projects) • [Back to TOC](#-main-table-of-contents)  
+[← Previous](#15--urbaneats-route-optimisation-performance-analysis)  • [Next →](#17--smoking-health-risk-analysis-dashboard) • [Back to TOC](#-main-table-of-contents)  
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 ![Power Query](https://img.shields.io/badge/ETL-Power%20Query-green?style=plastic&logo=microsoft)
@@ -2346,7 +2350,7 @@ This dashboard helps HomeVibe move from guessing to **measuring, understanding, 
 *Personal Portfolio Project*  
 *Power BI Dashboard Exploring Smoking Impact Across Organs, Age Groups & Risk Profiles*
 
-[← Previous](#16-%EF%B8%8F-tenant-retention-optimisation-dashboard) • [Back to TOC](#-main-table-of-contents)
+[← Previous](#16-%EF%B8%8F-tenant-retention-optimisation-dashboard) • [⭐ Back to Featured Projects](#featured-projects) • [Back to TOC](#-main-table-of-contents)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=plastic&logo=powerbi)
 ![Power Query](https://img.shields.io/badge/ETL-Power%20Query-green?style=plastic&logo=microsoft)
@@ -2650,7 +2654,7 @@ Enabled the hospital to **build a robust analytics layer** for Power BI and Tabl
 ### 1. 🍫 Choco De Luxe  
 *Unlocking Sales Insights Through Data Visualisation for a European Artisanal Chocolate Brand*
 
-[Back to TOC](#-main-table-of-contents) • [Next →](#2-fusionpoint)
+[⭐ Back to Featured Projects](#featured-projects) • [Back to TOC](#-main-table-of-contents) • [Next →](#2-fusionpoint)
 
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=plastic&logo=tableau)
 
